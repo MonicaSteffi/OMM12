@@ -1,2 +1,0 @@
-# Assembly accession	Descriptors hash	Descriptors last changed	Features hash	Features last changed	Locations hash	Locations last change	Protein names hash	Protein names last changed
-GCA_016697365.1	BDC4A18668C9A1B07D46270219710D8B	2021/01/19 14:13:00	A4329530A6C301E8B8CF05B9E80C6B8F	2021/01/19 14:13:00	E74CEA2F37D26FD5F02A47927DA9568D	2021/01/19 14:13:00	4401F120E729253E176A689A553B6AE3	2021/01/19 14:13:00
