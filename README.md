@@ -4,15 +4,13 @@ The Oligo-Mouse-Microbiota (OMM12) synthetic bacterial community is a laboratory
 
 Accurate annotation for the OMM12 is important as it provides a framework for understanding the genetic information encoded in a genome. This information can be used to identify genes and their associated functions, as well as to predict the effect of genetic mutations on gene expression and protein function. 
 
-We created this reposiroty to provide proper annotations in order to main uniformity among OMM12 researchers. Genomic and protein sequences are provided for all single organism genome assemblies that are included in NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). This includes submissions to databases of the International Nucleotide Sequence Database Collaboration, which are available in NCBI's GenBank database, as well 
-as the subset of those submissions that are included in NCBI's RefSeq Genomes project. 
+We created this reposiroty to provide proper annotations in order to main uniformity among OMM12 researchers. We tried different annotation tools like dbCan2, kofam_scan and eggNOG tools. Genomic and protein sequences are provided for all single organism genome assemblies that are included in NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). This includes submissions to databases of the International Nucleotide Sequence Database Collaboration, which are available in NCBI's GenBank database, as well as the subset of those submissions that are included in NCBI's RefSeq Genomes project. 
 
 # Data Folder
 
-It contains the genome and protein sequences for OligoMM bacterial community. All the sequences were downloaded from the respective databases using inhouse scripts which are availbale in the script folder.
+It contains the genome, protein sequences for OligoMM bacterial community as well as the annotations derived from each tools. All the sequences were downloaded from the respective databases using inhouse scripts which are availbale in the script folder.
 
-
-Sub Folders:
+## Sub Folders:
 1. Downloaded_from_genbank_and_refseq: Genome sequences of OligoMM microbes were downloaded from GenBank and RefSeq databases using inhouser scripts. 
 2. Marbouty_genbank_and_refseq_proteins: Contains the protein sequences for each genome, taken from genbank and refseq.
 3. Marbouty_genbank_and_refseq_proteins_integrated: Contains the integrated protein sequences for each genome, taken from genbank and refseq.
