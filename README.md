@@ -16,8 +16,8 @@ Collection of genomic and proteomic data from Genbank and Refseq database for OM
 
 ## Step-1:
 ## Download the assembly summary genbank file from ncbi
-<wget https://ftp.ncbi.nlm.nih.gov/genomes/genbank/assembly_summary_genbank.txt
-wget https://ftp.ncbi.nlm.nih.gov/genomes/genbank/assembly_summary_genbank.txt>
+``wget https://ftp.ncbi.nlm.nih.gov/genomes/genbank/assembly_summary_genbank.txt
+wget https://ftp.ncbi.nlm.nih.gov/genomes/genbank/assembly_summary_genbank.txt>``
 
 ## Step-2:
 ## Download the genbank NCBI file
