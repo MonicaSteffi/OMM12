@@ -1,2 +1,0 @@
-# accession.version	start	stop	gap_length	gap_type	linkage_evidence
-CP065317.1	2695006	2695105	100	within_scaffold	paired-ends
