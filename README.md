@@ -38,25 +38,28 @@ We used different softwares such as OperonMapper, KOFAMSCAN, dbCAN2, PULs, RGI a
 
 ## Sub Folders:
 
-1. dbCAN2
+**1. dbCAN2**
 
 dbCAN2 is a database of Carbohydrate-Active Enzymes (CAZymes) that provides a comprehensive set of tools for automated CAZyme annotation in genomic and metagenomic datasets. 
 
 Uploaded the genomes to the dbCAN2 web page (https://bcb.unl.edu/dbCAN2/blast.php). Chose the options ‘Nucleotide sequence’ for ‘Choose sequence type’ and selected all tools to run (dbCAN (E-Value < 1e-15, coverage > 0.35)  DIAMOND: CAZy (E-Value < 1e-102)  HMMER: dbCAN-sub (E-Value < 1e-15, coverage > 0.35)  CGCFinder (Distance <= 2, signature genes = CAZyme+TC))
 
-## Output files:
-signalp.out: output of the signalp tool
-uniInput:     prodigal predictions
-overview.txt: contains overview of the results
-hmmer.out: output from hmmer tool (with evalue <1e-15 and coverage > 0.35)
-h.out: raw output from hmmer tool
-diamond.out: output from diamond tool (with evalue <1e-102)
-dbsub.out: output from dbCAN_sub database
 CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combination of CAZyme + Transcription Factors (type-i), CAZyme + Transporter Classification (type-II), CAZyme + Transporter Classification + Transcription Factors (type-iii).
-cgc_tc_tf: this folder contains outputs from CGC finder tool of type-iii
-cgc_tc: this folder contains outputs from CGC finder tool of type-ii
-cgc_tf: this folder contains outputs from CGC finder tool of type-i
 
+## Output files:
+
+``
+**signalp.out**: output of the signalp tool
+**uniInput**:   prodigal predictions
+**overview.txt**: contains overview of the results
+**hmmer.out**: output from hmmer tool (with evalue <1e-15 and coverage > 0.35)
+**h.out**: raw output from hmmer tool
+**diamond.out**: output from diamond tool (with evalue <1e-102)
+**dbsub.out**: output from dbCAN_sub database
+**cgc_tc_tf**: this folder contains outputs from CGC finder tool of type-iii
+**cgc_tc**: this folder contains outputs from CGC finder tool of type-ii
+**cgc_tf**: this folder contains outputs from CGC finder tool of type-i
+``
 
 
 
