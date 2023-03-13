@@ -48,19 +48,19 @@ CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combinat
 
 ## Output files:
 
-``
-**signalp.out**: output of the signalp tool
-**uniInput**:   prodigal predictions
-**overview.txt**: contains overview of the results
-**hmmer.out**: output from hmmer tool (with evalue <1e-15 and coverage > 0.35)
-**h.out**: raw output from hmmer tool
-**diamond.out**: output from diamond tool (with evalue <1e-102)
-**dbsub.out**: output from dbCAN_sub database
-**cgc_tc_tf**: this folder contains outputs from CGC finder tool of type-iii
-**cgc_tc**: this folder contains outputs from CGC finder tool of type-ii
-**cgc_tf**: this folder contains outputs from CGC finder tool of type-i
-``
+* signalp.out: Output of the signalp tool
+* uniInput: Prodigal predictions
+* overview.txt: Contains overview of the results
+* hmmer.out: Output from hmmer tool (with evalue <1e-15 and coverage > 0.35)
+* h.out: Raw output from hmmer tool
+* diamond.out: Output from diamond tool (with evalue <1e-102)
+* dbsub.out: Output from dbCAN_sub database
+* cgc_tc_tf: This folder contains outputs from CGC finder tool of type-iii
+* cgc_tc: This folder contains outputs from CGC finder tool of type-ii
+* cgc_tf: This folder contains outputs from CGC finder tool of type-i
 
+The output prediction for each OMM12 communities stored under separate folders. 
+**2. dbCAN2**
 
 
 
