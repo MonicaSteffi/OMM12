@@ -28,9 +28,9 @@ It contains the genome, protein sequences for OligoMM bacterial community as wel
 1. **Marbouty_genbank_and_refseq_proteins:** The data in Marbouty_genbank_and_refseq_proteins is a collection of protein sequences for each genome in the OMM12 communities. These protein sequences have been taken from both GenBank and RefSeq databases. For example, the file name “muribaculum_intestinales_YL27_protein_refseq.faa” has protein sequences for muribaculum intestinales YL27 as given by refseq database.
 
 2. **Marbouty_genbank_and_refseq_proteins_integrated:** All the unique proteins from RefSeq and Genbank are stored in this folder. For example,
-“escherichia_coli_strain_Mt1B1_proteins_integrated.faa” file has all unique proteins from Ecoli, in faa format.  The same set of proteins are stored in R-readable file “escherichia_coli_strain_Mt1B1_proteins_integrated.rds”. The corresponding R script named  "Genbank_RefSeq_proteins_integrate_based_on_coordinates.R" can be found in script folder. 
+“escherichia_coli_strain_Mt1B1_proteins_integrated.faa” file has all unique proteins from Ecoli, in faa format.  The same set of proteins are stored in R-readable file “escherichia_coli_strain_Mt1B1_proteins_integrated.rds”. The corresponding R script named **Genbank_RefSeq_proteins_integrate_based_on_coordinates.R** can be found in script folder. 
 
-3. **Marbouty_annotations_for_integrated_proteins:** Contains the results for the annotations done for the integrated protein sequences from ‘Data\Marbouty_genbank_and_refseq_proteins_integrated’
+3. **Marbouty_annotations_for_integrated_proteins:** Contains the annotations for the integrated protein sequences from ‘Data\Marbouty_genbank_and_refseq_proteins_integrated’
 
 # Annotation results
 
