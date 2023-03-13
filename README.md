@@ -60,7 +60,10 @@ CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combinat
 * cgc_tf: This folder contains outputs from CGC finder tool of type-i
 
 The output prediction for each OMM12 communities stored under separate folders. 
-**2. dbCAN2**
+
+**2. eggNOGDB**
+
+eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (https://eggnogdb.embl.de/) is a database of non-supervised orthologous groups and functional annotation. It is a continuation of the eggNOG v4 database, and provides a comprehensive annotation of orthologous groups across a wide range of organisms. The main purpose of eggNOG v5 is to provide a functional annotation for genes and proteins based on orthology. It classifies genes and proteins into orthologous groups based on their evolutionary relationships, and Furthermore, eggNOG v5 integrates data from other databases, such as UniProt, Ensembl, and RefSeq, to provide more comprehensive functional annotations for the genes. It also includes pre-calculated multiple sequence alignments for each orthologous group, which can be used for phylogenetic analysis and other comparative genomics studies.
 
 
 
