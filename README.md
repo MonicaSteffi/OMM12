@@ -8,13 +8,13 @@ We created this reposiroty to provide proper annotations in order to main unifor
 
 # Data Folder
 
-It contains the genome, protein sequences for OligoMM bacterial community as well as the annotations derived from each tools. All the sequences were downloaded from the respective databases using inhouse scripts which are availbale in the script folder.
+It contains the genome, protein sequences for OligoMM bacterial community as well as the annotations derived from different tools. All the sequences were downloaded from the respective databases using inhouse scripts which are availbale in the script folder.
 
 ## Sub Folders:
-1. Downloaded_from_genbank_and_refseq: Genome sequences of OligoMM microbes were downloaded from GenBank and RefSeq databases using inhouser scripts. 
-2. Marbouty_genbank_and_refseq_proteins: Contains the protein sequences for each genome, taken from genbank and refseq.
-3. Marbouty_genbank_and_refseq_proteins_integrated: Contains the integrated protein sequences for each genome, taken from genbank and refseq.
-4. Marbouty_annotations_for_integrated_proteins: Contains the results for the annotations done for the integrated protein sequences from ‘Data\Marbouty_genbank_and_refseq_proteins_integrated’
+1. Downloaded_from_genbank_and_refseq: Contains genome sequences of OMM12 communities downloaded from GenBank and RefSeq databases (version Last updated: September 02, 2020 
+3. Marbouty_genbank_and_refseq_proteins: Contains the protein sequences for each genome, taken from genbank and refseq.
+4. Marbouty_genbank_and_refseq_proteins_integrated: Contains the integrated protein sequences for each genome, taken from genbank and refseq.
+5. Marbouty_annotations_for_integrated_proteins: Contains the results for the annotations done for the integrated protein sequences from ‘Data\Marbouty_genbank_and_refseq_proteins_integrated’
 
 # Annotation results
 
