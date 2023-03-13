@@ -19,14 +19,11 @@ File formats and content:
    assembly_status.txt
        A text file reporting the current status of the version of the assembly
        for which data is provided. Any assembly anomalies are also reported.
-   *_assembly_report.txt file
-       Tab-delimited text file reporting the name, role and sequence 
-       accession.version for objects in the assembly. The file header contains 
-       meta-data for the assembly including: assembly name, assembly 
-       accession.version, scientific name of the organism and its taxonomy ID, 
-       assembly submitter, and sequence release date.
-   *_assembly_stats.txt file
-       Tab-delimited text file reporting statistics for the assembly including: 
+       
+   ***_assembly_report.txt** : Tab-delimited text file reporting the name, role and sequence accession.version for objects in the assembly. The file header contains 
+       meta-data for the assembly including: assembly name, assembly accession.version, scientific name of the organism and its taxonomy ID,  assembly submitter, and          sequence release date.
+       
+   ***_assembly_stats.txt**: Tab-delimited text file reporting statistics for the assembly including: 
        total length, ungapped length, contig & scaffold counts, contig-N50, 
        scaffold-L50, scaffold-N50, scaffold-N75, and scaffold-N90
    *_assembly_regions.txt
@@ -113,20 +110,11 @@ File formats and content:
        FASTA format of the nucleotide sequences corresponding to all RNA 
        features annotated on the assembly, based on the genome sequence. See 
        the "Description of files" section below for details of the file format.
-   *_translated_cds.faa.gz
-       FASTA sequences of individual CDS features annotated on the genomic 
-       records, conceptually translated into protein sequence. The sequence 
+   ***_translated_cds.faa**: FASTA sequences of individual CDS features annotated on the genomic 
+ records, conceptually translated into protein sequence. The sequence 
        corresponds to the translation of the nucleotide sequence provided in the
        *_cds_from_genomic.fna.gz file. 
-   *_wgsmaster.gbff.gz
-       GenBank flat file format of the WGS master for the assembly (present only
-       if a WGS master record exists for the sequences in the assembly).
-   annotation_hashes.txt
-       Tab-delimited text file reporting hash values for different aspects
-       of the annotation data. See the "Description of files" section below 
-       for details of the file format.
-   md5checksums.txt file
-       file checksums are provided for all data files in the directory
+  **md5checksums.txt file**: file checksums are provided for all data files in the directory
 
 Marbouty_genbank_and_refseq_proteins: The data in Marbouty_genbank_and_refseq_proteins is a collection of protein sequences for each genome in the OMM12 communities. These protein sequences have been taken from both GenBank and RefSeq databases. For example, the file name “muribaculum_intestinales_YL27_protein_refseq.faa” has protein sequences for muribaculum intestinales YL27 as given by refseq database.
 3. Marbouty_genbank_and_refseq_proteins_integrated: Contains the integrated protein sequences for each genome, taken from genbank and refseq.
