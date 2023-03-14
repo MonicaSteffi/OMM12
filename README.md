@@ -42,7 +42,7 @@ We used different softwares such as OperonMapper, KOFAMSCAN, dbCAN2, PULs, RGI a
 
 dbCAN2 is a database of Carbohydrate-Active Enzymes (CAZymes) that provides a comprehensive set of tools for automated CAZyme annotation in genomic and metagenomic datasets. 
 
-Uploaded the genomes to the dbCAN2 web page (https://bcb.unl.edu/dbCAN2/blast.php). Chose the options ‘Nucleotide sequence’ for ‘Choose sequence type’ and selected all tools to run (dbCAN (E-Value < 1e-15, coverage > 0.35)  DIAMOND: CAZy (E-Value < 1e-102)  HMMER: dbCAN-sub (E-Value < 1e-15, coverage > 0.35)  CGCFinder (Distance <= 2, signature genes = CAZyme+TC))
+Upload the genomes to the dbCAN2 web page (https://bcb.unl.edu/dbCAN2/blast.php). Chose the options ‘Nucleotide sequence’ for ‘Choose sequence type’ and selected all tools to run (dbCAN (E-Value < 1e-15, coverage > 0.35)  DIAMOND: CAZy (E-Value < 1e-102)  HMMER: dbCAN-sub (E-Value < 1e-15, coverage > 0.35)  CGCFinder (Distance <= 2, signature genes = CAZyme+TC))
 
 CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combination of CAZyme + Transcription Factors (type-i), CAZyme + Transporter Classification (type-II), CAZyme + Transporter Classification + Transcription Factors (type-iii).
 
@@ -63,8 +63,18 @@ The output prediction for each OMM12 communities stored under separate folders.
 
 **2. eggNOGDB**
 
-eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (https://eggnogdb.embl.de/) is a database of non-supervised orthologous groups and functional annotation. It is a continuation of the eggNOG v4 database, and provides a comprehensive annotation of orthologous groups across a wide range of organisms. The main purpose of eggNOG v5 is to provide a functional annotation for genes and proteins based on orthology. It classifies genes and proteins into orthologous groups based on their evolutionary relationships, and Furthermore, eggNOG v5 integrates data from other databases, such as UniProt, Ensembl, and RefSeq, to provide more comprehensive functional annotations for the genes. It also includes pre-calculated multiple sequence alignments for each orthologous group, which can be used for phylogenetic analysis and other comparative genomics studies.
+eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (https://eggnogdb.embl.de/) is a database of non-supervised orthologous groups and functional annotation. It provides a comprehensive annotation of orthologous groups across a wide range of organisms. The main purpose of eggNOG v5 is to provide a functional annotation for genes and proteins based on orthology. It classifies genes and proteins into orthologous groups based on their evolutionary relationships, and Furthermore, eggNOG v5 integrates data from other databases, such as UniProt, Ensembl, and RefSeq, to provide more comprehensive functional annotations for the genes. It also includes pre-calculated multiple sequence alignments for each orthologous group, which can be used for phylogenetic analysis and other comparative genomics studies.
 
 
+* out.emapper.annotations: These files provide additional information on the functional annotation for each gene in the search results. They include information on gene ontology (GO) terms, enzyme commission (EC) numbers, and protein domains, among other features.
 
+* out.emapper.decorated.gff: 
+* out.emapper.genepred.fasta: predicted protein sequences
+* out.emapper.genepred.gff: GFF format for predicted protein sequences
+* out.emapper.hits: A file with the results from the search phase, from HMMER, Diamond or MMseqs2.
+* out.emapper.orthologs
+* out.emapper.seed_orthologs
+* out.emapper.smart.out
+
+https://github.com/eggnogdb/eggnog-mapper/wiki/eggNOG-mapper-v2.1.2-to-v2.1.4#user-content-Output_files
 
