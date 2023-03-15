@@ -66,15 +66,16 @@ The output prediction for each OMM12 communities stored under separate folders.
 eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (https://eggnogdb.embl.de/) is a database of non-supervised orthologous groups and functional annotation. It provides a comprehensive annotation of orthologous groups across a wide range of organisms. The main purpose of eggNOG v5 is to provide a functional annotation for genes and proteins based on orthology. It classifies genes and proteins into orthologous groups based on their evolutionary relationships, and Furthermore, eggNOG v5 integrates data from other databases, such as UniProt, Ensembl, and RefSeq, to provide more comprehensive functional annotations for the genes. It also includes pre-calculated multiple sequence alignments for each orthologous group, which can be used for phylogenetic analysis and other comparative genomics studies.
 
 
-* out.emapper.annotations: These files provide additional information on the functional annotation for each gene in the search results. They include information on gene ontology (GO) terms, enzyme commission (EC) numbers, and protein domains, among other features.
+## Output files:
 
-* out.emapper.decorated.gff: 
-* out.emapper.genepred.fasta: predicted protein sequences
-* out.emapper.genepred.gff: GFF format for predicted protein sequences
+* out.emapper.annotations: These files provide additional information on the functional annotation for each gene in the search results. They include information on gene ontology (GO) terms, enzyme commission (EC) numbers, and protein domains, among other features.
+* out.emapper.genepred.fasta: A FASTA file with the sequences of the predicted CDS. It is generated when gene prediction is carried out
+* out.emapper.genepred.gff: A GFF file with the sequences of the predicted CDS. It is generated when gene prediction is carried out
 * out.emapper.hits: A file with the results from the search phase, from HMMER, Diamond or MMseqs2.
-* out.emapper.orthologs
-* out.emapper.seed_orthologs
+* out.emapper.orthologs: A file with the list of orthologs found for each query. This file is created only if using the --report_orthologs option.
+* out.emapper.seed_orthologs: A file with the results from parsing the hits. Each row links a query with a seed ortholog. This file has the same format independently of which searcher was used, except that it can be in short format (4 fields), or full.
 * out.emapper.smart.out
+* out.emapper.decorated.gff: 
 
 https://github.com/eggnogdb/eggnog-mapper/wiki/eggNOG-mapper-v2.1.2-to-v2.1.4#user-content-Output_files
 
