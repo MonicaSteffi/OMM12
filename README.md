@@ -78,3 +78,5 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 
 https://github.com/eggnogdb/eggnog-mapper/wiki/eggNOG-mapper-v2.1.2-to-v2.1.4#user-content-Output_files
 
+**2. Operon Mapper**
+
