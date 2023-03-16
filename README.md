@@ -47,7 +47,7 @@ Upload the genomes to the dbCAN2 web page (https://bcb.unl.edu/dbCAN2/blast.php)
 CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combination of CAZyme + Transcription Factors (type-i), CAZyme + Transporter Classification (type-II), CAZyme + Transporter Classification + Transcription Factors (type-iii).
 
 ## Output files:
-
+`
 * signalp.out: Output of the signalp tool
 * uniInput: Prodigal predictions
 * overview.txt: Contains overview of the results
@@ -58,7 +58,7 @@ CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combinat
 * cgc_tc_tf: This folder contains outputs from CGC finder tool of type-iii
 * cgc_tc: This folder contains outputs from CGC finder tool of type-ii
 * cgc_tf: This folder contains outputs from CGC finder tool of type-i
-
+`
 The output prediction for each OMM12 communities stored under separate folders. 
 
 **2. eggNOGDB**
@@ -67,7 +67,7 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 
 
 ## Output files:
-
+`
 * out.emapper.annotations: These files provide additional information on the functional annotation for each gene in the search results. They include information on gene ontology (GO) terms, enzyme commission (EC) numbers, and protein domains, among other features.
 * out.emapper.genepred.fasta: A FASTA file with the sequences of the predicted CDS. It is generated when gene prediction is carried out
 * out.emapper.genepred.gff: A GFF file with the sequences of the predicted CDS. It is generated when gene prediction is carried out
@@ -76,8 +76,25 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 * out.emapper.seed_orthologs: A file with the results from parsing the hits. Each row links a query with a seed ortholog. This file has the same format independently of which searcher was used, except that it can be in short format (4 fields), or full.
 * out.emapper.smart.out
 * out.emapper.decorated.gff: 
-
+`
 https://github.com/eggnogdb/eggnog-mapper/wiki/eggNOG-mapper-v2.1.2-to-v2.1.4#user-content-Output_files
 
-**2. Operon Mapper**
+** 3. KOFAMSCAN **
+
+KOFAMSCAN generates several output files after performing functional annotation of protein-coding genes in a metagenome or metatranscriptome dataset. Some of the commonly generated output files include:
+
+kegg_annotation.txt: This file contains the KEGG Orthology (KO) annotations for each predicted protein-coding gene in the input sequence dataset.
+
+ko_list.txt: This file contains a list of all the KOs that were annotated in the input sequence dataset, along with the number of genes that were annotated for each KO.
+
+ko_pathway.txt: This file contains the KEGG pathways that were associated with each KO annotation in the input sequence dataset.
+
+ko_module.txt: This file contains the KEGG modules that were associated with each KO annotation in the input sequence dataset.
+
+ko_reaction.txt: This file contains the KEGG reactions that were associated with each KO annotation in the input sequence dataset.
+
+ko_enzyme.txt: This file contains the EC numbers of the enzymes that were associated with each KO annotation in the input sequence dataset.
+
+These output files provide valuable information about the functional potential of the metagenome or metatranscriptome dataset and can be used for downstream analysis such as pathway analysis, functional enrichment analysis, and comparative analysis between different datasets.
+
 
