@@ -1,0 +1,2546 @@
+HFAHPLKA_00001	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_00002	ROG8070	
+HFAHPLKA_00003	COG1286	[R] Uncharacterized membrane protein, required for colicin
+HFAHPLKA_00004	COG1193	[L] Mismatch repair ATPase (MutS family) 
+HFAHPLKA_00005	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+HFAHPLKA_00006	COG0322	[L] Nuclease subunit of the excinuclease complex
+HFAHPLKA_00008	COG4152	[R] ABC-type uncharacterized transport system, ATPase component
+HFAHPLKA_00009	COG1668	[CP] ABC-type Na+ efflux pump, permease component
+HFAHPLKA_00010	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_00011	COG1486	[G] Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases
+HFAHPLKA_00013	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_00014	COG2081	[R] Predicted flavoproteins    
+HFAHPLKA_00015	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+HFAHPLKA_00016	COG0166	[G] Glucose-6-phosphate isomerase    
+HFAHPLKA_00018	COG1780	[F] Protein involved in ribonucleotide reduction 
+HFAHPLKA_00020	COG1269	[C] Archaeal/vacuolar-type H+-ATPase subunit I  
+HFAHPLKA_00021	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+HFAHPLKA_00023	COG1527	[C] Archaeal/vacuolar-type H+-ATPase subunit C  
+HFAHPLKA_00024	COG1436	[C] Archaeal/vacuolar-type H+-ATPase subunit F  
+HFAHPLKA_00025	COG1155	[C] Archaeal/vacuolar-type H+-ATPase subunit A  
+HFAHPLKA_00026	COG1156	[C] Archaeal/vacuolar-type H+-ATPase subunit B  
+HFAHPLKA_00027	COG1394	[C] Archaeal/vacuolar-type H+-ATPase subunit D  
+HFAHPLKA_00029	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+HFAHPLKA_00030	ROG3364	
+HFAHPLKA_00031	COG2367	[V] Beta-lactamase class A   
+HFAHPLKA_00032	COG3855	[G] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00033	COG0019	[E] Diaminopimelate decarboxylase    
+HFAHPLKA_00034	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+HFAHPLKA_00035	ROG5354	
+HFAHPLKA_00037	ROG3447	
+HFAHPLKA_00038	COG2151	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+HFAHPLKA_00039	COG4948	[MR] L-alanine-DL-glutamate epimerase and related enzymes of
+HFAHPLKA_00041	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_00042	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_00043	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+HFAHPLKA_00044	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_00045	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+HFAHPLKA_00046	COG1445	[G] Phosphotransferase system fructose-specific component IIB 
+HFAHPLKA_00047	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+HFAHPLKA_00048	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+HFAHPLKA_00049	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+HFAHPLKA_00051	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_00052	COG0358	[L] DNA primase (bacterial type)  
+HFAHPLKA_00053	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+HFAHPLKA_00054	ROG4636	
+HFAHPLKA_00055	COG2996	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00056	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+HFAHPLKA_00057	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+HFAHPLKA_00058	COG0536	[R] Predicted GTPase    
+HFAHPLKA_00060	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_00061	ROG6516	
+HFAHPLKA_00062	COG5294	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00063	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+HFAHPLKA_00064	COG3589	[S] Uncharacterized conserved protein   
+HFAHPLKA_00065	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+HFAHPLKA_00066	COG4974	[L] Site-specific recombinase XerD   
+HFAHPLKA_00067	COG1354	[S] Uncharacterized conserved protein   
+HFAHPLKA_00068	COG1386	[K] Predicted transcriptional regulator containing the HTH
+HFAHPLKA_00069	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+HFAHPLKA_00070	COG3601	[S] Predicted membrane protein   
+HFAHPLKA_00071	COG4640	[S] Predicted membrane protein   
+HFAHPLKA_00072	COG1141	[C] Ferredoxin     
+HFAHPLKA_00073	COG4955	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00074	COG0514	[L] Superfamily II DNA helicase  
+HFAHPLKA_00075	ROG8311	
+HFAHPLKA_00076	COG0283	[F] Cytidylate kinase    
+HFAHPLKA_00077	COG0539	[J] Ribosomal protein S1   
+HFAHPLKA_00078	COG1160	[R] Predicted GTPases    
+HFAHPLKA_00079	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+HFAHPLKA_00081	COG0457	[R] FOG: TPR repeat   
+HFAHPLKA_00082	COG5582	[S] Uncharacterized conserved protein   
+HFAHPLKA_00083	COG1284	[S] Uncharacterized conserved protein   
+HFAHPLKA_00084	COG1694	[R] Predicted pyrophosphatase    
+HFAHPLKA_00085	COG0289	[E] Dihydrodipicolinate reductase    
+HFAHPLKA_00086	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+HFAHPLKA_00087	COG5496	[R] Predicted thioesterase    
+HFAHPLKA_00089	COG0169	[E] Shikimate 5-dehydrogenase    
+HFAHPLKA_00090	COG2876	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+HFAHPLKA_00091	COG0337	[E] 3-dehydroquinate synthetase    
+HFAHPLKA_00092	COG0082	[E] Chorismate synthase    
+HFAHPLKA_00093	COG0287	[E] Prephenate dehydrogenase    
+HFAHPLKA_00094	COG0128	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+HFAHPLKA_00095	COG0703	[E] Shikimate kinase    
+HFAHPLKA_00096	COG0077	[E] Prephenate dehydratase    
+HFAHPLKA_00097	COG1316	[K] Transcriptional regulator    
+HFAHPLKA_00098	COG1307	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00099	ROG5223	
+HFAHPLKA_00102	COG0025	[P] NhaP-type Na+/H+ and K+/H+ antiporters 
+HFAHPLKA_00103	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_00104	COG0207	[F] Thymidylate synthase    
+HFAHPLKA_00105	COG0262	[H] Dihydrofolate reductase    
+HFAHPLKA_00106	COG1600	[C] Uncharacterized Fe-S protein   
+HFAHPLKA_00107	COG1974	[KT] SOS-response transcriptional repressors (RecA-mediated autopeptidases) 
+HFAHPLKA_00108	COG4224	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00109	COG0021	[G] Transketolase     
+HFAHPLKA_00112	COG1705	[NU] Muramidase (flagellum-specific)    
+HFAHPLKA_00113	COG0031	[E] Cysteine synthase    
+HFAHPLKA_00114	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+HFAHPLKA_00115	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_00116	COG1051	[F] ADP-ribose pyrophosphatase    
+HFAHPLKA_00117	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_00118	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_00119	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00120	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00121	COG1051	[F] ADP-ribose pyrophosphatase    
+HFAHPLKA_00122	COG4939	[S] Major membrane immunogen, membrane-anchored lipoprotein 
+HFAHPLKA_00123	COG0753	[P] Catalase     
+HFAHPLKA_00124	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+HFAHPLKA_00125	COG0546	[R] Predicted phosphatases    
+HFAHPLKA_00126	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_00127	COG0415	[L] Deoxyribodipyrimidine photolyase    
+HFAHPLKA_00128	ROG6392	
+HFAHPLKA_00129	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_00130	COG0366	[G] Glycosidases     
+HFAHPLKA_00131	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+HFAHPLKA_00132	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_00134	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_00135	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_00136	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+HFAHPLKA_00137	COG4843	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00139	COG1227	[C] Inorganic pyrophosphatase/exopolyphosphatase    
+HFAHPLKA_00140	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+HFAHPLKA_00141	COG1882	[C] Pyruvate-formate lyase    
+HFAHPLKA_00142	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HFAHPLKA_00143	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HFAHPLKA_00144	COG1832	[R] Predicted CoA-binding protein   
+HFAHPLKA_00145	COG4766	[E] Ethanolamine utilization protein   
+HFAHPLKA_00146	COG3192	[E] Ethanolamine utilization protein   
+HFAHPLKA_00147	COG4576	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+HFAHPLKA_00148	ROG3749	
+HFAHPLKA_00149	COG4869	[Q] Propanediol utilization protein   
+HFAHPLKA_00150	COG4812	[E] Ethanolamine utilization cobalamin adenosyltransferase  
+HFAHPLKA_00151	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+HFAHPLKA_00152	COG0014	[E] Gamma-glutamyl phosphate reductase   
+HFAHPLKA_00153	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+HFAHPLKA_00154	COG4816	[E] Ethanolamine utilization protein   
+HFAHPLKA_00155	COG4302	[E] Ethanolamine ammonia-lyase, small subunit  
+HFAHPLKA_00156	COG4303	[E] Ethanolamine ammonia-lyase, large subunit  
+HFAHPLKA_00157	COG4819	[E] Ethanolamine utilization protein, possible chaperonin protecting
+HFAHPLKA_00158	COG3920	[T] Signal transduction histidine kinase  
+HFAHPLKA_00159	COG3707	[T] Response regulator with putative antiterminator output
+HFAHPLKA_00160	COG4810	[E] Ethanolamine utilization protein   
+HFAHPLKA_00161	COG1454	[C] Alcohol dehydrogenase, class IV  
+HFAHPLKA_00162	COG2096	[S] Uncharacterized conserved protein   
+HFAHPLKA_00163	COG4917	[E] Ethanolamine utilization protein   
+HFAHPLKA_00164	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+HFAHPLKA_00165	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+HFAHPLKA_00166	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+HFAHPLKA_00167	COG0344	[S] Predicted membrane protein   
+HFAHPLKA_00169	COG4465	[K] Pleiotropic transcriptional repressor   
+HFAHPLKA_00170	COG1220	[O] ATP-dependent protease HslVU (ClpYQ), ATPase subunit
+HFAHPLKA_00171	COG5405	[O] ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+HFAHPLKA_00172	COG4974	[L] Site-specific recombinase XerD   
+HFAHPLKA_00173	COG1206	[J] NAD(FAD)-utilizing enzyme possibly involved in translation
+HFAHPLKA_00174	COG0550	[L] Topoisomerase IA    
+HFAHPLKA_00175	COG1266	[R] Predicted metal-dependent membrane protease  
+HFAHPLKA_00176	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+HFAHPLKA_00177	COG0164	[L] Ribonuclease HII    
+HFAHPLKA_00178	COG1161	[R] Predicted GTPases    
+HFAHPLKA_00179	COG1893	[H] Ketopantoate reductase    
+HFAHPLKA_00180	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_00181	COG3641	[R] Predicted membrane protein, putative toxin regulator
+HFAHPLKA_00182	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+HFAHPLKA_00183	COG0022	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+HFAHPLKA_00184	COG1071	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+HFAHPLKA_00185	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+HFAHPLKA_00186	COG3426	[C] Butyrate kinase    
+HFAHPLKA_00187	COG0280	[C] Phosphotransacetylase     
+HFAHPLKA_00188	COG1434	[S] Uncharacterized conserved protein   
+HFAHPLKA_00189	ROG1688	
+HFAHPLKA_00191	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_00192	COG1846	[K] Transcriptional regulators    
+HFAHPLKA_00193	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_00194	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_00195	COG0400	[R] Predicted esterase    
+HFAHPLKA_00196	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+HFAHPLKA_00197	COG4591	[M] ABC-type transport system, involved in lipoprotein
+HFAHPLKA_00198	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_00200	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+HFAHPLKA_00201	COG1725	[K] Predicted transcriptional regulators   
+HFAHPLKA_00202	ROG3131	
+HFAHPLKA_00203	COG0681	[U] Signal peptidase I   
+HFAHPLKA_00204	COG0793	[M] Periplasmic protease    
+HFAHPLKA_00205	COG4479	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00206	COG0225	[O] Peptide methionine sulfoxide reductase  
+HFAHPLKA_00207	COG4698	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00208	COG2755	[E] Lysophospholipase L1 and related esterases 
+HFAHPLKA_00209	COG1307	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00210	COG1272	[R] Predicted membrane protein, hemolysin III homolog
+HFAHPLKA_00211	ROG0533	
+HFAHPLKA_00212	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+HFAHPLKA_00213	COG0608	[L] Single-stranded DNA-specific exonuclease   
+HFAHPLKA_00214	ROG5406	
+HFAHPLKA_00215	COG0300	[R] Short-chain dehydrogenases of various substrate specificities
+HFAHPLKA_00216	COG1234	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+HFAHPLKA_00217	ROG6597	
+HFAHPLKA_00218	COG1837	[R] Predicted RNA-binding protein (contains KH domain)
+HFAHPLKA_00219	COG0228	[J] Ribosomal protein S16   
+HFAHPLKA_00220	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_00221	COG0431	[R] Predicted flavoprotein    
+HFAHPLKA_00222	COG0789	[K] Predicted transcriptional regulators   
+HFAHPLKA_00223	COG0541	[U] Signal recognition particle GTPase  
+HFAHPLKA_00224	COG2739	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00225	COG1683	[S] Uncharacterized conserved protein   
+HFAHPLKA_00226	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_00227	COG0642	[T] Signal transduction histidine kinase  
+HFAHPLKA_00228	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+HFAHPLKA_00229	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HFAHPLKA_00230	COG0383	[G] Alpha-mannosidase     
+HFAHPLKA_00231	COG3538	[S] Uncharacterized conserved protein   
+HFAHPLKA_00232	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_00233	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_00234	COG3338	[P] Carbonic anhydrase    
+HFAHPLKA_00235	COG0461	[F] Orotate phosphoribosyltransferase    
+HFAHPLKA_00236	COG0284	[F] Orotidine-5'-phosphate decarboxylase    
+HFAHPLKA_00237	COG0167	[F] Dihydroorotate dehydrogenase    
+HFAHPLKA_00238	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+HFAHPLKA_00239	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+HFAHPLKA_00240	COG0505	[EF] Carbamoylphosphate synthase small subunit  
+HFAHPLKA_00241	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+HFAHPLKA_00242	COG0540	[F] Aspartate carbamoyltransferase, catalytic chain  
+HFAHPLKA_00243	COG2233	[F] Xanthine/uracil permeases    
+HFAHPLKA_00244	COG2065	[F] Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase 
+HFAHPLKA_00245	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+HFAHPLKA_00246	COG0597	[MU] Lipoprotein signal peptidase   
+HFAHPLKA_00247	ROG3518	
+HFAHPLKA_00248	COG2759	[F] Formyltetrahydrofolate synthetase    
+HFAHPLKA_00249	COG1278	[K] Cold shock proteins   
+HFAHPLKA_00250	ROG4243	
+HFAHPLKA_00251	ROG4502	
+HFAHPLKA_00252	COG2606	[S] Uncharacterized conserved protein   
+HFAHPLKA_00253	COG0710	[E] 3-dehydroquinate dehydratase    
+HFAHPLKA_00254	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00255	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00256	COG3763	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00257	COG0648	[L] Endonuclease IV    
+HFAHPLKA_00258	ROG4017	
+HFAHPLKA_00259	ROG3383	
+HFAHPLKA_00261	COG0162	[J] Tyrosyl-tRNA synthetase    
+HFAHPLKA_00262	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+HFAHPLKA_00264	ROG6234	
+HFAHPLKA_00265	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+HFAHPLKA_00267	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_00268	COG0006	[E] Xaa-Pro aminopeptidase    
+HFAHPLKA_00269	COG4980	[R] Gas vesicle protein   
+HFAHPLKA_00270	COG4768	[R] Uncharacterized protein containing a divergent version
+HFAHPLKA_00271	COG1210	[M] UDP-glucose pyrophosphorylase    
+HFAHPLKA_00272	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+HFAHPLKA_00273	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+HFAHPLKA_00274	COG1493	[T] Serine kinase of the HPr protein,
+HFAHPLKA_00275	COG0322	[L] Nuclease subunit of the excinuclease complex
+HFAHPLKA_00276	COG1950	[S] Predicted membrane protein   
+HFAHPLKA_00277	COG1983	[KT] Putative stress-responsive transcriptional regulator  
+HFAHPLKA_00278	COG3595	[S] Uncharacterized conserved protein   
+HFAHPLKA_00279	COG0704	[P] Phosphate uptake regulator   
+HFAHPLKA_00280	COG1117	[P] ABC-type phosphate transport system, ATPase component
+HFAHPLKA_00281	COG1117	[P] ABC-type phosphate transport system, ATPase component
+HFAHPLKA_00282	COG0581	[P] ABC-type phosphate transport system, permease component
+HFAHPLKA_00283	COG0573	[P] ABC-type phosphate transport system, permease component
+HFAHPLKA_00284	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+HFAHPLKA_00285	COG2177	[D] Cell division protein   
+HFAHPLKA_00286	COG2884	[D] Predicted ATPase involved in cell division
+HFAHPLKA_00287	COG1186	[J] Protein chain release factor B 
+HFAHPLKA_00288	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+HFAHPLKA_00289	COG1544	[J] Ribosome-associated protein Y (PSrp-1)  
+HFAHPLKA_00290	COG1040	[R] Predicted amidophosphoribosyltransferases    
+HFAHPLKA_00291	COG4098	[L] Superfamily II DNA/RNA helicase required for
+HFAHPLKA_00292	COG3910	[R] Predicted ATPase    
+HFAHPLKA_00293	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+HFAHPLKA_00294	ROG6720	
+HFAHPLKA_00295	COG1739	[S] Uncharacterized conserved protein   
+HFAHPLKA_00296	ROG1737	
+HFAHPLKA_00297	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_00298	COG4708	[S] Predicted membrane protein   
+HFAHPLKA_00299	ROG2789	
+HFAHPLKA_00300	COG4194	[R] Predicted membrane protein   
+HFAHPLKA_00301	COG0151	[F] Phosphoribosylamine-glycine ligase    
+HFAHPLKA_00302	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+HFAHPLKA_00303	COG0299	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+HFAHPLKA_00304	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+HFAHPLKA_00305	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+HFAHPLKA_00306	COG0046	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+HFAHPLKA_00307	COG0047	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain
+HFAHPLKA_00308	COG1828	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component 
+HFAHPLKA_00309	COG0152	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+HFAHPLKA_00310	COG0026	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+HFAHPLKA_00311	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+HFAHPLKA_00312	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+HFAHPLKA_00313	COG0063	[G] Predicted sugar kinase   
+HFAHPLKA_00314	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_00315	ROG8182	
+HFAHPLKA_00316	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+HFAHPLKA_00317	COG4876	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00319	ROG4412	
+HFAHPLKA_00321	COG0628	[R] Predicted permease    
+HFAHPLKA_00322	ROG2432	
+HFAHPLKA_00323	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_00324	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_00325	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_00326	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_00327	COG1874	[G] Beta-galactosidase     
+HFAHPLKA_00328	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+HFAHPLKA_00329	COG3684	[G] Tagatose-1,6-bisphosphate aldolase    
+HFAHPLKA_00330	COG2222	[M] Predicted phosphosugar isomerases   
+HFAHPLKA_00331	COG2188	[K] Transcriptional regulators    
+HFAHPLKA_00332	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HFAHPLKA_00333	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HFAHPLKA_00334	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+HFAHPLKA_00335	COG0477	[GEPR] Permeases of the major facilitator superfamily
+HFAHPLKA_00336	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_00337	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+HFAHPLKA_00338	COG3591	[E] V8-like Glu-specific endopeptidase   
+HFAHPLKA_00339	COG3227	[E] Zinc metalloprotease (elastase)   
+HFAHPLKA_00341	COG4512	[OTK] Membrane protein putatively involved in post-translational
+HFAHPLKA_00342	COG3279	[KT] Response regulator of the LytR/AlgR family
+HFAHPLKA_00343	COG1705	[NU] Muramidase (flagellum-specific)    
+HFAHPLKA_00344	ROG4510	
+HFAHPLKA_00345	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+HFAHPLKA_00346	ROG3888	
+HFAHPLKA_00347	COG1713	[H] Predicted HD superfamily hydrolase involved in
+HFAHPLKA_00348	COG0726	[G] Predicted xylanase/chitin deacetylase   
+HFAHPLKA_00349	COG0335	[J] Ribosomal protein L19   
+HFAHPLKA_00350	COG0336	[J] tRNA-(guanine-N1)-methyltransferase     
+HFAHPLKA_00351	COG0806	[J] RimM protein, required for 16S rRNA
+HFAHPLKA_00352	COG1914	[P] Mn2+ and Fe2+ transporters of the
+HFAHPLKA_00353	ROG1880	
+HFAHPLKA_00354	COG0398	[S] Uncharacterized conserved protein   
+HFAHPLKA_00355	COG4781	[C] Membrane domain of membrane-anchored glycerophosphoryl diester
+HFAHPLKA_00356	COG0670	[R] Integral membrane protein, interacts with FtsH
+HFAHPLKA_00357	ROG2306	
+HFAHPLKA_00358	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+HFAHPLKA_00360	COG4129	[S] Predicted membrane protein   
+HFAHPLKA_00361	COG4129	[S] Predicted membrane protein   
+HFAHPLKA_00362	COG1940	[KG] Transcriptional regulator/sugar kinase   
+HFAHPLKA_00363	COG0759	[S] Uncharacterized conserved protein   
+HFAHPLKA_00365	COG0218	[R] Predicted GTPase    
+HFAHPLKA_00366	COG1219	[O] ATP-dependent protease Clp, ATPase subunit 
+HFAHPLKA_00367	COG2706	[G] 3-carboxymuconate cyclase    
+HFAHPLKA_00368	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_00369	COG3069	[C] C4-dicarboxylate transporter    
+HFAHPLKA_00370	COG1957	[F] Inosine-uridine nucleoside N-ribohydrolase   
+HFAHPLKA_00371	COG0524	[G] Sugar kinases, ribokinase family  
+HFAHPLKA_00372	ROG4163	
+HFAHPLKA_00374	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_00375	ROG4163	
+HFAHPLKA_00377	COG4915	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+HFAHPLKA_00378	COG0580	[G] Glycerol uptake facilitator and related permeases
+HFAHPLKA_00379	COG0578	[C] Glycerol-3-phosphate dehydrogenase    
+HFAHPLKA_00380	COG0554	[C] Glycerol kinase    
+HFAHPLKA_00381	ROG4163	
+HFAHPLKA_00382	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_00385	ROG3088	
+HFAHPLKA_00386	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+HFAHPLKA_00387	COG0474	[P] Cation transport ATPase   
+HFAHPLKA_00388	COG2364	[S] Predicted membrane protein   
+HFAHPLKA_00389	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+HFAHPLKA_00390	ROG7647	
+HFAHPLKA_00391	ROG2472	
+HFAHPLKA_00392	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+HFAHPLKA_00393	ROG6681	
+HFAHPLKA_00394	COG5646	[S] Uncharacterized conserved protein   
+HFAHPLKA_00395	COG4898	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00396	COG2222	[M] Predicted phosphosugar isomerases   
+HFAHPLKA_00397	COG2222	[M] Predicted phosphosugar isomerases   
+HFAHPLKA_00398	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_00399	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_00400	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_00401	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_00402	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+HFAHPLKA_00403	COG0232	[F] dGTP triphosphohydrolase    
+HFAHPLKA_00404	ROG2753	
+HFAHPLKA_00405	COG0148	[G] Enolase     
+HFAHPLKA_00406	COG0149	[G] Triosephosphate isomerase    
+HFAHPLKA_00407	COG0126	[G] 3-phosphoglycerate kinase    
+HFAHPLKA_00408	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+HFAHPLKA_00409	COG2390	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+HFAHPLKA_00410	COG1284	[S] Uncharacterized conserved protein   
+HFAHPLKA_00411	COG4475	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00412	COG4720	[S] Predicted membrane protein   
+HFAHPLKA_00413	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+HFAHPLKA_00414	COG0173	[J] Aspartyl-tRNA synthetase    
+HFAHPLKA_00415	COG0124	[J] Histidyl-tRNA synthetase    
+HFAHPLKA_00416	COG1490	[J] D-Tyr-tRNAtyr deacylase    
+HFAHPLKA_00417	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+HFAHPLKA_00418	COG1385	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00419	COG2264	[J] Ribosomal protein L11 methylase  
+HFAHPLKA_00420	ROG2236	
+HFAHPLKA_00421	COG2094	[L] 3-methyladenine DNA glycosylase   
+HFAHPLKA_00422	COG2256	[L] ATPase related to the helicase subunit
+HFAHPLKA_00423	ROG8312	
+HFAHPLKA_00424	COG0589	[T] Universal stress protein UspA and related
+HFAHPLKA_00425	COG0282	[C] Acetate kinase    
+HFAHPLKA_00426	COG0827	[L] Adenine-specific DNA methylase   
+HFAHPLKA_00428	COG4940	[U] Competence protein ComGF   
+HFAHPLKA_00431	COG4537	[U] Competence protein ComGC   
+HFAHPLKA_00433	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+HFAHPLKA_00434	COG0531	[E] Amino acid transporters   
+HFAHPLKA_00435	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+HFAHPLKA_00436	COG4591	[M] ABC-type transport system, involved in lipoprotein
+HFAHPLKA_00437	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_00438	COG2188	[K] Transcriptional regulators    
+HFAHPLKA_00439	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+HFAHPLKA_00440	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+HFAHPLKA_00441	COG1575	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+HFAHPLKA_00442	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+HFAHPLKA_00443	COG4987	[CO] ABC-type transport system involved in cytochrome
+HFAHPLKA_00444	COG4988	[CO] ABC-type transport system involved in cytochrome
+HFAHPLKA_00445	COG1294	[C] Cytochrome bd-type quinol oxidase, subunit 2
+HFAHPLKA_00446	COG1271	[C] Cytochrome bd-type quinol oxidase, subunit 1
+HFAHPLKA_00447	COG3708	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00448	COG0550	[L] Topoisomerase IA    
+HFAHPLKA_00449	COG4699	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00450	ROG6516	
+HFAHPLKA_00451	COG1881	[R] Phospholipid-binding protein    
+HFAHPLKA_00452	ROG2472	
+HFAHPLKA_00453	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+HFAHPLKA_00454	ROG0499	
+HFAHPLKA_00455	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+HFAHPLKA_00456	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+HFAHPLKA_00457	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+HFAHPLKA_00458	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+HFAHPLKA_00459	COG0803	[P] ABC-type metal ion transport system, periplasmic
+HFAHPLKA_00460	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_00461	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_00462	COG1473	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+HFAHPLKA_00463	COG1464	[P] ABC-type metal ion transport system, periplasmic
+HFAHPLKA_00464	COG2011	[P] ABC-type metal ion transport system, permease
+HFAHPLKA_00465	COG1135	[P] ABC-type metal ion transport system, ATPase
+HFAHPLKA_00467	ROG7492	
+HFAHPLKA_00469	ROG1882	
+HFAHPLKA_00471	COG2348	[V] Uncharacterized protein involved in methicillin resistance
+HFAHPLKA_00472	COG0449	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+HFAHPLKA_00473	COG0619	[P] ABC-type cobalt transport system, permease component
+HFAHPLKA_00474	COG1122	[P] ABC-type cobalt transport system, ATPase component
+HFAHPLKA_00475	COG4720	[S] Predicted membrane protein   
+HFAHPLKA_00476	COG1109	[G] Phosphomannomutase     
+HFAHPLKA_00477	COG4856	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00478	COG1624	[S] Uncharacterized conserved protein   
+HFAHPLKA_00479	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HFAHPLKA_00480	ROG8143	
+HFAHPLKA_00481	COG0174	[E] Glutamine synthetase    
+HFAHPLKA_00482	COG0789	[K] Predicted transcriptional regulators   
+HFAHPLKA_00483	COG2262	[R] GTPases     
+HFAHPLKA_00484	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+HFAHPLKA_00485	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+HFAHPLKA_00486	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00487	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HFAHPLKA_00489	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00490	COG3475	[M] LPS biosynthesis protein   
+HFAHPLKA_00491	COG3307	[M] Lipid A core - O-antigen ligase
+HFAHPLKA_00492	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00493	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HFAHPLKA_00494	COG1211	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+HFAHPLKA_00495	ROG7262	
+HFAHPLKA_00496	COG3475	[M] LPS biosynthesis protein   
+HFAHPLKA_00497	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00498	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+HFAHPLKA_00499	ROG2721	
+HFAHPLKA_00501	COG1216	[R] Predicted glycosyltransferases    
+HFAHPLKA_00502	COG0500	[QR] SAM-dependent methyltransferases    
+HFAHPLKA_00503	COG1134	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+HFAHPLKA_00504	COG1682	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+HFAHPLKA_00505	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+HFAHPLKA_00506	ROG1866	
+HFAHPLKA_00507	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00508	COG1091	[M] dTDP-4-dehydrorhamnose reductase    
+HFAHPLKA_00509	COG1088	[M] dTDP-D-glucose 4,6-dehydratase    
+HFAHPLKA_00510	COG1898	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+HFAHPLKA_00511	COG1209	[M] dTDP-glucose pyrophosphorylase    
+HFAHPLKA_00512	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00513	COG1216	[R] Predicted glycosyltransferases    
+HFAHPLKA_00514	COG1216	[R] Predicted glycosyltransferases    
+HFAHPLKA_00515	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+HFAHPLKA_00516	COG1295	[S] Predicted membrane protein   
+HFAHPLKA_00517	COG0024	[J] Methionine aminopeptidase    
+HFAHPLKA_00518	COG0716	[C] Flavodoxins     
+HFAHPLKA_00519	COG3476	[T] Tryptophan-rich sensory protein (mitochondrial benzodiazepine receptor
+HFAHPLKA_00520	ROG6516	
+HFAHPLKA_00521	COG2309	[E] Leucyl aminopeptidase (aminopeptidase T)  
+HFAHPLKA_00522	ROG0061	
+HFAHPLKA_00523	COG0590	[FJ] Cytosine/adenosine deaminases    
+HFAHPLKA_00524	COG2508	[TQ] Regulator of polyketide synthase expression 
+HFAHPLKA_00525	COG0384	[R] Predicted epimerase, PhzC/PhzF homolog  
+HFAHPLKA_00527	COG2738	[R] Predicted Zn-dependent protease   
+HFAHPLKA_00528	COG5294	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00529	ROG0345	
+HFAHPLKA_00530	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+HFAHPLKA_00531	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_00532	COG3832	[S] Uncharacterized conserved protein   
+HFAHPLKA_00534	COG3537	[G] Putative alpha-1,2-mannosidase    
+HFAHPLKA_00535	COG4753	[T] Response regulator containing CheY-like receiver domain
+HFAHPLKA_00536	COG2972	[T] Predicted signal transduction protein with a
+HFAHPLKA_00537	COG5578	[S] Predicted integral membrane protein  
+HFAHPLKA_00538	COG1653	[G] ABC-type sugar transport system, periplasmic component
+HFAHPLKA_00539	COG0395	[G] ABC-type sugar transport system, permease component
+HFAHPLKA_00540	COG4209	[G] ABC-type polysaccharide transport system, permease component
+HFAHPLKA_00541	ROG0682	
+HFAHPLKA_00542	ROG4843	
+HFAHPLKA_00543	COG2452	[L] Predicted site-specific integrase-resolvase   
+HFAHPLKA_00544	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00545	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00546	COG0180	[J] Tryptophanyl-tRNA synthetase    
+HFAHPLKA_00547	ROG3338	
+HFAHPLKA_00549	ROG8273	
+HFAHPLKA_00550	COG0395	[G] ABC-type sugar transport system, permease component
+HFAHPLKA_00551	COG1175	[G] ABC-type sugar transport systems, permease components
+HFAHPLKA_00552	COG1653	[G] ABC-type sugar transport system, periplasmic component
+HFAHPLKA_00553	ROG0265	
+HFAHPLKA_00554	COG4289	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00555	COG4105	[R] DNA uptake lipoprotein   
+HFAHPLKA_00556	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_00557	ROG5922	
+HFAHPLKA_00558	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+HFAHPLKA_00559	COG4146	[R] Predicted symporter    
+HFAHPLKA_00560	COG1082	[G] Sugar phosphate isomerases/epimerases   
+HFAHPLKA_00561	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_00562	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_00563	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+HFAHPLKA_00564	COG3718	[G] Uncharacterized enzyme involved in inositol metabolism
+HFAHPLKA_00565	COG3962	[E] Acetolactate synthase    
+HFAHPLKA_00566	COG0524	[G] Sugar kinases, ribokinase family  
+HFAHPLKA_00567	COG1879	[G] ABC-type sugar transport system, periplasmic component
+HFAHPLKA_00568	COG0481	[M] Membrane GTPase LepA   
+HFAHPLKA_00569	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+HFAHPLKA_00570	COG3613	[F] Nucleoside 2-deoxyribosyltransferase    
+HFAHPLKA_00571	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+HFAHPLKA_00572	COG0842	[V] ABC-type multidrug transport system, permease component
+HFAHPLKA_00573	COG1131	[V] ABC-type multidrug transport system, ATPase component
+HFAHPLKA_00574	COG1541	[H] Coenzyme F390 synthetase   
+HFAHPLKA_00575	COG1541	[H] Coenzyme F390 synthetase   
+HFAHPLKA_00576	COG2610	[GE] H+/gluconate symporter and related permeases 
+HFAHPLKA_00577	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+HFAHPLKA_00578	COG2259	[S] Predicted membrane protein   
+HFAHPLKA_00579	COG0015	[F] Adenylosuccinate lyase    
+HFAHPLKA_00580	COG0026	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+HFAHPLKA_00581	COG2233	[F] Xanthine/uracil permeases    
+HFAHPLKA_00582	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+HFAHPLKA_00583	ROG0714	
+HFAHPLKA_00584	COG1705	[NU] Muramidase (flagellum-specific)    
+HFAHPLKA_00587	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_00588	COG0017	[J] Aspartyl/asparaginyl-tRNA synthetases    
+HFAHPLKA_00589	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HFAHPLKA_00590	COG5353	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00591	COG1199	[KL] Rad3-related DNA helicases   
+HFAHPLKA_00592	ROG8232	
+HFAHPLKA_00593	COG0531	[E] Amino acid transporters   
+HFAHPLKA_00594	COG2176	[L] DNA polymerase III, alpha subunit (gram-positive
+HFAHPLKA_00595	COG0442	[J] Prolyl-tRNA synthetase    
+HFAHPLKA_00596	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+HFAHPLKA_00597	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_00598	COG2364	[S] Predicted membrane protein   
+HFAHPLKA_00599	ROG2190	
+HFAHPLKA_00600	COG0863	[L] DNA modification methylase   
+HFAHPLKA_00601	COG0719	[O] ABC-type transport system involved in Fe-S
+HFAHPLKA_00602	COG0822	[C] NifU homolog involved in Fe-S cluster
+HFAHPLKA_00603	COG0520	[E] Selenocysteine lyase    
+HFAHPLKA_00604	COG0719	[O] ABC-type transport system involved in Fe-S
+HFAHPLKA_00605	COG0396	[O] ABC-type transport system involved in Fe-S
+HFAHPLKA_00606	COG0233	[J] Ribosome recycling factor   
+HFAHPLKA_00607	COG0528	[F] Uridylate kinase    
+HFAHPLKA_00608	COG0264	[J] Translation elongation factor Ts  
+HFAHPLKA_00609	COG0052	[J] Ribosomal protein S2   
+HFAHPLKA_00610	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_00611	COG0566	[J] rRNA methylases    
+HFAHPLKA_00612	COG1254	[C] Acylphosphatases     
+HFAHPLKA_00613	COG0706	[U] Preprotein translocase subunit YidC  
+HFAHPLKA_00614	ROG3184	
+HFAHPLKA_00615	COG0751	[J] Glycyl-tRNA synthetase, beta subunit  
+HFAHPLKA_00616	COG0752	[J] Glycyl-tRNA synthetase, alpha subunit  
+HFAHPLKA_00617	COG1381	[L] Recombinational DNA repair protein (RecF pathway)
+HFAHPLKA_00618	COG1159	[R] GTPase     
+HFAHPLKA_00619	COG0818	[M] Diacylglycerol kinase    
+HFAHPLKA_00620	COG0319	[R] Predicted metal-dependent hydrolase   
+HFAHPLKA_00621	COG1480	[R] Predicted membrane-associated HD superfamily hydrolase 
+HFAHPLKA_00622	COG1702	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+HFAHPLKA_00623	COG1610	[S] Uncharacterized conserved protein   
+HFAHPLKA_00624	COG0828	[J] Ribosomal protein S21   
+HFAHPLKA_00625	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+HFAHPLKA_00626	COG1806	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00627	COG0083	[E] Homoserine kinase    
+HFAHPLKA_00628	COG0498	[E] Threonine synthase    
+HFAHPLKA_00629	COG0460	[E] Homoserine dehydrogenase    
+HFAHPLKA_00630	COG0640	[K] Predicted transcriptional regulators   
+HFAHPLKA_00631	COG0345	[E] Pyrroline-5-carboxylate reductase    
+HFAHPLKA_00632	COG1109	[G] Phosphomannomutase     
+HFAHPLKA_00633	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+HFAHPLKA_00634	ROG2422	
+HFAHPLKA_00635	COG1695	[K] Predicted transcriptional regulators   
+HFAHPLKA_00636	COG0516	[F] IMP dehydrogenase/GMP reductase   
+HFAHPLKA_00637	COG2233	[F] Xanthine/uracil permeases    
+HFAHPLKA_00638	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+HFAHPLKA_00639	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+HFAHPLKA_00640	COG0406	[G] Fructose-2,6-bisphosphatase     
+HFAHPLKA_00641	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_00642	COG1264	[G] Phosphotransferase system IIB components  
+HFAHPLKA_00643	COG2103	[R] Predicted sugar phosphate isomerase  
+HFAHPLKA_00644	COG3589	[S] Uncharacterized conserved protein   
+HFAHPLKA_00645	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_00646	COG1968	[V] Uncharacterized bacitracin resistance protein  
+HFAHPLKA_00647	COG3394	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00648	COG1392	[P] Phosphate transport regulator (distant homolog of
+HFAHPLKA_00649	COG0306	[P] Phosphate/sulphate permeases    
+HFAHPLKA_00650	COG0268	[J] Ribosomal protein S20   
+HFAHPLKA_00651	COG1607	[I] Acyl-CoA hydrolase    
+HFAHPLKA_00652	COG1893	[H] Ketopantoate reductase    
+HFAHPLKA_00653	COG1466	[L] DNA polymerase III, delta subunit 
+HFAHPLKA_00654	COG2333	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+HFAHPLKA_00655	COG2131	[F] Deoxycytidylate deaminase    
+HFAHPLKA_00656	COG1555	[L] DNA uptake protein and related DNA-binding
+HFAHPLKA_00657	COG3480	[T] Predicted secreted protein containing a PDZ
+HFAHPLKA_00658	COG0669	[H] Phosphopantetheine adenylyltransferase    
+HFAHPLKA_00659	COG0742	[L] N6-adenine-specific methylase    
+HFAHPLKA_00660	COG4471	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00661	COG3679	[S] Uncharacterized conserved protein   
+HFAHPLKA_00663	COG1038	[C] Pyruvate carboxylase    
+HFAHPLKA_00664	COG0772	[D] Bacterial cell division membrane protein 
+HFAHPLKA_00665	COG4838	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00666	COG0514	[L] Superfamily II DNA helicase  
+HFAHPLKA_00667	COG1217	[T] Predicted membrane GTPase involved in stress
+HFAHPLKA_00668	COG0483	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+HFAHPLKA_00669	COG4476	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00670	COG0038	[P] Chloride channel protein EriC  
+HFAHPLKA_00671	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+HFAHPLKA_00672	COG0392	[S] Predicted integral membrane protein  
+HFAHPLKA_00673	COG4932	[M] Predicted outer membrane protein  
+HFAHPLKA_00675	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_00676	COG1418	[R] Predicted HD superfamily hydrolase  
+HFAHPLKA_00677	COG0018	[J] Arginyl-tRNA synthetase    
+HFAHPLKA_00678	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+HFAHPLKA_00679	COG0456	[R] Acetyltransferases     
+HFAHPLKA_00680	COG0456	[R] Acetyltransferases     
+HFAHPLKA_00681	COG1214	[O] Inactive homolog of metal-dependent proteases, putative
+HFAHPLKA_00682	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+HFAHPLKA_00683	COG4260	[S] Putative virion core protein (lumpy skin
+HFAHPLKA_00684	ROG0309	
+HFAHPLKA_00685	COG1512	[R] Beta-propeller domains of methanol dehydrogenase type
+HFAHPLKA_00686	ROG2458	
+HFAHPLKA_00687	COG0546	[R] Predicted phosphatases    
+HFAHPLKA_00688	ROG8031	
+HFAHPLKA_00689	COG2102	[R] Predicted ATPases of PP-loop superfamily 
+HFAHPLKA_00690	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_00691	ROG0937	
+HFAHPLKA_00692	COG0177	[L] Predicted EndoIII-related endonuclease   
+HFAHPLKA_00693	COG1192	[D] ATPases involved in chromosome partitioning 
+HFAHPLKA_00694	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_00695	COG4644	[L] Transposase and inactivated derivatives, TnpA family
+HFAHPLKA_00697	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+HFAHPLKA_00699	COG2216	[P] High-affinity K+ transport system, ATPase chain
+HFAHPLKA_00701	ROG4314	
+HFAHPLKA_00702	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_00704	ROG7200	
+HFAHPLKA_00705	ROG1153	
+HFAHPLKA_00706	ROG2613	
+HFAHPLKA_00709	ROG1071	
+HFAHPLKA_00710	ROG7492	
+HFAHPLKA_00712	ROG7258	
+HFAHPLKA_00714	ROG3255	
+HFAHPLKA_00717	ROG4057	
+HFAHPLKA_00721	COG1525	[L] Micrococcal nuclease (thermonuclease) homologs  
+HFAHPLKA_00722	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_00723	COG4043	[S] Uncharacterized conserved protein   
+HFAHPLKA_00724	COG2214	[O] DnaJ-class molecular chaperone   
+HFAHPLKA_00725	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_00728	COG5541	[O] Vesicle coat complex COPI, zeta subunit
+HFAHPLKA_00730	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_00731	ROG1543	
+HFAHPLKA_00735	ROG8511	
+HFAHPLKA_00737	ROG7736	
+HFAHPLKA_00739	COG3666	[L] Transposase and inactivated derivatives  
+HFAHPLKA_00740	ROG8329	
+HFAHPLKA_00742	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_00744	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+HFAHPLKA_00747	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+HFAHPLKA_00748	COG0337	[E] 3-dehydroquinate synthetase    
+HFAHPLKA_00749	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_00750	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+HFAHPLKA_00751	COG2876	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+HFAHPLKA_00752	COG1996	[K] DNA-directed RNA polymerase, subunit RPC10 (contains
+HFAHPLKA_00753	ROG7816	
+HFAHPLKA_00754	COG0254	[J] Ribosomal protein L31   
+HFAHPLKA_00758	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_00759	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+HFAHPLKA_00760	COG2261	[S] Predicted membrane protein   
+HFAHPLKA_00761	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+HFAHPLKA_00762	COG2137	[R] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00763	COG1194	[L] A/G-specific DNA glycosylase   
+HFAHPLKA_00764	COG1316	[K] Transcriptional regulator    
+HFAHPLKA_00766	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_00767	COG1051	[F] ADP-ribose pyrophosphatase    
+HFAHPLKA_00768	COG3853	[P] Uncharacterized protein involved in tellurite resistance
+HFAHPLKA_00769	COG4915	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+HFAHPLKA_00770	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+HFAHPLKA_00771	ROG0195	
+HFAHPLKA_00772	COG0775	[F] Nucleoside phosphorylase    
+HFAHPLKA_00773	COG2827	[L] Predicted endonuclease containing a URI domain
+HFAHPLKA_00774	COG4123	[R] Predicted O-methyltransferase    
+HFAHPLKA_00775	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+HFAHPLKA_00776	COG0420	[L] DNA repair exonuclease   
+HFAHPLKA_00777	COG0419	[L] ATPase involved in DNA repair 
+HFAHPLKA_00778	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+HFAHPLKA_00779	ROG2481	
+HFAHPLKA_00780	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_00781	ROG2780	
+HFAHPLKA_00782	COG4886	[S] Leucine-rich repeat (LRR) protein  
+HFAHPLKA_00784	ROG7668	
+HFAHPLKA_00785	ROG7668	
+HFAHPLKA_00786	ROG1429	
+HFAHPLKA_00787	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+HFAHPLKA_00788	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00789	COG0180	[J] Tryptophanyl-tRNA synthetase    
+HFAHPLKA_00790	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+HFAHPLKA_00791	COG4862	[OTN] Negative regulator of genetic competence, sporulation
+HFAHPLKA_00792	COG4469	[R] Competence protein    
+HFAHPLKA_00793	COG1164	[E] Oligoendopeptidase F    
+HFAHPLKA_00794	ROG4395	
+HFAHPLKA_00795	COG4116	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00796	COG2357	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00797	COG0061	[G] Predicted sugar kinase   
+HFAHPLKA_00798	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+HFAHPLKA_00799	COG2239	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+HFAHPLKA_00800	COG3142	[P] Uncharacterized protein involved in copper resistance
+HFAHPLKA_00801	COG0500	[QR] SAM-dependent methyltransferases    
+HFAHPLKA_00802	COG0219	[J] Predicted rRNA methylase (SpoU class) 
+HFAHPLKA_00803	COG0406	[G] Fructose-2,6-bisphosphatase     
+HFAHPLKA_00804	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+HFAHPLKA_00805	COG1597	[IR] Sphingosine kinase and enzymes related to
+HFAHPLKA_00806	COG4708	[S] Predicted membrane protein   
+HFAHPLKA_00807	COG2348	[V] Uncharacterized protein involved in methicillin resistance
+HFAHPLKA_00808	COG4684	[S] Predicted membrane protein   
+HFAHPLKA_00809	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+HFAHPLKA_00810	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+HFAHPLKA_00811	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+HFAHPLKA_00812	COG1396	[K] Predicted transcriptional regulators   
+HFAHPLKA_00813	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+HFAHPLKA_00814	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+HFAHPLKA_00815	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+HFAHPLKA_00816	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+HFAHPLKA_00819	ROG0476	
+HFAHPLKA_00820	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_00822	COG0398	[S] Uncharacterized conserved protein   
+HFAHPLKA_00823	COG2610	[GE] H+/gluconate symporter and related permeases 
+HFAHPLKA_00824	COG1929	[G] Glycerate kinase    
+HFAHPLKA_00825	COG3835	[KT] Sugar diacid utilization regulator  
+HFAHPLKA_00826	COG1597	[IR] Sphingosine kinase and enzymes related to
+HFAHPLKA_00827	COG3597	[S] Uncharacterized protein/domain associated with GTPases 
+HFAHPLKA_00828	COG4176	[E] ABC-type proline/glycine betaine transport system, permease
+HFAHPLKA_00829	COG4175	[E] ABC-type proline/glycine betaine transport system, ATPase
+HFAHPLKA_00830	COG0490	[P] Putative regulatory, ligand-binding protein related to
+HFAHPLKA_00831	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_00832	COG2344	[R] AT-rich DNA-binding protein   
+HFAHPLKA_00833	COG1266	[R] Predicted metal-dependent membrane protease  
+HFAHPLKA_00834	ROG4453	
+HFAHPLKA_00835	COG0234	[O] Co-chaperonin GroES (HSP10)   
+HFAHPLKA_00836	COG0459	[O] Chaperonin GroEL (HSP60 family)  
+HFAHPLKA_00837	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_00838	ROG0251	
+HFAHPLKA_00839	COG1705	[NU] Muramidase (flagellum-specific)    
+HFAHPLKA_00840	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_00841	COG2246	[S] Predicted membrane protein   
+HFAHPLKA_00842	COG1488	[H] Nicotinic acid phosphoribosyltransferase   
+HFAHPLKA_00843	COG0171	[H] NAD synthase    
+HFAHPLKA_00844	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_00845	COG3592	[S] Uncharacterized conserved protein   
+HFAHPLKA_00846	COG2388	[R] Predicted acetyltransferase    
+HFAHPLKA_00847	COG1314	[U] Preprotein translocase subunit SecG  
+HFAHPLKA_00848	COG1647	[R] Esterase/lipase     
+HFAHPLKA_00849	COG0557	[K] Exoribonuclease R    
+HFAHPLKA_00850	COG0691	[O] tmRNA-binding protein    
+HFAHPLKA_00851	COG0356	[C] F0F1-type ATP synthase, subunit a 
+HFAHPLKA_00852	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+HFAHPLKA_00853	COG0711	[C] F0F1-type ATP synthase, subunit b 
+HFAHPLKA_00854	COG0712	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+HFAHPLKA_00855	COG0056	[C] F0F1-type ATP synthase, alpha subunit 
+HFAHPLKA_00856	COG0224	[C] F0F1-type ATP synthase, gamma subunit 
+HFAHPLKA_00857	COG0055	[C] F0F1-type ATP synthase, beta subunit 
+HFAHPLKA_00858	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+HFAHPLKA_00859	COG4836	[S] Predicted membrane protein   
+HFAHPLKA_00860	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+HFAHPLKA_00861	ROG4207	
+HFAHPLKA_00862	COG3731	[G] Phosphotransferase system sorbitol-specific component IIA 
+HFAHPLKA_00863	COG0628	[R] Predicted permease    
+HFAHPLKA_00864	COG1182	[I] Acyl carrier protein phosphodiesterase  
+HFAHPLKA_00865	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_00866	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_00867	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_00868	COG0194	[F] Guanylate kinase    
+HFAHPLKA_00869	COG1309	[K] Transcriptional regulator    
+HFAHPLKA_00870	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00871	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_00872	ROG7677	
+HFAHPLKA_00873	COG1680	[V] Beta-lactamase class C and other penicillin
+HFAHPLKA_00874	COG1482	[G] Phosphomannose isomerase    
+HFAHPLKA_00875	ROG0240	
+HFAHPLKA_00876	COG1957	[F] Inosine-uridine nucleoside N-ribohydrolase   
+HFAHPLKA_00877	COG3442	[R] Predicted glutamine amidotransferase   
+HFAHPLKA_00878	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+HFAHPLKA_00879	COG2964	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_00880	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+HFAHPLKA_00881	COG0493	[ER] NADPH-dependent glutamate synthase beta chain and
+HFAHPLKA_00882	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+HFAHPLKA_00883	COG1171	[E] Threonine dehydratase    
+HFAHPLKA_00884	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+HFAHPLKA_00885	COG0078	[E] Ornithine carbamoyltransferase    
+HFAHPLKA_00886	COG0549	[E] Carbamate kinase    
+HFAHPLKA_00887	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+HFAHPLKA_00888	COG2233	[F] Xanthine/uracil permeases    
+HFAHPLKA_00889	COG2005	[R] N-terminal domain of molybdenum-binding protein 
+HFAHPLKA_00890	COG1975	[O] Xanthine and CO dehydrogenases maturation factor,
+HFAHPLKA_00891	COG1529	[C] Aerobic-type carbon monoxide dehydrogenase, large subunit
+HFAHPLKA_00892	COG2068	[R] Uncharacterized MobA-related protein   
+HFAHPLKA_00893	COG0520	[E] Selenocysteine lyase    
+HFAHPLKA_00894	COG0709	[E] Selenophosphate synthase    
+HFAHPLKA_00895	ROG0704	
+HFAHPLKA_00896	ROG0828	
+HFAHPLKA_00897	ROG0522	
+HFAHPLKA_00898	COG1013	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HFAHPLKA_00899	COG0168	[P] Trk-type K+ transport systems, membrane components
+HFAHPLKA_00900	COG1053	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+HFAHPLKA_00901	COG1435	[F] Thymidine kinase    
+HFAHPLKA_00902	COG0216	[J] Protein chain release factor A 
+HFAHPLKA_00903	COG2890	[J] Methylase of polypeptide chain release factors
+HFAHPLKA_00904	COG0009	[J] Putative translation factor (SUA5)  
+HFAHPLKA_00905	COG0112	[E] Glycine/serine hydroxymethyltransferase    
+HFAHPLKA_00906	COG0035	[F] Uracil phosphoribosyltransferase    
+HFAHPLKA_00907	ROG1659	
+HFAHPLKA_00908	ROG1680	
+HFAHPLKA_00910	COG4392	[S] Predicted membrane protein   
+HFAHPLKA_00911	COG1296	[E] Predicted branched-chain amino acid permease (azaleucine
+HFAHPLKA_00912	COG1396	[K] Predicted transcriptional regulators   
+HFAHPLKA_00914	ROG5602	
+HFAHPLKA_00916	ROG7009	
+HFAHPLKA_00917	COG0772	[D] Bacterial cell division membrane protein 
+HFAHPLKA_00918	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+HFAHPLKA_00919	COG0509	[E] Glycine cleavage system H protein (lipoate-binding)
+HFAHPLKA_00920	COG1135	[P] ABC-type metal ion transport system, ATPase
+HFAHPLKA_00921	COG2011	[P] ABC-type metal ion transport system, permease
+HFAHPLKA_00922	COG1464	[P] ABC-type metal ion transport system, periplasmic
+HFAHPLKA_00923	COG0020	[I] Undecaprenyl pyrophosphate synthase   
+HFAHPLKA_00924	COG0575	[I] CDP-diglyceride synthetase    
+HFAHPLKA_00925	COG1887	[M] Putative glycosyl/glycerophosphate transferases involved in teichoic
+HFAHPLKA_00926	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00927	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00928	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_00929	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00930	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+HFAHPLKA_00931	ROG3068	
+HFAHPLKA_00932	COG0562	[M] UDP-galactopyranose mutase    
+HFAHPLKA_00933	COG1134	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+HFAHPLKA_00934	COG1682	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+HFAHPLKA_00935	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_00936	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_00937	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_00938	COG0626	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+HFAHPLKA_00939	COG0031	[E] Cysteine synthase    
+HFAHPLKA_00941	COG0231	[J] Translation elongation factor P (EF-P)/translation initiation
+HFAHPLKA_00942	ROG2890	
+HFAHPLKA_00943	COG0167	[F] Dihydroorotate dehydrogenase    
+HFAHPLKA_00944	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+HFAHPLKA_00945	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+HFAHPLKA_00946	COG0623	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+HFAHPLKA_00948	COG0053	[P] Predicted Co/Zn/Cd cation transporters  
+HFAHPLKA_00949	ROG1750	
+HFAHPLKA_00950	COG2818	[L] 3-methyladenine DNA glycosylase   
+HFAHPLKA_00951	COG0350	[L] Methylated DNA-protein cysteine methyltransferase  
+HFAHPLKA_00952	COG2169	[F] Adenosine deaminase    
+HFAHPLKA_00953	COG2267	[I] Lysophospholipase     
+HFAHPLKA_00954	COG0406	[G] Fructose-2,6-bisphosphatase     
+HFAHPLKA_00955	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_00956	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_00957	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_00958	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_00986	COG1098	[J] Predicted RNA binding protein (contains ribosomal
+HFAHPLKA_00987	COG1168	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+HFAHPLKA_00988	ROG5469	
+HFAHPLKA_00989	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+HFAHPLKA_00990	COG0492	[O] Thioredoxin reductase    
+HFAHPLKA_00991	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+HFAHPLKA_00992	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+HFAHPLKA_00993	COG1653	[G] ABC-type sugar transport system, periplasmic component
+HFAHPLKA_00994	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+HFAHPLKA_00995	COG0395	[G] ABC-type sugar transport system, permease component
+HFAHPLKA_00996	COG1175	[G] ABC-type sugar transport systems, permease components
+HFAHPLKA_00997	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+HFAHPLKA_00998	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_00999	COG4841	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01000	COG0569	[P] K+ transport systems, NAD-binding component 
+HFAHPLKA_01001	COG2197	[TK] Response regulator containing a CheY-like receiver
+HFAHPLKA_01002	COG4585	[T] Signal transduction histidine kinase  
+HFAHPLKA_01003	COG4758	[S] Predicted membrane protein   
+HFAHPLKA_01004	COG0782	[K] Transcription elongation factor   
+HFAHPLKA_01005	COG1559	[R] Predicted periplasmic solute-binding protein  
+HFAHPLKA_01006	COG0381	[M] UDP-N-acetylglucosamine 2-epimerase    
+HFAHPLKA_01007	COG0663	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+HFAHPLKA_01008	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_01009	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_01010	COG2832	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01011	COG5503	[S] Uncharacterized conserved small protein  
+HFAHPLKA_01012	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+HFAHPLKA_01013	COG1278	[K] Cold shock proteins   
+HFAHPLKA_01014	COG2003	[L] DNA repair proteins   
+HFAHPLKA_01015	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+HFAHPLKA_01016	COG0285	[H] Folylpolyglutamate synthase    
+HFAHPLKA_01017	COG4485	[S] Predicted membrane protein   
+HFAHPLKA_01018	COG0398	[S] Uncharacterized conserved protein   
+HFAHPLKA_01019	COG0525	[J] Valyl-tRNA synthetase    
+HFAHPLKA_01020	COG2077	[O] Peroxiredoxin     
+HFAHPLKA_01021	COG2344	[R] AT-rich DNA-binding protein   
+HFAHPLKA_01022	COG0301	[H] Thiamine biosynthesis ATP pyrophosphatase  
+HFAHPLKA_01023	COG0582	[L] Integrase     
+HFAHPLKA_01024	ROG3836	
+HFAHPLKA_01025	COG4808	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01026	ROG3723	
+HFAHPLKA_01028	COG3344	[L] Retron-type reverse transcriptase   
+HFAHPLKA_01030	ROG7847	
+HFAHPLKA_01031	ROG1026	
+HFAHPLKA_01033	ROG0579	
+HFAHPLKA_01034	ROG6367	
+HFAHPLKA_01036	ROG7789	
+HFAHPLKA_01039	COG4932	[M] Predicted outer membrane protein  
+HFAHPLKA_01042	COG2946	[L] Putative phage replication protein RstA 
+HFAHPLKA_01043	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+HFAHPLKA_01046	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+HFAHPLKA_01047	COG2361	[S] Uncharacterized conserved protein   
+HFAHPLKA_01048	COG1669	[R] Predicted nucleotidyltransferases    
+HFAHPLKA_01052	ROG7045	
+HFAHPLKA_01055	ROG3370	
+HFAHPLKA_01056	ROG1003	
+HFAHPLKA_01057	COG1733	[K] Predicted transcriptional regulators   
+HFAHPLKA_01058	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+HFAHPLKA_01059	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HFAHPLKA_01060	COG0789	[K] Predicted transcriptional regulators   
+HFAHPLKA_01061	COG0406	[G] Fructose-2,6-bisphosphatase     
+HFAHPLKA_01062	COG1733	[K] Predicted transcriptional regulators   
+HFAHPLKA_01064	ROG3147	
+HFAHPLKA_01066	COG1278	[K] Cold shock proteins   
+HFAHPLKA_01068	ROG7262	
+HFAHPLKA_01069	COG3212	[S] Predicted membrane protein   
+HFAHPLKA_01071	ROG1688	
+HFAHPLKA_01072	COG3397	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01073	ROG7668	
+HFAHPLKA_01074	ROG1429	
+HFAHPLKA_01075	ROG1241	
+HFAHPLKA_01076	ROG7668	
+HFAHPLKA_01078	COG2252	[R] Permeases     
+HFAHPLKA_01079	COG4221	[R] Short-chain alcohol dehydrogenase of unknown specificity
+HFAHPLKA_01080	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+HFAHPLKA_01081	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_01082	COG4975	[G] Putative glucose uptake permease  
+HFAHPLKA_01083	COG1869	[G] ABC-type ribose transport system, auxiliary component
+HFAHPLKA_01084	COG0524	[G] Sugar kinases, ribokinase family  
+HFAHPLKA_01085	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_01086	COG0657	[I] Esterase/lipase     
+HFAHPLKA_01087	COG3037	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01088	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+HFAHPLKA_01089	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_01090	COG1295	[S] Predicted membrane protein   
+HFAHPLKA_01091	ROG0028	
+HFAHPLKA_01092	ROG1429	
+HFAHPLKA_01093	ROG7668	
+HFAHPLKA_01094	COG1834	[E] N-Dimethylarginine dimethylaminohydrolase    
+HFAHPLKA_01095	COG1785	[P] Alkaline phosphatase    
+HFAHPLKA_01096	COG1193	[L] Mismatch repair ATPase (MutS family) 
+HFAHPLKA_01097	ROG1892	
+HFAHPLKA_01098	COG1921	[E] Selenocysteine synthase [seryl-tRNASer selenium transferase] 
+HFAHPLKA_01099	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_01100	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_01101	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_01102	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_01103	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+HFAHPLKA_01104	COG0406	[G] Fructose-2,6-bisphosphatase     
+HFAHPLKA_01105	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+HFAHPLKA_01107	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+HFAHPLKA_01108	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_01109	ROG0722	
+HFAHPLKA_01110	COG0607	[P] Rhodanese-related sulfurtransferase    
+HFAHPLKA_01111	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_01112	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_01113	COG0607	[P] Rhodanese-related sulfurtransferase    
+HFAHPLKA_01114	COG1937	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01115	COG0738	[G] Fucose permease    
+HFAHPLKA_01116	COG0075	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+HFAHPLKA_01117	COG2508	[TQ] Regulator of polyketide synthase expression 
+HFAHPLKA_01118	COG3257	[R] Uncharacterized protein, possibly involved in glyoxylate
+HFAHPLKA_01119	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+HFAHPLKA_01120	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+HFAHPLKA_01121	COG1953	[FH] Cytosine/uracil/thiamine/allantoin permeases    
+HFAHPLKA_01122	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_01123	COG3355	[K] Predicted transcriptional regulator   
+HFAHPLKA_01124	ROG5516	
+HFAHPLKA_01125	COG0659	[P] Sulfate permease and related transporters (MFS
+HFAHPLKA_01126	COG3049	[M] Penicillin V acylase and related amidases
+HFAHPLKA_01127	ROG8476	
+HFAHPLKA_01128	ROG4630	
+HFAHPLKA_01129	COG0732	[V] Restriction endonuclease S subunits  
+HFAHPLKA_01130	COG0582	[L] Integrase     
+HFAHPLKA_01131	COG0732	[V] Restriction endonuclease S subunits  
+HFAHPLKA_01132	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HFAHPLKA_01133	COG0610	[V] Type I site-specific restriction-modification system, R
+HFAHPLKA_01134	ROG4140	
+HFAHPLKA_01135	COG2508	[TQ] Regulator of polyketide synthase expression 
+HFAHPLKA_01137	COG0074	[C] Succinyl-CoA synthetase, alpha subunit  
+HFAHPLKA_01138	ROG1330	
+HFAHPLKA_01140	ROG4163	
+HFAHPLKA_01141	COG0474	[P] Cation transport ATPase   
+HFAHPLKA_01142	COG3633	[E] Na+/serine symporter    
+HFAHPLKA_01143	COG1226	[P] Kef-type K+ transport systems, predicted NAD-binding
+HFAHPLKA_01144	COG0101	[J] Pseudouridylate synthase    
+HFAHPLKA_01145	ROG0997	
+HFAHPLKA_01146	ROG7555	
+HFAHPLKA_01147	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+HFAHPLKA_01148	ROG0796	
+HFAHPLKA_01149	COG1301	[C] Na+/H+-dicarboxylate symporters    
+HFAHPLKA_01150	ROG0692	
+HFAHPLKA_01151	COG5492	[N] Bacterial surface proteins containing Ig-like domains
+HFAHPLKA_01152	COG1576	[S] Uncharacterized conserved protein   
+HFAHPLKA_01153	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+HFAHPLKA_01154	COG0073	[R] EMAP domain    
+HFAHPLKA_01155	COG0589	[T] Universal stress protein UspA and related
+HFAHPLKA_01156	ROG0471	
+HFAHPLKA_01157	COG1363	[G] Cellulase M and related proteins 
+HFAHPLKA_01158	COG5584	[S] Predicted small secreted protein  
+HFAHPLKA_01159	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_01160	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_01161	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_01162	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+HFAHPLKA_01163	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_01164	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_01166	COG3394	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01167	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01168	COG2818	[L] 3-methyladenine DNA glycosylase   
+HFAHPLKA_01169	ROG3860	
+HFAHPLKA_01171	COG3859	[S] Predicted membrane protein   
+HFAHPLKA_01172	COG3212	[S] Predicted membrane protein   
+HFAHPLKA_01173	ROG3475	
+HFAHPLKA_01174	COG3764	[M] Sortase (surface protein transpeptidase)  
+HFAHPLKA_01175	ROG2578	
+HFAHPLKA_01176	COG0394	[T] Protein-tyrosine-phosphatase     
+HFAHPLKA_01177	COG1309	[K] Transcriptional regulator    
+HFAHPLKA_01178	COG3883	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01179	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_01180	COG2891	[M] Cell shape-determining protein   
+HFAHPLKA_01181	COG1792	[M] Cell shape-determining protein   
+HFAHPLKA_01182	COG1185	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+HFAHPLKA_01183	COG0184	[J] Ribosomal protein S15P/S13E   
+HFAHPLKA_01184	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+HFAHPLKA_01185	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_01186	COG4912	[L] Predicted DNA alkylation repair enzyme 
+HFAHPLKA_01187	COG2116	[P] Formate/nitrite family of transporters  
+HFAHPLKA_01188	COG0522	[J] Ribosomal protein S4 and related proteins
+HFAHPLKA_01189	COG1268	[R] Uncharacterized conserved protein   
+HFAHPLKA_01190	COG0681	[U] Signal peptidase I   
+HFAHPLKA_01192	ROG5936	
+HFAHPLKA_01193	ROG8118	
+HFAHPLKA_01194	COG4493	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01195	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+HFAHPLKA_01196	COG2195	[E] Di- and tripeptidases   
+HFAHPLKA_01197	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_01198	COG4607	[P] ABC-type enterochelin transport system, periplasmic component
+HFAHPLKA_01199	COG4604	[P] ABC-type enterochelin transport system, ATPase component
+HFAHPLKA_01200	COG4605	[P] ABC-type enterochelin transport system, permease component
+HFAHPLKA_01201	COG4606	[P] ABC-type enterochelin transport system, permease component
+HFAHPLKA_01202	COG5506	[S] Uncharacterized conserved protein   
+HFAHPLKA_01203	COG2918	[H] Gamma-glutamylcysteine synthetase    
+HFAHPLKA_01204	COG1335	[Q] Amidases related to nicotinamidase  
+HFAHPLKA_01205	COG1284	[S] Uncharacterized conserved protein   
+HFAHPLKA_01206	COG3607	[R] Predicted lactoylglutathione lyase   
+HFAHPLKA_01207	COG3542	[S] Uncharacterized conserved protein   
+HFAHPLKA_01208	COG0552	[U] Signal recognition particle GTPase  
+HFAHPLKA_01209	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_01210	COG1196	[D] Chromosome segregation ATPases   
+HFAHPLKA_01211	COG0571	[K] dsRNA-specific ribonuclease    
+HFAHPLKA_01212	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+HFAHPLKA_01213	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+HFAHPLKA_01214	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+HFAHPLKA_01215	COG4608	[E] ABC-type oligopeptide transport system, ATPase component
+HFAHPLKA_01216	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+HFAHPLKA_01217	COG0236	[IQ] Acyl carrier protein   
+HFAHPLKA_01218	COG0416	[I] Fatty acid/phospholipid biosynthesis enzyme  
+HFAHPLKA_01219	COG1200	[LK] RecG-like helicase    
+HFAHPLKA_01220	COG1461	[R] Predicted kinase related to dihydroxyacetone kinase
+HFAHPLKA_01221	COG1302	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01222	COG3279	[KT] Response regulator of the LytR/AlgR family
+HFAHPLKA_01223	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+HFAHPLKA_01224	COG1668	[CP] ABC-type Na+ efflux pump, permease component
+HFAHPLKA_01225	COG4152	[R] ABC-type uncharacterized transport system, ATPase component
+HFAHPLKA_01226	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_01227	ROG0722	
+HFAHPLKA_01228	ROG5879	
+HFAHPLKA_01229	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+HFAHPLKA_01230	COG0500	[QR] SAM-dependent methyltransferases    
+HFAHPLKA_01231	ROG5580	
+HFAHPLKA_01236	COG3353	[N] Putative archaeal flagellar protein F 
+HFAHPLKA_01237	COG0227	[J] Ribosomal protein L28   
+HFAHPLKA_01238	COG1564	[H] Thiamine pyrophosphokinase    
+HFAHPLKA_01239	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+HFAHPLKA_01240	COG1162	[R] Predicted GTPases    
+HFAHPLKA_01241	COG2815	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01242	COG0631	[T] Serine/threonine protein phosphatase   
+HFAHPLKA_01243	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+HFAHPLKA_01244	COG0223	[J] Methionyl-tRNA formyltransferase    
+HFAHPLKA_01245	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+HFAHPLKA_01246	COG1198	[L] Primosomal protein N' (replication factor Y)
+HFAHPLKA_01247	COG1758	[K] DNA-directed RNA polymerase, subunit K/omega 
+HFAHPLKA_01248	COG0194	[F] Guanylate kinase    
+HFAHPLKA_01249	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+HFAHPLKA_01251	COG1561	[S] Uncharacterized stress-induced protein   
+HFAHPLKA_01252	COG4443	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01253	COG4405	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01254	COG0800	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+HFAHPLKA_01255	COG1312	[G] D-mannonate dehydratase    
+HFAHPLKA_01256	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_01257	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_01258	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_01259	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_01260	COG0371	[C] Glycerol dehydrogenase and related enzymes 
+HFAHPLKA_01261	COG0111	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+HFAHPLKA_01262	COG1023	[G] Predicted 6-phosphogluconate dehydrogenase   
+HFAHPLKA_01263	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01265	COG0558	[I] Phosphatidylglycerophosphate synthase    
+HFAHPLKA_01267	COG1426	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01268	COG0612	[R] Predicted Zn-dependent peptidases   
+HFAHPLKA_01269	COG0612	[R] Predicted Zn-dependent peptidases   
+HFAHPLKA_01270	COG1970	[M] Large-conductance mechanosensitive channel   
+HFAHPLKA_01271	ROG7668	
+HFAHPLKA_01272	ROG7668	
+HFAHPLKA_01273	COG2188	[K] Transcriptional regulators    
+HFAHPLKA_01274	COG1554	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+HFAHPLKA_01275	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+HFAHPLKA_01277	COG1266	[R] Predicted metal-dependent membrane protease  
+HFAHPLKA_01278	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+HFAHPLKA_01279	COG0229	[O] Conserved domain frequently associated with peptide
+HFAHPLKA_01280	COG0424	[D] Nucleotide-binding protein implicated in inhibition of
+HFAHPLKA_01281	COG0323	[L] DNA mismatch repair enzyme (predicted ATPase)
+HFAHPLKA_01282	COG0249	[L] Mismatch repair ATPase (MutS family) 
+HFAHPLKA_01283	COG4550	[S] Predicted membrane protein   
+HFAHPLKA_01284	COG1692	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01285	COG1418	[R] Predicted HD superfamily hydrolase  
+HFAHPLKA_01286	COG0468	[L] RecA/RadA recombinase    
+HFAHPLKA_01287	COG1058	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+HFAHPLKA_01289	COG2910	[R] Putative NADH-flavin reductase   
+HFAHPLKA_01290	COG1959	[K] Predicted transcriptional regulator   
+HFAHPLKA_01291	COG3304	[S] Predicted membrane protein   
+HFAHPLKA_01292	ROG8359	
+HFAHPLKA_01293	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_01294	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+HFAHPLKA_01295	ROG7868	
+HFAHPLKA_01296	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+HFAHPLKA_01297	ROG7009	
+HFAHPLKA_01298	COG0810	[M] Periplasmic protein TonB, links inner and
+HFAHPLKA_01299	ROG1429	
+HFAHPLKA_01300	ROG7668	
+HFAHPLKA_01301	ROG7668	
+HFAHPLKA_01302	ROG7668	
+HFAHPLKA_01303	COG4244	[S] Predicted membrane protein   
+HFAHPLKA_01305	COG0657	[I] Esterase/lipase     
+HFAHPLKA_01306	COG1335	[Q] Amidases related to nicotinamidase  
+HFAHPLKA_01307	COG1346	[M] Putative effector of murein hydrolase 
+HFAHPLKA_01308	COG1380	[R] Putative effector of murein hydrolase LrgA
+HFAHPLKA_01309	COG3279	[KT] Response regulator of the LytR/AlgR family
+HFAHPLKA_01310	COG3275	[T] Putative regulator of cell autolysis 
+HFAHPLKA_01311	COG1464	[P] ABC-type metal ion transport system, periplasmic
+HFAHPLKA_01312	COG2011	[P] ABC-type metal ion transport system, permease
+HFAHPLKA_01313	COG1135	[P] ABC-type metal ion transport system, ATPase
+HFAHPLKA_01314	COG1765	[O] Predicted redox protein, regulator of disulfide
+HFAHPLKA_01315	COG0199	[J] Ribosomal protein S14   
+HFAHPLKA_01316	COG0267	[J] Ribosomal protein L33   
+HFAHPLKA_01317	COG0523	[R] Putative GTPases (G3E family)  
+HFAHPLKA_01319	COG0803	[P] ABC-type metal ion transport system, periplasmic
+HFAHPLKA_01320	COG0042	[J] tRNA-dihydrouridine synthase    
+HFAHPLKA_01321	COG0842	[V] ABC-type multidrug transport system, permease component
+HFAHPLKA_01322	COG1131	[V] ABC-type multidrug transport system, ATPase component
+HFAHPLKA_01323	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_01324	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_01325	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_01326	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_01327	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+HFAHPLKA_01328	ROG0309	
+HFAHPLKA_01329	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+HFAHPLKA_01330	COG0103	[J] Ribosomal protein S9   
+HFAHPLKA_01331	COG0102	[J] Ribosomal protein L13   
+HFAHPLKA_01332	COG0783	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+HFAHPLKA_01334	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+HFAHPLKA_01335	COG1989	[NOU] Type II secretory pathway, prepilin signal
+HFAHPLKA_01336	COG0086	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+HFAHPLKA_01337	COG0085	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+HFAHPLKA_01338	COG2337	[T] Growth inhibitor    
+HFAHPLKA_01340	COG3478	[R] Predicted nucleic-acid-binding protein containing a Zn-ribbon
+HFAHPLKA_01341	COG0340	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+HFAHPLKA_01342	COG3397	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01343	COG1316	[K] Transcriptional regulator    
+HFAHPLKA_01344	ROG5936	
+HFAHPLKA_01345	ROG7668	
+HFAHPLKA_01346	ROG7668	
+HFAHPLKA_01347	ROG5624	
+HFAHPLKA_01348	COG1575	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+HFAHPLKA_01349	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+HFAHPLKA_01350	COG4939	[S] Major membrane immunogen, membrane-anchored lipoprotein 
+HFAHPLKA_01351	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+HFAHPLKA_01352	COG5341	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01353	COG4769	[S] Predicted membrane protein   
+HFAHPLKA_01354	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+HFAHPLKA_01355	ROG0259	
+HFAHPLKA_01356	COG2337	[T] Growth inhibitor    
+HFAHPLKA_01357	COG0294	[H] Dihydropteroate synthase and related enzymes 
+HFAHPLKA_01358	COG0127	[F] Xanthosine triphosphate pyrophosphatase   
+HFAHPLKA_01359	COG0302	[H] GTP cyclohydrolase I   
+HFAHPLKA_01360	COG0801	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+HFAHPLKA_01361	COG1539	[H] Dihydroneopterin aldolase    
+HFAHPLKA_01362	COG1476	[K] Predicted transcriptional regulators   
+HFAHPLKA_01363	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+HFAHPLKA_01365	COG0145	[EQ] N-methylhydantoinase A/acetone carboxylase, beta subunit 
+HFAHPLKA_01366	COG3535	[S] Uncharacterized conserved protein   
+HFAHPLKA_01367	COG1457	[F] Purine-cytosine permease and related proteins 
+HFAHPLKA_01368	COG2508	[TQ] Regulator of polyketide synthase expression 
+HFAHPLKA_01369	COG0826	[O] Collagenase and related proteases  
+HFAHPLKA_01370	COG0826	[O] Collagenase and related proteases  
+HFAHPLKA_01371	COG1289	[S] Predicted membrane protein   
+HFAHPLKA_01372	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+HFAHPLKA_01373	COG4463	[K] Transcriptional repressor of class III stress
+HFAHPLKA_01374	COG0626	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+HFAHPLKA_01375	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_01376	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01385	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_01386	COG5002	[T] Signal transduction histidine kinase  
+HFAHPLKA_01387	COG0172	[J] Seryl-tRNA synthetase    
+HFAHPLKA_01388	COG0516	[F] IMP dehydrogenase/GMP reductase   
+HFAHPLKA_01389	ROG2181	
+HFAHPLKA_01390	COG4858	[S] Uncharacterized membrane-bound protein conserved in bacteria
+HFAHPLKA_01391	COG0012	[J] Predicted GTPase, probable translation factor 
+HFAHPLKA_01392	COG4481	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01393	COG1475	[K] Predicted transcriptional regulators   
+HFAHPLKA_01394	COG1192	[D] ATPases involved in chromosome partitioning 
+HFAHPLKA_01395	COG0357	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+HFAHPLKA_01396	ROG3463	
+HFAHPLKA_01397	COG4716	[S] Myosin-crossreactive antigen    
+HFAHPLKA_01398	COG0176	[G] Transaldolase     
+HFAHPLKA_01399	COG3731	[G] Phosphotransferase system sorbitol-specific component IIA 
+HFAHPLKA_01400	COG3732	[G] Phosphotransferase system sorbitol-specific component IIBC 
+HFAHPLKA_01401	COG3730	[G] Phosphotransferase system sorbitol-specific component IIC 
+HFAHPLKA_01402	COG4578	[K] Glucitol operon activator   
+HFAHPLKA_01403	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_01404	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_01405	COG0445	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+HFAHPLKA_01406	COG0486	[R] Predicted GTPase    
+HFAHPLKA_01407	ROG0453	
+HFAHPLKA_01408	COG1767	[H] Triphosphoribosyl-dephospho-CoA synthetase    
+HFAHPLKA_01409	COG0281	[C] Malic enzyme    
+HFAHPLKA_01410	COG5016	[C] Pyruvate/oxaloacetate carboxyltransferase    
+HFAHPLKA_01411	COG3697	[HI] Phosphoribosyl-dephospho-CoA transferase (holo-ACP synthetase)  
+HFAHPLKA_01412	COG3051	[C] Citrate lyase, alpha subunit  
+HFAHPLKA_01413	COG2301	[G] Citrate lyase beta subunit  
+HFAHPLKA_01414	COG3052	[C] Citrate lyase, gamma subunit  
+HFAHPLKA_01415	COG3053	[C] Citrate lyase synthetase   
+HFAHPLKA_01416	COG1380	[R] Putative effector of murein hydrolase LrgA
+HFAHPLKA_01417	COG1883	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+HFAHPLKA_01418	COG0511	[I] Biotin carboxyl carrier protein  
+HFAHPLKA_01420	COG2851	[C] H+/citrate symporter    
+HFAHPLKA_01421	COG1802	[K] Transcriptional regulators    
+HFAHPLKA_01422	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_01425	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_01426	COG4487	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01428	COG0433	[R] Predicted ATPase    
+HFAHPLKA_01429	COG1847	[R] Predicted RNA-binding protein   
+HFAHPLKA_01430	COG0706	[U] Preprotein translocase subunit YidC  
+HFAHPLKA_01431	COG0594	[J] RNase P protein component  
+HFAHPLKA_01432	ROG1469	
+HFAHPLKA_01433	COG0593	[L] ATPase involved in DNA replication initiation
+HFAHPLKA_01434	COG0592	[L] DNA polymerase sliding clamp subunit (PCNA
+HFAHPLKA_01435	COG2501	[S] Uncharacterized conserved protein   
+HFAHPLKA_01436	COG1195	[L] Recombinational DNA repair ATPase (RecF pathway)
+HFAHPLKA_01437	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HFAHPLKA_01438	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HFAHPLKA_01439	COG0360	[J] Ribosomal protein S6   
+HFAHPLKA_01440	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_01441	COG0238	[J] Ribosomal protein S18   
+HFAHPLKA_01442	COG3887	[T] Predicted signaling protein consisting of a
+HFAHPLKA_01443	COG0359	[J] Ribosomal protein L9   
+HFAHPLKA_01444	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_01445	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_01446	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_01447	COG0305	[L] Replicative DNA helicase   
+HFAHPLKA_01448	COG0104	[F] Adenylosuccinate synthase    
+HFAHPLKA_01449	COG1307	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01450	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_01451	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+HFAHPLKA_01452	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_01453	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_01454	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_01455	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_01456	COG4687	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01457	COG3247	[S] Uncharacterized conserved protein   
+HFAHPLKA_01459	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01460	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+HFAHPLKA_01461	COG1168	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+HFAHPLKA_01462	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+HFAHPLKA_01463	COG2898	[S] Uncharacterized conserved protein   
+HFAHPLKA_01464	COG4485	[S] Predicted membrane protein   
+HFAHPLKA_01465	COG4283	[S] Uncharacterized conserved protein   
+HFAHPLKA_01466	COG2764	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01467	COG2378	[K] Predicted transcriptional regulator   
+HFAHPLKA_01468	COG0014	[E] Gamma-glutamyl phosphate reductase   
+HFAHPLKA_01469	COG0263	[E] Glutamate 5-kinase    
+HFAHPLKA_01470	COG0756	[F] dUTPase     
+HFAHPLKA_01471	COG1066	[O] Predicted ATP-dependent serine protease  
+HFAHPLKA_01472	COG4956	[R] Integral membrane protein (PIN domain superfamily)
+HFAHPLKA_01473	COG0245	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+HFAHPLKA_01474	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+HFAHPLKA_01475	COG1045	[E] Serine acetyltransferase    
+HFAHPLKA_01476	COG0215	[J] Cysteinyl-tRNA synthetase    
+HFAHPLKA_01477	COG1939	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01478	COG0566	[J] rRNA methylases    
+HFAHPLKA_01479	COG3688	[R] Predicted RNA-binding protein containing a PIN
+HFAHPLKA_01480	ROG3055	
+HFAHPLKA_01481	COG4466	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01482	COG1947	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+HFAHPLKA_01483	COG0803	[P] ABC-type metal ion transport system, periplasmic
+HFAHPLKA_01484	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+HFAHPLKA_01485	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+HFAHPLKA_01486	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+HFAHPLKA_01487	COG1207	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+HFAHPLKA_01488	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+HFAHPLKA_01489	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_01490	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+HFAHPLKA_01491	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_01492	COG4224	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01493	COG2141	[C] Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and
+HFAHPLKA_01494	COG4823	[V] Abortive infection bacteriophage resistance protein 
+HFAHPLKA_01495	COG0632	[L] Holliday junction resolvasome, DNA-binding subunit 
+HFAHPLKA_01496	COG2255	[L] Holliday junction resolvasome, helicase subunit 
+HFAHPLKA_01498	COG3010	[G] Putative N-acetylmannosamine-6-phosphate epimerase   
+HFAHPLKA_01499	ROG3162	
+HFAHPLKA_01500	ROG1061	
+HFAHPLKA_01501	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+HFAHPLKA_01502	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_01503	ROG3987	
+HFAHPLKA_01504	COG5547	[S] Small integral membrane protein  
+HFAHPLKA_01505	COG1302	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01506	COG1302	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01507	COG2261	[S] Predicted membrane protein   
+HFAHPLKA_01508	ROG2472	
+HFAHPLKA_01509	COG1382	[O] Prefoldin, chaperonin cofactor   
+HFAHPLKA_01511	ROG7009	
+HFAHPLKA_01512	ROG7850	
+HFAHPLKA_01513	COG4932	[M] Predicted outer membrane protein  
+HFAHPLKA_01514	COG1597	[IR] Sphingosine kinase and enzymes related to
+HFAHPLKA_01515	ROG7009	
+HFAHPLKA_01517	ROG2110	
+HFAHPLKA_01518	COG2116	[P] Formate/nitrite family of transporters  
+HFAHPLKA_01519	ROG3888	
+HFAHPLKA_01520	COG2964	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01522	COG1760	[E] L-serine deaminase    
+HFAHPLKA_01523	COG1760	[E] L-serine deaminase    
+HFAHPLKA_01524	COG0172	[J] Seryl-tRNA synthetase    
+HFAHPLKA_01525	COG2267	[I] Lysophospholipase     
+HFAHPLKA_01526	COG1438	[K] Arginine repressor    
+HFAHPLKA_01527	COG1438	[K] Arginine repressor    
+HFAHPLKA_01528	COG2235	[E] Arginine deiminase    
+HFAHPLKA_01529	COG0078	[E] Ornithine carbamoyltransferase    
+HFAHPLKA_01530	COG0549	[E] Carbamate kinase    
+HFAHPLKA_01531	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+HFAHPLKA_01532	COG1288	[S] Predicted membrane protein   
+HFAHPLKA_01533	COG0693	[R] Putative intracellular protease/amidase   
+HFAHPLKA_01534	COG0640	[K] Predicted transcriptional regulators   
+HFAHPLKA_01535	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+HFAHPLKA_01536	COG3525	[G] N-acetyl-beta-hexosaminidase     
+HFAHPLKA_01537	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+HFAHPLKA_01538	COG4815	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01539	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+HFAHPLKA_01540	COG2423	[E] Predicted ornithine cyclodeaminase, mu-crystallin homolog 
+HFAHPLKA_01541	COG0384	[R] Predicted epimerase, PhzC/PhzF homolog  
+HFAHPLKA_01542	COG2096	[S] Uncharacterized conserved protein   
+HFAHPLKA_01543	COG5633	[R] Predicted periplasmic lipoprotein   
+HFAHPLKA_01544	COG5492	[N] Bacterial surface proteins containing Ig-like domains
+HFAHPLKA_01545	ROG5354	
+HFAHPLKA_01546	ROG2293	
+HFAHPLKA_01548	COG0582	[L] Integrase     
+HFAHPLKA_01549	ROG3836	
+HFAHPLKA_01551	COG3464	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01552	ROG4284	
+HFAHPLKA_01553	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_01554	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_01555	COG3119	[P] Arylsulfatase A and related enzymes 
+HFAHPLKA_01556	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01557	COG3010	[G] Putative N-acetylmannosamine-6-phosphate epimerase   
+HFAHPLKA_01558	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+HFAHPLKA_01559	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_01561	ROG5602	
+HFAHPLKA_01563	COG1114	[E] Branched-chain amino acid permeases  
+HFAHPLKA_01564	COG1113	[E] Gamma-aminobutyrate permease and related permeases 
+HFAHPLKA_01565	COG1668	[CP] ABC-type Na+ efflux pump, permease component
+HFAHPLKA_01566	COG4152	[R] ABC-type uncharacterized transport system, ATPase component
+HFAHPLKA_01567	ROG2731	
+HFAHPLKA_01568	COG3666	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01569	COG3666	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01573	ROG6734	
+HFAHPLKA_01576	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_01577	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_01579	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_01581	COG3969	[R] Predicted phosphoadenosine phosphosulfate sulfotransferase  
+HFAHPLKA_01582	COG2243	[H] Precorrin-2 methylase    
+HFAHPLKA_01584	COG1940	[KG] Transcriptional regulator/sugar kinase   
+HFAHPLKA_01585	ROG1641	
+HFAHPLKA_01586	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+HFAHPLKA_01587	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+HFAHPLKA_01588	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_01589	COG2273	[G] Beta-glucanase/Beta-glucan synthetase    
+HFAHPLKA_01590	COG4409	[G] Neuraminidase (sialidase)    
+HFAHPLKA_01591	COG1943	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01592	COG3237	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01593	ROG3624	
+HFAHPLKA_01596	ROG1071	
+HFAHPLKA_01599	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+HFAHPLKA_01600	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HFAHPLKA_01601	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_01602	ROG7736	
+HFAHPLKA_01604	COG0270	[L] Site-specific DNA methylase   
+HFAHPLKA_01605	COG1525	[L] Micrococcal nuclease (thermonuclease) homologs  
+HFAHPLKA_01607	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_01608	ROG7058	
+HFAHPLKA_01618	ROG5022	
+HFAHPLKA_01621	COG2337	[T] Growth inhibitor    
+HFAHPLKA_01622	ROG0259	
+HFAHPLKA_01623	COG3344	[L] Retron-type reverse transcriptase   
+HFAHPLKA_01625	ROG8234	
+HFAHPLKA_01628	COG4145	[H] Na+/panthothenate symporter    
+HFAHPLKA_01629	ROG4622	
+HFAHPLKA_01630	COG3505	[U] Type IV secretory pathway, VirD4 components
+HFAHPLKA_01634	COG3937	[S] Uncharacterized conserved protein   
+HFAHPLKA_01638	COG2886	[S] Uncharacterized small protein   
+HFAHPLKA_01642	ROG2963	
+HFAHPLKA_01644	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+HFAHPLKA_01646	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+HFAHPLKA_01647	COG1072	[H] Panthothenate kinase    
+HFAHPLKA_01648	COG2755	[E] Lysophospholipase L1 and related esterases 
+HFAHPLKA_01649	COG2813	[J] 16S RNA G1207 methylase RsmC 
+HFAHPLKA_01650	COG1816	[F] Adenosine deaminase    
+HFAHPLKA_01651	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_01652	COG0213	[F] Thymidine phosphorylase    
+HFAHPLKA_01653	COG0274	[F] Deoxyribose-phosphate aldolase    
+HFAHPLKA_01654	COG0295	[F] Cytidine deaminase    
+HFAHPLKA_01655	COG1744	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+HFAHPLKA_01656	COG1744	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+HFAHPLKA_01657	COG3845	[R] ABC-type uncharacterized transport systems, ATPase components
+HFAHPLKA_01658	COG4603	[R] ABC-type uncharacterized transport system, permease component
+HFAHPLKA_01659	COG1079	[R] Uncharacterized ABC-type transport system, permease component
+HFAHPLKA_01660	COG3548	[S] Predicted integral membrane protein  
+HFAHPLKA_01661	COG1015	[G] Phosphopentomutase     
+HFAHPLKA_01662	COG0005	[F] Purine nucleoside phosphorylase   
+HFAHPLKA_01663	COG0813	[F] Purine-nucleoside phosphorylase    
+HFAHPLKA_01664	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+HFAHPLKA_01665	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+HFAHPLKA_01666	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+HFAHPLKA_01667	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+HFAHPLKA_01668	COG1979	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+HFAHPLKA_01669	COG0588	[G] Phosphoglycerate mutase 1   
+HFAHPLKA_01670	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_01671	COG0120	[G] Ribose 5-phosphate isomerase   
+HFAHPLKA_01672	COG0048	[J] Ribosomal protein S12   
+HFAHPLKA_01673	COG0049	[J] Ribosomal protein S7   
+HFAHPLKA_01674	COG0480	[J] Translation elongation factors (GTPases)  
+HFAHPLKA_01675	COG0050	[J] GTPases - translation elongation factors 
+HFAHPLKA_01676	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+HFAHPLKA_01677	COG2230	[M] Cyclopropane fatty acid synthase and related
+HFAHPLKA_01678	COG0051	[J] Ribosomal protein S10   
+HFAHPLKA_01679	COG0087	[J] Ribosomal protein L3   
+HFAHPLKA_01680	COG0088	[J] Ribosomal protein L4   
+HFAHPLKA_01681	COG0089	[J] Ribosomal protein L23   
+HFAHPLKA_01682	COG0090	[J] Ribosomal protein L2   
+HFAHPLKA_01683	COG0185	[J] Ribosomal protein S19   
+HFAHPLKA_01684	COG0091	[J] Ribosomal protein L22   
+HFAHPLKA_01685	COG0092	[J] Ribosomal protein S3   
+HFAHPLKA_01686	COG0197	[J] Ribosomal protein L16/L10E   
+HFAHPLKA_01687	COG0255	[J] Ribosomal protein L29   
+HFAHPLKA_01688	COG0186	[J] Ribosomal protein S17   
+HFAHPLKA_01689	COG0093	[J] Ribosomal protein L14   
+HFAHPLKA_01690	COG0198	[J] Ribosomal protein L24   
+HFAHPLKA_01691	COG0094	[J] Ribosomal protein L5   
+HFAHPLKA_01692	COG0199	[J] Ribosomal protein S14   
+HFAHPLKA_01693	COG0096	[J] Ribosomal protein S8   
+HFAHPLKA_01694	COG0097	[J] Ribosomal protein L6P/L9E   
+HFAHPLKA_01695	COG0256	[J] Ribosomal protein L18   
+HFAHPLKA_01696	COG0098	[J] Ribosomal protein S5   
+HFAHPLKA_01697	COG1841	[J] Ribosomal protein L30/L7E   
+HFAHPLKA_01698	COG0200	[J] Ribosomal protein L15   
+HFAHPLKA_01699	COG0201	[U] Preprotein translocase subunit SecY  
+HFAHPLKA_01700	COG0563	[F] Adenylate kinase and related kinases 
+HFAHPLKA_01701	COG0361	[J] Translation initiation factor 1 (IF-1) 
+HFAHPLKA_01702	COG0257	[J] Ribosomal protein L36   
+HFAHPLKA_01703	COG0099	[J] Ribosomal protein S13   
+HFAHPLKA_01704	COG0100	[J] Ribosomal protein S11   
+HFAHPLKA_01705	COG0202	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+HFAHPLKA_01706	COG0203	[J] Ribosomal protein L17   
+HFAHPLKA_01707	ROG3818	
+HFAHPLKA_01708	COG1473	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+HFAHPLKA_01709	COG1122	[P] ABC-type cobalt transport system, ATPase component
+HFAHPLKA_01710	COG1122	[P] ABC-type cobalt transport system, ATPase component
+HFAHPLKA_01711	COG0619	[P] ABC-type cobalt transport system, permease component
+HFAHPLKA_01712	COG0101	[J] Pseudouridylate synthase    
+HFAHPLKA_01713	COG0393	[S] Uncharacterized conserved protein   
+HFAHPLKA_01714	COG1114	[E] Branched-chain amino acid permeases  
+HFAHPLKA_01715	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_01716	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+HFAHPLKA_01717	COG1126	[E] ABC-type polar amino acid transport system,
+HFAHPLKA_01718	COG0765	[E] ABC-type amino acid transport system, permease
+HFAHPLKA_01720	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+HFAHPLKA_01721	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+HFAHPLKA_01722	COG1827	[R] Predicted small molecule binding protein (contains
+HFAHPLKA_01723	COG1705	[NU] Muramidase (flagellum-specific)    
+HFAHPLKA_01724	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+HFAHPLKA_01725	COG0039	[C] Malate/lactate dehydrogenases    
+HFAHPLKA_01726	COG0193	[J] Peptidyl-tRNA hydrolase    
+HFAHPLKA_01727	COG1197	[LK] Transcription-repair coupling factor (superfamily II helicase)
+HFAHPLKA_01728	COG2244	[R] Membrane protein involved in the export
+HFAHPLKA_01729	COG1188	[J] Ribosome-associated heat shock protein implicated in
+HFAHPLKA_01730	COG2919	[D] Septum formation initiator   
+HFAHPLKA_01731	COG1098	[J] Predicted RNA binding protein (contains ribosomal
+HFAHPLKA_01732	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+HFAHPLKA_01733	COG0634	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+HFAHPLKA_01734	COG0465	[O] ATP-dependent Zn proteases   
+HFAHPLKA_01735	COG1281	[O] Disulfide bond chaperones of the HSP33
+HFAHPLKA_01736	COG0042	[J] tRNA-dihydrouridine synthase    
+HFAHPLKA_01737	COG1190	[J] Lysyl-tRNA synthetase (class II)  
+HFAHPLKA_01739	COG0438	[M] Glycosyltransferase     
+HFAHPLKA_01740	COG0438	[M] Glycosyltransferase     
+HFAHPLKA_01741	COG2084	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+HFAHPLKA_01742	COG4703	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01743	COG1846	[K] Transcriptional regulators    
+HFAHPLKA_01744	COG0332	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+HFAHPLKA_01745	COG0236	[IQ] Acyl carrier protein   
+HFAHPLKA_01746	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+HFAHPLKA_01747	COG0331	[I] (acyl-carrier-protein) S-malonyltransferase    
+HFAHPLKA_01748	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_01749	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+HFAHPLKA_01750	COG0511	[I] Biotin carboxyl carrier protein  
+HFAHPLKA_01751	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+HFAHPLKA_01752	COG0439	[I] Biotin carboxylase    
+HFAHPLKA_01753	COG0777	[I] Acetyl-CoA carboxylase beta subunit  
+HFAHPLKA_01754	COG0825	[I] Acetyl-CoA carboxylase alpha subunit  
+HFAHPLKA_01755	COG2179	[R] Predicted hydrolase of the HAD superfamily
+HFAHPLKA_01756	COG1161	[R] Predicted GTPases    
+HFAHPLKA_01757	COG1534	[J] Predicted RNA-binding protein containing KH domain,
+HFAHPLKA_01758	COG1057	[H] Nicotinic acid mononucleotide adenylyltransferase  
+HFAHPLKA_01759	COG1713	[H] Predicted HD superfamily hydrolase involved in
+HFAHPLKA_01760	COG0799	[S] Uncharacterized homolog of plant Iojap protein
+HFAHPLKA_01761	COG0500	[QR] SAM-dependent methyltransferases    
+HFAHPLKA_01762	COG1323	[R] Predicted nucleotidyltransferase    
+HFAHPLKA_01763	COG0217	[S] Uncharacterized conserved protein   
+HFAHPLKA_01765	ROG1669	
+HFAHPLKA_01766	COG1434	[S] Uncharacterized conserved protein   
+HFAHPLKA_01767	ROG0740	
+HFAHPLKA_01768	COG1580	[N] Flagellar basal body-associated protein  
+HFAHPLKA_01769	COG1942	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+HFAHPLKA_01770	COG0441	[J] Threonyl-tRNA synthetase    
+HFAHPLKA_01771	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+HFAHPLKA_01772	COG0267	[J] Ribosomal protein L33   
+HFAHPLKA_01774	ROG3783	
+HFAHPLKA_01775	COG4129	[S] Predicted membrane protein   
+HFAHPLKA_01776	ROG5187	
+HFAHPLKA_01778	ROG3067	
+HFAHPLKA_01779	COG3152	[S] Predicted membrane protein   
+HFAHPLKA_01780	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+HFAHPLKA_01781	COG0212	[H] 5-formyltetrahydrofolate cyclo-ligase    
+HFAHPLKA_01782	COG0705	[R] Uncharacterized membrane protein (homolog of Drosophila
+HFAHPLKA_01783	COG4483	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01784	COG1940	[KG] Transcriptional regulator/sugar kinase   
+HFAHPLKA_01785	COG0607	[P] Rhodanese-related sulfurtransferase    
+HFAHPLKA_01786	COG3189	[S] Uncharacterized conserved protein   
+HFAHPLKA_01787	ROG1448	
+HFAHPLKA_01788	ROG1554	
+HFAHPLKA_01789	COG1087	[M] UDP-glucose 4-epimerase    
+HFAHPLKA_01790	COG4468	[G] Galactose-1-phosphate uridyltransferase    
+HFAHPLKA_01791	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+HFAHPLKA_01792	COG0718	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01793	COG4732	[S] Predicted membrane protein   
+HFAHPLKA_01794	COG2145	[H] Hydroxyethylthiazole kinase, sugar kinase family 
+HFAHPLKA_01795	COG0352	[H] Thiamine monophosphate synthase   
+HFAHPLKA_01796	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+HFAHPLKA_01797	COG1733	[K] Predicted transcriptional regulators   
+HFAHPLKA_01798	COG2814	[G] Arabinose efflux permease   
+HFAHPLKA_01799	ROG2472	
+HFAHPLKA_01800	ROG1688	
+HFAHPLKA_01801	ROG1688	
+HFAHPLKA_01802	COG4721	[S] Predicted membrane protein   
+HFAHPLKA_01803	COG1122	[P] ABC-type cobalt transport system, ATPase component
+HFAHPLKA_01804	ROG4079	
+HFAHPLKA_01805	COG0819	[K] Putative transcription activator   
+HFAHPLKA_01806	COG0353	[L] Recombinational DNA repair protein (RecF pathway)
+HFAHPLKA_01807	COG0125	[F] Thymidylate kinase    
+HFAHPLKA_01808	COG3870	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01809	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+HFAHPLKA_01810	COG1774	[S] Uncharacterized homolog of PSP1  
+HFAHPLKA_01811	COG4467	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01812	COG0313	[R] Predicted methyltransferases    
+HFAHPLKA_01813	COG4619	[R] ABC-type uncharacterized transport system, ATPase component
+HFAHPLKA_01814	COG0390	[R] ABC-type uncharacterized transport system, permease component
+HFAHPLKA_01815	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+HFAHPLKA_01816	COG0602	[O] Organic radical activating enzymes  
+HFAHPLKA_01817	COG1328	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+HFAHPLKA_01818	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_01819	ROG6481	
+HFAHPLKA_01820	ROG7624	
+HFAHPLKA_01821	COG1020	[Q] Non-ribosomal peptide synthetase modules and related
+HFAHPLKA_01822	COG1696	[M] Predicted membrane protein involved in D-alanine
+HFAHPLKA_01823	ROG6101	
+HFAHPLKA_01824	COG3966	[M] Protein involved in D-alanine esterification of
+HFAHPLKA_01825	COG1363	[G] Cellulase M and related proteins 
+HFAHPLKA_01826	ROG0319	
+HFAHPLKA_01827	COG1234	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+HFAHPLKA_01828	COG0095	[H] Lipoate-protein ligase A   
+HFAHPLKA_01829	COG3666	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01830	COG4122	[R] Predicted O-methyltransferase    
+HFAHPLKA_01831	COG0450	[O] Peroxiredoxin     
+HFAHPLKA_01832	COG0492	[O] Thioredoxin reductase    
+HFAHPLKA_01834	COG0847	[L] DNA polymerase III, epsilon subunit and
+HFAHPLKA_01835	COG0708	[L] Exonuclease III    
+HFAHPLKA_01836	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_01837	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+HFAHPLKA_01838	ROG3067	
+HFAHPLKA_01839	ROG3067	
+HFAHPLKA_01840	COG0517	[R] FOG: CBS domain   
+HFAHPLKA_01841	COG0267	[J] Ribosomal protein L33   
+HFAHPLKA_01842	ROG1465	
+HFAHPLKA_01843	COG0250	[K] Transcription antiterminator    
+HFAHPLKA_01844	COG4814	[R] Uncharacterized protein with an alpha/beta hydrolase
+HFAHPLKA_01845	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01846	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_01847	COG1363	[G] Cellulase M and related proteins 
+HFAHPLKA_01848	COG2362	[E] D-aminopeptidase     
+HFAHPLKA_01849	COG1760	[E] L-serine deaminase    
+HFAHPLKA_01850	COG1760	[E] L-serine deaminase    
+HFAHPLKA_01851	COG0488	[R] ATPase components of ABC transporters with
+HFAHPLKA_01852	COG0080	[J] Ribosomal protein L11   
+HFAHPLKA_01853	COG0081	[J] Ribosomal protein L1   
+HFAHPLKA_01854	COG0244	[J] Ribosomal protein L10   
+HFAHPLKA_01855	COG0222	[J] Ribosomal protein L7/L12   
+HFAHPLKA_01856	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01858	ROG1823	
+HFAHPLKA_01861	ROG3571	
+HFAHPLKA_01862	ROG8032	
+HFAHPLKA_01863	COG2026	[JD] Cytotoxic translational repressor of toxin-antitoxin stability
+HFAHPLKA_01864	ROG0734	
+HFAHPLKA_01865	COG3505	[U] Type IV secretory pathway, VirD4 components
+HFAHPLKA_01866	COG3654	[R] Prophage maintenance system killer protein 
+HFAHPLKA_01868	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_01870	ROG8234	
+HFAHPLKA_01872	ROG7417	
+HFAHPLKA_01873	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01875	COG5152	[R] Uncharacterized conserved protein, contains RING and
+HFAHPLKA_01877	ROG4314	
+HFAHPLKA_01879	COG1302	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01880	COG5547	[S] Small integral membrane protein  
+HFAHPLKA_01881	ROG3987	
+HFAHPLKA_01882	COG1434	[S] Uncharacterized conserved protein   
+HFAHPLKA_01883	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+HFAHPLKA_01884	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_01885	ROG7911	
+HFAHPLKA_01886	ROG3202	
+HFAHPLKA_01887	ROG0124	
+HFAHPLKA_01889	ROG4936	
+HFAHPLKA_01890	ROG7279	
+HFAHPLKA_01893	COG2913	[J] Small protein A (tmRNA-binding)  
+HFAHPLKA_01895	COG4990	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01896	COG2190	[G] Phosphotransferase system IIA components  
+HFAHPLKA_01898	COG2337	[T] Growth inhibitor    
+HFAHPLKA_01899	COG2336	[T] Growth regulator    
+HFAHPLKA_01902	COG3843	[U] Type IV secretory pathway, VirD2 components
+HFAHPLKA_01904	COG2348	[V] Uncharacterized protein involved in methicillin resistance
+HFAHPLKA_01907	ROG0628	
+HFAHPLKA_01908	ROG6654	
+HFAHPLKA_01910	COG4043	[S] Uncharacterized conserved protein   
+HFAHPLKA_01912	COG1525	[L] Micrococcal nuclease (thermonuclease) homologs  
+HFAHPLKA_01913	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_01914	COG0629	[L] Single-stranded DNA-binding protein   
+HFAHPLKA_01916	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_01917	COG4679	[S] Phage-related protein    
+HFAHPLKA_01919	COG3843	[U] Type IV secretory pathway, VirD2 components
+HFAHPLKA_01920	ROG7417	
+HFAHPLKA_01926	ROG8234	
+HFAHPLKA_01927	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_01930	COG1196	[D] Chromosome segregation ATPases   
+HFAHPLKA_01931	COG1426	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01932	COG3344	[L] Retron-type reverse transcriptase   
+HFAHPLKA_01933	COG3942	[R] Surface antigen    
+HFAHPLKA_01934	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01935	ROG1040	
+HFAHPLKA_01936	ROG7353	
+HFAHPLKA_01937	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_01938	COG0730	[R] Predicted permeases    
+HFAHPLKA_01939	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01940	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+HFAHPLKA_01941	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01942	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+HFAHPLKA_01944	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01945	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_01947	COG0168	[P] Trk-type K+ transport systems, membrane components
+HFAHPLKA_01948	COG0475	[P] Kef-type K+ transport systems, membrane components
+HFAHPLKA_01949	COG3682	[K] Predicted transcriptional regulator   
+HFAHPLKA_01950	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_01951	COG2608	[P] Copper chaperone    
+HFAHPLKA_01952	COG4194	[R] Predicted membrane protein   
+HFAHPLKA_01953	COG1725	[K] Predicted transcriptional regulators   
+HFAHPLKA_01954	COG3579	[E] Aminopeptidase C    
+HFAHPLKA_01955	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+HFAHPLKA_01956	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_01957	COG2076	[P] Membrane transporters of cations and cationic
+HFAHPLKA_01958	COG2076	[P] Membrane transporters of cations and cationic
+HFAHPLKA_01959	COG3469	[G] Chitinase     
+HFAHPLKA_01960	COG3397	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01961	COG3884	[I] Acyl-ACP thioesterase    
+HFAHPLKA_01962	COG1801	[S] Uncharacterized conserved protein   
+HFAHPLKA_01963	COG4696	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01964	COG0527	[E] Aspartokinases     
+HFAHPLKA_01965	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+HFAHPLKA_01966	COG4477	[D] Negative regulator of septation ring formation
+HFAHPLKA_01967	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+HFAHPLKA_01968	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_01969	COG5002	[T] Signal transduction histidine kinase  
+HFAHPLKA_01970	ROG5516	
+HFAHPLKA_01971	COG3666	[L] Transposase and inactivated derivatives  
+HFAHPLKA_01973	COG4224	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01974	COG4224	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01975	COG0666	[R] FOG: Ankyrin repeat   
+HFAHPLKA_01976	COG0666	[R] FOG: Ankyrin repeat   
+HFAHPLKA_01977	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+HFAHPLKA_01978	COG3654	[R] Prophage maintenance system killer protein 
+HFAHPLKA_01979	ROG0259	
+HFAHPLKA_01981	COG2508	[TQ] Regulator of polyketide synthase expression 
+HFAHPLKA_01982	ROG1330	
+HFAHPLKA_01984	ROG2472	
+HFAHPLKA_01985	COG0549	[E] Carbamate kinase    
+HFAHPLKA_01986	COG1301	[C] Na+/H+-dicarboxylate symporters    
+HFAHPLKA_01987	COG2055	[C] Malate/L-lactate dehydrogenases    
+HFAHPLKA_01989	COG1228	[Q] Imidazolonepropionase and related amidohydrolases  
+HFAHPLKA_01991	COG3883	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_01992	COG0620	[E] Methionine synthase II (cobalamin-independent)  
+HFAHPLKA_01993	COG0628	[R] Predicted permease    
+HFAHPLKA_01994	COG3247	[S] Uncharacterized conserved protein   
+HFAHPLKA_01995	COG3819	[S] Predicted membrane protein   
+HFAHPLKA_01996	COG3817	[S] Predicted membrane protein   
+HFAHPLKA_01997	COG2039	[O] Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase) 
+HFAHPLKA_01998	COG1757	[C] Na+/H+ antiporter    
+HFAHPLKA_01999	COG1846	[K] Transcriptional regulators    
+HFAHPLKA_02000	COG0778	[C] Nitroreductase     
+HFAHPLKA_02001	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_02002	COG2213	[G] Phosphotransferase system, mannitol-specific IIBC component 
+HFAHPLKA_02003	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_02004	COG4668	[G] Mannitol/fructose-specific phosphotransferase system, IIA domain 
+HFAHPLKA_02005	COG2213	[G] Phosphotransferase system, mannitol-specific IIBC component 
+HFAHPLKA_02006	COG4668	[G] Mannitol/fructose-specific phosphotransferase system, IIA domain 
+HFAHPLKA_02007	COG0246	[G] Mannitol-1-phosphate/altronate dehydrogenases    
+HFAHPLKA_02008	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+HFAHPLKA_02009	COG0702	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+HFAHPLKA_02010	COG0845	[M] Membrane-fusion protein    
+HFAHPLKA_02011	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_02012	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+HFAHPLKA_02015	ROG1002	
+HFAHPLKA_02016	COG2814	[G] Arabinose efflux permease   
+HFAHPLKA_02017	COG1198	[L] Primosomal protein N' (replication factor Y)
+HFAHPLKA_02018	COG1414	[K] Transcriptional regulator    
+HFAHPLKA_02019	COG0800	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+HFAHPLKA_02020	COG0524	[G] Sugar kinases, ribokinase family  
+HFAHPLKA_02021	COG3717	[G] 5-keto 4-deoxyuronate isomerase   
+HFAHPLKA_02022	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HFAHPLKA_02023	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+HFAHPLKA_02024	COG1638	[G] TRAP-type C4-dicarboxylate transport system, periplasmic component
+HFAHPLKA_02025	COG3090	[G] TRAP-type C4-dicarboxylate transport system, small permease
+HFAHPLKA_02026	COG1593	[G] TRAP-type C4-dicarboxylate transport system, large permease
+HFAHPLKA_02027	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_02028	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+HFAHPLKA_02029	COG4806	[G] L-rhamnose isomerase    
+HFAHPLKA_02030	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+HFAHPLKA_02031	COG3254	[S] Uncharacterized conserved protein   
+HFAHPLKA_02032	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_02033	COG1082	[G] Sugar phosphate isomerases/epimerases   
+HFAHPLKA_02034	ROG0868	
+HFAHPLKA_02035	COG3104	[E] Dipeptide/tripeptide permease    
+HFAHPLKA_02036	ROG7992	
+HFAHPLKA_02037	COG0447	[H] Dihydroxynaphthoic acid synthase   
+HFAHPLKA_02038	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+HFAHPLKA_02039	COG1169	[HQ] Isochorismate synthase    
+HFAHPLKA_02040	COG1165	[H] 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase    
+HFAHPLKA_02041	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+HFAHPLKA_02042	COG4948	[MR] L-alanine-DL-glutamate epimerase and related enzymes of
+HFAHPLKA_02043	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+HFAHPLKA_02044	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+HFAHPLKA_02045	COG1764	[O] Predicted redox protein, regulator of disulfide
+HFAHPLKA_02046	COG0730	[R] Predicted permeases    
+HFAHPLKA_02047	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+HFAHPLKA_02048	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+HFAHPLKA_02049	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+HFAHPLKA_02050	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_02051	COG2103	[R] Predicted sugar phosphate isomerase  
+HFAHPLKA_02052	COG1680	[V] Beta-lactamase class C and other penicillin
+HFAHPLKA_02053	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+HFAHPLKA_02054	ROG3118	
+HFAHPLKA_02055	COG0605	[P] Superoxide dismutase    
+HFAHPLKA_02056	COG0253	[E] Diaminopimelate epimerase    
+HFAHPLKA_02057	COG1316	[K] Transcriptional regulator    
+HFAHPLKA_02058	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+HFAHPLKA_02059	COG1285	[S] Uncharacterized membrane protein   
+HFAHPLKA_02060	COG1704	[S] Uncharacterized conserved protein   
+HFAHPLKA_02061	COG1512	[R] Beta-propeller domains of methanol dehydrogenase type
+HFAHPLKA_02062	COG0208	[F] Ribonucleotide reductase, beta subunit  
+HFAHPLKA_02063	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+HFAHPLKA_02064	COG1780	[F] Protein involved in ribonucleotide reduction 
+HFAHPLKA_02065	COG0695	[O] Glutaredoxin and related proteins  
+HFAHPLKA_02066	COG1918	[P] Fe2+ transport system protein A 
+HFAHPLKA_02067	COG0370	[P] Fe2+ transport system protein B 
+HFAHPLKA_02069	COG4973	[L] Site-specific recombinase XerC   
+HFAHPLKA_02070	ROG0229	
+HFAHPLKA_02072	COG3357	[K] Predicted transcriptional regulator containing an HTH
+HFAHPLKA_02073	ROG6704	
+HFAHPLKA_02074	ROG6704	
+HFAHPLKA_02075	COG2801	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02076	COG2963	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02077	COG1192	[D] ATPases involved in chromosome partitioning 
+HFAHPLKA_02078	ROG3505	
+HFAHPLKA_02079	ROG1057	
+HFAHPLKA_02080	ROG0944	
+HFAHPLKA_02081	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+HFAHPLKA_02082	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+HFAHPLKA_02083	COG0698	[G] Ribose 5-phosphate isomerase RpiB  
+HFAHPLKA_02084	COG0698	[G] Ribose 5-phosphate isomerase RpiB  
+HFAHPLKA_02085	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+HFAHPLKA_02086	COG3684	[G] Tagatose-1,6-bisphosphate aldolase    
+HFAHPLKA_02087	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+HFAHPLKA_02088	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_02089	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_02091	ROG0944	
+HFAHPLKA_02092	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_02093	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+HFAHPLKA_02094	ROG4898	
+HFAHPLKA_02096	COG4644	[L] Transposase and inactivated derivatives, TnpA family
+HFAHPLKA_02097	COG3049	[M] Penicillin V acylase and related amidases
+HFAHPLKA_02098	COG1942	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+HFAHPLKA_02099	ROG6005	
+HFAHPLKA_02100	ROG0856	
+HFAHPLKA_02101	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02103	COG2369	[S] Uncharacterized protein, homolog of phage Mu
+HFAHPLKA_02104	COG3316	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02105	COG0534	[V] Na+-driven multidrug efflux pump  
+HFAHPLKA_02106	COG1164	[E] Oligoendopeptidase F    
+HFAHPLKA_02107	ROG8293	
+HFAHPLKA_02108	COG0217	[S] Uncharacterized conserved protein   
+HFAHPLKA_02109	ROG0040	
+HFAHPLKA_02110	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+HFAHPLKA_02111	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_02112	COG0400	[R] Predicted esterase    
+HFAHPLKA_02113	COG0295	[F] Cytidine deaminase    
+HFAHPLKA_02114	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+HFAHPLKA_02115	COG2244	[R] Membrane protein involved in the export
+HFAHPLKA_02116	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+HFAHPLKA_02117	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+HFAHPLKA_02118	ROG0383	
+HFAHPLKA_02119	COG3594	[G] Fucose 4-O-acetylase and related acetyltransferases 
+HFAHPLKA_02120	COG1125	[E] ABC-type proline/glycine betaine transport systems, ATPase
+HFAHPLKA_02121	COG1732	[M] Periplasmic glycine betaine/choline-binding (lipo)protein of an
+HFAHPLKA_02122	COG1438	[K] Arginine repressor    
+HFAHPLKA_02123	COG1109	[G] Phosphomannomutase     
+HFAHPLKA_02124	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+HFAHPLKA_02125	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+HFAHPLKA_02126	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+HFAHPLKA_02127	COG3679	[S] Uncharacterized conserved protein   
+HFAHPLKA_02128	COG0420	[L] DNA repair exonuclease   
+HFAHPLKA_02129	COG4717	[S] Uncharacterized conserved protein   
+HFAHPLKA_02130	COG3481	[R] Predicted HD-superfamily hydrolase   
+HFAHPLKA_02131	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+HFAHPLKA_02132	COG4980	[R] Gas vesicle protein   
+HFAHPLKA_02133	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+HFAHPLKA_02134	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+HFAHPLKA_02135	COG4473	[U] Predicted ABC-type exoprotein transport system, permease
+HFAHPLKA_02136	COG0510	[M] Predicted choline kinase involved in LPS
+HFAHPLKA_02137	COG0220	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+HFAHPLKA_02138	COG1737	[K] Transcriptional regulators    
+HFAHPLKA_02139	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+HFAHPLKA_02140	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+HFAHPLKA_02141	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+HFAHPLKA_02142	COG3684	[G] Tagatose-1,6-bisphosphate aldolase    
+HFAHPLKA_02143	COG3557	[J] Uncharacterized domain/protein associated with RNAses G
+HFAHPLKA_02144	COG2153	[R] Predicted acyltransferase    
+HFAHPLKA_02145	COG0628	[R] Predicted permease    
+HFAHPLKA_02146	COG1253	[R] Hemolysins and related proteins containing CBS
+HFAHPLKA_02147	COG4108	[J] Peptide chain release factor RF-3 
+HFAHPLKA_02148	ROG1134	
+HFAHPLKA_02149	COG2323	[S] Predicted membrane protein   
+HFAHPLKA_02150	ROG4123	
+HFAHPLKA_02151	ROG1955	
+HFAHPLKA_02152	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+HFAHPLKA_02153	ROG2180	
+HFAHPLKA_02154	COG1925	[G] Phosphotransferase system, HPr-related proteins  
+HFAHPLKA_02155	COG1080	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+HFAHPLKA_02156	ROG1429	
+HFAHPLKA_02157	ROG7668	
+HFAHPLKA_02158	ROG5367	
+HFAHPLKA_02159	COG0544	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+HFAHPLKA_02160	ROG0137	
+HFAHPLKA_02161	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+HFAHPLKA_02162	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+HFAHPLKA_02163	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+HFAHPLKA_02164	COG0038	[P] Chloride channel protein EriC  
+HFAHPLKA_02165	COG0210	[L] Superfamily I DNA and RNA helicases
+HFAHPLKA_02166	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+HFAHPLKA_02167	COG0721	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+HFAHPLKA_02168	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+HFAHPLKA_02169	COG0064	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+HFAHPLKA_02170	COG1597	[IR] Sphingosine kinase and enzymes related to
+HFAHPLKA_02171	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+HFAHPLKA_02173	ROG1071	
+HFAHPLKA_02174	COG2197	[TK] Response regulator containing a CheY-like receiver
+HFAHPLKA_02175	COG0078	[E] Ornithine carbamoyltransferase    
+HFAHPLKA_02176	COG0531	[E] Amino acid transporters   
+HFAHPLKA_02177	COG2957	[E] Peptidylarginine deiminase and related enzymes 
+HFAHPLKA_02178	COG0549	[E] Carbamate kinase    
+HFAHPLKA_02179	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+HFAHPLKA_02180	COG3201	[H] Nicotinamide mononucleotide transporter   
+HFAHPLKA_02181	COG1428	[F] Deoxynucleoside kinases    
+HFAHPLKA_02182	ROG2729	
+HFAHPLKA_02183	COG4835	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02185	COG1823	[R] Predicted Na+/dicarboxylate symporter   
+HFAHPLKA_02186	COG1404	[O] Subtilisin-like serine proteases   
+HFAHPLKA_02187	ROG4588	
+HFAHPLKA_02190	COG1680	[V] Beta-lactamase class C and other penicillin
+HFAHPLKA_02191	COG4420	[S] Predicted membrane protein   
+HFAHPLKA_02192	COG1054	[R] Predicted sulfurtransferase    
+HFAHPLKA_02193	ROG1586	
+HFAHPLKA_02194	ROG7668	
+HFAHPLKA_02195	ROG7668	
+HFAHPLKA_02196	ROG8056	
+HFAHPLKA_02197	ROG7668	
+HFAHPLKA_02198	ROG1429	
+HFAHPLKA_02199	ROG1429	
+HFAHPLKA_02200	ROG1212	
+HFAHPLKA_02201	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_02202	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_02203	COG1285	[S] Uncharacterized membrane protein   
+HFAHPLKA_02204	COG1126	[E] ABC-type polar amino acid transport system,
+HFAHPLKA_02205	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+HFAHPLKA_02206	COG0556	[L] Helicase subunit of the DNA excision
+HFAHPLKA_02207	COG0178	[L] Excinuclease ATPase subunit   
+HFAHPLKA_02208	COG0573	[P] ABC-type phosphate transport system, permease component
+HFAHPLKA_02209	COG1660	[R] Predicted P-loop-containing kinase   
+HFAHPLKA_02210	COG0391	[S] Uncharacterized conserved protein   
+HFAHPLKA_02211	COG1481	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02212	ROG1641	
+HFAHPLKA_02213	COG1651	[O] Protein-disulfide isomerase    
+HFAHPLKA_02214	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+HFAHPLKA_02216	COG4828	[S] Predicted membrane protein   
+HFAHPLKA_02217	ROG6498	
+HFAHPLKA_02219	ROG6085	
+HFAHPLKA_02220	COG4781	[C] Membrane domain of membrane-anchored glycerophosphoryl diester
+HFAHPLKA_02221	COG1051	[F] ADP-ribose pyrophosphatase    
+HFAHPLKA_02222	COG1278	[K] Cold shock proteins   
+HFAHPLKA_02223	COG0474	[P] Cation transport ATPase   
+HFAHPLKA_02225	COG1508	[K] DNA-directed RNA polymerase specialized sigma subunit,
+HFAHPLKA_02226	COG1835	[I] Predicted acyltransferases    
+HFAHPLKA_02227	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+HFAHPLKA_02229	COG0192	[H] S-adenosylmethionine synthetase    
+HFAHPLKA_02230	COG0477	[GEPR] Permeases of the major facilitator superfamily
+HFAHPLKA_02231	COG0627	[R] Predicted esterase    
+HFAHPLKA_02232	ROG6516	
+HFAHPLKA_02233	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_02234	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_02236	COG1309	[K] Transcriptional regulator    
+HFAHPLKA_02237	ROG7318	
+HFAHPLKA_02238	COG4181	[Q] Predicted ABC-type transport system involved in
+HFAHPLKA_02239	COG4798	[R] Predicted methyltransferase    
+HFAHPLKA_02240	COG1242	[R] Predicted Fe-S oxidoreductase   
+HFAHPLKA_02241	COG0671	[I] Membrane-associated phospholipid phosphatase   
+HFAHPLKA_02242	COG3595	[S] Uncharacterized conserved protein   
+HFAHPLKA_02243	COG4709	[S] Predicted membrane protein   
+HFAHPLKA_02244	COG1388	[M] FOG: LysM repeat   
+HFAHPLKA_02245	COG0495	[J] Leucyl-tRNA synthetase    
+HFAHPLKA_02247	ROG2253	
+HFAHPLKA_02248	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+HFAHPLKA_02249	COG1126	[E] ABC-type polar amino acid transport system,
+HFAHPLKA_02250	COG0765	[E] ABC-type amino acid transport system, permease
+HFAHPLKA_02251	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_02252	COG2261	[S] Predicted membrane protein   
+HFAHPLKA_02253	ROG4034	
+HFAHPLKA_02254	COG1825	[J] Ribosomal protein L25 (general stress protein
+HFAHPLKA_02255	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+HFAHPLKA_02256	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+HFAHPLKA_02257	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+HFAHPLKA_02258	COG0456	[R] Acetyltransferases     
+HFAHPLKA_02259	COG0572	[F] Uridine kinase    
+HFAHPLKA_02260	COG2337	[T] Growth inhibitor    
+HFAHPLKA_02261	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_02262	COG3711	[K] Transcriptional antiterminator    
+HFAHPLKA_02263	ROG7495	
+HFAHPLKA_02264	ROG8490	
+HFAHPLKA_02265	ROG6603	
+HFAHPLKA_02266	ROG6269	
+HFAHPLKA_02267	ROG6245	
+HFAHPLKA_02268	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_02270	COG3589	[S] Uncharacterized conserved protein   
+HFAHPLKA_02271	COG3589	[S] Uncharacterized conserved protein   
+HFAHPLKA_02272	COG3964	[R] Predicted amidohydrolase    
+HFAHPLKA_02273	COG1921	[E] Selenocysteine synthase [seryl-tRNASer selenium transferase] 
+HFAHPLKA_02274	ROG1892	
+HFAHPLKA_02275	COG0524	[G] Sugar kinases, ribokinase family  
+HFAHPLKA_02276	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HFAHPLKA_02277	COG1671	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02278	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+HFAHPLKA_02279	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+HFAHPLKA_02280	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+HFAHPLKA_02281	COG0736	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+HFAHPLKA_02282	COG0787	[M] Alanine racemase    
+HFAHPLKA_02283	COG2337	[T] Growth inhibitor    
+HFAHPLKA_02284	ROG3124	
+HFAHPLKA_02285	COG2811	[C] Archaeal/vacuolar-type H+-ATPase subunit H  
+HFAHPLKA_02286	COG0681	[U] Signal peptidase I   
+HFAHPLKA_02287	ROG4163	
+HFAHPLKA_02288	COG2365	[T] Protein tyrosine/serine phosphatase   
+HFAHPLKA_02290	COG1511	[S] Predicted membrane protein   
+HFAHPLKA_02291	COG0053	[P] Predicted Co/Zn/Cd cation transporters  
+HFAHPLKA_02292	COG0531	[E] Amino acid transporters   
+HFAHPLKA_02293	ROG7690	
+HFAHPLKA_02294	COG1174	[E] ABC-type proline/glycine betaine transport systems, permease
+HFAHPLKA_02295	COG1732	[M] Periplasmic glycine betaine/choline-binding (lipo)protein of an
+HFAHPLKA_02296	COG1174	[E] ABC-type proline/glycine betaine transport systems, permease
+HFAHPLKA_02297	COG1125	[E] ABC-type proline/glycine betaine transport systems, ATPase
+HFAHPLKA_02298	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_02299	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+HFAHPLKA_02300	COG1476	[K] Predicted transcriptional regulators   
+HFAHPLKA_02301	COG0474	[P] Cation transport ATPase   
+HFAHPLKA_02302	COG3158	[P] K+ transporter    
+HFAHPLKA_02303	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_02304	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_02305	ROG7009	
+HFAHPLKA_02306	COG4989	[R] Predicted oxidoreductase    
+HFAHPLKA_02307	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+HFAHPLKA_02308	COG0266	[L] Formamidopyrimidine-DNA glycosylase    
+HFAHPLKA_02309	COG0237	[H] Dephospho-CoA kinase    
+HFAHPLKA_02310	COG1327	[K] Predicted transcriptional regulator, consists of a
+HFAHPLKA_02311	COG3611	[L] Replication initiation/membrane attachment protein  
+HFAHPLKA_02312	COG1484	[L] DNA replication protein   
+HFAHPLKA_02313	ROG2018	
+HFAHPLKA_02314	ROG1883	
+HFAHPLKA_02315	ROG1883	
+HFAHPLKA_02317	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+HFAHPLKA_02318	ROG0761	
+HFAHPLKA_02321	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HFAHPLKA_02322	COG1126	[E] ABC-type polar amino acid transport system,
+HFAHPLKA_02323	COG0765	[E] ABC-type amino acid transport system, permease
+HFAHPLKA_02324	COG0371	[C] Glycerol dehydrogenase and related enzymes 
+HFAHPLKA_02325	COG0343	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+HFAHPLKA_02326	COG1862	[U] Preprotein translocase subunit YajC  
+HFAHPLKA_02327	ROG2453	
+HFAHPLKA_02328	COG1454	[C] Alcohol dehydrogenase, class IV  
+HFAHPLKA_02329	ROG4836	
+HFAHPLKA_02330	COG1577	[I] Mevalonate kinase    
+HFAHPLKA_02331	COG3407	[I] Mevalonate pyrophosphate decarboxylase   
+HFAHPLKA_02332	COG1577	[I] Mevalonate kinase    
+HFAHPLKA_02333	COG1357	[S] Uncharacterized low-complexity proteins   
+HFAHPLKA_02334	COG1289	[S] Predicted membrane protein   
+HFAHPLKA_02335	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_02336	ROG4271	
+HFAHPLKA_02337	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+HFAHPLKA_02338	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+HFAHPLKA_02339	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+HFAHPLKA_02340	COG4608	[E] ABC-type oligopeptide transport system, ATPase component
+HFAHPLKA_02341	COG0675	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02342	COG0290	[J] Translation initiation factor 3 (IF-3) 
+HFAHPLKA_02343	COG0291	[J] Ribosomal protein L35   
+HFAHPLKA_02344	COG0292	[J] Ribosomal protein L20   
+HFAHPLKA_02345	COG2315	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02346	COG3759	[S] Predicted membrane protein   
+HFAHPLKA_02347	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_02348	COG2320	[S] Uncharacterized conserved protein   
+HFAHPLKA_02349	COG0659	[P] Sulfate permease and related transporters (MFS
+HFAHPLKA_02350	COG2855	[S] Predicted membrane protein   
+HFAHPLKA_02351	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_02352	COG3865	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02353	ROG5306	
+HFAHPLKA_02354	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_02355	COG5002	[T] Signal transduction histidine kinase  
+HFAHPLKA_02356	COG4975	[G] Putative glucose uptake permease  
+HFAHPLKA_02357	COG0531	[E] Amino acid transporters   
+HFAHPLKA_02358	COG0143	[J] Methionyl-tRNA synthetase    
+HFAHPLKA_02359	COG3090	[G] TRAP-type C4-dicarboxylate transport system, small permease
+HFAHPLKA_02360	ROG3917	
+HFAHPLKA_02361	COG3973	[R] Superfamily I DNA and RNA helicases
+HFAHPLKA_02362	COG0084	[L] Mg-dependent DNase    
+HFAHPLKA_02363	COG1658	[L] Small primase-like proteins (Toprim domain) 
+HFAHPLKA_02364	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+HFAHPLKA_02365	ROG1151	
+HFAHPLKA_02366	COG3839	[G] ABC-type sugar transport systems, ATPase components
+HFAHPLKA_02367	COG1803	[G] Methylglyoxal synthase    
+HFAHPLKA_02368	ROG0231	
+HFAHPLKA_02369	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_02370	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HFAHPLKA_02371	COG4905	[S] Predicted membrane protein   
+HFAHPLKA_02372	COG3584	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02373	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_02374	ROG6346	
+HFAHPLKA_02375	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_02376	COG0692	[L] Uracil DNA glycosylase   
+HFAHPLKA_02377	COG0280	[C] Phosphotransacetylase     
+HFAHPLKA_02378	COG0802	[R] Predicted ATPase or kinase  
+HFAHPLKA_02379	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_02381	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_02382	COG2017	[G] Galactose mutarotase and related enzymes 
+HFAHPLKA_02383	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+HFAHPLKA_02384	COG1554	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+HFAHPLKA_02385	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+HFAHPLKA_02386	COG3568	[R] Metal-dependent hydrolase    
+HFAHPLKA_02387	COG0345	[E] Pyrroline-5-carboxylate reductase    
+HFAHPLKA_02388	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+HFAHPLKA_02390	ROG0624	
+HFAHPLKA_02391	ROG7945	
+HFAHPLKA_02392	ROG7945	
+HFAHPLKA_02393	ROG5610	
+HFAHPLKA_02394	COG0789	[K] Predicted transcriptional regulators   
+HFAHPLKA_02396	COG0261	[J] Ribosomal protein L21   
+HFAHPLKA_02397	COG2868	[J] Predicted ribosomal protein   
+HFAHPLKA_02398	COG0211	[J] Ribosomal protein L27   
+HFAHPLKA_02399	COG3223	[S] Predicted membrane protein   
+HFAHPLKA_02400	COG1408	[R] Predicted phosphohydrolases    
+HFAHPLKA_02401	COG0006	[E] Xaa-Pro aminopeptidase    
+HFAHPLKA_02402	ROG1959	
+HFAHPLKA_02403	COG1302	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02404	COG0781	[K] Transcription termination factor   
+HFAHPLKA_02405	COG0190	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+HFAHPLKA_02406	COG1570	[L] Exonuclease VII, large subunit  
+HFAHPLKA_02407	COG1722	[L] Exonuclease VII small subunit  
+HFAHPLKA_02408	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+HFAHPLKA_02409	COG1189	[J] Predicted rRNA methylase   
+HFAHPLKA_02410	COG1438	[K] Arginine repressor    
+HFAHPLKA_02411	COG0497	[L] ATPase involved in DNA repair 
+HFAHPLKA_02413	COG0598	[P] Mg2+ and Co2+ transporters  
+HFAHPLKA_02415	COG2001	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02416	COG0275	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+HFAHPLKA_02417	COG4839	[D] Protein required for the initiation of
+HFAHPLKA_02418	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+HFAHPLKA_02419	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+HFAHPLKA_02420	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+HFAHPLKA_02421	COG0707	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+HFAHPLKA_02422	COG1589	[M] Cell division septal protein  
+HFAHPLKA_02423	COG0849	[D] Actin-like ATPase involved in cell division
+HFAHPLKA_02424	COG0206	[D] Cell division GTPase   
+HFAHPLKA_02425	COG0325	[R] Predicted enzyme with a TIM-barrel fold
+HFAHPLKA_02426	COG1799	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02427	COG0762	[S] Predicted integral membrane protein  
+HFAHPLKA_02428	COG2302	[S] Uncharacterized conserved protein, contains S4-like domain
+HFAHPLKA_02429	COG3599	[D] Cell division initiation protein  
+HFAHPLKA_02430	COG0060	[J] Isoleucyl-tRNA synthetase    
+HFAHPLKA_02431	COG0364	[G] Glucose-6-phosphate 1-dehydrogenase    
+HFAHPLKA_02432	COG1321	[K] Mn-dependent transcriptional regulator   
+HFAHPLKA_02433	ROG2874	
+HFAHPLKA_02434	COG1489	[R] DNA-binding protein, stimulates sugar fermentation 
+HFAHPLKA_02435	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_02436	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+HFAHPLKA_02437	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+HFAHPLKA_02438	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+HFAHPLKA_02439	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_02440	ROG8506	
+HFAHPLKA_02442	ROG2833	
+HFAHPLKA_02443	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+HFAHPLKA_02444	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+HFAHPLKA_02445	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_02446	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_02447	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+HFAHPLKA_02448	COG2456	[S] Uncharacterized conserved protein   
+HFAHPLKA_02450	COG1359	[S] Uncharacterized conserved protein   
+HFAHPLKA_02451	COG0574	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+HFAHPLKA_02452	COG0517	[R] FOG: CBS domain   
+HFAHPLKA_02453	COG1806	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02454	COG2898	[S] Uncharacterized conserved protein   
+HFAHPLKA_02455	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+HFAHPLKA_02456	ROG5077	
+HFAHPLKA_02457	ROG1619	
+HFAHPLKA_02458	COG0178	[L] Excinuclease ATPase subunit   
+HFAHPLKA_02459	COG0178	[L] Excinuclease ATPase subunit   
+HFAHPLKA_02460	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+HFAHPLKA_02461	ROG0938	
+HFAHPLKA_02462	ROG3888	
+HFAHPLKA_02463	COG0105	[F] Nucleoside diphosphate kinase   
+HFAHPLKA_02464	ROG5617	
+HFAHPLKA_02465	ROG1218	
+HFAHPLKA_02466	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_02467	COG4330	[S] Predicted membrane protein   
+HFAHPLKA_02468	COG2252	[R] Permeases     
+HFAHPLKA_02469	ROG2472	
+HFAHPLKA_02471	COG0587	[L] DNA polymerase III, alpha subunit 
+HFAHPLKA_02472	COG0205	[G] 6-phosphofructokinase     
+HFAHPLKA_02473	COG0469	[G] Pyruvate kinase    
+HFAHPLKA_02474	COG1399	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+HFAHPLKA_02475	COG0333	[J] Ribosomal protein L32   
+HFAHPLKA_02476	COG0362	[G] 6-phosphogluconate dehydrogenase    
+HFAHPLKA_02477	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_02478	COG5002	[T] Signal transduction histidine kinase  
+HFAHPLKA_02492	COG0582	[L] Integrase     
+HFAHPLKA_02493	ROG0111	
+HFAHPLKA_02494	COG0003	[P] Oxyanion-translocating ATPase    
+HFAHPLKA_02496	COG0640	[K] Predicted transcriptional regulators   
+HFAHPLKA_02497	ROG0111	
+HFAHPLKA_02498	COG0640	[K] Predicted transcriptional regulators   
+HFAHPLKA_02499	COG1247	[M] Sortase and related acyltransferases  
+HFAHPLKA_02500	COG0003	[P] Oxyanion-translocating ATPase    
+HFAHPLKA_02501	COG0798	[P] Arsenite efflux pump ACR3 and related
+HFAHPLKA_02502	COG0798	[P] Arsenite efflux pump ACR3 and related
+HFAHPLKA_02503	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_02505	COG0640	[K] Predicted transcriptional regulators   
+HFAHPLKA_02506	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_02507	COG4932	[M] Predicted outer membrane protein  
+HFAHPLKA_02513	ROG3748	
+HFAHPLKA_02514	COG3505	[U] Type IV secretory pathway, VirD4 components
+HFAHPLKA_02516	ROG8337	
+HFAHPLKA_02517	COG3451	[U] Type IV secretory pathway, VirB4 components
+HFAHPLKA_02518	ROG1712	
+HFAHPLKA_02519	ROG8234	
+HFAHPLKA_02520	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+HFAHPLKA_02521	COG1426	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02522	ROG4295	
+HFAHPLKA_02523	ROG3048	
+HFAHPLKA_02527	COG0827	[L] Adenine-specific DNA methylase   
+HFAHPLKA_02528	COG4646	[KL] DNA methylase    
+HFAHPLKA_02531	ROG4831	
+HFAHPLKA_02533	COG0642	[T] Signal transduction histidine kinase  
+HFAHPLKA_02534	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_02535	COG2132	[Q] Putative multicopper oxidases   
+HFAHPLKA_02536	COG2608	[P] Copper chaperone    
+HFAHPLKA_02537	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_02538	COG3682	[K] Predicted transcriptional regulator   
+HFAHPLKA_02539	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+HFAHPLKA_02540	ROG0888	
+HFAHPLKA_02541	ROG0888	
+HFAHPLKA_02542	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_02543	COG5341	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02544	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HFAHPLKA_02545	COG3764	[M] Sortase (surface protein transpeptidase)  
+HFAHPLKA_02547	ROG6704	
+HFAHPLKA_02548	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+HFAHPLKA_02549	ROG3836	
+HFAHPLKA_02550	COG0582	[L] Integrase     
+HFAHPLKA_02551	COG1204	[R] Superfamily II helicase   
+HFAHPLKA_02552	COG0789	[K] Predicted transcriptional regulators   
+HFAHPLKA_02553	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+HFAHPLKA_02554	COG3464	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02555	COG3464	[L] Transposase and inactivated derivatives  
+HFAHPLKA_02557	COG4422	[S] Bacteriophage protein gp37   
+HFAHPLKA_02559	COG1116	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+HFAHPLKA_02560	COG4986	[P] ABC-type anion transport system, duplicated permease
+HFAHPLKA_02561	ROG2342	
+HFAHPLKA_02562	COG1914	[P] Mn2+ and Fe2+ transporters of the
+HFAHPLKA_02563	COG0589	[T] Universal stress protein UspA and related
+HFAHPLKA_02564	COG2508	[TQ] Regulator of polyketide synthase expression 
+HFAHPLKA_02565	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+HFAHPLKA_02566	COG1228	[Q] Imidazolonepropionase and related amidohydrolases  
+HFAHPLKA_02567	COG1574	[R] Predicted metal-dependent hydrolase with the TIM-barrel
+HFAHPLKA_02568	COG1956	[T] GAF domain-containing protein   
+HFAHPLKA_02569	COG2764	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02570	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+HFAHPLKA_02572	COG2017	[G] Galactose mutarotase and related enzymes 
+HFAHPLKA_02573	COG0153	[G] Galactokinase     
+HFAHPLKA_02574	COG4468	[G] Galactose-1-phosphate uridyltransferase    
+HFAHPLKA_02575	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_02576	ROG1576	
+HFAHPLKA_02578	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_02579	COG1708	[R] Predicted nucleotidyltransferases    
+HFAHPLKA_02580	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_02581	COG0477	[GEPR] Permeases of the major facilitator superfamily
+HFAHPLKA_02582	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+HFAHPLKA_02583	ROG1612	
+HFAHPLKA_02584	COG0691	[O] tmRNA-binding protein    
+HFAHPLKA_02586	COG0589	[T] Universal stress protein UspA and related
+HFAHPLKA_02587	ROG0568	
+HFAHPLKA_02588	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HFAHPLKA_02589	COG2761	[Q] Predicted dithiol-disulfide isomerase involved in polyketide
+HFAHPLKA_02590	COG3152	[S] Predicted membrane protein   
+HFAHPLKA_02591	ROG7009	
+HFAHPLKA_02592	ROG1862	
+HFAHPLKA_02593	ROG1862	
+HFAHPLKA_02594	ROG1862	
+HFAHPLKA_02595	COG3764	[M] Sortase (surface protein transpeptidase)  
+HFAHPLKA_02596	ROG7700	
+HFAHPLKA_02597	COG2155	[S] Uncharacterized conserved protein   
+HFAHPLKA_02598	ROG3678	
+HFAHPLKA_02601	ROG4224	
+HFAHPLKA_02602	ROG5128	
+HFAHPLKA_02604	ROG2562	
+HFAHPLKA_02606	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+HFAHPLKA_02607	COG2226	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+HFAHPLKA_02608	ROG5991	
+HFAHPLKA_02609	COG1113	[E] Gamma-aminobutyrate permease and related permeases 
+HFAHPLKA_02611	ROG3899	
+HFAHPLKA_02612	COG0247	[C] Fe-S oxidoreductase    
+HFAHPLKA_02613	COG1139	[C] Uncharacterized conserved protein containing a ferredoxin-like
+HFAHPLKA_02614	COG1556	[S] Uncharacterized conserved protein   
+HFAHPLKA_02615	COG0681	[U] Signal peptidase I   
+HFAHPLKA_02616	COG3857	[L] ATP-dependent nuclease, subunit B  
+HFAHPLKA_02617	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+HFAHPLKA_02618	COG1733	[K] Predicted transcriptional regulators   
+HFAHPLKA_02619	COG0016	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+HFAHPLKA_02620	COG0072	[J] Phenylalanyl-tRNA synthetase beta subunit  
+HFAHPLKA_02621	COG0765	[E] ABC-type amino acid transport system, permease
+HFAHPLKA_02622	COG0765	[E] ABC-type amino acid transport system, permease
+HFAHPLKA_02623	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+HFAHPLKA_02624	COG1126	[E] ABC-type polar amino acid transport system,
+HFAHPLKA_02625	COG0796	[M] Glutamate racemase    
+HFAHPLKA_02626	COG0689	[J] RNase PH    
+HFAHPLKA_02627	COG0622	[R] Predicted phosphoesterase    
+HFAHPLKA_02628	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+HFAHPLKA_02629	COG2220	[R] Predicted Zn-dependent hydrolases of the beta-lactamase
+HFAHPLKA_02630	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+HFAHPLKA_02631	COG3037	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02632	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+HFAHPLKA_02633	COG0269	[G] 3-hexulose-6-phosphate synthase and related proteins 
+HFAHPLKA_02634	COG3623	[G] Putative L-xylulose-5-phosphate 3-epimerase   
+HFAHPLKA_02635	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+HFAHPLKA_02636	COG0517	[R] FOG: CBS domain   
+HFAHPLKA_02637	COG2171	[E] Tetrahydrodipicolinate N-succinyltransferase    
+HFAHPLKA_02638	COG1473	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+HFAHPLKA_02639	COG0668	[M] Small-conductance mechanosensitive channel   
+HFAHPLKA_02640	ROG0608	
+HFAHPLKA_02641	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HFAHPLKA_02642	COG2071	[R] Predicted glutamine amidotransferases   
+HFAHPLKA_02643	COG0346	[E] Lactoylglutathione lyase and related lyases 
+HFAHPLKA_02644	COG2816	[L] NTP pyrophosphohydrolases containing a Zn-finger, probably
+HFAHPLKA_02645	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_02646	COG1078	[R] HD superfamily phosphohydrolases   
+HFAHPLKA_02648	COG4506	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02649	COG3343	[K] DNA-directed RNA polymerase, delta subunit 
+HFAHPLKA_02650	COG0504	[F] CTP synthase (UTP-ammonia lyase)  
+HFAHPLKA_02651	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+HFAHPLKA_02652	COG3331	[R] Penicillin-binding protein-related factor A, putative recombinase
+HFAHPLKA_02653	COG4474	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02654	COG3599	[D] Cell division initiation protein  
+HFAHPLKA_02655	COG0116	[L] Predicted N6-adenine-specific DNA methylase  
+HFAHPLKA_02656	COG2317	[E] Zn-dependent carboxypeptidase    
+HFAHPLKA_02657	COG3935	[L] Putative primosome component and related proteins
+HFAHPLKA_02658	COG0177	[L] Predicted EndoIII-related endonuclease   
+HFAHPLKA_02659	COG2188	[K] Transcriptional regulators    
+HFAHPLKA_02660	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+HFAHPLKA_02661	COG1446	[E] Asparaginase     
+HFAHPLKA_02662	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+HFAHPLKA_02663	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+HFAHPLKA_02664	ROG2504	
+HFAHPLKA_02665	COG1199	[KL] Rad3-related DNA helicases   
+HFAHPLKA_02666	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+HFAHPLKA_02667	ROG5768	
+HFAHPLKA_02668	COG1666	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02669	COG1284	[S] Uncharacterized conserved protein   
+HFAHPLKA_02670	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+HFAHPLKA_02671	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+HFAHPLKA_02672	COG1158	[K] Transcription termination factor   
+HFAHPLKA_02673	COG0254	[J] Ribosomal protein L31   
+HFAHPLKA_02674	COG1887	[M] Putative glycosyl/glycerophosphate transferases involved in teichoic
+HFAHPLKA_02675	COG1922	[M] Teichoic acid biosynthesis proteins  
+HFAHPLKA_02677	COG0615	[MI] Cytidylyltransferase     
+HFAHPLKA_02678	ROG1429	
+HFAHPLKA_02679	COG0531	[E] Amino acid transporters   
+HFAHPLKA_02680	COG1940	[KG] Transcriptional regulator/sugar kinase   
+HFAHPLKA_02681	COG3237	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02682	COG0778	[C] Nitroreductase     
+HFAHPLKA_02683	COG1854	[T] LuxS protein involved in autoinducer AI2
+HFAHPLKA_02684	COG0136	[E] Aspartate-semialdehyde dehydrogenase    
+HFAHPLKA_02685	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+HFAHPLKA_02686	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+HFAHPLKA_02687	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+HFAHPLKA_02688	COG4470	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02689	COG0647	[G] Predicted sugar phosphatases of the HAD
+HFAHPLKA_02690	COG4478	[S] Predicted membrane protein   
+HFAHPLKA_02691	ROG0143	
+HFAHPLKA_02692	COG1307	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02693	COG0580	[G] Glycerol uptake facilitator and related permeases
+HFAHPLKA_02694	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_02695	COG5002	[T] Signal transduction histidine kinase  
+HFAHPLKA_02696	COG4863	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02697	COG4853	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02698	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+HFAHPLKA_02699	COG0701	[R] Predicted permeases    
+HFAHPLKA_02700	COG3689	[S] Predicted membrane protein   
+HFAHPLKA_02701	COG3610	[S] Uncharacterized conserved protein   
+HFAHPLKA_02702	COG2966	[S] Uncharacterized conserved protein   
+HFAHPLKA_02703	COG4472	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02704	COG0816	[L] Predicted endonuclease involved in recombination (possible
+HFAHPLKA_02705	COG3906	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02706	COG0457	[R] FOG: TPR repeat   
+HFAHPLKA_02707	COG0281	[C] Malic enzyme    
+HFAHPLKA_02708	COG3493	[C] Na+/citrate symporter    
+HFAHPLKA_02709	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+HFAHPLKA_02710	COG4565	[KT] Response regulator of citrate/malate metabolism 
+HFAHPLKA_02711	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+HFAHPLKA_02712	COG1316	[K] Transcriptional regulator    
+HFAHPLKA_02713	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+HFAHPLKA_02714	COG3527	[Q] Alpha-acetolactate decarboxylase    
+HFAHPLKA_02715	ROG1134	
+HFAHPLKA_02717	COG4105	[R] DNA uptake lipoprotein   
+HFAHPLKA_02718	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+HFAHPLKA_02719	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+HFAHPLKA_02720	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+HFAHPLKA_02721	COG1840	[P] ABC-type Fe3+ transport system, periplasmic component
+HFAHPLKA_02722	COG1001	[F] Adenine deaminase    
+HFAHPLKA_02723	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+HFAHPLKA_02724	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_02725	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+HFAHPLKA_02726	COG0431	[R] Predicted flavoprotein    
+HFAHPLKA_02727	COG0431	[R] Predicted flavoprotein    
+HFAHPLKA_02728	ROG7009	
+HFAHPLKA_02729	ROG3628	
+HFAHPLKA_02731	COG1408	[R] Predicted phosphohydrolases    
+HFAHPLKA_02732	COG4209	[G] ABC-type polysaccharide transport system, permease component
+HFAHPLKA_02733	COG0395	[G] ABC-type sugar transport system, permease component
+HFAHPLKA_02734	COG1653	[G] ABC-type sugar transport system, periplasmic component
+HFAHPLKA_02735	ROG5412	
+HFAHPLKA_02736	COG3458	[Q] Acetyl esterase (deacetylase)   
+HFAHPLKA_02737	COG3568	[R] Metal-dependent hydrolase    
+HFAHPLKA_02738	COG1472	[G] Beta-glucosidase-related glycosidases    
+HFAHPLKA_02739	COG3459	[G] Cellobiose phosphorylase    
+HFAHPLKA_02740	COG1609	[K] Transcriptional regulators    
+HFAHPLKA_02741	ROG0568	
+HFAHPLKA_02742	COG2188	[K] Transcriptional regulators    
+HFAHPLKA_02743	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+HFAHPLKA_02744	COG0673	[R] Predicted dehydrogenases and related proteins 
+HFAHPLKA_02745	COG2707	[S] Predicted membrane protein   
+HFAHPLKA_02746	ROG3155	
+HFAHPLKA_02747	COG1138	[O] Cytochrome c biogenesis factor  
+HFAHPLKA_02748	COG1293	[K] Predicted RNA-binding protein homologous to eukaryotic
+HFAHPLKA_02749	COG1668	[CP] ABC-type Na+ efflux pump, permease component
+HFAHPLKA_02751	COG2984	[R] ABC-type uncharacterized transport system, periplasmic component
+HFAHPLKA_02752	COG4120	[R] ABC-type uncharacterized transport system, permease component
+HFAHPLKA_02753	COG1101	[R] ABC-type uncharacterized transport system, ATPase component
+HFAHPLKA_02754	COG3610	[S] Uncharacterized conserved protein   
+HFAHPLKA_02755	COG2966	[S] Uncharacterized conserved protein   
+HFAHPLKA_02756	ROG5912	
+HFAHPLKA_02757	COG0561	[R] Predicted hydrolases of the HAD superfamily
+HFAHPLKA_02758	COG0745	[TK] Response regulators consisting of a CheY-like
+HFAHPLKA_02759	COG0642	[T] Signal transduction histidine kinase  
+HFAHPLKA_02760	ROG6183	
+HFAHPLKA_02762	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+HFAHPLKA_02763	COG1092	[R] Predicted SAM-dependent methyltransferases   
+HFAHPLKA_02764	COG1039	[L] Ribonuclease HIII    
+HFAHPLKA_02765	COG2217	[P] Cation transport ATPase   
+HFAHPLKA_02766	COG4932	[M] Predicted outer membrane protein  
+HFAHPLKA_02767	COG0779	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02768	COG0195	[K] Transcription elongation factor   
+HFAHPLKA_02769	COG2740	[K] Predicted nucleic-acid-binding protein implicated in transcription
+HFAHPLKA_02770	COG1358	[J] Ribosomal protein HS6-type (S12/L30/L7a)  
+HFAHPLKA_02771	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+HFAHPLKA_02772	COG0858	[J] Ribosome-binding factor A   
+HFAHPLKA_02774	ROG1494	
+HFAHPLKA_02775	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_02777	COG3935	[L] Putative primosome component and related proteins
+HFAHPLKA_02778	COG1484	[L] DNA replication protein   
+HFAHPLKA_02780	ROG5701	
+HFAHPLKA_02782	ROG8129	
+HFAHPLKA_02783	ROG5308	
+HFAHPLKA_02784	ROG4314	
+HFAHPLKA_02786	COG5412	[S] Phage-related protein    
+HFAHPLKA_02787	COG4722	[S] Phage-related protein    
+HFAHPLKA_02790	COG4824	[R] Phage-related holin (Lysis protein)  
+HFAHPLKA_02791	COG5632	[M] N-acetylmuramoyl-L-alanine amidase    
+HFAHPLKA_02792	COG0130	[J] Pseudouridine synthase    
+HFAHPLKA_02793	COG0196	[H] FAD synthase    
+HFAHPLKA_02794	COG3153	[R] Predicted acetyltransferase    
+HFAHPLKA_02795	COG1695	[K] Predicted transcriptional regulators   
+HFAHPLKA_02796	COG4817	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02797	COG3860	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02798	COG0772	[D] Bacterial cell division membrane protein 
+HFAHPLKA_02799	COG0772	[D] Bacterial cell division membrane protein 
+HFAHPLKA_02800	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_02801	COG0583	[K] Transcriptional regulator    
+HFAHPLKA_02802	COG2180	[C] Nitrate reductase delta subunit  
+HFAHPLKA_02803	COG0474	[P] Cation transport ATPase   
+HFAHPLKA_02804	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+HFAHPLKA_02805	COG1420	[K] Transcriptional regulator of heat shock gene
+HFAHPLKA_02806	COG0576	[O] Molecular chaperone GrpE (heat shock protein)
+HFAHPLKA_02807	COG0443	[O] Molecular chaperone    
+HFAHPLKA_02808	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+HFAHPLKA_02809	ROG0146	
+HFAHPLKA_02810	COG2183	[K] Transcriptional accessory protein   
+HFAHPLKA_02811	COG3091	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02813	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HFAHPLKA_02814	ROG1680	
+HFAHPLKA_02815	COG1396	[K] Predicted transcriptional regulators   
+HFAHPLKA_02816	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+HFAHPLKA_02817	ROG4213	
+HFAHPLKA_02818	ROG0661	
+HFAHPLKA_02819	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_02820	COG4591	[M] ABC-type transport system, involved in lipoprotein
+HFAHPLKA_02821	ROG2851	
+HFAHPLKA_02822	COG2268	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02827	COG1309	[K] Transcriptional regulator    
+HFAHPLKA_02828	COG1924	[I] Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase
+HFAHPLKA_02829	COG2188	[K] Transcriptional regulators    
+HFAHPLKA_02830	ROG1651	
+HFAHPLKA_02831	COG0492	[O] Thioredoxin reductase    
+HFAHPLKA_02832	ROG2558	
+HFAHPLKA_02833	COG3212	[S] Predicted membrane protein   
+HFAHPLKA_02834	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HFAHPLKA_02835	ROG7539	
+HFAHPLKA_02836	COG3833	[G] ABC-type maltose transport systems, permease component
+HFAHPLKA_02837	COG1175	[G] ABC-type sugar transport systems, permease components
+HFAHPLKA_02838	COG2182	[G] Maltose-binding periplasmic proteins/domains   
+HFAHPLKA_02839	COG0366	[G] Glycosidases     
+HFAHPLKA_02840	COG0366	[G] Glycosidases     
+HFAHPLKA_02841	COG0366	[G] Glycosidases     
+HFAHPLKA_02842	COG3548	[S] Predicted integral membrane protein  
+HFAHPLKA_02843	COG0474	[P] Cation transport ATPase   
+HFAHPLKA_02844	COG1071	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+HFAHPLKA_02845	COG0022	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+HFAHPLKA_02846	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+HFAHPLKA_02847	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+HFAHPLKA_02848	COG4936	[TK] Predicted sensor domain   
+HFAHPLKA_02849	COG0371	[C] Glycerol dehydrogenase and related enzymes 
+HFAHPLKA_02850	COG3412	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02851	COG2376	[G] Dihydroxyacetone kinase    
+HFAHPLKA_02852	COG2376	[G] Dihydroxyacetone kinase    
+HFAHPLKA_02853	ROG3888	
+HFAHPLKA_02854	COG3425	[I] 3-hydroxy-3-methylglutaryl CoA synthase   
+HFAHPLKA_02855	COG0183	[I] Acetyl-CoA acetyltransferase    
+HFAHPLKA_02856	COG0628	[R] Predicted permease    
+HFAHPLKA_02857	COG1434	[S] Uncharacterized conserved protein   
+HFAHPLKA_02858	COG1278	[K] Cold shock proteins   
+HFAHPLKA_02859	ROG0099	
+HFAHPLKA_02860	COG2932	[K] Predicted transcriptional regulator   
+HFAHPLKA_02861	COG0477	[GEPR] Permeases of the major facilitator superfamily
+HFAHPLKA_02862	COG2220	[R] Predicted Zn-dependent hydrolases of the beta-lactamase
+HFAHPLKA_02863	COG4109	[K] Predicted transcriptional regulator containing CBS domains
+HFAHPLKA_02864	COG0618	[R] Exopolyphosphatase-related proteins    
+HFAHPLKA_02865	COG2824	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+HFAHPLKA_02866	ROG6412	
+HFAHPLKA_02867	COG4767	[V] Glycopeptide antibiotics resistance protein  
+HFAHPLKA_02868	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+HFAHPLKA_02869	COG3710	[K] DNA-binding winged-HTH domains   
+HFAHPLKA_02870	COG0013	[J] Alanyl-tRNA synthetase    
+HFAHPLKA_02871	COG2384	[R] Predicted SAM-dependent methyltransferase   
+HFAHPLKA_02872	COG0327	[S] Uncharacterized conserved protein   
+HFAHPLKA_02873	COG2195	[E] Di- and tripeptidases   
+HFAHPLKA_02874	COG3326	[S] Predicted membrane protein   
+HFAHPLKA_02875	COG0392	[S] Predicted integral membrane protein  
+HFAHPLKA_02876	COG0746	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+HFAHPLKA_02877	COG2116	[P] Formate/nitrite family of transporters  
+HFAHPLKA_02878	ROG7942	
+HFAHPLKA_02879	COG1905	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+HFAHPLKA_02880	COG1894	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+HFAHPLKA_02881	COG3383	[R] Uncharacterized anaerobic dehydrogenase   
+HFAHPLKA_02882	COG0303	[H] Molybdopterin biosynthesis enzyme   
+HFAHPLKA_02883	COG0315	[H] Molybdenum cofactor biosynthesis enzyme  
+HFAHPLKA_02884	COG2896	[H] Molybdenum cofactor biosynthesis enzyme  
+HFAHPLKA_02885	COG2258	[S] Uncharacterized protein conserved in bacteria 
+HFAHPLKA_02886	COG0521	[H] Molybdopterin biosynthesis enzymes   
+HFAHPLKA_02888	COG0725	[P] ABC-type molybdate transport system, periplasmic component
+HFAHPLKA_02889	COG4149	[P] ABC-type molybdate transport system, permease component
+HFAHPLKA_02890	COG1118	[P] ABC-type sulfate/molybdate transport systems, ATPase component

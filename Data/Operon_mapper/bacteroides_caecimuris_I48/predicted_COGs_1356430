@@ -1,0 +1,3105 @@
+DAHLBGMF_00002	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+DAHLBGMF_00003	ROG2569	
+DAHLBGMF_00004	COG4845	[V] Chloramphenicol O-acetyltransferase    
+DAHLBGMF_00005	ROG3733	
+DAHLBGMF_00006	COG1835	[I] Predicted acyltransferases    
+DAHLBGMF_00007	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+DAHLBGMF_00008	COG0027	[F] Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase) 
+DAHLBGMF_00009	COG0055	[C] F0F1-type ATP synthase, beta subunit 
+DAHLBGMF_00010	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+DAHLBGMF_00012	COG0356	[C] F0F1-type ATP synthase, subunit a 
+DAHLBGMF_00013	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+DAHLBGMF_00014	COG0711	[C] F0F1-type ATP synthase, subunit b 
+DAHLBGMF_00015	COG0712	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+DAHLBGMF_00016	COG0056	[C] F0F1-type ATP synthase, alpha subunit 
+DAHLBGMF_00017	COG0224	[C] F0F1-type ATP synthase, gamma subunit 
+DAHLBGMF_00018	ROG3209	
+DAHLBGMF_00019	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_00020	COG0702	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+DAHLBGMF_00023	COG2759	[F] Formyltetrahydrofolate synthetase    
+DAHLBGMF_00024	COG0112	[E] Glycine/serine hydroxymethyltransferase    
+DAHLBGMF_00026	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+DAHLBGMF_00027	COG1781	[F] Aspartate carbamoyltransferase, regulatory subunit  
+DAHLBGMF_00028	COG0540	[F] Aspartate carbamoyltransferase, catalytic chain  
+DAHLBGMF_00029	ROG6474	
+DAHLBGMF_00032	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00034	COG0250	[K] Transcription antiterminator    
+DAHLBGMF_00035	COG1596	[M] Periplasmic protein involved in polysaccharide export
+DAHLBGMF_00036	ROG8224	
+DAHLBGMF_00037	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+DAHLBGMF_00039	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_00040	COG3385	[L] FOG: Transposase and inactivated derivatives 
+DAHLBGMF_00041	COG3385	[L] FOG: Transposase and inactivated derivatives 
+DAHLBGMF_00043	COG1835	[I] Predicted acyltransferases    
+DAHLBGMF_00046	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+DAHLBGMF_00047	COG1211	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+DAHLBGMF_00048	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+DAHLBGMF_00049	COG3475	[M] LPS biosynthesis protein   
+DAHLBGMF_00050	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_00053	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00055	ROG3457	
+DAHLBGMF_00056	COG3882	[Q] Predicted enzyme involved in methoxymalonyl-ACP biosynthesis
+DAHLBGMF_00058	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+DAHLBGMF_00059	ROG5295	
+DAHLBGMF_00060	COG1212	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+DAHLBGMF_00061	COG0612	[R] Predicted Zn-dependent peptidases   
+DAHLBGMF_00062	COG4642	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00064	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+DAHLBGMF_00065	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_00066	COG3279	[KT] Response regulator of the LytR/AlgR family
+DAHLBGMF_00067	COG2978	[H] Putative p-aminobenzoyl-glutamate transporter   
+DAHLBGMF_00069	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00070	COG0147	[EH] Anthranilate/para-aminobenzoate synthases component I  
+DAHLBGMF_00072	COG5587	[S] Uncharacterized conserved protein   
+DAHLBGMF_00073	COG2731	[G] Beta-galactosidase, beta subunit   
+DAHLBGMF_00074	COG0296	[G] 1,4-alpha-glucan branching enzyme   
+DAHLBGMF_00075	COG0366	[G] Glycosidases     
+DAHLBGMF_00076	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+DAHLBGMF_00077	COG1145	[C] Ferredoxin     
+DAHLBGMF_00078	COG2006	[S] Uncharacterized conserved protein   
+DAHLBGMF_00080	COG0724	[R] RNA-binding proteins (RRM domain)  
+DAHLBGMF_00081	COG0331	[I] (acyl-carrier-protein) S-malonyltransferase    
+DAHLBGMF_00082	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+DAHLBGMF_00083	COG1051	[F] ADP-ribose pyrophosphatase    
+DAHLBGMF_00084	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+DAHLBGMF_00085	COG2115	[G] Xylose isomerase    
+DAHLBGMF_00086	COG0477	[GEPR] Permeases of the major facilitator superfamily
+DAHLBGMF_00087	ROG5761	
+DAHLBGMF_00088	COG0060	[J] Isoleucyl-tRNA synthetase    
+DAHLBGMF_00089	COG1734	[T] DnaK suppressor protein   
+DAHLBGMF_00090	COG0597	[MU] Lipoprotein signal peptidase   
+DAHLBGMF_00091	ROG5481	
+DAHLBGMF_00093	COG0566	[J] rRNA methylases    
+DAHLBGMF_00094	ROG4550	
+DAHLBGMF_00097	COG2259	[S] Predicted membrane protein   
+DAHLBGMF_00099	COG3104	[E] Dipeptide/tripeptide permease    
+DAHLBGMF_00100	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+DAHLBGMF_00104	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00105	COG1904	[G] Glucuronate isomerase    
+DAHLBGMF_00106	COG1609	[K] Transcriptional regulators    
+DAHLBGMF_00107	COG0246	[G] Mannitol-1-phosphate/altronate dehydrogenases    
+DAHLBGMF_00110	ROG4216	
+DAHLBGMF_00112	ROG7832	
+DAHLBGMF_00115	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00116	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00117	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00118	COG0795	[R] Predicted permeases    
+DAHLBGMF_00119	COG0343	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+DAHLBGMF_00120	COG0466	[O] ATP-dependent Lon protease, bacterial type 
+DAHLBGMF_00121	COG4123	[R] Predicted O-methyltransferase    
+DAHLBGMF_00126	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00127	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00128	COG0156	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+DAHLBGMF_00129	COG1597	[IR] Sphingosine kinase and enzymes related to
+DAHLBGMF_00130	COG0173	[J] Aspartyl-tRNA synthetase    
+DAHLBGMF_00131	COG2246	[S] Predicted membrane protein   
+DAHLBGMF_00132	COG0388	[R] Predicted amidohydrolase    
+DAHLBGMF_00133	COG2957	[E] Peptidylarginine deiminase and related enzymes 
+DAHLBGMF_00134	COG4739	[S] Uncharacterized protein containing a ferredoxin domain
+DAHLBGMF_00136	ROG0309	
+DAHLBGMF_00137	COG4260	[S] Putative virion core protein (lumpy skin
+DAHLBGMF_00140	ROG1269	
+DAHLBGMF_00141	COG4619	[R] ABC-type uncharacterized transport system, ATPase component
+DAHLBGMF_00142	COG0390	[R] ABC-type uncharacterized transport system, permease component
+DAHLBGMF_00144	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00146	COG0327	[S] Uncharacterized conserved protein   
+DAHLBGMF_00147	COG1579	[R] Zn-ribbon protein, possibly nucleic acid-binding 
+DAHLBGMF_00149	ROG0829	
+DAHLBGMF_00150	COG0775	[F] Nucleoside phosphorylase    
+DAHLBGMF_00151	COG1466	[L] DNA polymerase III, delta subunit 
+DAHLBGMF_00152	ROG2897	
+DAHLBGMF_00153	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+DAHLBGMF_00154	COG0167	[F] Dihydroorotate dehydrogenase    
+DAHLBGMF_00155	COG0336	[J] tRNA-(guanine-N1)-methyltransferase     
+DAHLBGMF_00156	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+DAHLBGMF_00157	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+DAHLBGMF_00158	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00160	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00164	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+DAHLBGMF_00165	COG0326	[O] Molecular chaperone, HSP90 family  
+DAHLBGMF_00166	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+DAHLBGMF_00167	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+DAHLBGMF_00168	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00169	COG0442	[J] Prolyl-tRNA synthetase    
+DAHLBGMF_00170	COG0745	[TK] Response regulators consisting of a CheY-like
+DAHLBGMF_00171	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_00172	ROG4780	
+DAHLBGMF_00173	ROG3664	
+DAHLBGMF_00174	ROG3156	
+DAHLBGMF_00175	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+DAHLBGMF_00176	COG1058	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+DAHLBGMF_00177	COG0227	[J] Ribosomal protein L28   
+DAHLBGMF_00178	COG0267	[J] Ribosomal protein L33   
+DAHLBGMF_00180	COG0552	[U] Signal recognition particle GTPase  
+DAHLBGMF_00181	COG0621	[J] 2-methylthioadenine synthetase    
+DAHLBGMF_00182	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_00183	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_00184	COG0714	[R] MoxR-like ATPases    
+DAHLBGMF_00185	COG1721	[R] Uncharacterized conserved protein (some members contain
+DAHLBGMF_00186	ROG1930	
+DAHLBGMF_00187	COG2304	[R] Uncharacterized protein containing a von Willebrand
+DAHLBGMF_00188	COG2304	[R] Uncharacterized protein containing a von Willebrand
+DAHLBGMF_00189	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00190	ROG0028	
+DAHLBGMF_00191	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00196	COG3706	[T] Response regulator containing a CheY-like receiver
+DAHLBGMF_00198	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+DAHLBGMF_00199	COG1145	[C] Ferredoxin     
+DAHLBGMF_00200	ROG4771	
+DAHLBGMF_00201	COG3610	[S] Uncharacterized conserved protein   
+DAHLBGMF_00202	COG2966	[S] Uncharacterized conserved protein   
+DAHLBGMF_00203	COG3568	[R] Metal-dependent hydrolase    
+DAHLBGMF_00205	ROG1031	
+DAHLBGMF_00206	ROG3098	
+DAHLBGMF_00207	ROG7278	
+DAHLBGMF_00208	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_00209	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_00211	ROG3079	
+DAHLBGMF_00212	COG1028	[IQR] Dehydrogenases with different specificities (related to
+DAHLBGMF_00213	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_00214	COG2152	[G] Predicted glycosylase    
+DAHLBGMF_00216	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+DAHLBGMF_00217	ROG1015	
+DAHLBGMF_00219	COG3969	[R] Predicted phosphoadenosine phosphosulfate sulfotransferase  
+DAHLBGMF_00221	ROG4723	
+DAHLBGMF_00225	COG0629	[L] Single-stranded DNA-binding protein   
+DAHLBGMF_00226	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_00228	ROG3692	
+DAHLBGMF_00234	ROG1707	
+DAHLBGMF_00236	COG5423	[S] Predicted metal-binding protein   
+DAHLBGMF_00237	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+DAHLBGMF_00238	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+DAHLBGMF_00239	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+DAHLBGMF_00240	COG4206	[H] Outer membrane cobalamin receptor protein 
+DAHLBGMF_00241	COG1943	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00242	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_00250	ROG3718	
+DAHLBGMF_00253	COG1705	[NU] Muramidase (flagellum-specific)    
+DAHLBGMF_00254	ROG3718	
+DAHLBGMF_00256	COG4942	[D] Membrane-bound metallopeptidase    
+DAHLBGMF_00258	ROG4394	
+DAHLBGMF_00259	ROG4394	
+DAHLBGMF_00260	ROG0124	
+DAHLBGMF_00261	ROG8234	
+DAHLBGMF_00265	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_00266	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_00272	COG1192	[D] ATPases involved in chromosome partitioning 
+DAHLBGMF_00274	COG1475	[K] Predicted transcriptional regulators   
+DAHLBGMF_00275	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00278	ROG2859	
+DAHLBGMF_00279	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_00280	COG3505	[U] Type IV secretory pathway, VirD4 components
+DAHLBGMF_00281	ROG2404	
+DAHLBGMF_00283	ROG4358	
+DAHLBGMF_00284	COG0863	[L] DNA modification methylase   
+DAHLBGMF_00285	ROG7494	
+DAHLBGMF_00288	ROG5270	
+DAHLBGMF_00289	COG1525	[L] Micrococcal nuclease (thermonuclease) homologs  
+DAHLBGMF_00290	ROG7689	
+DAHLBGMF_00294	COG3451	[U] Type IV secretory pathway, VirB4 components
+DAHLBGMF_00296	ROG0753	
+DAHLBGMF_00301	ROG3324	
+DAHLBGMF_00302	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00304	ROG0902	
+DAHLBGMF_00307	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00308	ROG5478	
+DAHLBGMF_00309	ROG5478	
+DAHLBGMF_00310	ROG7571	
+DAHLBGMF_00311	ROG5371	
+DAHLBGMF_00312	COG4734	[R] Antirestriction protein    
+DAHLBGMF_00314	COG4474	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00315	COG1475	[K] Predicted transcriptional regulators   
+DAHLBGMF_00321	COG4495	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00322	ROG4358	
+DAHLBGMF_00323	ROG7494	
+DAHLBGMF_00325	ROG5270	
+DAHLBGMF_00326	ROG7689	
+DAHLBGMF_00327	ROG4394	
+DAHLBGMF_00329	COG3451	[U] Type IV secretory pathway, VirB4 components
+DAHLBGMF_00330	ROG0149	
+DAHLBGMF_00334	ROG1081	
+DAHLBGMF_00335	ROG6077	
+DAHLBGMF_00336	ROG1442	
+DAHLBGMF_00337	COG3505	[U] Type IV secretory pathway, VirD4 components
+DAHLBGMF_00338	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00339	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+DAHLBGMF_00340	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00341	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_00343	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00344	COG0582	[L] Integrase     
+DAHLBGMF_00345	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00346	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_00348	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_00349	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+DAHLBGMF_00350	ROG5478	
+DAHLBGMF_00352	ROG5478	
+DAHLBGMF_00353	ROG6464	
+DAHLBGMF_00354	ROG8497	
+DAHLBGMF_00356	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_00357	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_00358	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00359	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+DAHLBGMF_00360	COG1678	[K] Putative transcriptional regulator   
+DAHLBGMF_00361	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+DAHLBGMF_00363	COG0353	[L] Recombinational DNA repair protein (RecF pathway)
+DAHLBGMF_00364	COG0591	[ER] Na+/proline symporter    
+DAHLBGMF_00365	COG0218	[R] Predicted GTPase    
+DAHLBGMF_00367	ROG4334	
+DAHLBGMF_00368	COG1297	[S] Predicted membrane protein   
+DAHLBGMF_00369	ROG4515	
+DAHLBGMF_00370	ROG2487	
+DAHLBGMF_00371	COG0321	[H] Lipoate-protein ligase B   
+DAHLBGMF_00372	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_00373	COG2217	[P] Cation transport ATPase   
+DAHLBGMF_00374	COG2608	[P] Copper chaperone    
+DAHLBGMF_00375	ROG2089	
+DAHLBGMF_00377	ROG0285	
+DAHLBGMF_00378	COG0357	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+DAHLBGMF_00379	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+DAHLBGMF_00380	COG1003	[E] Glycine cleavage system protein P (pyridoxal-binding),
+DAHLBGMF_00381	COG0778	[C] Nitroreductase     
+DAHLBGMF_00383	ROG3860	
+DAHLBGMF_00384	COG1739	[S] Uncharacterized conserved protein   
+DAHLBGMF_00385	COG4198	[S] Uncharacterized conserved protein   
+DAHLBGMF_00386	COG0111	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+DAHLBGMF_00387	COG1932	[HE] Phosphoserine aminotransferase    
+DAHLBGMF_00388	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+DAHLBGMF_00389	COG2871	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF 
+DAHLBGMF_00390	COG2209	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE 
+DAHLBGMF_00391	COG1347	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD 
+DAHLBGMF_00392	COG2869	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC 
+DAHLBGMF_00393	COG1805	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB 
+DAHLBGMF_00394	COG1726	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA 
+DAHLBGMF_00395	COG3579	[E] Aminopeptidase C    
+DAHLBGMF_00396	ROG2862	
+DAHLBGMF_00397	ROG3639	
+DAHLBGMF_00399	ROG5184	
+DAHLBGMF_00401	ROG0276	
+DAHLBGMF_00402	COG4506	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00404	COG0488	[R] ATPase components of ABC transporters with
+DAHLBGMF_00406	ROG2994	
+DAHLBGMF_00407	COG2755	[E] Lysophospholipase L1 and related esterases 
+DAHLBGMF_00408	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+DAHLBGMF_00409	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_00411	ROG7144	
+DAHLBGMF_00412	COG2860	[S] Predicted membrane protein   
+DAHLBGMF_00413	COG0381	[M] UDP-N-acetylglucosamine 2-epimerase    
+DAHLBGMF_00414	ROG2089	
+DAHLBGMF_00415	COG2256	[L] ATPase related to the helicase subunit
+DAHLBGMF_00417	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+DAHLBGMF_00418	COG1294	[C] Cytochrome bd-type quinol oxidase, subunit 2
+DAHLBGMF_00419	COG1271	[C] Cytochrome bd-type quinol oxidase, subunit 1
+DAHLBGMF_00420	ROG2651	
+DAHLBGMF_00421	ROG2659	
+DAHLBGMF_00422	COG1566	[V] Multidrug resistance efflux pump  
+DAHLBGMF_00423	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+DAHLBGMF_00424	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+DAHLBGMF_00425	COG2972	[T] Predicted signal transduction protein with a
+DAHLBGMF_00426	COG3279	[KT] Response regulator of the LytR/AlgR family
+DAHLBGMF_00428	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+DAHLBGMF_00429	COG0364	[G] Glucose-6-phosphate 1-dehydrogenase    
+DAHLBGMF_00430	COG0362	[G] 6-phosphogluconate dehydrogenase    
+DAHLBGMF_00431	COG1301	[C] Na+/H+-dicarboxylate symporters    
+DAHLBGMF_00432	COG1089	[M] GDP-D-mannose dehydratase    
+DAHLBGMF_00433	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+DAHLBGMF_00434	COG1022	[I] Long-chain acyl-CoA synthetases (AMP-forming)  
+DAHLBGMF_00435	ROG4008	
+DAHLBGMF_00436	COG3855	[G] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00437	COG2985	[R] Predicted permease    
+DAHLBGMF_00440	COG2425	[R] Uncharacterized protein containing a von Willebrand
+DAHLBGMF_00444	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_00445	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_00446	COG2183	[K] Transcriptional accessory protein   
+DAHLBGMF_00447	COG1266	[R] Predicted metal-dependent membrane protease  
+DAHLBGMF_00448	ROG2989	
+DAHLBGMF_00449	COG3247	[S] Uncharacterized conserved protein   
+DAHLBGMF_00450	ROG3639	
+DAHLBGMF_00451	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_00455	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+DAHLBGMF_00456	ROG1301	
+DAHLBGMF_00457	COG0488	[R] ATPase components of ABC transporters with
+DAHLBGMF_00458	COG0576	[O] Molecular chaperone GrpE (heat shock protein)
+DAHLBGMF_00459	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+DAHLBGMF_00461	COG3525	[G] N-acetyl-beta-hexosaminidase     
+DAHLBGMF_00462	COG3525	[G] N-acetyl-beta-hexosaminidase     
+DAHLBGMF_00463	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_00464	COG4409	[G] Neuraminidase (sialidase)    
+DAHLBGMF_00465	COG4409	[G] Neuraminidase (sialidase)    
+DAHLBGMF_00466	COG0477	[GEPR] Permeases of the major facilitator superfamily
+DAHLBGMF_00467	COG2942	[G] N-acyl-D-glucosamine 2-epimerase    
+DAHLBGMF_00468	COG1874	[G] Beta-galactosidase     
+DAHLBGMF_00469	ROG7278	
+DAHLBGMF_00470	ROG3098	
+DAHLBGMF_00472	COG1649	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00473	ROG4126	
+DAHLBGMF_00474	COG1649	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00475	ROG1040	
+DAHLBGMF_00476	COG4299	[S] Uncharacterized conserved protein   
+DAHLBGMF_00477	ROG0779	
+DAHLBGMF_00478	ROG4009	
+DAHLBGMF_00480	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00483	ROG3098	
+DAHLBGMF_00484	ROG7278	
+DAHLBGMF_00485	COG2942	[G] N-acyl-D-glucosamine 2-epimerase    
+DAHLBGMF_00486	COG0477	[GEPR] Permeases of the major facilitator superfamily
+DAHLBGMF_00488	COG0492	[O] Thioredoxin reductase    
+DAHLBGMF_00490	COG1940	[KG] Transcriptional regulator/sugar kinase   
+DAHLBGMF_00493	COG2849	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00494	COG1636	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00495	COG1864	[F] DNA/RNA endonuclease G, NUC1  
+DAHLBGMF_00496	COG1559	[R] Predicted periplasmic solute-binding protein  
+DAHLBGMF_00497	COG4231	[C] Indolepyruvate ferredoxin oxidoreductase, alpha and beta
+DAHLBGMF_00498	COG1014	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_00499	COG1541	[H] Coenzyme F390 synthetase   
+DAHLBGMF_00500	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+DAHLBGMF_00501	COG1145	[C] Ferredoxin     
+DAHLBGMF_00502	COG0292	[J] Ribosomal protein L20   
+DAHLBGMF_00503	COG0291	[J] Ribosomal protein L35   
+DAHLBGMF_00504	COG0290	[J] Translation initiation factor 3 (IF-3) 
+DAHLBGMF_00505	COG0441	[J] Threonyl-tRNA synthetase    
+DAHLBGMF_00506	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00507	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+DAHLBGMF_00508	COG0816	[L] Predicted endonuclease involved in recombination (possible
+DAHLBGMF_00509	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+DAHLBGMF_00511	ROG0225	
+DAHLBGMF_00512	COG2895	[P] GTPases - Sulfate adenylate transferase subunit
+DAHLBGMF_00513	COG0175	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+DAHLBGMF_00514	COG0529	[P] Adenylylsulfate kinase and related kinases 
+DAHLBGMF_00515	COG0471	[P] Di- and tricarboxylate transporters  
+DAHLBGMF_00516	COG1218	[P] 3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase  
+DAHLBGMF_00517	ROG2320	
+DAHLBGMF_00518	ROG6571	
+DAHLBGMF_00519	ROG1529	
+DAHLBGMF_00522	COG1482	[G] Phosphomannose isomerase    
+DAHLBGMF_00523	COG2017	[G] Galactose mutarotase and related enzymes 
+DAHLBGMF_00524	COG0738	[G] Fucose permease    
+DAHLBGMF_00525	COG0153	[G] Galactokinase     
+DAHLBGMF_00526	ROG2448	
+DAHLBGMF_00527	COG3534	[G] Alpha-L-arabinofuranosidase     
+DAHLBGMF_00528	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_00529	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_00530	ROG7278	
+DAHLBGMF_00531	ROG4915	
+DAHLBGMF_00533	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_00534	COG2017	[G] Galactose mutarotase and related enzymes 
+DAHLBGMF_00535	COG0591	[ER] Na+/proline symporter    
+DAHLBGMF_00536	COG1051	[F] ADP-ribose pyrophosphatase    
+DAHLBGMF_00537	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+DAHLBGMF_00538	COG2160	[G] L-arabinose isomerase    
+DAHLBGMF_00539	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+DAHLBGMF_00540	COG3533	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00541	COG3534	[G] Alpha-L-arabinofuranosidase     
+DAHLBGMF_00542	COG0021	[G] Transketolase     
+DAHLBGMF_00543	COG0698	[G] Ribose 5-phosphate isomerase RpiB  
+DAHLBGMF_00544	COG2839	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00546	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_00547	COG1146	[C] Ferredoxin     
+DAHLBGMF_00548	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_00549	COG1282	[C] NAD/NADP transhydrogenase beta subunit  
+DAHLBGMF_00550	COG1013	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_00551	COG1014	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_00552	ROG2518	
+DAHLBGMF_00553	COG4623	[M] Predicted soluble lytic transglycosylase fused to
+DAHLBGMF_00555	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_00556	COG0590	[FJ] Cytosine/adenosine deaminases    
+DAHLBGMF_00557	ROG2953	
+DAHLBGMF_00559	COG2264	[J] Ribosomal protein L11 methylase  
+DAHLBGMF_00560	COG3757	[M] Lyzozyme M1 (1,4-beta-N-acetylmuramidase)   
+DAHLBGMF_00561	COG0205	[G] 6-phosphofructokinase     
+DAHLBGMF_00562	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+DAHLBGMF_00564	COG1538	[MU] Outer membrane protein   
+DAHLBGMF_00565	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_00566	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_00567	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+DAHLBGMF_00569	COG1131	[V] ABC-type multidrug transport system, ATPase component
+DAHLBGMF_00570	COG3696	[P] Putative silver efflux pump  
+DAHLBGMF_00571	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_00572	ROG3774	
+DAHLBGMF_00574	COG1131	[V] ABC-type multidrug transport system, ATPase component
+DAHLBGMF_00575	ROG6867	
+DAHLBGMF_00576	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+DAHLBGMF_00577	COG0388	[R] Predicted amidohydrolase    
+DAHLBGMF_00578	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+DAHLBGMF_00581	ROG4744	
+DAHLBGMF_00582	COG1032	[C] Fe-S oxidoreductase    
+DAHLBGMF_00583	COG1197	[LK] Transcription-repair coupling factor (superfamily II helicase)
+DAHLBGMF_00584	ROG0756	
+DAHLBGMF_00585	ROG0011	
+DAHLBGMF_00586	COG5433	[L] Transposase     
+DAHLBGMF_00587	COG5433	[L] Transposase     
+DAHLBGMF_00588	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+DAHLBGMF_00589	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+DAHLBGMF_00590	COG1410	[E] Methionine synthase I, cobalamin-binding domain 
+DAHLBGMF_00591	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_00593	COG0419	[L] ATPase involved in DNA repair 
+DAHLBGMF_00594	COG0420	[L] DNA repair exonuclease   
+DAHLBGMF_00598	ROG0525	
+DAHLBGMF_00604	COG3772	[R] Phage-related lysozyme (muraminidase)   
+DAHLBGMF_00606	COG0358	[L] DNA primase (bacterial type)  
+DAHLBGMF_00608	ROG4358	
+DAHLBGMF_00609	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_00611	ROG4358	
+DAHLBGMF_00612	ROG7494	
+DAHLBGMF_00613	COG1585	[OU] Membrane protein implicated in regulation of
+DAHLBGMF_00614	ROG5270	
+DAHLBGMF_00615	ROG7689	
+DAHLBGMF_00616	ROG4394	
+DAHLBGMF_00618	COG3451	[U] Type IV secretory pathway, VirB4 components
+DAHLBGMF_00619	COG4900	[R] Predicted metallopeptidase    
+DAHLBGMF_00623	COG4224	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00624	COG0455	[D] ATPases involved in chromosome partitioning 
+DAHLBGMF_00625	ROG6077	
+DAHLBGMF_00626	ROG1442	
+DAHLBGMF_00627	ROG0174	
+DAHLBGMF_00628	COG4928	[R] Predicted P-loop ATPase   
+DAHLBGMF_00629	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_00630	ROG6464	
+DAHLBGMF_00632	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_00633	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_00634	ROG6976	
+DAHLBGMF_00635	COG0480	[J] Translation elongation factors (GTPases)  
+DAHLBGMF_00636	COG4646	[KL] DNA methylase    
+DAHLBGMF_00637	COG0582	[L] Integrase     
+DAHLBGMF_00638	COG0582	[L] Integrase     
+DAHLBGMF_00639	ROG5398	
+DAHLBGMF_00640	COG4646	[KL] DNA methylase    
+DAHLBGMF_00641	ROG3444	
+DAHLBGMF_00642	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_00645	ROG5478	
+DAHLBGMF_00646	ROG5478	
+DAHLBGMF_00647	ROG5478	
+DAHLBGMF_00648	ROG6557	
+DAHLBGMF_00649	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00650	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+DAHLBGMF_00651	ROG6470	
+DAHLBGMF_00652	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+DAHLBGMF_00653	ROG0187	
+DAHLBGMF_00654	ROG0187	
+DAHLBGMF_00655	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_00656	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_00657	COG0778	[C] Nitroreductase     
+DAHLBGMF_00658	COG1592	[C] Rubrerythrin     
+DAHLBGMF_00659	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+DAHLBGMF_00660	COG0171	[H] NAD synthase    
+DAHLBGMF_00661	COG2365	[T] Protein tyrosine/serine phosphatase   
+DAHLBGMF_00662	COG0131	[E] Imidazoleglycerol-phosphate dehydratase    
+DAHLBGMF_00663	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+DAHLBGMF_00664	COG0141	[E] Histidinol dehydrogenase    
+DAHLBGMF_00665	COG0040	[E] ATP phosphoribosyltransferase    
+DAHLBGMF_00666	ROG3077	
+DAHLBGMF_00667	ROG0619	
+DAHLBGMF_00668	ROG3457	
+DAHLBGMF_00669	COG2271	[G] Sugar phosphate permease   
+DAHLBGMF_00670	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+DAHLBGMF_00672	COG1082	[G] Sugar phosphate isomerases/epimerases   
+DAHLBGMF_00673	COG1520	[S] FOG: WD40-like repeat   
+DAHLBGMF_00674	ROG4915	
+DAHLBGMF_00675	ROG7278	
+DAHLBGMF_00677	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_00678	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_00681	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00682	COG4232	[OC] Thiol:disulfide interchange protein   
+DAHLBGMF_00683	ROG0005	
+DAHLBGMF_00684	COG0572	[F] Uridine kinase    
+DAHLBGMF_00685	COG4623	[M] Predicted soluble lytic transglycosylase fused to
+DAHLBGMF_00686	COG1410	[E] Methionine synthase I, cobalamin-binding domain 
+DAHLBGMF_00687	COG0691	[O] tmRNA-binding protein    
+DAHLBGMF_00688	ROG0339	
+DAHLBGMF_00690	ROG5235	
+DAHLBGMF_00692	COG0822	[C] NifU homolog involved in Fe-S cluster
+DAHLBGMF_00693	ROG3070	
+DAHLBGMF_00694	COG1669	[R] Predicted nucleotidyltransferases    
+DAHLBGMF_00695	COG2361	[S] Uncharacterized conserved protein   
+DAHLBGMF_00696	COG0545	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+DAHLBGMF_00697	COG2373	[R] Large extracellular alpha-helical protein  
+DAHLBGMF_00698	COG4953	[M] Membrane carboxypeptidase/penicillin-binding protein PbpC  
+DAHLBGMF_00700	ROG7048	
+DAHLBGMF_00702	ROG7144	
+DAHLBGMF_00703	COG2771	[K] DNA-binding HTH domain-containing proteins  
+DAHLBGMF_00704	COG4737	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00706	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+DAHLBGMF_00707	ROG1964	
+DAHLBGMF_00708	COG0627	[R] Predicted esterase    
+DAHLBGMF_00709	ROG0311	
+DAHLBGMF_00710	COG4784	[R] Putative Zn-dependent protease   
+DAHLBGMF_00711	COG1253	[R] Hemolysins and related proteins containing CBS
+DAHLBGMF_00712	COG3015	[MP] Uncharacterized lipoprotein NlpE involved in copper
+DAHLBGMF_00713	ROG0265	
+DAHLBGMF_00714	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_00715	ROG1025	
+DAHLBGMF_00716	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_00717	ROG4369	
+DAHLBGMF_00719	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+DAHLBGMF_00721	ROG0442	
+DAHLBGMF_00722	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_00723	COG1028	[IQR] Dehydrogenases with different specificities (related to
+DAHLBGMF_00724	COG1312	[G] D-mannonate dehydratase    
+DAHLBGMF_00726	COG4948	[MR] L-alanine-DL-glutamate epimerase and related enzymes of
+DAHLBGMF_00727	COG0447	[H] Dihydroxynaphthoic acid synthase   
+DAHLBGMF_00728	COG1165	[H] 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase    
+DAHLBGMF_00729	COG1169	[HQ] Isochorismate synthase    
+DAHLBGMF_00730	COG0561	[R] Predicted hydrolases of the HAD superfamily
+DAHLBGMF_00731	COG3547	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00732	COG3189	[S] Uncharacterized conserved protein   
+DAHLBGMF_00733	COG3129	[R] Predicted SAM-dependent methyltransferase   
+DAHLBGMF_00736	ROG5248	
+DAHLBGMF_00738	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00739	COG1484	[L] DNA replication protein   
+DAHLBGMF_00740	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00742	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_00746	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00749	ROG0170	
+DAHLBGMF_00750	ROG0183	
+DAHLBGMF_00751	COG3505	[U] Type IV secretory pathway, VirD4 components
+DAHLBGMF_00752	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_00754	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00755	COG1484	[L] DNA replication protein   
+DAHLBGMF_00758	COG4734	[R] Antirestriction protein    
+DAHLBGMF_00759	ROG0456	
+DAHLBGMF_00760	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00761	ROG4978	
+DAHLBGMF_00762	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_00765	ROG2689	
+DAHLBGMF_00766	ROG8234	
+DAHLBGMF_00767	ROG1636	
+DAHLBGMF_00768	COG4335	[L] DNA alkylation repair enzyme  
+DAHLBGMF_00770	COG1193	[L] Mismatch repair ATPase (MutS family) 
+DAHLBGMF_00771	COG1760	[E] L-serine deaminase    
+DAHLBGMF_00772	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00773	COG1484	[L] DNA replication protein   
+DAHLBGMF_00774	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00776	ROG8149	
+DAHLBGMF_00777	ROG1442	
+DAHLBGMF_00779	COG3547	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00780	COG1002	[V] Type II restriction enzyme, methylase subunits
+DAHLBGMF_00781	COG1002	[V] Type II restriction enzyme, methylase subunits
+DAHLBGMF_00782	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+DAHLBGMF_00786	ROG7935	
+DAHLBGMF_00787	ROG1183	
+DAHLBGMF_00788	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_00789	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00790	COG0582	[L] Integrase     
+DAHLBGMF_00791	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00793	ROG3041	
+DAHLBGMF_00794	ROG6764	
+DAHLBGMF_00795	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00798	ROG5161	
+DAHLBGMF_00799	ROG0065	
+DAHLBGMF_00801	ROG4729	
+DAHLBGMF_00803	COG4886	[S] Leucine-rich repeat (LRR) protein  
+DAHLBGMF_00806	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00809	COG0666	[R] FOG: Ankyrin repeat   
+DAHLBGMF_00812	ROG6489	
+DAHLBGMF_00814	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+DAHLBGMF_00815	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00816	COG1484	[L] DNA replication protein   
+DAHLBGMF_00818	COG3950	[R] Predicted ATP-binding protein involved in virulence
+DAHLBGMF_00819	ROG6279	
+DAHLBGMF_00820	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_00821	ROG5015	
+DAHLBGMF_00824	ROG8234	
+DAHLBGMF_00825	ROG0124	
+DAHLBGMF_00827	ROG4394	
+DAHLBGMF_00830	COG0270	[L] Site-specific DNA methylase   
+DAHLBGMF_00834	ROG3718	
+DAHLBGMF_00835	COG1705	[NU] Muramidase (flagellum-specific)    
+DAHLBGMF_00836	ROG7756	
+DAHLBGMF_00837	ROG3718	
+DAHLBGMF_00840	ROG0004	
+DAHLBGMF_00842	ROG6009	
+DAHLBGMF_00843	ROG0170	
+DAHLBGMF_00844	ROG0183	
+DAHLBGMF_00846	ROG1707	
+DAHLBGMF_00847	COG3935	[L] Putative primosome component and related proteins
+DAHLBGMF_00852	ROG3692	
+DAHLBGMF_00857	COG1475	[K] Predicted transcriptional regulators   
+DAHLBGMF_00859	COG4646	[KL] DNA methylase    
+DAHLBGMF_00860	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_00861	COG4646	[KL] DNA methylase    
+DAHLBGMF_00862	ROG0429	
+DAHLBGMF_00863	ROG0131	
+DAHLBGMF_00864	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00865	ROG0004	
+DAHLBGMF_00867	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00868	ROG5398	
+DAHLBGMF_00869	COG4646	[KL] DNA methylase    
+DAHLBGMF_00870	COG4474	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00876	COG0629	[L] Single-stranded DNA-binding protein   
+DAHLBGMF_00878	COG3385	[L] FOG: Transposase and inactivated derivatives 
+DAHLBGMF_00879	COG3385	[L] FOG: Transposase and inactivated derivatives 
+DAHLBGMF_00880	COG4938	[S] Uncharacterized conserved protein   
+DAHLBGMF_00883	COG0535	[R] Predicted Fe-S oxidoreductases   
+DAHLBGMF_00884	COG5433	[L] Transposase     
+DAHLBGMF_00885	ROG7558	
+DAHLBGMF_00886	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+DAHLBGMF_00887	COG0863	[L] DNA modification methylase   
+DAHLBGMF_00889	ROG0256	
+DAHLBGMF_00891	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00892	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00894	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00895	COG0582	[L] Integrase     
+DAHLBGMF_00896	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+DAHLBGMF_00898	ROG4647	
+DAHLBGMF_00900	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_00901	COG0569	[P] K+ transport systems, NAD-binding component 
+DAHLBGMF_00902	COG0168	[P] Trk-type K+ transport systems, membrane components
+DAHLBGMF_00903	COG1350	[R] Predicted alternative tryptophan synthase beta-subunit (paralog
+DAHLBGMF_00905	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_00906	ROG4151	
+DAHLBGMF_00908	ROG7278	
+DAHLBGMF_00909	ROG4915	
+DAHLBGMF_00911	ROG0265	
+DAHLBGMF_00912	ROG4151	
+DAHLBGMF_00913	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_00914	ROG5555	
+DAHLBGMF_00915	COG1940	[KG] Transcriptional regulator/sugar kinase   
+DAHLBGMF_00916	ROG0677	
+DAHLBGMF_00918	COG0648	[L] Endonuclease IV    
+DAHLBGMF_00919	ROG5134	
+DAHLBGMF_00921	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_00922	ROG4100	
+DAHLBGMF_00923	COG3547	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00924	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_00926	ROG3697	
+DAHLBGMF_00927	COG0270	[L] Site-specific DNA methylase   
+DAHLBGMF_00928	COG1401	[V] GTPase subunit of restriction endonuclease 
+DAHLBGMF_00929	COG1700	[S] Uncharacterized conserved protein   
+DAHLBGMF_00930	COG1937	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_00931	COG3727	[L] DNA G:T-mismatch repair endonuclease  
+DAHLBGMF_00933	ROG1442	
+DAHLBGMF_00934	ROG8149	
+DAHLBGMF_00935	ROG1110	
+DAHLBGMF_00937	ROG3324	
+DAHLBGMF_00938	COG0582	[L] Integrase     
+DAHLBGMF_00939	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_00940	ROG8437	
+DAHLBGMF_00941	ROG6557	
+DAHLBGMF_00942	ROG5478	
+DAHLBGMF_00943	ROG5478	
+DAHLBGMF_00944	ROG6077	
+DAHLBGMF_00947	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+DAHLBGMF_00948	ROG7129	
+DAHLBGMF_00950	ROG5764	
+DAHLBGMF_00951	COG0443	[O] Molecular chaperone    
+DAHLBGMF_00952	COG3187	[O] Heat shock protein   
+DAHLBGMF_00954	COG1748	[E] Saccharopine dehydrogenase and related proteins 
+DAHLBGMF_00955	COG1225	[O] Peroxiredoxin     
+DAHLBGMF_00956	COG0468	[L] RecA/RadA recombinase    
+DAHLBGMF_00957	COG2855	[S] Predicted membrane protein   
+DAHLBGMF_00958	COG3304	[S] Predicted membrane protein   
+DAHLBGMF_00959	COG5579	[S] Uncharacterized conserved protein   
+DAHLBGMF_00960	COG3293	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00962	COG0514	[L] Superfamily II DNA helicase  
+DAHLBGMF_00963	COG3293	[L] Transposase and inactivated derivatives  
+DAHLBGMF_00966	COG0730	[R] Predicted permeases    
+DAHLBGMF_00967	COG0671	[I] Membrane-associated phospholipid phosphatase   
+DAHLBGMF_00970	ROG1301	
+DAHLBGMF_00971	COG0583	[K] Transcriptional regulator    
+DAHLBGMF_00973	ROG0016	
+DAHLBGMF_00974	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+DAHLBGMF_00975	ROG2560	
+DAHLBGMF_00976	COG0237	[H] Dephospho-CoA kinase    
+DAHLBGMF_00977	ROG7318	
+DAHLBGMF_00978	COG1862	[U] Preprotein translocase subunit YajC  
+DAHLBGMF_00979	COG0781	[K] Transcription termination factor   
+DAHLBGMF_00981	ROG1856	
+DAHLBGMF_00982	COG1825	[J] Ribosomal protein L25 (general stress protein
+DAHLBGMF_00983	COG0193	[J] Peptidyl-tRNA hydrolase    
+DAHLBGMF_00984	COG1188	[J] Ribosome-associated heat shock protein implicated in
+DAHLBGMF_00985	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+DAHLBGMF_00986	COG0475	[P] Kef-type K+ transport systems, membrane components
+DAHLBGMF_00987	COG0404	[E] Glycine cleavage system T protein (aminomethyltransferase)
+DAHLBGMF_00988	COG2195	[E] Di- and tripeptidases   
+DAHLBGMF_00989	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+DAHLBGMF_00990	ROG0442	
+DAHLBGMF_00991	COG0239	[D] Integral membrane protein possibly involved in
+DAHLBGMF_00992	COG1357	[S] Uncharacterized low-complexity proteins   
+DAHLBGMF_00995	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_00996	COG0148	[G] Enolase     
+DAHLBGMF_00998	COG1895	[S] Uncharacterized conserved protein related to C-terminal
+DAHLBGMF_00999	COG1708	[R] Predicted nucleotidyltransferases    
+DAHLBGMF_01001	ROG6575	
+DAHLBGMF_01002	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+DAHLBGMF_01004	ROG7462	
+DAHLBGMF_01005	COG1971	[S] Predicted membrane protein   
+DAHLBGMF_01006	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+DAHLBGMF_01008	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+DAHLBGMF_01009	COG3169	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01010	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+DAHLBGMF_01011	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01013	COG4864	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01014	COG2820	[F] Uridine phosphorylase    
+DAHLBGMF_01015	COG2910	[R] Putative NADH-flavin reductase   
+DAHLBGMF_01016	COG0486	[R] Predicted GTPase    
+DAHLBGMF_01017	ROG5764	
+DAHLBGMF_01018	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_01019	ROG6557	
+DAHLBGMF_01022	ROG6208	
+DAHLBGMF_01023	ROG3324	
+DAHLBGMF_01024	ROG1110	
+DAHLBGMF_01025	ROG6937	
+DAHLBGMF_01026	ROG8149	
+DAHLBGMF_01027	ROG1442	
+DAHLBGMF_01030	ROG3697	
+DAHLBGMF_01031	ROG2438	
+DAHLBGMF_01032	COG0433	[R] Predicted ATPase    
+DAHLBGMF_01033	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+DAHLBGMF_01034	COG0732	[V] Restriction endonuclease S subunits  
+DAHLBGMF_01035	COG3177	[S] Uncharacterized conserved protein   
+DAHLBGMF_01036	COG4096	[V] Type I site-specific restriction-modification system, R
+DAHLBGMF_01037	ROG0201	
+DAHLBGMF_01040	COG2184	[D] Protein involved in cell division 
+DAHLBGMF_01041	COG3943	[R] Virulence protein    
+DAHLBGMF_01043	ROG8223	
+DAHLBGMF_01044	ROG1233	
+DAHLBGMF_01045	ROG8531	
+DAHLBGMF_01046	ROG4101	
+DAHLBGMF_01047	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_01048	COG0566	[J] rRNA methylases    
+DAHLBGMF_01049	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+DAHLBGMF_01051	COG0610	[V] Type I site-specific restriction-modification system, R
+DAHLBGMF_01052	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+DAHLBGMF_01053	COG0732	[V] Restriction endonuclease S subunits  
+DAHLBGMF_01054	COG0732	[V] Restriction endonuclease S subunits  
+DAHLBGMF_01055	COG1106	[R] Predicted ATPases    
+DAHLBGMF_01056	ROG1218	
+DAHLBGMF_01057	COG3177	[S] Uncharacterized conserved protein   
+DAHLBGMF_01058	COG0732	[V] Restriction endonuclease S subunits  
+DAHLBGMF_01059	COG0732	[V] Restriction endonuclease S subunits  
+DAHLBGMF_01060	COG0582	[L] Integrase     
+DAHLBGMF_01062	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+DAHLBGMF_01066	ROG1233	
+DAHLBGMF_01069	COG2367	[V] Beta-lactamase class A   
+DAHLBGMF_01070	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+DAHLBGMF_01072	COG2030	[I] Acyl dehydratase    
+DAHLBGMF_01073	COG2755	[E] Lysophospholipase L1 and related esterases 
+DAHLBGMF_01074	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+DAHLBGMF_01075	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_01076	ROG3409	
+DAHLBGMF_01077	ROG6557	
+DAHLBGMF_01078	ROG5478	
+DAHLBGMF_01079	ROG5478	
+DAHLBGMF_01080	ROG5478	
+DAHLBGMF_01081	ROG5478	
+DAHLBGMF_01083	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_01085	COG4646	[KL] DNA methylase    
+DAHLBGMF_01086	ROG0429	
+DAHLBGMF_01087	ROG0131	
+DAHLBGMF_01088	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_01089	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_01090	ROG5398	
+DAHLBGMF_01091	COG4646	[KL] DNA methylase    
+DAHLBGMF_01092	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_01093	COG4646	[KL] DNA methylase    
+DAHLBGMF_01094	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_01095	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_01096	ROG0028	
+DAHLBGMF_01097	ROG3028	
+DAHLBGMF_01102	ROG4392	
+DAHLBGMF_01104	ROG4729	
+DAHLBGMF_01105	ROG4729	
+DAHLBGMF_01121	ROG5235	
+DAHLBGMF_01123	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_01124	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01125	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_01127	ROG6464	
+DAHLBGMF_01128	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_01130	ROG0174	
+DAHLBGMF_01131	ROG1442	
+DAHLBGMF_01132	ROG6077	
+DAHLBGMF_01133	COG0455	[D] ATPases involved in chromosome partitioning 
+DAHLBGMF_01138	COG4900	[R] Predicted metallopeptidase    
+DAHLBGMF_01139	COG3451	[U] Type IV secretory pathway, VirB4 components
+DAHLBGMF_01140	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_01141	COG3451	[U] Type IV secretory pathway, VirB4 components
+DAHLBGMF_01143	ROG4394	
+DAHLBGMF_01144	ROG7689	
+DAHLBGMF_01145	ROG5270	
+DAHLBGMF_01147	ROG7494	
+DAHLBGMF_01148	ROG4358	
+DAHLBGMF_01150	COG0358	[L] DNA primase (bacterial type)  
+DAHLBGMF_01152	COG3772	[R] Phage-related lysozyme (muraminidase)   
+DAHLBGMF_01161	ROG2685	
+DAHLBGMF_01164	ROG7811	
+DAHLBGMF_01166	COG2388	[R] Predicted acetyltransferase    
+DAHLBGMF_01167	COG1090	[R] Predicted nucleoside-diphosphate sugar epimerase  
+DAHLBGMF_01168	COG0741	[M] Soluble lytic murein transglycosylase and related
+DAHLBGMF_01169	COG1226	[P] Kef-type K+ transport systems, predicted NAD-binding
+DAHLBGMF_01171	COG4277	[R] Predicted DNA-binding protein with the Helix-hairpin-helix
+DAHLBGMF_01173	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_01175	COG3663	[L] G:T/U mismatch-specific DNA glycosylase  
+DAHLBGMF_01176	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+DAHLBGMF_01178	COG2304	[R] Uncharacterized protein containing a von Willebrand
+DAHLBGMF_01179	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_01180	ROG7278	
+DAHLBGMF_01181	COG2240	[H] Pyridoxal/pyridoxine/pyridoxamine kinase    
+DAHLBGMF_01182	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+DAHLBGMF_01183	COG0602	[O] Organic radical activating enzymes  
+DAHLBGMF_01184	COG0720	[H] 6-pyruvoyl-tetrahydropterin synthase    
+DAHLBGMF_01185	COG2832	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01186	COG0775	[F] Nucleoside phosphorylase    
+DAHLBGMF_01187	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_01188	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_01189	COG0755	[O] ABC-type transport system involved in cytochrome
+DAHLBGMF_01190	ROG1155	
+DAHLBGMF_01191	ROG1135	
+DAHLBGMF_01192	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_01193	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_01194	COG0274	[F] Deoxyribose-phosphate aldolase    
+DAHLBGMF_01195	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+DAHLBGMF_01196	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+DAHLBGMF_01199	ROG1158	
+DAHLBGMF_01200	ROG0210	
+DAHLBGMF_01201	ROG4097	
+DAHLBGMF_01202	COG1418	[R] Predicted HD superfamily hydrolase  
+DAHLBGMF_01203	COG3142	[P] Uncharacterized protein involved in copper resistance
+DAHLBGMF_01204	COG3485	[Q] Protocatechuate 3,4-dioxygenase beta subunit  
+DAHLBGMF_01205	COG3579	[E] Aminopeptidase C    
+DAHLBGMF_01207	ROG0677	
+DAHLBGMF_01208	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+DAHLBGMF_01211	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_01212	COG3382	[S] Uncharacterized conserved protein   
+DAHLBGMF_01213	COG1496	[S] Uncharacterized conserved protein   
+DAHLBGMF_01214	COG1496	[S] Uncharacterized conserved protein   
+DAHLBGMF_01215	COG0536	[R] Predicted GTPase    
+DAHLBGMF_01216	COG0563	[F] Adenylate kinase and related kinases 
+DAHLBGMF_01217	COG0634	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+DAHLBGMF_01218	COG0063	[G] Predicted sugar kinase   
+DAHLBGMF_01221	ROG0824	
+DAHLBGMF_01223	COG1314	[U] Preprotein translocase subunit SecG  
+DAHLBGMF_01224	ROG3599	
+DAHLBGMF_01225	ROG2356	
+DAHLBGMF_01226	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_01227	COG1995	[H] Pyridoxal phosphate biosynthesis protein  
+DAHLBGMF_01228	ROG3670	
+DAHLBGMF_01229	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+DAHLBGMF_01230	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+DAHLBGMF_01231	COG1253	[R] Hemolysins and related proteins containing CBS
+DAHLBGMF_01232	ROG1188	
+DAHLBGMF_01233	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01234	ROG2127	
+DAHLBGMF_01235	COG1521	[K] Putative transcriptional regulator, homolog of Bvg
+DAHLBGMF_01236	ROG2188	
+DAHLBGMF_01237	ROG6254	
+DAHLBGMF_01238	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+DAHLBGMF_01240	ROG5554	
+DAHLBGMF_01241	COG0525	[J] Valyl-tRNA synthetase    
+DAHLBGMF_01243	ROG1677	
+DAHLBGMF_01244	COG1694	[R] Predicted pyrophosphatase    
+DAHLBGMF_01245	ROG5134	
+DAHLBGMF_01247	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_01248	COG2989	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01249	COG1234	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+DAHLBGMF_01250	COG0539	[J] Ribosomal protein S1   
+DAHLBGMF_01251	COG1112	[L] Superfamily I DNA and RNA helicases
+DAHLBGMF_01252	ROG5068	
+DAHLBGMF_01253	ROG4010	
+DAHLBGMF_01254	COG3968	[R] Uncharacterized protein related to glutamine synthetase
+DAHLBGMF_01255	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_01256	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_01257	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_01258	ROG7278	
+DAHLBGMF_01259	ROG3098	
+DAHLBGMF_01261	COG1225	[O] Peroxiredoxin     
+DAHLBGMF_01262	COG1404	[O] Subtilisin-like serine proteases   
+DAHLBGMF_01263	ROG2995	
+DAHLBGMF_01264	ROG2995	
+DAHLBGMF_01265	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01266	COG0492	[O] Thioredoxin reductase    
+DAHLBGMF_01267	ROG2419	
+DAHLBGMF_01268	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+DAHLBGMF_01269	ROG5162	
+DAHLBGMF_01270	ROG3880	
+DAHLBGMF_01271	COG1092	[R] Predicted SAM-dependent methyltransferases   
+DAHLBGMF_01273	COG1259	[S] Uncharacterized conserved protein   
+DAHLBGMF_01274	COG1385	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01276	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+DAHLBGMF_01278	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+DAHLBGMF_01279	COG1597	[IR] Sphingosine kinase and enzymes related to
+DAHLBGMF_01280	COG2877	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+DAHLBGMF_01281	COG0612	[R] Predicted Zn-dependent peptidases   
+DAHLBGMF_01282	ROG4922	
+DAHLBGMF_01283	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+DAHLBGMF_01284	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+DAHLBGMF_01285	COG0261	[J] Ribosomal protein L21   
+DAHLBGMF_01286	COG0211	[J] Ribosomal protein L27   
+DAHLBGMF_01287	COG0172	[J] Seryl-tRNA synthetase    
+DAHLBGMF_01288	COG0493	[ER] NADPH-dependent glutamate synthase beta chain and
+DAHLBGMF_01289	COG0853	[H] Aspartate 1-decarboxylase    
+DAHLBGMF_01290	COG0414	[H] Panthothenate synthetase    
+DAHLBGMF_01291	COG0297	[G] Glycogen synthase    
+DAHLBGMF_01293	COG1449	[G] Alpha-amylase/alpha-mannosidase     
+DAHLBGMF_01294	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_01295	COG3408	[G] Glycogen debranching enzyme   
+DAHLBGMF_01297	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01298	COG0793	[M] Periplasmic protease    
+DAHLBGMF_01299	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_01300	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01302	ROG3098	
+DAHLBGMF_01303	ROG7278	
+DAHLBGMF_01304	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_01305	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_01306	COG2095	[U] Multiple antibiotic transporter   
+DAHLBGMF_01307	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_01309	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+DAHLBGMF_01311	ROG2546	
+DAHLBGMF_01312	COG0443	[O] Molecular chaperone    
+DAHLBGMF_01313	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_01314	COG1376	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01315	COG3103	[T] SH3 domain protein   
+DAHLBGMF_01317	COG1970	[M] Large-conductance mechanosensitive channel   
+DAHLBGMF_01318	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+DAHLBGMF_01319	COG0339	[E] Zn-dependent oligopeptidases    
+DAHLBGMF_01321	COG2131	[F] Deoxycytidylate deaminase    
+DAHLBGMF_01322	COG0793	[M] Periplasmic protease    
+DAHLBGMF_01323	COG0212	[H] 5-formyltetrahydrofolate cyclo-ligase    
+DAHLBGMF_01324	ROG1419	
+DAHLBGMF_01325	COG1195	[L] Recombinational DNA repair ATPase (RecF pathway)
+DAHLBGMF_01326	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01327	COG0054	[H] Riboflavin synthase beta-chain   
+DAHLBGMF_01330	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_01332	COG1284	[S] Uncharacterized conserved protein   
+DAHLBGMF_01333	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_01334	ROG0325	
+DAHLBGMF_01336	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+DAHLBGMF_01337	COG0101	[J] Pseudouridylate synthase    
+DAHLBGMF_01338	ROG6060	
+DAHLBGMF_01339	COG2268	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01340	COG1672	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_01343	ROG3457	
+DAHLBGMF_01344	COG1702	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+DAHLBGMF_01345	COG0152	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+DAHLBGMF_01346	COG2226	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+DAHLBGMF_01347	COG0169	[E] Shikimate 5-dehydrogenase    
+DAHLBGMF_01348	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+DAHLBGMF_01349	COG1512	[R] Beta-propeller domains of methanol dehydrogenase type
+DAHLBGMF_01350	COG1704	[S] Uncharacterized conserved protein   
+DAHLBGMF_01351	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+DAHLBGMF_01352	COG0216	[J] Protein chain release factor A 
+DAHLBGMF_01353	COG0269	[G] 3-hexulose-6-phosphate synthase and related proteins 
+DAHLBGMF_01354	COG1078	[R] HD superfamily phosphohydrolases   
+DAHLBGMF_01355	COG1044	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+DAHLBGMF_01356	COG0774	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+DAHLBGMF_01357	COG1043	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+DAHLBGMF_01358	ROG5932	
+DAHLBGMF_01359	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+DAHLBGMF_01360	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_01361	COG0320	[H] Lipoate synthase    
+DAHLBGMF_01363	COG0313	[R] Predicted methyltransferases    
+DAHLBGMF_01364	ROG3053	
+DAHLBGMF_01365	COG0623	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+DAHLBGMF_01366	COG5434	[M] Endopolygalacturonase     
+DAHLBGMF_01368	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_01369	COG0546	[R] Predicted phosphatases    
+DAHLBGMF_01370	COG1895	[S] Uncharacterized conserved protein related to C-terminal
+DAHLBGMF_01371	COG1708	[R] Predicted nucleotidyltransferases    
+DAHLBGMF_01372	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_01373	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_01374	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_01376	COG4060	[H] Tetrahydromethanopterin S-methyltransferase, subunit D  
+DAHLBGMF_01379	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_01380	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_01383	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01384	COG3292	[T] Predicted periplasmic ligand-binding sensor domain 
+DAHLBGMF_01385	ROG5730	
+DAHLBGMF_01387	ROG1301	
+DAHLBGMF_01388	ROG1301	
+DAHLBGMF_01389	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_01392	ROG1629	
+DAHLBGMF_01393	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01395	COG3254	[S] Uncharacterized conserved protein   
+DAHLBGMF_01396	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_01397	ROG1629	
+DAHLBGMF_01398	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_01399	COG2755	[E] Lysophospholipase L1 and related esterases 
+DAHLBGMF_01400	ROG8069	
+DAHLBGMF_01401	ROG1629	
+DAHLBGMF_01402	ROG3098	
+DAHLBGMF_01403	ROG7278	
+DAHLBGMF_01404	ROG3098	
+DAHLBGMF_01405	ROG7278	
+DAHLBGMF_01407	COG2913	[J] Small protein A (tmRNA-binding)  
+DAHLBGMF_01409	ROG7278	
+DAHLBGMF_01410	ROG3098	
+DAHLBGMF_01411	COG1874	[G] Beta-galactosidase     
+DAHLBGMF_01412	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_01414	COG5434	[M] Endopolygalacturonase     
+DAHLBGMF_01415	COG3292	[T] Predicted periplasmic ligand-binding sensor domain 
+DAHLBGMF_01416	COG5434	[M] Endopolygalacturonase     
+DAHLBGMF_01417	ROG3151	
+DAHLBGMF_01419	ROG1301	
+DAHLBGMF_01420	COG1168	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+DAHLBGMF_01421	COG0561	[R] Predicted hydrolases of the HAD superfamily
+DAHLBGMF_01422	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01423	ROG3939	
+DAHLBGMF_01424	COG0009	[J] Putative translation factor (SUA5)  
+DAHLBGMF_01425	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+DAHLBGMF_01426	COG0426	[C] Uncharacterized flavoproteins    
+DAHLBGMF_01427	COG1242	[R] Predicted Fe-S oxidoreductase   
+DAHLBGMF_01428	COG3279	[KT] Response regulator of the LytR/AlgR family
+DAHLBGMF_01429	ROG5297	
+DAHLBGMF_01430	ROG1547	
+DAHLBGMF_01431	ROG1547	
+DAHLBGMF_01433	ROG7278	
+DAHLBGMF_01434	ROG3098	
+DAHLBGMF_01436	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01437	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_01438	COG4677	[G] Pectin methylesterase    
+DAHLBGMF_01439	COG4677	[G] Pectin methylesterase    
+DAHLBGMF_01440	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_01441	COG3775	[G] Phosphotransferase system, galactitol-specific IIC component 
+DAHLBGMF_01442	COG3717	[G] 5-keto 4-deoxyuronate isomerase   
+DAHLBGMF_01443	COG2211	[G] Na+/melibiose symporter and related transporters 
+DAHLBGMF_01444	COG1112	[L] Superfamily I DNA and RNA helicases
+DAHLBGMF_01445	COG0805	[U] Sec-independent protein secretion pathway component TatC
+DAHLBGMF_01446	COG1826	[U] Sec-independent protein secretion pathway components 
+DAHLBGMF_01447	COG0787	[M] Alanine racemase    
+DAHLBGMF_01448	ROG1684	
+DAHLBGMF_01449	COG1154	[HI] Deoxyxylulose-5-phosphate synthase    
+DAHLBGMF_01450	COG0569	[P] K+ transport systems, NAD-binding component 
+DAHLBGMF_01451	COG0168	[P] Trk-type K+ transport systems, membrane components
+DAHLBGMF_01454	COG0838	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+DAHLBGMF_01455	COG0377	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+DAHLBGMF_01456	COG0649	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+DAHLBGMF_01457	COG1005	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+DAHLBGMF_01458	COG1143	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+DAHLBGMF_01459	COG0839	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+DAHLBGMF_01460	COG0713	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+DAHLBGMF_01461	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+DAHLBGMF_01462	COG1008	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+DAHLBGMF_01463	COG1007	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+DAHLBGMF_01465	COG0668	[M] Small-conductance mechanosensitive channel   
+DAHLBGMF_01467	ROG8326	
+DAHLBGMF_01468	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+DAHLBGMF_01469	COG1703	[E] Putative periplasmic protein kinase ArgK and
+DAHLBGMF_01470	ROG0618	
+DAHLBGMF_01471	COG2373	[R] Large extracellular alpha-helical protein  
+DAHLBGMF_01474	COG2195	[E] Di- and tripeptidases   
+DAHLBGMF_01475	COG0392	[S] Predicted integral membrane protein  
+DAHLBGMF_01476	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+DAHLBGMF_01477	COG2239	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+DAHLBGMF_01478	ROG0029	
+DAHLBGMF_01480	COG0799	[S] Uncharacterized homolog of plant Iojap protein
+DAHLBGMF_01481	COG0465	[O] ATP-dependent Zn proteases   
+DAHLBGMF_01482	COG0575	[I] CDP-diglyceride synthetase    
+DAHLBGMF_01484	COG0763	[M] Lipid A disaccharide synthetase  
+DAHLBGMF_01485	COG0496	[R] Predicted acid phosphatase   
+DAHLBGMF_01487	COG1192	[D] ATPases involved in chromosome partitioning 
+DAHLBGMF_01488	COG1475	[K] Predicted transcriptional regulators   
+DAHLBGMF_01489	ROG2033	
+DAHLBGMF_01490	COG1388	[M] FOG: LysM repeat   
+DAHLBGMF_01491	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+DAHLBGMF_01492	COG0789	[K] Predicted transcriptional regulators   
+DAHLBGMF_01493	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_01496	COG5433	[L] Transposase     
+DAHLBGMF_01497	COG3385	[L] FOG: Transposase and inactivated derivatives 
+DAHLBGMF_01498	COG3385	[L] FOG: Transposase and inactivated derivatives 
+DAHLBGMF_01499	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_01501	COG3272	[S] Uncharacterized conserved protein   
+DAHLBGMF_01502	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+DAHLBGMF_01503	ROG6194	
+DAHLBGMF_01504	ROG2880	
+DAHLBGMF_01505	COG0742	[L] N6-adenine-specific methylase    
+DAHLBGMF_01506	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+DAHLBGMF_01507	ROG7129	
+DAHLBGMF_01509	COG0337	[E] 3-dehydroquinate synthetase    
+DAHLBGMF_01510	COG3093	[R] Plasmid maintenance system antidote protein 
+DAHLBGMF_01511	COG3549	[R] Plasmid maintenance system killer protein 
+DAHLBGMF_01514	ROG3324	
+DAHLBGMF_01515	ROG1837	
+DAHLBGMF_01517	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+DAHLBGMF_01518	COG1443	[I] Isopentenyldiphosphate isomerase    
+DAHLBGMF_01519	ROG0442	
+DAHLBGMF_01520	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_01522	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_01523	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_01524	ROG3098	
+DAHLBGMF_01525	ROG7278	
+DAHLBGMF_01526	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_01527	COG1109	[G] Phosphomannomutase     
+DAHLBGMF_01529	COG0618	[R] Exopolyphosphatase-related proteins    
+DAHLBGMF_01530	COG0658	[R] Predicted membrane metal-binding protein  
+DAHLBGMF_01531	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+DAHLBGMF_01532	COG0223	[J] Methionyl-tRNA formyltransferase    
+DAHLBGMF_01533	COG0038	[P] Chloride channel protein EriC  
+DAHLBGMF_01534	COG0009	[J] Putative translation factor (SUA5)  
+DAHLBGMF_01535	COG0824	[R] Predicted thioesterase    
+DAHLBGMF_01536	COG0608	[L] Single-stranded DNA-specific exonuclease   
+DAHLBGMF_01537	COG0514	[L] Superfamily II DNA helicase  
+DAHLBGMF_01538	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01539	COG0077	[E] Prephenate dehydratase    
+DAHLBGMF_01540	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+DAHLBGMF_01541	COG2876	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+DAHLBGMF_01542	COG0287	[E] Prephenate dehydrogenase    
+DAHLBGMF_01543	COG0358	[L] DNA primase (bacterial type)  
+DAHLBGMF_01544	COG0302	[H] GTP cyclohydrolase I   
+DAHLBGMF_01545	ROG7295	
+DAHLBGMF_01546	COG0149	[G] Triosephosphate isomerase    
+DAHLBGMF_01547	ROG0107	
+DAHLBGMF_01548	ROG2577	
+DAHLBGMF_01549	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_01550	COG0105	[F] Nucleoside diphosphate kinase   
+DAHLBGMF_01551	COG1200	[LK] RecG-like helicase    
+DAHLBGMF_01552	COG1211	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+DAHLBGMF_01553	COG0693	[R] Putative intracellular protease/amidase   
+DAHLBGMF_01554	ROG6469	
+DAHLBGMF_01555	COG0848	[U] Biopolymer transport protein   
+DAHLBGMF_01556	COG0811	[U] Biopolymer transport proteins   
+DAHLBGMF_01557	COG0854	[H] Pyridoxal phosphate biosynthesis protein  
+DAHLBGMF_01558	COG0061	[G] Predicted sugar kinase   
+DAHLBGMF_01560	ROG2474	
+DAHLBGMF_01561	COG0039	[C] Malate/lactate dehydrogenases    
+DAHLBGMF_01562	ROG0128	
+DAHLBGMF_01563	ROG0128	
+DAHLBGMF_01564	COG5271_4X	
+DAHLBGMF_01565	ROG0750	
+DAHLBGMF_01566	ROG0750	
+DAHLBGMF_01567	ROG5590	
+DAHLBGMF_01568	COG1566	[V] Multidrug resistance efflux pump  
+DAHLBGMF_01569	COG0842	[V] ABC-type multidrug transport system, permease component
+DAHLBGMF_01570	COG0842	[V] ABC-type multidrug transport system, permease component
+DAHLBGMF_01571	ROG3116	
+DAHLBGMF_01573	COG3682	[K] Predicted transcriptional regulator   
+DAHLBGMF_01574	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_01575	ROG6136	
+DAHLBGMF_01576	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01577	COG0489	[D] ATPases involved in chromosome partitioning 
+DAHLBGMF_01578	COG0220	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+DAHLBGMF_01579	COG5523	[S] Predicted integral membrane protein  
+DAHLBGMF_01580	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+DAHLBGMF_01581	COG1722	[L] Exonuclease VII small subunit  
+DAHLBGMF_01582	COG1570	[L] Exonuclease VII, large subunit  
+DAHLBGMF_01583	COG1404	[O] Subtilisin-like serine proteases   
+DAHLBGMF_01584	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+DAHLBGMF_01586	COG1409	[R] Predicted phosphohydrolases    
+DAHLBGMF_01587	COG0245	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+DAHLBGMF_01588	COG0179	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+DAHLBGMF_01589	COG2344	[R] AT-rich DNA-binding protein   
+DAHLBGMF_01590	COG0023	[J] Translation initiation factor 1 (eIF-1/SUI1) and
+DAHLBGMF_01591	COG0264	[J] Translation elongation factor Ts  
+DAHLBGMF_01592	COG0052	[J] Ribosomal protein S2   
+DAHLBGMF_01593	COG0103	[J] Ribosomal protein S9   
+DAHLBGMF_01594	COG0102	[J] Ribosomal protein L13   
+DAHLBGMF_01596	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_01598	COG0017	[J] Aspartyl/asparaginyl-tRNA synthetases    
+DAHLBGMF_01599	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+DAHLBGMF_01600	COG0015	[F] Adenylosuccinate lyase    
+DAHLBGMF_01603	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+DAHLBGMF_01604	COG3022	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01605	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+DAHLBGMF_01606	COG0180	[J] Tryptophanyl-tRNA synthetase    
+DAHLBGMF_01607	COG5373	[S] Predicted membrane protein   
+DAHLBGMF_01608	COG0612	[R] Predicted Zn-dependent peptidases   
+DAHLBGMF_01609	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01610	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01611	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01613	ROG2487	
+DAHLBGMF_01614	COG1404	[O] Subtilisin-like serine proteases   
+DAHLBGMF_01615	ROG5648	
+DAHLBGMF_01617	ROG3098	
+DAHLBGMF_01618	ROG7278	
+DAHLBGMF_01619	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+DAHLBGMF_01621	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+DAHLBGMF_01622	COG0323	[L] DNA mismatch repair enzyme (predicted ATPase)
+DAHLBGMF_01624	ROG0834	
+DAHLBGMF_01625	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+DAHLBGMF_01627	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+DAHLBGMF_01628	COG0516	[F] IMP dehydrogenase/GMP reductase   
+DAHLBGMF_01629	COG0514	[L] Superfamily II DNA helicase  
+DAHLBGMF_01630	COG1219	[O] ATP-dependent protease Clp, ATPase subunit 
+DAHLBGMF_01631	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+DAHLBGMF_01632	COG0544	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+DAHLBGMF_01633	COG0724	[R] RNA-binding proteins (RRM domain)  
+DAHLBGMF_01634	COG1127	[Q] ABC-type transport system involved in resistance
+DAHLBGMF_01635	COG0767	[Q] ABC-type transport system involved in resistance
+DAHLBGMF_01636	COG1137	[R] ABC-type (unclassified) transport system, ATPase component
+DAHLBGMF_01637	COG1160	[R] Predicted GTPases    
+DAHLBGMF_01638	COG1159	[R] GTPase     
+DAHLBGMF_01639	COG0332	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+DAHLBGMF_01640	COG0333	[J] Ribosomal protein L32   
+DAHLBGMF_01641	ROG1520	
+DAHLBGMF_01643	COG0685	[E] 5,10-methylenetetrahydrofolate reductase    
+DAHLBGMF_01644	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+DAHLBGMF_01645	COG1774	[S] Uncharacterized homolog of PSP1  
+DAHLBGMF_01646	ROG2597	
+DAHLBGMF_01647	COG0772	[D] Bacterial cell division membrane protein 
+DAHLBGMF_01648	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+DAHLBGMF_01649	ROG2646	
+DAHLBGMF_01650	COG1792	[M] Cell shape-determining protein   
+DAHLBGMF_01651	COG1077	[D] Actin-like ATPase involved in cell morphogenesis
+DAHLBGMF_01652	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+DAHLBGMF_01653	COG3590	[O] Predicted metalloendopeptidase    
+DAHLBGMF_01654	COG0488	[R] ATPase components of ABC transporters with
+DAHLBGMF_01655	ROG3487	
+DAHLBGMF_01656	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01657	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_01658	COG4851	[R] Protein involved in sex pheromone biosynthesis
+DAHLBGMF_01659	ROG4834	
+DAHLBGMF_01660	ROG7278	
+DAHLBGMF_01661	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_01662	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_01663	ROG4550	
+DAHLBGMF_01664	ROG6537	
+DAHLBGMF_01665	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01666	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_01667	COG0612	[R] Predicted Zn-dependent peptidases   
+DAHLBGMF_01668	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+DAHLBGMF_01669	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_01672	COG4833	[G] Predicted glycosyl hydrolase   
+DAHLBGMF_01673	ROG3688	
+DAHLBGMF_01675	ROG3098	
+DAHLBGMF_01676	ROG7278	
+DAHLBGMF_01677	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_01678	COG3706	[T] Response regulator containing a CheY-like receiver
+DAHLBGMF_01679	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_01680	ROG1031	
+DAHLBGMF_01681	COG4833	[G] Predicted glycosyl hydrolase   
+DAHLBGMF_01682	COG3538	[S] Uncharacterized conserved protein   
+DAHLBGMF_01683	COG2152	[G] Predicted glycosylase    
+DAHLBGMF_01684	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_01685	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+DAHLBGMF_01686	COG1028	[IQR] Dehydrogenases with different specificities (related to
+DAHLBGMF_01687	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_01689	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_01690	COG1454	[C] Alcohol dehydrogenase, class IV  
+DAHLBGMF_01691	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+DAHLBGMF_01693	COG4806	[G] L-rhamnose isomerase    
+DAHLBGMF_01694	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+DAHLBGMF_01696	COG1438	[K] Arginine repressor    
+DAHLBGMF_01697	ROG4706	
+DAHLBGMF_01698	COG0137	[E] Argininosuccinate synthase    
+DAHLBGMF_01699	COG0002	[E] Acetylglutamate semialdehyde dehydrogenase   
+DAHLBGMF_01700	COG4992	[E] Ornithine/acetylornithine aminotransferase    
+DAHLBGMF_01701	COG0345	[E] Pyrroline-5-carboxylate reductase    
+DAHLBGMF_01702	COG1396	[K] Predicted transcriptional regulators   
+DAHLBGMF_01703	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+DAHLBGMF_01705	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_01706	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_01710	COG0165	[E] Argininosuccinate lyase    
+DAHLBGMF_01711	ROG6885	
+DAHLBGMF_01712	COG0461	[F] Orotate phosphoribosyltransferase    
+DAHLBGMF_01713	COG2137	[R] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01714	COG2890	[J] Methylase of polypeptide chain release factors
+DAHLBGMF_01715	COG0117	[H] Pyrimidine deaminase    
+DAHLBGMF_01717	COG0020	[I] Undecaprenyl pyrophosphate synthase   
+DAHLBGMF_01718	COG4775	[M] Outer membrane protein/protective antigen OMA87 
+DAHLBGMF_01719	COG2825	[M] Outer membrane protein   
+DAHLBGMF_01720	ROG4158	
+DAHLBGMF_01721	COG0796	[M] Glutamate racemase    
+DAHLBGMF_01722	ROG0311	
+DAHLBGMF_01723	COG0263	[E] Glutamate 5-kinase    
+DAHLBGMF_01724	COG0014	[E] Gamma-glutamyl phosphate reductase   
+DAHLBGMF_01725	COG0078	[E] Ornithine carbamoyltransferase    
+DAHLBGMF_01726	COG0607	[P] Rhodanese-related sulfurtransferase    
+DAHLBGMF_01728	ROG0322	
+DAHLBGMF_01729	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+DAHLBGMF_01730	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+DAHLBGMF_01731	ROG4767	
+DAHLBGMF_01733	COG0230	[J] Ribosomal protein L34   
+DAHLBGMF_01734	COG0231	[J] Translation elongation factor P (EF-P)/translation initiation
+DAHLBGMF_01735	COG1785	[P] Alkaline phosphatase    
+DAHLBGMF_01736	COG3547	[L] Transposase and inactivated derivatives  
+DAHLBGMF_01737	ROG0004	
+DAHLBGMF_01739	ROG4419	
+DAHLBGMF_01740	ROG0516	
+DAHLBGMF_01741	COG2908	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01742	COG2151	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+DAHLBGMF_01743	COG2003	[L] DNA repair proteins   
+DAHLBGMF_01744	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_01745	COG5599	[T] Protein tyrosine phosphatase   
+DAHLBGMF_01746	ROG4251	
+DAHLBGMF_01747	ROG7627	
+DAHLBGMF_01748	ROG7278	
+DAHLBGMF_01749	ROG3098	
+DAHLBGMF_01750	COG3568	[R] Metal-dependent hydrolase    
+DAHLBGMF_01753	COG3525	[G] N-acetyl-beta-hexosaminidase     
+DAHLBGMF_01755	COG0647	[G] Predicted sugar phosphatases of the HAD
+DAHLBGMF_01756	COG2271	[G] Sugar phosphate permease   
+DAHLBGMF_01757	COG0371	[C] Glycerol dehydrogenase and related enzymes 
+DAHLBGMF_01758	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+DAHLBGMF_01759	COG0578	[C] Glycerol-3-phosphate dehydrogenase    
+DAHLBGMF_01760	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+DAHLBGMF_01761	COG0282	[C] Acetate kinase    
+DAHLBGMF_01762	COG0280	[C] Phosphotransacetylase     
+DAHLBGMF_01763	COG1380	[R] Putative effector of murein hydrolase LrgA
+DAHLBGMF_01764	COG1346	[M] Putative effector of murein hydrolase 
+DAHLBGMF_01765	COG4866	[S] Uncharacterized conserved protein   
+DAHLBGMF_01766	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+DAHLBGMF_01767	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_01768	ROG0219	
+DAHLBGMF_01769	COG4289	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01770	ROG4907	
+DAHLBGMF_01771	COG2273	[G] Beta-glucanase/Beta-glucan synthetase    
+DAHLBGMF_01772	ROG1382	
+DAHLBGMF_01773	ROG3098	
+DAHLBGMF_01774	ROG7278	
+DAHLBGMF_01775	ROG3098	
+DAHLBGMF_01776	ROG7278	
+DAHLBGMF_01777	COG3437	[KT] Response regulator containing a CheY-like receiver
+DAHLBGMF_01779	ROG0442	
+DAHLBGMF_01780	COG3534	[G] Alpha-L-arabinofuranosidase     
+DAHLBGMF_01781	ROG4249	
+DAHLBGMF_01782	COG1874	[G] Beta-galactosidase     
+DAHLBGMF_01783	COG1624	[S] Uncharacterized conserved protein   
+DAHLBGMF_01784	COG0294	[H] Dihydropteroate synthase and related enzymes 
+DAHLBGMF_01785	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+DAHLBGMF_01786	ROG3152	
+DAHLBGMF_01787	COG0733	[R] Na+-dependent transporters of the SNF family
+DAHLBGMF_01788	ROG1727	
+DAHLBGMF_01789	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+DAHLBGMF_01790	COG1179	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+DAHLBGMF_01791	COG4651	[P] Kef-type K+ transport system, predicted NAD-binding
+DAHLBGMF_01792	COG1669	[R] Predicted nucleotidyltransferases    
+DAHLBGMF_01793	COG2361	[S] Uncharacterized conserved protein   
+DAHLBGMF_01794	COG0136	[E] Aspartate-semialdehyde dehydrogenase    
+DAHLBGMF_01795	ROG4519	
+DAHLBGMF_01796	ROG5029	
+DAHLBGMF_01798	ROG3077	
+DAHLBGMF_01799	ROG6377	
+DAHLBGMF_01800	COG3295	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01801	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+DAHLBGMF_01802	ROG3403	
+DAHLBGMF_01803	ROG3403	
+DAHLBGMF_01805	COG0591	[ER] Na+/proline symporter    
+DAHLBGMF_01806	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_01807	COG2385	[D] Sporulation protein and related proteins 
+DAHLBGMF_01809	COG4299	[S] Uncharacterized conserved protein   
+DAHLBGMF_01810	ROG2629	
+DAHLBGMF_01811	ROG3159	
+DAHLBGMF_01812	COG5433	[L] Transposase     
+DAHLBGMF_01813	COG0627	[R] Predicted esterase    
+DAHLBGMF_01814	ROG0301	
+DAHLBGMF_01815	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01816	ROG2448	
+DAHLBGMF_01817	ROG2448	
+DAHLBGMF_01818	COG2382	[P] Enterochelin esterase and related enzymes 
+DAHLBGMF_01819	COG2730	[G] Endoglucanase     
+DAHLBGMF_01821	COG3693	[G] Beta-1,4-xylanase     
+DAHLBGMF_01823	ROG3098	
+DAHLBGMF_01824	ROG7278	
+DAHLBGMF_01825	ROG3098	
+DAHLBGMF_01826	ROG7278	
+DAHLBGMF_01827	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_01828	ROG2448	
+DAHLBGMF_01829	ROG0442	
+DAHLBGMF_01830	COG1501	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+DAHLBGMF_01831	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_01832	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_01833	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_01834	ROG2448	
+DAHLBGMF_01835	COG0545	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+DAHLBGMF_01836	COG0423	[J] Glycyl-tRNA synthetase (class II)  
+DAHLBGMF_01838	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_01840	ROG5752	
+DAHLBGMF_01841	COG0477	[GEPR] Permeases of the major facilitator superfamily
+DAHLBGMF_01842	COG2942	[G] N-acyl-D-glucosamine 2-epimerase    
+DAHLBGMF_01843	ROG7278	
+DAHLBGMF_01844	ROG3098	
+DAHLBGMF_01846	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_01847	ROG0004	
+DAHLBGMF_01848	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_01849	ROG2218	
+DAHLBGMF_01850	COG3525	[G] N-acetyl-beta-hexosaminidase     
+DAHLBGMF_01851	ROG1040	
+DAHLBGMF_01854	COG4632	[G] Exopolysaccharide biosynthesis protein related to N-acetylglucosamine-1-phosphodiester
+DAHLBGMF_01855	ROG4009	
+DAHLBGMF_01856	ROG1046	
+DAHLBGMF_01858	ROG4510	
+DAHLBGMF_01859	COG0738	[G] Fucose permease    
+DAHLBGMF_01860	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+DAHLBGMF_01861	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+DAHLBGMF_01863	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_01864	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+DAHLBGMF_01865	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_01866	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+DAHLBGMF_01867	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_01868	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+DAHLBGMF_01870	ROG4665	
+DAHLBGMF_01873	COG2932	[K] Predicted transcriptional regulator   
+DAHLBGMF_01874	COG0391	[S] Uncharacterized conserved protein   
+DAHLBGMF_01875	ROG7278	
+DAHLBGMF_01876	ROG4915	
+DAHLBGMF_01877	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_01878	COG5368	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01879	ROG7129	
+DAHLBGMF_01880	ROG3457	
+DAHLBGMF_01882	COG1864	[F] DNA/RNA endonuclease G, NUC1  
+DAHLBGMF_01883	ROG0184	
+DAHLBGMF_01885	ROG6238	
+DAHLBGMF_01886	COG3174	[S] Predicted membrane protein   
+DAHLBGMF_01887	COG2954	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01888	COG1738	[S] Uncharacterized conserved protein   
+DAHLBGMF_01889	COG1186	[J] Protein chain release factor B 
+DAHLBGMF_01891	COG1022	[I] Long-chain acyl-CoA synthetases (AMP-forming)  
+DAHLBGMF_01892	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+DAHLBGMF_01893	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_01894	ROG3038	
+DAHLBGMF_01896	ROG2910	
+DAHLBGMF_01897	ROG2786	
+DAHLBGMF_01898	ROG4334	
+DAHLBGMF_01900	ROG3467	
+DAHLBGMF_01901	COG3184	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01904	COG3307	[M] Lipid A core - O-antigen ligase
+DAHLBGMF_01906	ROG5709	
+DAHLBGMF_01909	ROG7438	
+DAHLBGMF_01913	ROG8269	
+DAHLBGMF_01918	ROG8000	
+DAHLBGMF_01920	ROG2167	
+DAHLBGMF_01922	ROG7991	
+DAHLBGMF_01923	COG5433	[L] Transposase     
+DAHLBGMF_01924	ROG0348	
+DAHLBGMF_01925	COG3533	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01926	COG2017	[G] Galactose mutarotase and related enzymes 
+DAHLBGMF_01927	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_01929	COG4833	[G] Predicted glycosyl hydrolase   
+DAHLBGMF_01930	ROG2448	
+DAHLBGMF_01931	COG3940	[R] Predicted beta-xylosidase    
+DAHLBGMF_01932	ROG3159	
+DAHLBGMF_01933	COG3661	[G] Alpha-glucuronidase     
+DAHLBGMF_01934	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_01937	ROG3098	
+DAHLBGMF_01938	ROG7278	
+DAHLBGMF_01941	COG1672	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_01943	ROG4915	
+DAHLBGMF_01944	COG5433	[L] Transposase     
+DAHLBGMF_01945	ROG3098	
+DAHLBGMF_01946	ROG7278	
+DAHLBGMF_01949	ROG5398	
+DAHLBGMF_01950	ROG1040	
+DAHLBGMF_01951	ROG7278	
+DAHLBGMF_01952	ROG3098	
+DAHLBGMF_01954	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_01956	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_01957	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_01959	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_01960	COG4942	[D] Membrane-bound metallopeptidase    
+DAHLBGMF_01961	ROG4356	
+DAHLBGMF_01962	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01963	COG0756	[F] dUTPase     
+DAHLBGMF_01964	COG0232	[F] dGTP triphosphohydrolase    
+DAHLBGMF_01965	COG3176	[R] Putative hemolysin    
+DAHLBGMF_01966	COG3176	[R] Putative hemolysin    
+DAHLBGMF_01968	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_01969	COG2001	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_01970	COG0275	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+DAHLBGMF_01971	ROG5796	
+DAHLBGMF_01972	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+DAHLBGMF_01973	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+DAHLBGMF_01974	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+DAHLBGMF_01975	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+DAHLBGMF_01976	COG0772	[D] Bacterial cell division membrane protein 
+DAHLBGMF_01977	COG0707	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+DAHLBGMF_01978	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+DAHLBGMF_01979	ROG1936	
+DAHLBGMF_01980	COG0849	[D] Actin-like ATPase involved in cell division
+DAHLBGMF_01981	COG0206	[D] Cell division GTPase   
+DAHLBGMF_01982	COG1610	[S] Uncharacterized conserved protein   
+DAHLBGMF_01983	COG5433	[L] Transposase     
+DAHLBGMF_01984	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_01985	COG5492	[N] Bacterial surface proteins containing Ig-like domains
+DAHLBGMF_01987	ROG6704	
+DAHLBGMF_01988	ROG3814	
+DAHLBGMF_01989	ROG3395	
+DAHLBGMF_01991	COG0268	[J] Ribosomal protein S20   
+DAHLBGMF_01992	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+DAHLBGMF_01993	ROG0904	
+DAHLBGMF_01994	COG0696	[G] Phosphoglyceromutase     
+DAHLBGMF_01999	ROG5708	
+DAHLBGMF_02001	ROG7566	
+DAHLBGMF_02002	COG1418	[R] Predicted HD superfamily hydrolase  
+DAHLBGMF_02003	ROG6375	
+DAHLBGMF_02004	COG0164	[L] Ribonuclease HII    
+DAHLBGMF_02005	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_02006	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02007	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+DAHLBGMF_02008	COG3345	[G] Alpha-galactosidase     
+DAHLBGMF_02009	COG0393	[S] Uncharacterized conserved protein   
+DAHLBGMF_02010	COG0520	[E] Selenocysteine lyase    
+DAHLBGMF_02011	COG0719	[O] ABC-type transport system involved in Fe-S
+DAHLBGMF_02012	COG0396	[O] ABC-type transport system involved in Fe-S
+DAHLBGMF_02013	COG0719	[O] ABC-type transport system involved in Fe-S
+DAHLBGMF_02014	COG1286	[R] Uncharacterized membrane protein, required for colicin
+DAHLBGMF_02015	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+DAHLBGMF_02016	COG0195	[K] Transcription elongation factor   
+DAHLBGMF_02017	COG0779	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_02019	COG1451	[R] Predicted metal-dependent hydrolase   
+DAHLBGMF_02020	ROG4698	
+DAHLBGMF_02021	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02022	COG0548	[E] Acetylglutamate kinase    
+DAHLBGMF_02023	COG1166	[E] Arginine decarboxylase (spermidine biosynthesis)  
+DAHLBGMF_02024	ROG3198	
+DAHLBGMF_02025	COG0326	[O] Molecular chaperone, HSP90 family  
+DAHLBGMF_02026	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+DAHLBGMF_02027	COG0703	[E] Shikimate kinase    
+DAHLBGMF_02028	COG3341	[R] Predicted double-stranded RNA/RNA-DNA hybrid binding protein
+DAHLBGMF_02029	COG1132	[V] ABC-type multidrug transport system, ATPase and
+DAHLBGMF_02031	ROG0146	
+DAHLBGMF_02033	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+DAHLBGMF_02034	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_02035	ROG3457	
+DAHLBGMF_02036	ROG0491	
+DAHLBGMF_02037	ROG0280	
+DAHLBGMF_02038	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_02039	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+DAHLBGMF_02040	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+DAHLBGMF_02041	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_02042	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_02043	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_02044	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+DAHLBGMF_02045	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+DAHLBGMF_02046	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+DAHLBGMF_02047	COG1213	[M] Predicted sugar nucleotidyltransferases   
+DAHLBGMF_02048	COG3475	[M] LPS biosynthesis protein   
+DAHLBGMF_02049	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_02050	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_02051	ROG2301	
+DAHLBGMF_02052	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+DAHLBGMF_02053	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_02054	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+DAHLBGMF_02055	ROG0397	
+DAHLBGMF_02056	COG0111	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+DAHLBGMF_02057	COG0299	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+DAHLBGMF_02058	COG0236	[IQ] Acyl carrier protein   
+DAHLBGMF_02059	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+DAHLBGMF_02060	COG0571	[K] dsRNA-specific ribonuclease    
+DAHLBGMF_02061	COG0205	[G] 6-phosphofructokinase     
+DAHLBGMF_02062	ROG8081	
+DAHLBGMF_02063	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+DAHLBGMF_02064	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+DAHLBGMF_02065	ROG8049	
+DAHLBGMF_02066	COG3937	[S] Uncharacterized conserved protein   
+DAHLBGMF_02067	COG0561	[R] Predicted hydrolases of the HAD superfamily
+DAHLBGMF_02068	COG0215	[J] Cysteinyl-tRNA synthetase    
+DAHLBGMF_02069	ROG0692	
+DAHLBGMF_02070	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_02071	ROG0265	
+DAHLBGMF_02072	COG2050	[Q] Uncharacterized protein, possibly involved in aromatic
+DAHLBGMF_02073	ROG0329	
+DAHLBGMF_02074	ROG0886	
+DAHLBGMF_02076	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_02078	ROG4915	
+DAHLBGMF_02079	ROG7278	
+DAHLBGMF_02080	ROG3098	
+DAHLBGMF_02081	ROG7278	
+DAHLBGMF_02082	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_02083	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_02084	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_02085	COG1538	[MU] Outer membrane protein   
+DAHLBGMF_02086	COG1043	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+DAHLBGMF_02087	ROG2091	
+DAHLBGMF_02088	COG1609	[K] Transcriptional regulators    
+DAHLBGMF_02090	ROG0261	
+DAHLBGMF_02091	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_02092	COG1940	[KG] Transcriptional regulator/sugar kinase   
+DAHLBGMF_02093	COG0279	[G] Phosphoheptose isomerase    
+DAHLBGMF_02095	COG0738	[G] Fucose permease    
+DAHLBGMF_02096	COG3345	[G] Alpha-galactosidase     
+DAHLBGMF_02097	COG3345	[G] Alpha-galactosidase     
+DAHLBGMF_02098	COG4886	[S] Leucine-rich repeat (LRR) protein  
+DAHLBGMF_02099	ROG7278	
+DAHLBGMF_02100	ROG3098	
+DAHLBGMF_02101	ROG7278	
+DAHLBGMF_02102	ROG3098	
+DAHLBGMF_02103	ROG7627	
+DAHLBGMF_02105	COG3458	[Q] Acetyl esterase (deacetylase)   
+DAHLBGMF_02106	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02107	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_02109	ROG7278	
+DAHLBGMF_02110	ROG3098	
+DAHLBGMF_02112	COG0042	[J] tRNA-dihydrouridine synthase    
+DAHLBGMF_02113	ROG2784	
+DAHLBGMF_02114	ROG0692	
+DAHLBGMF_02120	COG3307	[M] Lipid A core - O-antigen ligase
+DAHLBGMF_02121	ROG0197	
+DAHLBGMF_02122	ROG2045	
+DAHLBGMF_02123	COG0289	[E] Dihydrodipicolinate reductase    
+DAHLBGMF_02124	COG0681	[U] Signal peptidase I   
+DAHLBGMF_02125	COG0681	[U] Signal peptidase I   
+DAHLBGMF_02126	ROG0071	
+DAHLBGMF_02127	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_02129	ROG8342	
+DAHLBGMF_02131	COG1712	[R] Predicted dinucleotide-utilizing enzyme   
+DAHLBGMF_02132	ROG3457	
+DAHLBGMF_02133	ROG4009	
+DAHLBGMF_02134	COG0612	[R] Predicted Zn-dependent peptidases   
+DAHLBGMF_02135	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+DAHLBGMF_02136	COG0794	[M] Predicted sugar phosphate isomerase involved in
+DAHLBGMF_02137	COG0524	[G] Sugar kinases, ribokinase family  
+DAHLBGMF_02138	COG2365	[T] Protein tyrosine/serine phosphatase   
+DAHLBGMF_02139	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+DAHLBGMF_02140	COG3437	[KT] Response regulator containing a CheY-like receiver
+DAHLBGMF_02142	ROG7278	
+DAHLBGMF_02143	ROG3098	
+DAHLBGMF_02145	COG4833	[G] Predicted glycosyl hydrolase   
+DAHLBGMF_02146	COG4833	[G] Predicted glycosyl hydrolase   
+DAHLBGMF_02147	COG3538	[S] Uncharacterized conserved protein   
+DAHLBGMF_02148	ROG0187	
+DAHLBGMF_02149	COG1808	[S] Predicted membrane protein   
+DAHLBGMF_02150	COG2244	[R] Membrane protein involved in the export
+DAHLBGMF_02151	COG2852	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_02152	COG2255	[L] Holliday junction resolvasome, helicase subunit 
+DAHLBGMF_02153	COG2715	[R] Uncharacterized membrane protein, required for spore
+DAHLBGMF_02154	COG0319	[R] Predicted metal-dependent hydrolase   
+DAHLBGMF_02155	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_02157	ROG4117	
+DAHLBGMF_02159	COG0445	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+DAHLBGMF_02160	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+DAHLBGMF_02161	COG0322	[L] Nuclease subunit of the excinuclease complex
+DAHLBGMF_02162	COG1490	[J] D-Tyr-tRNAtyr deacylase    
+DAHLBGMF_02163	COG1694	[R] Predicted pyrophosphatase    
+DAHLBGMF_02164	COG0274	[F] Deoxyribose-phosphate aldolase    
+DAHLBGMF_02165	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+DAHLBGMF_02166	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+DAHLBGMF_02168	ROG6046	
+DAHLBGMF_02169	COG3279	[KT] Response regulator of the LytR/AlgR family
+DAHLBGMF_02170	COG3275	[T] Putative regulator of cell autolysis 
+DAHLBGMF_02171	COG1045	[E] Serine acetyltransferase    
+DAHLBGMF_02172	COG0116	[L] Predicted N6-adenine-specific DNA methylase  
+DAHLBGMF_02173	ROG0456	
+DAHLBGMF_02174	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_02175	COG0151	[F] Phosphoribosylamine-glycine ligase    
+DAHLBGMF_02176	COG1055	[P] Na+/H+ antiporter NhaD and related arsenite
+DAHLBGMF_02177	COG1238	[S] Predicted membrane protein   
+DAHLBGMF_02178	COG4121	[S] Uncharacterized conserved protein   
+DAHLBGMF_02179	COG0803	[P] ABC-type metal ion transport system, periplasmic
+DAHLBGMF_02180	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+DAHLBGMF_02181	COG5433	[L] Transposase     
+DAHLBGMF_02182	COG5421	[L] Transposase     
+DAHLBGMF_02183	COG5433	[L] Transposase     
+DAHLBGMF_02184	ROG0299	
+DAHLBGMF_02185	COG0726	[G] Predicted xylanase/chitin deacetylase   
+DAHLBGMF_02186	ROG7278	
+DAHLBGMF_02187	ROG3098	
+DAHLBGMF_02188	ROG3322	
+DAHLBGMF_02192	COG1028	[IQR] Dehydrogenases with different specificities (related to
+DAHLBGMF_02193	COG3717	[G] 5-keto 4-deoxyuronate isomerase   
+DAHLBGMF_02195	COG0162	[J] Tyrosyl-tRNA synthetase    
+DAHLBGMF_02196	COG0084	[L] Mg-dependent DNase    
+DAHLBGMF_02197	COG0759	[S] Uncharacterized conserved protein   
+DAHLBGMF_02198	ROG1289	
+DAHLBGMF_02199	COG1587	[H] Uroporphyrinogen-III synthase    
+DAHLBGMF_02201	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+DAHLBGMF_02202	COG0192	[H] S-adenosylmethionine synthetase    
+DAHLBGMF_02203	ROG2053	
+DAHLBGMF_02204	COG0801	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+DAHLBGMF_02205	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+DAHLBGMF_02206	COG0130	[J] Pseudouridine synthase    
+DAHLBGMF_02207	COG1968	[V] Uncharacterized bacitracin resistance protein  
+DAHLBGMF_02208	ROG3379	
+DAHLBGMF_02209	COG2177	[D] Cell division protein   
+DAHLBGMF_02210	COG0500	[QR] SAM-dependent methyltransferases    
+DAHLBGMF_02214	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02215	COG3209	[M] Rhs family protein   
+DAHLBGMF_02217	COG3247	[S] Uncharacterized conserved protein   
+DAHLBGMF_02218	ROG3639	
+DAHLBGMF_02219	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_02220	ROG6474	
+DAHLBGMF_02223	ROG6576	
+DAHLBGMF_02224	COG0621	[J] 2-methylthioadenine synthetase    
+DAHLBGMF_02226	COG0427	[C] Acetyl-CoA hydrolase    
+DAHLBGMF_02227	COG2027	[M] D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4) 
+DAHLBGMF_02228	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+DAHLBGMF_02229	ROG1507	
+DAHLBGMF_02230	COG0029	[H] Aspartate oxidase    
+DAHLBGMF_02231	COG2152	[G] Predicted glycosylase    
+DAHLBGMF_02232	COG1757	[C] Na+/H+ antiporter    
+DAHLBGMF_02234	ROG7278	
+DAHLBGMF_02235	ROG4915	
+DAHLBGMF_02237	COG3706	[T] Response regulator containing a CheY-like receiver
+DAHLBGMF_02238	COG1664	[M] Integral membrane protein CcmA involved in
+DAHLBGMF_02239	COG1592	[C] Rubrerythrin     
+DAHLBGMF_02240	COG0659	[P] Sulfate permease and related transporters (MFS
+DAHLBGMF_02241	ROG1301	
+DAHLBGMF_02243	ROG1040	
+DAHLBGMF_02244	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02245	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_02246	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_02247	COG0731	[C] Fe-S oxidoreductases    
+DAHLBGMF_02248	ROG0362	
+DAHLBGMF_02249	ROG0362	
+DAHLBGMF_02252	ROG3098	
+DAHLBGMF_02253	ROG7278	
+DAHLBGMF_02254	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_02255	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02256	ROG1727	
+DAHLBGMF_02257	ROG3318	
+DAHLBGMF_02258	COG0566	[J] rRNA methylases    
+DAHLBGMF_02259	COG0379	[H] Quinolinate synthase    
+DAHLBGMF_02260	COG1360	[N] Flagellar motor protein   
+DAHLBGMF_02261	COG0127	[F] Xanthosine triphosphate pyrophosphatase   
+DAHLBGMF_02262	COG1284	[S] Uncharacterized conserved protein   
+DAHLBGMF_02263	COG0495	[J] Leucyl-tRNA synthetase    
+DAHLBGMF_02264	ROG0261	
+DAHLBGMF_02265	ROG1301	
+DAHLBGMF_02266	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+DAHLBGMF_02267	COG1785	[P] Alkaline phosphatase    
+DAHLBGMF_02269	ROG0362	
+DAHLBGMF_02270	ROG0362	
+DAHLBGMF_02273	ROG3098	
+DAHLBGMF_02274	ROG7278	
+DAHLBGMF_02275	COG0249	[L] Mismatch repair ATPase (MutS family) 
+DAHLBGMF_02276	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+DAHLBGMF_02277	COG1893	[H] Ketopantoate reductase    
+DAHLBGMF_02278	COG0012	[J] Predicted GTPase, probable translation factor 
+DAHLBGMF_02279	COG2814	[G] Arabinose efflux permease   
+DAHLBGMF_02280	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_02284	ROG4249	
+DAHLBGMF_02285	ROG7278	
+DAHLBGMF_02286	ROG3098	
+DAHLBGMF_02287	ROG7278	
+DAHLBGMF_02288	ROG3098	
+DAHLBGMF_02290	COG5433	[L] Transposase     
+DAHLBGMF_02291	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02293	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_02294	ROG2448	
+DAHLBGMF_02295	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_02296	ROG5969	
+DAHLBGMF_02297	ROG1301	
+DAHLBGMF_02299	ROG5596	
+DAHLBGMF_02300	ROG7278	
+DAHLBGMF_02301	ROG4915	
+DAHLBGMF_02304	COG1501	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+DAHLBGMF_02307	COG5433	[L] Transposase     
+DAHLBGMF_02308	COG0657	[I] Esterase/lipase     
+DAHLBGMF_02309	COG1917	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+DAHLBGMF_02310	COG0031	[E] Cysteine synthase    
+DAHLBGMF_02311	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_02313	ROG3460	
+DAHLBGMF_02314	ROG7278	
+DAHLBGMF_02315	COG2273	[G] Beta-glucanase/Beta-glucan synthetase    
+DAHLBGMF_02316	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02317	COG3467	[R] Predicted flavin-nucleotide-binding protein   
+DAHLBGMF_02318	COG0557	[K] Exoribonuclease R    
+DAHLBGMF_02319	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+DAHLBGMF_02320	ROG3410	
+DAHLBGMF_02321	COG0042	[J] tRNA-dihydrouridine synthase    
+DAHLBGMF_02322	COG0826	[O] Collagenase and related proteases  
+DAHLBGMF_02323	COG0824	[R] Predicted thioesterase    
+DAHLBGMF_02324	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+DAHLBGMF_02325	ROG1301	
+DAHLBGMF_02327	COG5016	[C] Pyruvate/oxaloacetate carboxyltransferase    
+DAHLBGMF_02328	COG0479	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+DAHLBGMF_02329	COG1053	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+DAHLBGMF_02330	ROG0018	
+DAHLBGMF_02332	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_02333	COG3325	[G] Chitinase     
+DAHLBGMF_02334	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02335	ROG7278	
+DAHLBGMF_02336	ROG3098	
+DAHLBGMF_02338	ROG2448	
+DAHLBGMF_02339	COG5520	[M] O-Glycosyl hydrolase    
+DAHLBGMF_02341	COG0793	[M] Periplasmic protease    
+DAHLBGMF_02342	COG0669	[H] Phosphopantetheine adenylyltransferase    
+DAHLBGMF_02343	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+DAHLBGMF_02344	ROG0013	
+DAHLBGMF_02345	COG0530	[P] Ca2+/Na+ antiporter    
+DAHLBGMF_02346	ROG2908	
+DAHLBGMF_02347	COG2173	[M] D-alanyl-D-alanine dipeptidase    
+DAHLBGMF_02349	ROG2298	
+DAHLBGMF_02350	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02351	COG0561	[R] Predicted hydrolases of the HAD superfamily
+DAHLBGMF_02353	ROG2830	
+DAHLBGMF_02354	COG1522	[K] Transcriptional regulators    
+DAHLBGMF_02355	COG0545	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+DAHLBGMF_02356	COG0545	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+DAHLBGMF_02357	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+DAHLBGMF_02359	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+DAHLBGMF_02360	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_02361	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_02362	ROG0414	
+DAHLBGMF_02363	COG3475	[M] LPS biosynthesis protein   
+DAHLBGMF_02365	COG2244	[R] Membrane protein involved in the export
+DAHLBGMF_02366	COG0143	[J] Methionyl-tRNA synthetase    
+DAHLBGMF_02369	COG3209	[M] Rhs family protein   
+DAHLBGMF_02370	COG5542	[S] Predicted integral membrane protein  
+DAHLBGMF_02371	COG1042	[C] Acyl-CoA synthetase (NDP forming)  
+DAHLBGMF_02372	COG3437	[KT] Response regulator containing a CheY-like receiver
+DAHLBGMF_02373	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_02374	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_02375	ROG0262	
+DAHLBGMF_02376	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_02377	ROG2218	
+DAHLBGMF_02378	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+DAHLBGMF_02379	ROG7278	
+DAHLBGMF_02380	ROG3098	
+DAHLBGMF_02381	ROG3159	
+DAHLBGMF_02382	ROG0219	
+DAHLBGMF_02383	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_02384	ROG7627	
+DAHLBGMF_02385	ROG4009	
+DAHLBGMF_02386	COG3507	[G] Beta-xylosidase     
+DAHLBGMF_02388	ROG7278	
+DAHLBGMF_02389	ROG3098	
+DAHLBGMF_02392	ROG7627	
+DAHLBGMF_02393	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_02394	COG2152	[G] Predicted glycosylase    
+DAHLBGMF_02395	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_02397	COG0644	[C] Dehydrogenases (flavoproteins)    
+DAHLBGMF_02398	ROG3162	
+DAHLBGMF_02399	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_02400	ROG4249	
+DAHLBGMF_02401	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_02402	ROG7278	
+DAHLBGMF_02403	ROG4915	
+DAHLBGMF_02405	ROG4249	
+DAHLBGMF_02406	COG4833	[G] Predicted glycosyl hydrolase   
+DAHLBGMF_02407	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+DAHLBGMF_02408	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02409	COG0606	[O] Predicted ATPase with chaperone activity 
+DAHLBGMF_02410	ROG6470	
+DAHLBGMF_02411	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_02412	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_02413	COG0757	[E] 3-dehydroquinate dehydratase II   
+DAHLBGMF_02414	COG0469	[G] Pyruvate kinase    
+DAHLBGMF_02415	COG4122	[R] Predicted O-methyltransferase    
+DAHLBGMF_02416	COG0858	[J] Ribosome-binding factor A   
+DAHLBGMF_02417	COG4591	[M] ABC-type transport system, involved in lipoprotein
+DAHLBGMF_02418	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_02419	COG1013	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_02420	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_02425	COG0597	[MU] Lipoprotein signal peptidase   
+DAHLBGMF_02426	ROG6576	
+DAHLBGMF_02428	ROG6392	
+DAHLBGMF_02430	COG2771	[K] DNA-binding HTH domain-containing proteins  
+DAHLBGMF_02431	COG4587	[R] ABC-type uncharacterized transport system, permease component
+DAHLBGMF_02433	ROG3389	
+DAHLBGMF_02434	COG3723	[L] Recombinational DNA repair protein (RecE pathway)
+DAHLBGMF_02435	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+DAHLBGMF_02438	ROG2546	
+DAHLBGMF_02441	COG0464	[O] ATPases of the AAA+ class 
+DAHLBGMF_02445	COG1475	[K] Predicted transcriptional regulators   
+DAHLBGMF_02448	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+DAHLBGMF_02453	ROG6400	
+DAHLBGMF_02457	ROG3725	
+DAHLBGMF_02458	ROG0305	
+DAHLBGMF_02460	ROG3483	
+DAHLBGMF_02462	COG1397	[O] ADP-ribosylglycohydrolase     
+DAHLBGMF_02465	COG3943	[R] Virulence protein    
+DAHLBGMF_02471	COG0270	[L] Site-specific DNA methylase   
+DAHLBGMF_02472	COG0270	[L] Site-specific DNA methylase   
+DAHLBGMF_02480	ROG8247	
+DAHLBGMF_02483	COG2073	[H] Cobalamin biosynthesis protein CbiG  
+DAHLBGMF_02490	COG3941	[R] Mu-like prophage protein   
+DAHLBGMF_02493	ROG1974	
+DAHLBGMF_02496	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_02497	ROG2005	
+DAHLBGMF_02500	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+DAHLBGMF_02501	ROG0626	
+DAHLBGMF_02502	COG0342	[U] Preprotein translocase subunit SecD  
+DAHLBGMF_02503	COG0339	[E] Zn-dependent oligopeptidases    
+DAHLBGMF_02504	ROG0941	
+DAHLBGMF_02505	COG0705	[R] Uncharacterized membrane protein (homolog of Drosophila
+DAHLBGMF_02506	COG0705	[R] Uncharacterized membrane protein (homolog of Drosophila
+DAHLBGMF_02507	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_02508	COG0018	[J] Arginyl-tRNA synthetase    
+DAHLBGMF_02509	COG5421	[L] Transposase     
+DAHLBGMF_02510	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_02511	ROG2913	
+DAHLBGMF_02512	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_02513	COG1672	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_02514	COG1051	[F] ADP-ribose pyrophosphatase    
+DAHLBGMF_02515	COG0450	[O] Peroxiredoxin     
+DAHLBGMF_02517	COG1957	[F] Inosine-uridine nucleoside N-ribohydrolase   
+DAHLBGMF_02518	COG1874	[G] Beta-galactosidase     
+DAHLBGMF_02519	ROG3098	
+DAHLBGMF_02520	ROG7278	
+DAHLBGMF_02521	COG0524	[G] Sugar kinases, ribokinase family  
+DAHLBGMF_02522	COG0524	[G] Sugar kinases, ribokinase family  
+DAHLBGMF_02523	COG1609	[K] Transcriptional regulators    
+DAHLBGMF_02527	COG5433	[L] Transposase     
+DAHLBGMF_02528	COG5433	[L] Transposase     
+DAHLBGMF_02530	ROG7278	
+DAHLBGMF_02531	ROG4915	
+DAHLBGMF_02532	COG3568	[R] Metal-dependent hydrolase    
+DAHLBGMF_02533	ROG4510	
+DAHLBGMF_02534	COG1929	[G] Glycerate kinase    
+DAHLBGMF_02535	COG2610	[GE] H+/gluconate symporter and related permeases 
+DAHLBGMF_02536	COG4299	[S] Uncharacterized conserved protein   
+DAHLBGMF_02537	ROG4510	
+DAHLBGMF_02538	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02539	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_02540	COG3568	[R] Metal-dependent hydrolase    
+DAHLBGMF_02543	COG0483	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+DAHLBGMF_02544	COG1040	[R] Predicted amidophosphoribosyltransferases    
+DAHLBGMF_02547	COG0524	[G] Sugar kinases, ribokinase family  
+DAHLBGMF_02548	COG0793	[M] Periplasmic protease    
+DAHLBGMF_02549	COG0499	[H] S-adenosylhomocysteine hydrolase    
+DAHLBGMF_02550	ROG0193	
+DAHLBGMF_02551	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02554	ROG0479	
+DAHLBGMF_02555	COG1566	[V] Multidrug resistance efflux pump  
+DAHLBGMF_02556	COG2271	[G] Sugar phosphate permease   
+DAHLBGMF_02557	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_02558	COG0035	[F] Uracil phosphoribosyltransferase    
+DAHLBGMF_02559	COG1866	[C] Phosphoenolpyruvate carboxykinase (ATP)   
+DAHLBGMF_02560	COG2059	[P] Chromate transport protein ChrA  
+DAHLBGMF_02561	COG2059	[P] Chromate transport protein ChrA  
+DAHLBGMF_02562	COG1217	[T] Predicted membrane GTPase involved in stress
+DAHLBGMF_02563	COG0184	[J] Ribosomal protein S15P/S13E   
+DAHLBGMF_02564	COG1396	[K] Predicted transcriptional regulators   
+DAHLBGMF_02565	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+DAHLBGMF_02566	COG0836	[M] Mannose-1-phosphate guanylyltransferase    
+DAHLBGMF_02569	ROG0004	
+DAHLBGMF_02571	ROG3324	
+DAHLBGMF_02573	ROG8234	
+DAHLBGMF_02574	ROG8149	
+DAHLBGMF_02575	ROG1442	
+DAHLBGMF_02576	COG3883	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_02577	ROG5478	
+DAHLBGMF_02578	ROG6464	
+DAHLBGMF_02583	ROG1385	
+DAHLBGMF_02584	ROG0004	
+DAHLBGMF_02585	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+DAHLBGMF_02586	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_02587	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_02588	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_02589	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_02590	ROG6873	
+DAHLBGMF_02592	COG0546	[R] Predicted phosphatases    
+DAHLBGMF_02593	COG1051	[F] ADP-ribose pyrophosphatase    
+DAHLBGMF_02595	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_02597	ROG1707	
+DAHLBGMF_02598	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02600	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_02602	COG2096	[S] Uncharacterized conserved protein   
+DAHLBGMF_02603	ROG0936	
+DAHLBGMF_02604	ROG7286	
+DAHLBGMF_02605	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+DAHLBGMF_02606	COG2704	[R] Anaerobic C4-dicarboxylate transporter   
+DAHLBGMF_02607	COG1027	[E] Aspartate ammonia-lyase    
+DAHLBGMF_02608	COG1027	[E] Aspartate ammonia-lyase    
+DAHLBGMF_02610	ROG3116	
+DAHLBGMF_02611	COG1198	[L] Primosomal protein N' (replication factor Y)
+DAHLBGMF_02612	COG0394	[T] Protein-tyrosine-phosphatase     
+DAHLBGMF_02613	COG1480	[R] Predicted membrane-associated HD superfamily hydrolase 
+DAHLBGMF_02614	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+DAHLBGMF_02615	COG1519	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+DAHLBGMF_02617	COG0663	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+DAHLBGMF_02619	COG0006	[E] Xaa-Pro aminopeptidase    
+DAHLBGMF_02620	ROG2665	
+DAHLBGMF_02621	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_02622	ROG5227	
+DAHLBGMF_02627	COG0050	[J] GTPases - translation elongation factors 
+DAHLBGMF_02629	COG0690	[U] Preprotein translocase subunit SecE  
+DAHLBGMF_02630	COG0250	[K] Transcription antiterminator    
+DAHLBGMF_02631	COG0080	[J] Ribosomal protein L11   
+DAHLBGMF_02632	COG0081	[J] Ribosomal protein L1   
+DAHLBGMF_02633	COG0244	[J] Ribosomal protein L10   
+DAHLBGMF_02634	COG0222	[J] Ribosomal protein L7/L12   
+DAHLBGMF_02635	COG0085	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+DAHLBGMF_02636	COG0086	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+DAHLBGMF_02637	ROG0497	
+DAHLBGMF_02638	COG0048	[J] Ribosomal protein S12   
+DAHLBGMF_02639	COG0049	[J] Ribosomal protein S7   
+DAHLBGMF_02640	COG0480	[J] Translation elongation factors (GTPases)  
+DAHLBGMF_02641	COG0051	[J] Ribosomal protein S10   
+DAHLBGMF_02642	COG0087	[J] Ribosomal protein L3   
+DAHLBGMF_02643	COG0088	[J] Ribosomal protein L4   
+DAHLBGMF_02644	COG0089	[J] Ribosomal protein L23   
+DAHLBGMF_02645	COG0090	[J] Ribosomal protein L2   
+DAHLBGMF_02646	COG0185	[J] Ribosomal protein S19   
+DAHLBGMF_02647	COG0091	[J] Ribosomal protein L22   
+DAHLBGMF_02648	COG0092	[J] Ribosomal protein S3   
+DAHLBGMF_02649	COG0197	[J] Ribosomal protein L16/L10E   
+DAHLBGMF_02650	COG0255	[J] Ribosomal protein L29   
+DAHLBGMF_02651	COG0186	[J] Ribosomal protein S17   
+DAHLBGMF_02652	COG0093	[J] Ribosomal protein L14   
+DAHLBGMF_02653	COG0198	[J] Ribosomal protein L24   
+DAHLBGMF_02654	COG0094	[J] Ribosomal protein L5   
+DAHLBGMF_02655	COG0199	[J] Ribosomal protein S14   
+DAHLBGMF_02656	COG0096	[J] Ribosomal protein S8   
+DAHLBGMF_02657	COG0097	[J] Ribosomal protein L6P/L9E   
+DAHLBGMF_02658	COG0256	[J] Ribosomal protein L18   
+DAHLBGMF_02659	COG0098	[J] Ribosomal protein S5   
+DAHLBGMF_02660	COG1841	[J] Ribosomal protein L30/L7E   
+DAHLBGMF_02661	COG0200	[J] Ribosomal protein L15   
+DAHLBGMF_02662	COG0201	[U] Preprotein translocase subunit SecY  
+DAHLBGMF_02663	COG0024	[J] Methionine aminopeptidase    
+DAHLBGMF_02664	COG0361	[J] Translation initiation factor 1 (IF-1) 
+DAHLBGMF_02665	COG0257	[J] Ribosomal protein L36   
+DAHLBGMF_02666	COG0099	[J] Ribosomal protein S13   
+DAHLBGMF_02667	COG0100	[J] Ribosomal protein S11   
+DAHLBGMF_02668	COG0522	[J] Ribosomal protein S4 and related proteins
+DAHLBGMF_02669	COG0202	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+DAHLBGMF_02670	COG0203	[J] Ribosomal protein L17   
+DAHLBGMF_02673	COG5421	[L] Transposase     
+DAHLBGMF_02675	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02678	ROG2176	
+DAHLBGMF_02679	ROG1556	
+DAHLBGMF_02681	ROG4915	
+DAHLBGMF_02682	ROG7278	
+DAHLBGMF_02683	COG2706	[G] 3-carboxymuconate cyclase    
+DAHLBGMF_02684	COG0249	[L] Mismatch repair ATPase (MutS family) 
+DAHLBGMF_02685	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_02686	ROG3774	
+DAHLBGMF_02687	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_02688	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_02689	ROG4183	
+DAHLBGMF_02690	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_02691	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_02695	ROG7566	
+DAHLBGMF_02698	COG1696	[M] Predicted membrane protein involved in D-alanine
+DAHLBGMF_02699	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+DAHLBGMF_02704	ROG2200	
+DAHLBGMF_02705	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_02707	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+DAHLBGMF_02714	COG5433	[L] Transposase     
+DAHLBGMF_02715	ROG8437	
+DAHLBGMF_02717	ROG8437	
+DAHLBGMF_02718	ROG6557	
+DAHLBGMF_02719	ROG5478	
+DAHLBGMF_02720	ROG5478	
+DAHLBGMF_02722	ROG6077	
+DAHLBGMF_02723	COG3682	[K] Predicted transcriptional regulator   
+DAHLBGMF_02724	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+DAHLBGMF_02725	COG2367	[V] Beta-lactamase class A   
+DAHLBGMF_02726	COG2350	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_02729	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+DAHLBGMF_02731	ROG4479	
+DAHLBGMF_02732	ROG6204	
+DAHLBGMF_02733	ROG1068	
+DAHLBGMF_02734	ROG4388	
+DAHLBGMF_02735	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_02737	COG1146	[C] Ferredoxin     
+DAHLBGMF_02738	COG3324	[R] Predicted enzyme related to lactoylglutathione lyase
+DAHLBGMF_02739	COG3682	[K] Predicted transcriptional regulator   
+DAHLBGMF_02740	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_02741	ROG3959	
+DAHLBGMF_02742	ROG3959	
+DAHLBGMF_02743	COG3187	[O] Heat shock protein   
+DAHLBGMF_02744	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+DAHLBGMF_02746	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02747	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_02750	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02753	COG0531	[E] Amino acid transporters   
+DAHLBGMF_02755	COG1226	[P] Kef-type K+ transport systems, predicted NAD-binding
+DAHLBGMF_02756	COG2066	[E] Glutaminase     
+DAHLBGMF_02757	COG0076	[E] Glutamate decarboxylase and related PLP-dependent proteins
+DAHLBGMF_02758	COG0076	[E] Glutamate decarboxylase and related PLP-dependent proteins
+DAHLBGMF_02760	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+DAHLBGMF_02761	COG0782	[K] Transcription elongation factor   
+DAHLBGMF_02762	ROG6470	
+DAHLBGMF_02763	COG1185	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+DAHLBGMF_02764	COG3426	[C] Butyrate kinase    
+DAHLBGMF_02765	COG0280	[C] Phosphotransacetylase     
+DAHLBGMF_02766	COG1619	[V] Uncharacterized proteins, homologs of microcin C7
+DAHLBGMF_02767	COG2234	[R] Predicted aminopeptidases    
+DAHLBGMF_02768	COG2166	[R] SufE protein probably involved in Fe-S
+DAHLBGMF_02769	COG1266	[R] Predicted metal-dependent membrane protease  
+DAHLBGMF_02771	COG0196	[H] FAD synthase    
+DAHLBGMF_02772	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+DAHLBGMF_02773	COG0474	[P] Cation transport ATPase   
+DAHLBGMF_02774	COG1773	[C] Rubredoxin     
+DAHLBGMF_02775	COG1283	[P] Na+/phosphate symporter    
+DAHLBGMF_02776	COG0572	[F] Uridine kinase    
+DAHLBGMF_02777	COG3458	[Q] Acetyl esterase (deacetylase)   
+DAHLBGMF_02778	COG0006	[E] Xaa-Pro aminopeptidase    
+DAHLBGMF_02779	COG1508	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02780	ROG0432	
+DAHLBGMF_02781	COG0509	[E] Glycine cleavage system H protein (lipoate-binding)
+DAHLBGMF_02782	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+DAHLBGMF_02783	COG0821	[I] Enzyme involved in the deoxyxylulose pathway
+DAHLBGMF_02785	ROG3116	
+DAHLBGMF_02786	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_02787	COG2217	[P] Cation transport ATPase   
+DAHLBGMF_02788	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+DAHLBGMF_02789	COG0039	[C] Malate/lactate dehydrogenases    
+DAHLBGMF_02790	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_02792	COG0610	[V] Type I site-specific restriction-modification system, R
+DAHLBGMF_02793	ROG3288	
+DAHLBGMF_02794	COG0732	[V] Restriction endonuclease S subunits  
+DAHLBGMF_02795	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+DAHLBGMF_02796	ROG3697	
+DAHLBGMF_02797	ROG6557	
+DAHLBGMF_02799	COG2996	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_02801	ROG0224	
+DAHLBGMF_02802	ROG3774	
+DAHLBGMF_02803	COG1566	[V] Multidrug resistance efflux pump  
+DAHLBGMF_02804	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+DAHLBGMF_02805	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+DAHLBGMF_02806	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+DAHLBGMF_02807	COG1940	[KG] Transcriptional regulator/sugar kinase   
+DAHLBGMF_02809	COG0335	[J] Ribosomal protein L19   
+DAHLBGMF_02810	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+DAHLBGMF_02811	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+DAHLBGMF_02812	COG1680	[V] Beta-lactamase class C and other penicillin
+DAHLBGMF_02814	ROG1433	
+DAHLBGMF_02815	ROG4514	
+DAHLBGMF_02816	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+DAHLBGMF_02819	ROG7278	
+DAHLBGMF_02820	ROG3098	
+DAHLBGMF_02823	COG4886	[S] Leucine-rich repeat (LRR) protein  
+DAHLBGMF_02824	COG4886	[S] Leucine-rich repeat (LRR) protein  
+DAHLBGMF_02825	COG1404	[O] Subtilisin-like serine proteases   
+DAHLBGMF_02826	ROG4334	
+DAHLBGMF_02830	COG0827	[L] Adenine-specific DNA methylase   
+DAHLBGMF_02839	COG2214	[O] DnaJ-class molecular chaperone   
+DAHLBGMF_02841	ROG3654	
+DAHLBGMF_02843	ROG2200	
+DAHLBGMF_02844	COG3772	[R] Phage-related lysozyme (muraminidase)   
+DAHLBGMF_02846	ROG0276	
+DAHLBGMF_02848	ROG4358	
+DAHLBGMF_02849	ROG7494	
+DAHLBGMF_02851	ROG5270	
+DAHLBGMF_02852	ROG7689	
+DAHLBGMF_02853	ROG4394	
+DAHLBGMF_02856	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_02857	COG3451	[U] Type IV secretory pathway, VirB4 components
+DAHLBGMF_02858	COG0814	[E] Amino acid permeases   
+DAHLBGMF_02864	COG0455	[D] ATPases involved in chromosome partitioning 
+DAHLBGMF_02865	ROG6077	
+DAHLBGMF_02866	ROG1442	
+DAHLBGMF_02867	ROG0174	
+DAHLBGMF_02872	ROG1218	
+DAHLBGMF_02873	COG1106	[R] Predicted ATPases    
+DAHLBGMF_02874	ROG2228	
+DAHLBGMF_02876	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_02879	ROG5994	
+DAHLBGMF_02880	ROG3875	
+DAHLBGMF_02882	ROG1569	
+DAHLBGMF_02883	ROG1034	
+DAHLBGMF_02884	COG3279	[KT] Response regulator of the LytR/AlgR family
+DAHLBGMF_02885	COG2972	[T] Predicted signal transduction protein with a
+DAHLBGMF_02887	ROG3116	
+DAHLBGMF_02888	ROG2019	
+DAHLBGMF_02890	ROG7786	
+DAHLBGMF_02891	COG5492	[N] Bacterial surface proteins containing Ig-like domains
+DAHLBGMF_02894	ROG7129	
+DAHLBGMF_02895	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+DAHLBGMF_02897	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+DAHLBGMF_02898	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_02899	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_02900	COG1538	[MU] Outer membrane protein   
+DAHLBGMF_02901	COG5085	[S] Predicted membrane protein   
+DAHLBGMF_02902	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_02903	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_02905	ROG5478	
+DAHLBGMF_02906	ROG5478	
+DAHLBGMF_02907	ROG5478	
+DAHLBGMF_02908	ROG8437	
+DAHLBGMF_02909	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_02910	COG5433	[L] Transposase     
+DAHLBGMF_02912	ROG0362	
+DAHLBGMF_02914	ROG3098	
+DAHLBGMF_02915	ROG7278	
+DAHLBGMF_02916	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_02917	COG2771	[K] DNA-binding HTH domain-containing proteins  
+DAHLBGMF_02918	COG3437	[KT] Response regulator containing a CheY-like receiver
+DAHLBGMF_02919	COG3525	[G] N-acetyl-beta-hexosaminidase     
+DAHLBGMF_02923	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+DAHLBGMF_02924	ROG6296	
+DAHLBGMF_02925	ROG7278	
+DAHLBGMF_02927	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_02928	COG2197	[TK] Response regulator containing a CheY-like receiver
+DAHLBGMF_02929	COG3345	[G] Alpha-galactosidase     
+DAHLBGMF_02930	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+DAHLBGMF_02931	COG3940	[R] Predicted beta-xylosidase    
+DAHLBGMF_02933	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_02934	COG0657	[I] Esterase/lipase     
+DAHLBGMF_02935	ROG0442	
+DAHLBGMF_02936	COG3754	[M] Lipopolysaccharide biosynthesis protein   
+DAHLBGMF_02938	ROG0442	
+DAHLBGMF_02939	ROG7278	
+DAHLBGMF_02940	ROG3098	
+DAHLBGMF_02942	COG5633	[R] Predicted periplasmic lipoprotein   
+DAHLBGMF_02944	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_02946	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_02949	COG0611	[H] Thiamine monophosphate kinase   
+DAHLBGMF_02950	COG0005	[F] Purine nucleoside phosphorylase   
+DAHLBGMF_02951	COG1663	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+DAHLBGMF_02952	COG0616	[OU] Periplasmic serine proteases (ClpP class) 
+DAHLBGMF_02953	COG3537	[G] Putative alpha-1,2-mannosidase    
+DAHLBGMF_02954	COG3437	[KT] Response regulator containing a CheY-like receiver
+DAHLBGMF_02955	COG0471	[P] Di- and tricarboxylate transporters  
+DAHLBGMF_02956	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02957	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_02959	ROG7278	
+DAHLBGMF_02960	ROG3098	
+DAHLBGMF_02962	COG2351	[R] Transthyretin-like protein    
+DAHLBGMF_02963	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_02964	ROG2448	
+DAHLBGMF_02965	ROG1556	
+DAHLBGMF_02967	ROG0442	
+DAHLBGMF_02968	ROG7129	
+DAHLBGMF_02970	ROG0362	
+DAHLBGMF_02971	ROG0362	
+DAHLBGMF_02972	COG2721	[G] Altronate dehydratase    
+DAHLBGMF_02974	ROG3098	
+DAHLBGMF_02975	ROG7278	
+DAHLBGMF_02976	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_02977	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_02978	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+DAHLBGMF_02980	ROG3796	
+DAHLBGMF_02981	COG0795	[R] Predicted permeases    
+DAHLBGMF_02982	COG0108	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+DAHLBGMF_02983	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+DAHLBGMF_02984	COG1146	[C] Ferredoxin     
+DAHLBGMF_02985	COG1897	[E] Homoserine trans-succinylase    
+DAHLBGMF_02986	COG0826	[O] Collagenase and related proteases  
+DAHLBGMF_02987	COG3889	[R] Predicted solute binding protein  
+DAHLBGMF_02990	COG1629	[P] Outer membrane receptor proteins, mostly Fe
+DAHLBGMF_02992	COG2771	[K] DNA-binding HTH domain-containing proteins  
+DAHLBGMF_02993	COG2509	[R] Uncharacterized FAD-dependent dehydrogenases   
+DAHLBGMF_02994	COG1066	[O] Predicted ATP-dependent serine protease  
+DAHLBGMF_02995	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+DAHLBGMF_02996	COG0527	[E] Aspartokinases     
+DAHLBGMF_02997	COG3635	[G] Predicted phosphoglycerate mutase, AP superfamily 
+DAHLBGMF_02998	COG0498	[E] Threonine synthase    
+DAHLBGMF_02999	COG1564	[H] Thiamine pyrophosphokinase    
+DAHLBGMF_03000	COG3201	[H] Nicotinamide mononucleotide transporter   
+DAHLBGMF_03003	COG0668	[M] Small-conductance mechanosensitive channel   
+DAHLBGMF_03004	COG4977	[K] Transcriptional regulator containing an amidase domain
+DAHLBGMF_03005	ROG5389	
+DAHLBGMF_03006	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+DAHLBGMF_03007	COG1522	[K] Transcriptional regulators    
+DAHLBGMF_03008	ROG7190	
+DAHLBGMF_03009	ROG1113	
+DAHLBGMF_03010	COG3049	[M] Penicillin V acylase and related amidases
+DAHLBGMF_03011	COG0350	[L] Methylated DNA-protein cysteine methyltransferase  
+DAHLBGMF_03012	ROG8031	
+DAHLBGMF_03013	ROG5708	
+DAHLBGMF_03014	ROG3147	
+DAHLBGMF_03015	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+DAHLBGMF_03016	COG4413	[E] Urea transporter    
+DAHLBGMF_03018	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_03019	COG3344	[L] Retron-type reverse transcriptase   
+DAHLBGMF_03020	COG1733	[K] Predicted transcriptional regulators   
+DAHLBGMF_03021	COG0662	[G] Mannose-6-phosphate isomerase    
+DAHLBGMF_03023	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03024	COG1106	[R] Predicted ATPases    
+DAHLBGMF_03025	ROG1218	
+DAHLBGMF_03026	ROG0324	
+DAHLBGMF_03027	COG1179	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+DAHLBGMF_03028	ROG5629	
+DAHLBGMF_03032	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03033	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_03034	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_03035	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+DAHLBGMF_03036	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_03037	COG4845	[V] Chloramphenicol O-acetyltransferase    
+DAHLBGMF_03038	ROG4388	
+DAHLBGMF_03039	ROG6077	
+DAHLBGMF_03041	ROG5478	
+DAHLBGMF_03042	ROG5478	
+DAHLBGMF_03043	ROG6557	
+DAHLBGMF_03044	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03046	COG0628	[R] Predicted permease    
+DAHLBGMF_03047	COG1435	[F] Thymidine kinase    
+DAHLBGMF_03049	COG0313	[R] Predicted methyltransferases    
+DAHLBGMF_03050	ROG3790	
+DAHLBGMF_03051	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+DAHLBGMF_03052	COG2095	[U] Multiple antibiotic transporter   
+DAHLBGMF_03054	ROG7217	
+DAHLBGMF_03055	ROG7278	
+DAHLBGMF_03056	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03057	COG5433	[L] Transposase     
+DAHLBGMF_03058	ROG7278	
+DAHLBGMF_03059	ROG3460	
+DAHLBGMF_03060	ROG5602	
+DAHLBGMF_03062	ROG7278	
+DAHLBGMF_03063	ROG3098	
+DAHLBGMF_03064	COG2262	[R] GTPases     
+DAHLBGMF_03065	ROG5374	
+DAHLBGMF_03066	COG1951	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+DAHLBGMF_03067	ROG3342	
+DAHLBGMF_03068	ROG3774	
+DAHLBGMF_03069	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_03070	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_03071	COG1162	[R] Predicted GTPases    
+DAHLBGMF_03072	COG0233	[J] Ribosome recycling factor   
+DAHLBGMF_03073	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+DAHLBGMF_03074	COG0528	[F] Uridylate kinase    
+DAHLBGMF_03075	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_03076	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_03078	COG5421	[L] Transposase     
+DAHLBGMF_03079	COG3683	[R] ABC-type uncharacterized transport system, periplasmic component
+DAHLBGMF_03081	COG1626	[G] Neutral trehalase    
+DAHLBGMF_03082	COG1472	[G] Beta-glucosidase-related glycosidases    
+DAHLBGMF_03083	ROG0261	
+DAHLBGMF_03084	ROG3664	
+DAHLBGMF_03085	COG5434	[M] Endopolygalacturonase     
+DAHLBGMF_03086	ROG3098	
+DAHLBGMF_03087	ROG7278	
+DAHLBGMF_03088	ROG2448	
+DAHLBGMF_03089	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_03090	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03091	ROG2105	
+DAHLBGMF_03092	COG0340	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+DAHLBGMF_03093	COG2315	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03094	COG0792	[L] Predicted endonuclease distantly related to archaeal
+DAHLBGMF_03096	COG0590	[FJ] Cytosine/adenosine deaminases    
+DAHLBGMF_03097	ROG7387	
+DAHLBGMF_03098	COG1183	[I] Phosphatidylserine synthase    
+DAHLBGMF_03099	COG0688	[I] Phosphatidylserine decarboxylase    
+DAHLBGMF_03100	COG0587	[L] DNA polymerase III, alpha subunit 
+DAHLBGMF_03101	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_03103	COG1714	[S] Predicted membrane protein/domain   
+DAHLBGMF_03104	COG1300	[S] Uncharacterized membrane protein   
+DAHLBGMF_03105	ROG0538	
+DAHLBGMF_03106	COG0586	[S] Uncharacterized membrane-associated protein   
+DAHLBGMF_03107	ROG5172	
+DAHLBGMF_03108	COG0714	[R] MoxR-like ATPases    
+DAHLBGMF_03109	COG1721	[R] Uncharacterized conserved protein (some members contain
+DAHLBGMF_03110	COG2361	[S] Uncharacterized conserved protein   
+DAHLBGMF_03111	COG1669	[R] Predicted nucleotidyltransferases    
+DAHLBGMF_03113	COG0802	[R] Predicted ATPase or kinase  
+DAHLBGMF_03114	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+DAHLBGMF_03115	COG2149	[S] Predicted membrane protein   
+DAHLBGMF_03116	COG4886	[S] Leucine-rich repeat (LRR) protein  
+DAHLBGMF_03117	COG2234	[R] Predicted aminopeptidases    
+DAHLBGMF_03118	COG4221	[R] Short-chain alcohol dehydrogenase of unknown specificity
+DAHLBGMF_03119	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+DAHLBGMF_03120	COG0128	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+DAHLBGMF_03121	ROG0492	
+DAHLBGMF_03122	COG3506	[S] Uncharacterized conserved protein   
+DAHLBGMF_03123	COG2197	[TK] Response regulator containing a CheY-like receiver
+DAHLBGMF_03124	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+DAHLBGMF_03125	ROG3176	
+DAHLBGMF_03127	COG2431	[S] Predicted membrane protein   
+DAHLBGMF_03128	COG2431	[S] Predicted membrane protein   
+DAHLBGMF_03129	ROG6994	
+DAHLBGMF_03130	ROG3665	
+DAHLBGMF_03131	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_03133	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03134	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+DAHLBGMF_03135	COG0480	[J] Translation elongation factors (GTPases)  
+DAHLBGMF_03136	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_03137	COG0745	[TK] Response regulators consisting of a CheY-like
+DAHLBGMF_03138	COG0575	[I] CDP-diglyceride synthetase    
+DAHLBGMF_03139	COG1846	[K] Transcriptional regulators    
+DAHLBGMF_03140	COG0360	[J] Ribosomal protein S6   
+DAHLBGMF_03141	COG0238	[J] Ribosomal protein S18   
+DAHLBGMF_03142	COG0359	[J] Ribosomal protein L9   
+DAHLBGMF_03144	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_03145	COG0673	[R] Predicted dehydrogenases and related proteins 
+DAHLBGMF_03146	ROG2218	
+DAHLBGMF_03147	COG1082	[G] Sugar phosphate isomerases/epimerases   
+DAHLBGMF_03148	ROG0077	
+DAHLBGMF_03149	COG1022	[I] Long-chain acyl-CoA synthetases (AMP-forming)  
+DAHLBGMF_03150	COG0621	[J] 2-methylthioadenine synthetase    
+DAHLBGMF_03151	COG1560	[M] Lauroyl/myristoyl acyltransferase    
+DAHLBGMF_03152	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_03153	COG1803	[G] Methylglyoxal synthase    
+DAHLBGMF_03154	COG1539	[H] Dihydroneopterin aldolase    
+DAHLBGMF_03155	COG1640	[G] 4-alpha-glucanotransferase     
+DAHLBGMF_03156	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+DAHLBGMF_03157	COG0778	[C] Nitroreductase     
+DAHLBGMF_03158	COG0593	[L] ATPase involved in DNA replication initiation
+DAHLBGMF_03159	COG1463	[Q] ABC-type transport system involved in resistance
+DAHLBGMF_03160	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+DAHLBGMF_03163	ROG1334	
+DAHLBGMF_03164	COG3876	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03165	ROG3178	
+DAHLBGMF_03166	ROG2027	
+DAHLBGMF_03167	COG0692	[L] Uracil DNA glycosylase   
+DAHLBGMF_03168	COG2502	[E] Asparagine synthetase A   
+DAHLBGMF_03171	COG2605	[R] Predicted kinase related to galactokinase and
+DAHLBGMF_03172	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+DAHLBGMF_03175	COG0166	[G] Glucose-6-phosphate isomerase    
+DAHLBGMF_03176	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+DAHLBGMF_03177	COG1190	[J] Lysyl-tRNA synthetase (class II)  
+DAHLBGMF_03178	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_03180	ROG5256	
+DAHLBGMF_03181	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+DAHLBGMF_03182	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+DAHLBGMF_03183	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+DAHLBGMF_03184	COG4206	[H] Outer membrane cobalamin receptor protein 
+DAHLBGMF_03185	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_03187	COG5433	[L] Transposase     
+DAHLBGMF_03189	COG4105	[R] DNA uptake lipoprotein   
+DAHLBGMF_03190	ROG0822	
+DAHLBGMF_03191	COG2985	[R] Predicted permease    
+DAHLBGMF_03192	COG1884	[I] Methylmalonyl-CoA mutase, N-terminal domain/subunit  
+DAHLBGMF_03193	COG1884	[I] Methylmalonyl-CoA mutase, N-terminal domain/subunit  
+DAHLBGMF_03194	COG0655	[R] Multimeric flavodoxin WrbA   
+DAHLBGMF_03195	ROG0004	
+DAHLBGMF_03196	ROG1058	
+DAHLBGMF_03197	COG1733	[K] Predicted transcriptional regulators   
+DAHLBGMF_03199	COG0550	[L] Topoisomerase IA    
+DAHLBGMF_03200	ROG0261	
+DAHLBGMF_03201	ROG3460	
+DAHLBGMF_03203	ROG1569	
+DAHLBGMF_03204	ROG1034	
+DAHLBGMF_03205	COG5002	[T] Signal transduction histidine kinase  
+DAHLBGMF_03206	COG0745	[TK] Response regulators consisting of a CheY-like
+DAHLBGMF_03207	ROG0307	
+DAHLBGMF_03208	COG1409	[R] Predicted phosphohydrolases    
+DAHLBGMF_03209	ROG2089	
+DAHLBGMF_03211	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+DAHLBGMF_03212	COG0573	[P] ABC-type phosphate transport system, permease component
+DAHLBGMF_03213	COG0581	[P] ABC-type phosphate transport system, permease component
+DAHLBGMF_03214	COG1117	[P] ABC-type phosphate transport system, ATPase component
+DAHLBGMF_03217	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+DAHLBGMF_03218	COG0082	[E] Chorismate synthase    
+DAHLBGMF_03220	COG3681	[S] Uncharacterized conserved protein   
+DAHLBGMF_03221	COG1047	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+DAHLBGMF_03222	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+DAHLBGMF_03223	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+DAHLBGMF_03224	COG0440	[E] Acetolactate synthase, small (regulatory) subunit 
+DAHLBGMF_03225	COG3884	[I] Acyl-ACP thioesterase    
+DAHLBGMF_03226	COG0059	[EH] Ketol-acid reductoisomerase    
+DAHLBGMF_03227	COG1112	[L] Superfamily I DNA and RNA helicases
+DAHLBGMF_03228	COG1048	[C] Aconitase A    
+DAHLBGMF_03229	COG0538	[C] Isocitrate dehydrogenases    
+DAHLBGMF_03230	COG0372	[C] Citrate synthase    
+DAHLBGMF_03232	COG1902	[C] NADH:flavin oxidoreductases, Old Yellow Enzyme family
+DAHLBGMF_03233	COG3967	[M] Short-chain dehydrogenase involved in D-alanine esterification
+DAHLBGMF_03234	COG4206	[H] Outer membrane cobalamin receptor protein 
+DAHLBGMF_03235	ROG7515	
+DAHLBGMF_03236	COG3182	[S] Uncharacterized iron-regulated membrane protein  
+DAHLBGMF_03237	COG0205	[G] 6-phosphofructokinase     
+DAHLBGMF_03238	COG0761	[IM] Penicillin tolerance protein   
+DAHLBGMF_03239	COG0283	[F] Cytidylate kinase    
+DAHLBGMF_03240	COG0810	[M] Periplasmic protein TonB, links inner and
+DAHLBGMF_03241	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+DAHLBGMF_03243	COG0084	[L] Mg-dependent DNase    
+DAHLBGMF_03245	COG0811	[U] Biopolymer transport proteins   
+DAHLBGMF_03247	ROG4960	
+DAHLBGMF_03248	ROG5599	
+DAHLBGMF_03249	ROG3447	
+DAHLBGMF_03250	ROG1514	
+DAHLBGMF_03251	COG1522	[K] Transcriptional regulators    
+DAHLBGMF_03252	COG0262	[H] Dihydrofolate reductase    
+DAHLBGMF_03253	COG0207	[F] Thymidylate synthase    
+DAHLBGMF_03254	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+DAHLBGMF_03256	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03258	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+DAHLBGMF_03260	ROG0479	
+DAHLBGMF_03261	COG3696	[P] Putative silver efflux pump  
+DAHLBGMF_03262	ROG5656	
+DAHLBGMF_03265	COG0488	[R] ATPase components of ABC transporters with
+DAHLBGMF_03266	COG5433	[L] Transposase     
+DAHLBGMF_03269	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03270	COG1272	[R] Predicted membrane protein, hemolysin III homolog
+DAHLBGMF_03273	ROG0474	
+DAHLBGMF_03274	COG0632	[L] Holliday junction resolvasome, DNA-binding subunit 
+DAHLBGMF_03277	COG2976	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03278	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+DAHLBGMF_03279	COG0006	[E] Xaa-Pro aminopeptidase    
+DAHLBGMF_03280	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+DAHLBGMF_03281	COG1505	[E] Serine proteases of the peptidase family
+DAHLBGMF_03282	ROG3877	
+DAHLBGMF_03286	ROG6808	
+DAHLBGMF_03287	ROG6808	
+DAHLBGMF_03290	ROG3664	
+DAHLBGMF_03291	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03292	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03295	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03296	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03297	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03298	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03299	ROG6091	
+DAHLBGMF_03301	COG3550	[R] Uncharacterized protein related to capsule biosynthesis
+DAHLBGMF_03302	COG3550	[R] Uncharacterized protein related to capsule biosynthesis
+DAHLBGMF_03303	ROG1061	
+DAHLBGMF_03304	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+DAHLBGMF_03307	COG0281	[C] Malic enzyme    
+DAHLBGMF_03308	COG5433	[L] Transposase     
+DAHLBGMF_03309	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_03310	COG1538	[MU] Outer membrane protein   
+DAHLBGMF_03311	COG1328	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+DAHLBGMF_03312	COG0602	[O] Organic radical activating enzymes  
+DAHLBGMF_03313	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+DAHLBGMF_03314	COG0743	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+DAHLBGMF_03315	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_03316	COG0806	[J] RimM protein, required for 16S rRNA
+DAHLBGMF_03317	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+DAHLBGMF_03318	ROG2768	
+DAHLBGMF_03319	COG1214	[O] Inactive homolog of metal-dependent proteases, putative
+DAHLBGMF_03320	COG1561	[S] Uncharacterized stress-induced protein   
+DAHLBGMF_03321	COG0194	[F] Guanylate kinase    
+DAHLBGMF_03322	ROG1211	
+DAHLBGMF_03323	COG1057	[H] Nicotinic acid mononucleotide adenylyltransferase  
+DAHLBGMF_03324	COG1408	[R] Predicted phosphohydrolases    
+DAHLBGMF_03325	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03326	COG5433	[L] Transposase     
+DAHLBGMF_03328	COG1575	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+DAHLBGMF_03329	COG1088	[M] dTDP-D-glucose 4,6-dehydratase    
+DAHLBGMF_03330	COG1209	[M] dTDP-glucose pyrophosphorylase    
+DAHLBGMF_03331	COG0622	[R] Predicted phosphoesterase    
+DAHLBGMF_03332	COG0855	[P] Polyphosphate kinase    
+DAHLBGMF_03333	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+DAHLBGMF_03335	COG4799	[I] Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha
+DAHLBGMF_03336	COG4770	[I] Acetyl/propionyl-CoA carboxylase, alpha subunit  
+DAHLBGMF_03337	COG0439	[I] Biotin carboxylase    
+DAHLBGMF_03338	COG1488	[H] Nicotinic acid phosphoribosyltransferase   
+DAHLBGMF_03339	COG1028	[IQR] Dehydrogenases with different specificities (related to
+DAHLBGMF_03340	ROG0077	
+DAHLBGMF_03344	COG0464	[O] ATPases of the AAA+ class 
+DAHLBGMF_03349	COG0119	[E] Isopropylmalate/homocitrate/citramalate synthases    
+DAHLBGMF_03350	COG0065	[E] 3-isopropylmalate dehydratase large subunit  
+DAHLBGMF_03351	COG0066	[E] 3-isopropylmalate dehydratase small subunit  
+DAHLBGMF_03352	COG0119	[E] Isopropylmalate/homocitrate/citramalate synthases    
+DAHLBGMF_03353	COG0473	[CE] Isocitrate/isopropylmalate dehydrogenase    
+DAHLBGMF_03354	COG0671	[I] Membrane-associated phospholipid phosphatase   
+DAHLBGMF_03355	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+DAHLBGMF_03356	COG0031	[E] Cysteine synthase    
+DAHLBGMF_03357	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_03358	COG0514	[L] Superfamily II DNA helicase  
+DAHLBGMF_03359	COG4753	[T] Response regulator containing CheY-like receiver domain
+DAHLBGMF_03360	ROG1047	
+DAHLBGMF_03361	COG4912	[L] Predicted DNA alkylation repair enzyme 
+DAHLBGMF_03362	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+DAHLBGMF_03363	COG0104	[F] Adenylosuccinate synthase    
+DAHLBGMF_03364	COG3669	[G] Alpha-L-fucosidase     
+DAHLBGMF_03365	COG2738	[R] Predicted Zn-dependent protease   
+DAHLBGMF_03368	COG0124	[J] Histidyl-tRNA synthetase    
+DAHLBGMF_03369	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_03370	COG1160	[R] Predicted GTPases    
+DAHLBGMF_03372	COG0502	[H] Biotin synthase and related enzymes 
+DAHLBGMF_03373	COG4624	[R] Iron only hydrogenase large subunit, C-terminal
+DAHLBGMF_03374	COG0234	[O] Co-chaperonin GroES (HSP10)   
+DAHLBGMF_03375	COG0459	[O] Chaperonin GroEL (HSP60 family)  
+DAHLBGMF_03377	COG3883	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03378	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+DAHLBGMF_03379	COG4929	[S] Uncharacterized membrane-anchored protein   
+DAHLBGMF_03380	ROG6372	
+DAHLBGMF_03381	COG4984	[S] Predicted membrane protein   
+DAHLBGMF_03382	ROG2298	
+DAHLBGMF_03383	COG2214	[O] DnaJ-class molecular chaperone   
+DAHLBGMF_03384	ROG4841	
+DAHLBGMF_03385	COG1956	[T] GAF domain-containing protein   
+DAHLBGMF_03386	COG1960	[I] Acyl-CoA dehydrogenases    
+DAHLBGMF_03387	COG2025	[C] Electron transfer flavoprotein, alpha subunit 
+DAHLBGMF_03388	COG2086	[C] Electron transfer flavoprotein, beta subunit 
+DAHLBGMF_03389	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+DAHLBGMF_03390	ROG7129	
+DAHLBGMF_03392	COG2771	[K] DNA-binding HTH domain-containing proteins  
+DAHLBGMF_03394	COG3669	[G] Alpha-L-fucosidase     
+DAHLBGMF_03395	ROG3201	
+DAHLBGMF_03396	COG3579	[E] Aminopeptidase C    
+DAHLBGMF_03397	COG4667	[R] Predicted esterase of the alpha-beta hydrolase
+DAHLBGMF_03398	ROG1269	
+DAHLBGMF_03399	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+DAHLBGMF_03400	ROG7278	
+DAHLBGMF_03401	ROG4915	
+DAHLBGMF_03402	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+DAHLBGMF_03403	COG0738	[G] Fucose permease    
+DAHLBGMF_03404	COG0524	[G] Sugar kinases, ribokinase family  
+DAHLBGMF_03408	COG1879	[G] ABC-type sugar transport system, periplasmic component
+DAHLBGMF_03409	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+DAHLBGMF_03410	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+DAHLBGMF_03412	ROG3457	
+DAHLBGMF_03413	COG1649	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03414	COG1966	[T] Carbon starvation protein, predicted membrane protein
+DAHLBGMF_03417	COG0178	[L] Excinuclease ATPase subunit   
+DAHLBGMF_03418	COG1649	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03419	COG2059	[P] Chromate transport protein ChrA  
+DAHLBGMF_03421	COG2059	[P] Chromate transport protein ChrA  
+DAHLBGMF_03422	COG0046	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+DAHLBGMF_03423	ROG6837	
+DAHLBGMF_03425	COG1091	[M] dTDP-4-dehydrorhamnose reductase    
+DAHLBGMF_03426	COG4108	[J] Peptide chain release factor RF-3 
+DAHLBGMF_03427	COG0642	[T] Signal transduction histidine kinase  
+DAHLBGMF_03428	COG0745	[TK] Response regulators consisting of a CheY-like
+DAHLBGMF_03429	ROG3356	
+DAHLBGMF_03430	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+DAHLBGMF_03431	COG0573	[P] ABC-type phosphate transport system, permease component
+DAHLBGMF_03432	COG0581	[P] ABC-type phosphate transport system, permease component
+DAHLBGMF_03433	COG1117	[P] ABC-type phosphate transport system, ATPase component
+DAHLBGMF_03434	COG2865	[K] Predicted transcriptional regulator containing an HTH
+DAHLBGMF_03435	COG3630	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, gamma subunit 
+DAHLBGMF_03436	COG5016	[C] Pyruvate/oxaloacetate carboxyltransferase    
+DAHLBGMF_03437	COG1883	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+DAHLBGMF_03438	ROG2659	
+DAHLBGMF_03439	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_03440	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_03441	COG0254	[J] Ribosomal protein L31   
+DAHLBGMF_03442	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+DAHLBGMF_03443	COG1883	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+DAHLBGMF_03444	COG0511	[I] Biotin carboxyl carrier protein  
+DAHLBGMF_03445	ROG2171	
+DAHLBGMF_03446	COG4799	[I] Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha
+DAHLBGMF_03447	ROG2119	
+DAHLBGMF_03448	ROG0089	
+DAHLBGMF_03450	ROG1631	
+DAHLBGMF_03452	COG0778	[C] Nitroreductase     
+DAHLBGMF_03453	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+DAHLBGMF_03454	ROG7416	
+DAHLBGMF_03455	COG1778	[R] Low specificity phosphatase (HAD superfamily) 
+DAHLBGMF_03456	COG0424	[D] Nucleotide-binding protein implicated in inhibition of
+DAHLBGMF_03457	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_03458	COG2311	[S] Predicted membrane protein   
+DAHLBGMF_03459	COG5421	[L] Transposase     
+DAHLBGMF_03460	COG2311	[S] Predicted membrane protein   
+DAHLBGMF_03461	COG0126	[G] 3-phosphoglycerate kinase    
+DAHLBGMF_03462	COG0177	[L] Predicted EndoIII-related endonuclease   
+DAHLBGMF_03464	COG0016	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+DAHLBGMF_03465	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03466	COG0582	[L] Integrase     
+DAHLBGMF_03467	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03470	ROG5478	
+DAHLBGMF_03472	ROG5478	
+DAHLBGMF_03473	ROG0507	
+DAHLBGMF_03474	ROG6557	
+DAHLBGMF_03475	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03476	ROG7580	
+DAHLBGMF_03479	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03481	ROG2734	
+DAHLBGMF_03482	COG0817	[L] Holliday junction resolvasome, endonuclease subunit 
+DAHLBGMF_03483	COG1523	[G] Type II secretory pathway, pullulanase PulA
+DAHLBGMF_03484	ROG1040	
+DAHLBGMF_03485	COG2211	[G] Na+/melibiose symporter and related transporters 
+DAHLBGMF_03486	COG3693	[G] Beta-1,4-xylanase     
+DAHLBGMF_03487	ROG2448	
+DAHLBGMF_03488	COG3661	[G] Alpha-glucuronidase     
+DAHLBGMF_03489	COG1119	[P] ABC-type molybdenum transport system, ATPase component/photorepair
+DAHLBGMF_03490	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03493	ROG4978	
+DAHLBGMF_03495	ROG0229	
+DAHLBGMF_03499	COG0305	[L] Replicative DNA helicase   
+DAHLBGMF_03500	ROG8538	
+DAHLBGMF_03501	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+DAHLBGMF_03502	ROG0512	
+DAHLBGMF_03507	COG2856	[E] Predicted Zn peptidase   
+DAHLBGMF_03508	ROG8027	
+DAHLBGMF_03509	ROG3169	
+DAHLBGMF_03511	COG2184	[D] Protein involved in cell division 
+DAHLBGMF_03512	COG3177	[S] Uncharacterized conserved protein   
+DAHLBGMF_03513	COG3943	[R] Virulence protein    
+DAHLBGMF_03514	COG2932	[K] Predicted transcriptional regulator   
+DAHLBGMF_03517	COG2932	[K] Predicted transcriptional regulator   
+DAHLBGMF_03518	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03519	COG1484	[L] DNA replication protein   
+DAHLBGMF_03521	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_03522	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03525	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03526	ROG0028	
+DAHLBGMF_03527	ROG3028	
+DAHLBGMF_03531	ROG4729	
+DAHLBGMF_03532	ROG4729	
+DAHLBGMF_03539	ROG5235	
+DAHLBGMF_03541	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_03542	COG1484	[L] DNA replication protein   
+DAHLBGMF_03543	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03545	ROG1930	
+DAHLBGMF_03546	COG0370	[P] Fe2+ transport system protein B 
+DAHLBGMF_03547	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+DAHLBGMF_03548	COG1145	[C] Ferredoxin     
+DAHLBGMF_03549	COG1158	[K] Transcription termination factor   
+DAHLBGMF_03550	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_03551	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_03552	COG0541	[U] Signal recognition particle GTPase  
+DAHLBGMF_03553	COG0190	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+DAHLBGMF_03554	COG2843	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+DAHLBGMF_03557	COG3464	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03558	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+DAHLBGMF_03559	ROG6234	
+DAHLBGMF_03561	ROG3200	
+DAHLBGMF_03562	ROG3772	
+DAHLBGMF_03563	COG2195	[E] Di- and tripeptidases   
+DAHLBGMF_03564	ROG0184	
+DAHLBGMF_03565	ROG3457	
+DAHLBGMF_03566	COG0668	[M] Small-conductance mechanosensitive channel   
+DAHLBGMF_03567	COG1208	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+DAHLBGMF_03568	COG1660	[R] Predicted P-loop-containing kinase   
+DAHLBGMF_03569	COG0176	[G] Transaldolase     
+DAHLBGMF_03570	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03573	COG1716	[T] FOG: FHA domain   
+DAHLBGMF_03574	ROG2320	
+DAHLBGMF_03575	COG1898	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+DAHLBGMF_03576	COG1004	[M] Predicted UDP-glucose 6-dehydrogenase   
+DAHLBGMF_03578	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+DAHLBGMF_03579	COG0560	[E] Phosphoserine phosphatase    
+DAHLBGMF_03581	COG0450	[O] Peroxiredoxin     
+DAHLBGMF_03583	COG0013	[J] Alanyl-tRNA synthetase    
+DAHLBGMF_03584	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03585	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03587	COG1225	[O] Peroxiredoxin     
+DAHLBGMF_03588	COG0500	[QR] SAM-dependent methyltransferases    
+DAHLBGMF_03591	COG0346	[E] Lactoylglutathione lyase and related lyases 
+DAHLBGMF_03595	COG1741	[R] Pirin-related protein    
+DAHLBGMF_03596	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+DAHLBGMF_03598	ROG0103	
+DAHLBGMF_03599	ROG0103	
+DAHLBGMF_03600	COG1890	[J] Ribosomal protein S3AE   
+DAHLBGMF_03601	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03602	ROG2252	
+DAHLBGMF_03603	COG1738	[S] Uncharacterized conserved protein   
+DAHLBGMF_03604	COG0603	[R] Predicted PP-loop superfamily ATPase  
+DAHLBGMF_03605	COG0780	[R] Enzyme related to GTP cyclohydrolase I
+DAHLBGMF_03606	COG1576	[S] Uncharacterized conserved protein   
+DAHLBGMF_03608	COG0157	[H] Nicotinate-nucleotide pyrophosphorylase    
+DAHLBGMF_03609	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03610	ROG3116	
+DAHLBGMF_03611	ROG3584	
+DAHLBGMF_03613	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+DAHLBGMF_03614	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+DAHLBGMF_03616	ROG7449	
+DAHLBGMF_03618	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_03619	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+DAHLBGMF_03620	ROG0722	
+DAHLBGMF_03621	COG0562	[M] UDP-galactopyranose mutase    
+DAHLBGMF_03623	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_03624	ROG3098	
+DAHLBGMF_03625	ROG7278	
+DAHLBGMF_03626	ROG0362	
+DAHLBGMF_03627	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+DAHLBGMF_03628	COG4690	[E] Dipeptidase     
+DAHLBGMF_03629	COG1109	[G] Phosphomannomutase     
+DAHLBGMF_03630	COG2816	[L] NTP pyrophosphohydrolases containing a Zn-finger, probably
+DAHLBGMF_03631	COG0488	[R] ATPase components of ABC transporters with
+DAHLBGMF_03632	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+DAHLBGMF_03634	COG0295	[F] Cytidine deaminase    
+DAHLBGMF_03635	COG1705	[NU] Muramidase (flagellum-specific)    
+DAHLBGMF_03636	COG0845	[M] Membrane-fusion protein    
+DAHLBGMF_03637	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+DAHLBGMF_03638	ROG0121	
+DAHLBGMF_03639	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+DAHLBGMF_03641	ROG3774	
+DAHLBGMF_03642	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_03643	COG2972	[T] Predicted signal transduction protein with a
+DAHLBGMF_03644	ROG5552	
+DAHLBGMF_03645	COG2246	[S] Predicted membrane protein   
+DAHLBGMF_03646	COG1530	[J] Ribonucleases G and E  
+DAHLBGMF_03647	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+DAHLBGMF_03648	COG1194	[L] A/G-specific DNA glycosylase   
+DAHLBGMF_03649	COG0629	[L] Single-stranded DNA-binding protein   
+DAHLBGMF_03650	COG1253	[R] Hemolysins and related proteins containing CBS
+DAHLBGMF_03651	ROG4923	
+DAHLBGMF_03653	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_03654	COG4206	[H] Outer membrane cobalamin receptor protein 
+DAHLBGMF_03656	ROG6090	
+DAHLBGMF_03658	COG0488	[R] ATPase components of ABC transporters with
+DAHLBGMF_03659	COG1387	[ER] Histidinol phosphatase and related hydrolases of
+DAHLBGMF_03660	COG3550	[R] Uncharacterized protein related to capsule biosynthesis
+DAHLBGMF_03661	COG1396	[K] Predicted transcriptional regulators   
+DAHLBGMF_03662	COG2407	[G] L-fucose isomerase and related proteins 
+DAHLBGMF_03663	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+DAHLBGMF_03664	COG4591	[M] ABC-type transport system, involved in lipoprotein
+DAHLBGMF_03665	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+DAHLBGMF_03666	COG0628	[R] Predicted permease    
+DAHLBGMF_03668	COG2186	[K] Transcriptional regulators    
+DAHLBGMF_03669	COG3055	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03670	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+DAHLBGMF_03671	COG4409	[G] Neuraminidase (sialidase)    
+DAHLBGMF_03673	ROG7278	
+DAHLBGMF_03674	ROG3098	
+DAHLBGMF_03675	COG4409	[G] Neuraminidase (sialidase)    
+DAHLBGMF_03676	COG3291	[R] FOG: PKD repeat   
+DAHLBGMF_03678	COG1690	[S] Uncharacterized conserved protein   
+DAHLBGMF_03679	ROG2006	
+DAHLBGMF_03680	COG4639	[R] Predicted kinase    
+DAHLBGMF_03681	COG0132	[H] Dethiobiotin synthetase    
+DAHLBGMF_03682	COG0500	[QR] SAM-dependent methyltransferases    
+DAHLBGMF_03683	COG2830	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03684	COG0156	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+DAHLBGMF_03685	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+DAHLBGMF_03687	COG5433	[L] Transposase     
+DAHLBGMF_03689	COG0477	[GEPR] Permeases of the major facilitator superfamily
+DAHLBGMF_03690	COG3105	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03691	COG1609	[K] Transcriptional regulators    
+DAHLBGMF_03692	COG1028	[IQR] Dehydrogenases with different specificities (related to
+DAHLBGMF_03693	COG1312	[G] D-mannonate dehydratase    
+DAHLBGMF_03694	COG0847	[L] DNA polymerase III, epsilon subunit and
+DAHLBGMF_03697	ROG4150	
+DAHLBGMF_03698	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_03699	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+DAHLBGMF_03700	COG0655	[R] Multimeric flavodoxin WrbA   
+DAHLBGMF_03701	COG1237	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+DAHLBGMF_03702	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_03703	COG2364	[S] Predicted membrane protein   
+DAHLBGMF_03705	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_03706	COG1154	[HI] Deoxyxylulose-5-phosphate synthase    
+DAHLBGMF_03707	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+DAHLBGMF_03709	COG3546	[P] Mn-containing catalase    
+DAHLBGMF_03711	ROG4466	
+DAHLBGMF_03713	COG2261	[S] Predicted membrane protein   
+DAHLBGMF_03714	COG3105	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03715	ROG8137	
+DAHLBGMF_03716	COG1295	[S] Predicted membrane protein   
+DAHLBGMF_03718	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+DAHLBGMF_03719	COG3831	[S] Uncharacterized conserved protein   
+DAHLBGMF_03720	ROG6979	
+DAHLBGMF_03721	COG3119	[P] Arylsulfatase A and related enzymes 
+DAHLBGMF_03722	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+DAHLBGMF_03723	COG0535	[R] Predicted Fe-S oxidoreductases   
+DAHLBGMF_03726	COG0788	[F] Formyltetrahydrofolate hydrolase    
+DAHLBGMF_03727	COG0118	[E] Glutamine amidotransferase    
+DAHLBGMF_03728	COG0106	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+DAHLBGMF_03729	COG0107	[E] Imidazoleglycerol-phosphate synthase    
+DAHLBGMF_03730	COG0139	[E] Phosphoribosyl-AMP cyclohydrolase    
+DAHLBGMF_03731	COG2884	[D] Predicted ATPase involved in cell division
+DAHLBGMF_03732	COG0527	[E] Aspartokinases     
+DAHLBGMF_03733	COG0019	[E] Diaminopimelate decarboxylase    
+DAHLBGMF_03734	COG1528	[P] Ferritin-like protein    
+DAHLBGMF_03735	ROG0330	
+DAHLBGMF_03736	COG0156	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+DAHLBGMF_03737	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+DAHLBGMF_03739	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+DAHLBGMF_03740	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+DAHLBGMF_03741	ROG1604	
+DAHLBGMF_03743	ROG1187	
+DAHLBGMF_03744	COG0592	[L] DNA polymerase sliding clamp subunit (PCNA
+DAHLBGMF_03745	COG0847	[L] DNA polymerase III, epsilon subunit and
+DAHLBGMF_03746	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+DAHLBGMF_03747	COG0497	[L] ATPase involved in DNA repair 
+DAHLBGMF_03748	COG0566	[J] rRNA methylases    
+DAHLBGMF_03749	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_03750	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03751	COG0250	[K] Transcription antiterminator    
+DAHLBGMF_03752	COG1596	[M] Periplasmic protein involved in polysaccharide export
+DAHLBGMF_03753	ROG8224	
+DAHLBGMF_03754	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+DAHLBGMF_03756	ROG7558	
+DAHLBGMF_03757	COG5039	[GM] Exopolysaccharide biosynthesis protein   
+DAHLBGMF_03758	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_03759	COG3774	[M] Mannosyltransferase OCH1 and related enzymes 
+DAHLBGMF_03760	COG3307	[M] Lipid A core - O-antigen ligase
+DAHLBGMF_03761	COG1216	[R] Predicted glycosyltransferases    
+DAHLBGMF_03762	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_03763	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_03764	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03767	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+DAHLBGMF_03768	COG0285	[H] Folylpolyglutamate synthase    
+DAHLBGMF_03769	COG1875	[T] Predicted ATPase related to phosphate starvation-inducible
+DAHLBGMF_03770	COG0167	[F] Dihydroorotate dehydrogenase    
+DAHLBGMF_03771	COG0325	[R] Predicted enzyme with a TIM-barrel fold
+DAHLBGMF_03772	ROG3292	
+DAHLBGMF_03773	COG2077	[O] Peroxiredoxin     
+DAHLBGMF_03774	COG0586	[S] Uncharacterized membrane-associated protein   
+DAHLBGMF_03775	COG0457	[R] FOG: TPR repeat   
+DAHLBGMF_03776	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+DAHLBGMF_03778	COG0307	[H] Riboflavin synthase alpha chain  
+DAHLBGMF_03779	COG0778	[C] Nitroreductase     
+DAHLBGMF_03782	COG1295	[S] Predicted membrane protein   
+DAHLBGMF_03783	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+DAHLBGMF_03784	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+DAHLBGMF_03785	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+DAHLBGMF_03786	ROG0079	
+DAHLBGMF_03787	COG2811	[C] Archaeal/vacuolar-type H+-ATPase subunit H  
+DAHLBGMF_03788	ROG1112	
+DAHLBGMF_03790	COG0668	[M] Small-conductance mechanosensitive channel   
+DAHLBGMF_03791	COG0783	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+DAHLBGMF_03792	COG0583	[K] Transcriptional regulator    
+DAHLBGMF_03793	COG0580	[G] Glycerol uptake facilitator and related permeases
+DAHLBGMF_03794	ROG2458	
+DAHLBGMF_03795	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03796	ROG3116	
+DAHLBGMF_03797	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+DAHLBGMF_03798	COG3712	[PT] Fe2+-dicitrate sensor, membrane component  
+DAHLBGMF_03799	ROG3457	
+DAHLBGMF_03800	ROG7278	
+DAHLBGMF_03801	COG3391	[S] Uncharacterized conserved protein   
+DAHLBGMF_03802	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+DAHLBGMF_03803	COG2271	[G] Sugar phosphate permease   
+DAHLBGMF_03804	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+DAHLBGMF_03805	COG1882	[C] Pyruvate-formate lyase    
+DAHLBGMF_03808	COG0847	[L] DNA polymerase III, epsilon subunit and
+DAHLBGMF_03809	ROG1707	
+DAHLBGMF_03810	ROG8234	
+DAHLBGMF_03811	ROG2689	
+DAHLBGMF_03814	COG4804	[S] Uncharacterized conserved protein   
+DAHLBGMF_03815	ROG4978	
+DAHLBGMF_03817	ROG5478	
+DAHLBGMF_03818	ROG6464	
+DAHLBGMF_03819	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+DAHLBGMF_03821	ROG1942	
+DAHLBGMF_03822	COG4060	[H] Tetrahydromethanopterin S-methyltransferase, subunit D  
+DAHLBGMF_03825	COG4974	[L] Site-specific recombinase XerD   
+DAHLBGMF_03826	COG1309	[K] Transcriptional regulator    
+DAHLBGMF_03827	ROG3185	
+DAHLBGMF_03828	COG5434	[M] Endopolygalacturonase     
+DAHLBGMF_03833	COG3599	[D] Cell division initiation protein  
+DAHLBGMF_03834	ROG2461	
+DAHLBGMF_03835	COG1155	[C] Archaeal/vacuolar-type H+-ATPase subunit A  
+DAHLBGMF_03836	COG1156	[C] Archaeal/vacuolar-type H+-ATPase subunit B  
+DAHLBGMF_03837	COG1394	[C] Archaeal/vacuolar-type H+-ATPase subunit D  
+DAHLBGMF_03838	COG1269	[C] Archaeal/vacuolar-type H+-ATPase subunit I  
+DAHLBGMF_03839	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+DAHLBGMF_03840	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_03841	COG0058	[G] Glucan phosphorylase    
+DAHLBGMF_03842	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+DAHLBGMF_03843	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+DAHLBGMF_03844	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+DAHLBGMF_03845	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+DAHLBGMF_03846	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+DAHLBGMF_03847	COG4912	[L] Predicted DNA alkylation repair enzyme 
+DAHLBGMF_03848	COG3547	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03849	COG0738	[G] Fucose permease    
+DAHLBGMF_03850	ROG1993	
+DAHLBGMF_03851	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+DAHLBGMF_03853	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+DAHLBGMF_03854	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+DAHLBGMF_03855	COG0228	[J] Ribosomal protein S16   
+DAHLBGMF_03856	COG1757	[C] Na+/H+ antiporter    
+DAHLBGMF_03859	COG4452	[V] Inner membrane protein involved in colicin
+DAHLBGMF_03860	COG1695	[K] Predicted transcriptional regulators   
+DAHLBGMF_03861	ROG6729	
+DAHLBGMF_03862	ROG3457	
+DAHLBGMF_03863	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03864	COG3710	[K] DNA-binding winged-HTH domains   
+DAHLBGMF_03872	ROG4334	
+DAHLBGMF_03880	COG0681	[U] Signal peptidase I   
+DAHLBGMF_03881	COG3307	[M] Lipid A core - O-antigen ligase
+DAHLBGMF_03883	ROG6780	
+DAHLBGMF_03885	COG1566	[V] Multidrug resistance efflux pump  
+DAHLBGMF_03886	COG3696	[P] Putative silver efflux pump  
+DAHLBGMF_03887	ROG5590	
+DAHLBGMF_03888	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_03889	COG2721	[G] Altronate dehydratase    
+DAHLBGMF_03890	COG1609	[K] Transcriptional regulators    
+DAHLBGMF_03891	COG0524	[G] Sugar kinases, ribokinase family  
+DAHLBGMF_03892	ROG0717	
+DAHLBGMF_03893	COG0800	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+DAHLBGMF_03894	COG2985	[R] Predicted permease    
+DAHLBGMF_03896	ROG3706	
+DAHLBGMF_03897	COG0053	[P] Predicted Co/Zn/Cd cation transporters  
+DAHLBGMF_03898	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+DAHLBGMF_03899	ROG1736	
+DAHLBGMF_03900	COG2197	[TK] Response regulator containing a CheY-like receiver
+DAHLBGMF_03901	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+DAHLBGMF_03902	COG0159	[E] Tryptophan synthase alpha chain  
+DAHLBGMF_03903	COG0135	[E] Phosphoribosylanthranilate isomerase    
+DAHLBGMF_03904	COG0134	[E] Indole-3-glycerol phosphate synthase   
+DAHLBGMF_03905	COG0547	[E] Anthranilate phosphoribosyltransferase    
+DAHLBGMF_03906	COG0512	[EH] Anthranilate/para-aminobenzoate synthases component II  
+DAHLBGMF_03907	COG0147	[EH] Anthranilate/para-aminobenzoate synthases component I  
+DAHLBGMF_03908	COG0133	[E] Tryptophan synthase beta chain  
+DAHLBGMF_03910	COG3247	[S] Uncharacterized conserved protein   
+DAHLBGMF_03911	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03912	COG3666	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03913	COG3968	[R] Uncharacterized protein related to glutamine synthetase
+DAHLBGMF_03914	COG0004	[P] Ammonia permease    
+DAHLBGMF_03915	COG0347	[E] Nitrogen regulatory protein PII  
+DAHLBGMF_03916	ROG3201	
+DAHLBGMF_03917	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+DAHLBGMF_03918	COG0253	[E] Diaminopimelate epimerase    
+DAHLBGMF_03919	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+DAHLBGMF_03920	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+DAHLBGMF_03921	COG0493	[ER] NADPH-dependent glutamate synthase beta chain and
+DAHLBGMF_03922	COG0069	[E] Glutamate synthase domain 2  
+DAHLBGMF_03923	COG0449	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+DAHLBGMF_03924	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+DAHLBGMF_03925	COG0505	[EF] Carbamoylphosphate synthase small subunit  
+DAHLBGMF_03926	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+DAHLBGMF_03927	COG0836	[M] Mannose-1-phosphate guanylyltransferase    
+DAHLBGMF_03928	COG1396	[K] Predicted transcriptional regulators   
+DAHLBGMF_03929	ROG3280	
+DAHLBGMF_03930	COG2872	[R] Predicted metal-dependent hydrolases related to alanyl-tRNA
+DAHLBGMF_03932	COG2949	[S] Uncharacterized membrane protein   
+DAHLBGMF_03933	COG2755	[E] Lysophospholipase L1 and related esterases 
+DAHLBGMF_03934	COG0556	[L] Helicase subunit of the DNA excision
+DAHLBGMF_03935	COG1541	[H] Coenzyme F390 synthetase   
+DAHLBGMF_03936	COG4747	[R] ACT domain-containing protein   
+DAHLBGMF_03937	COG1729	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_03938	ROG1920	
+DAHLBGMF_03939	ROG2176	
+DAHLBGMF_03940	ROG3116	
+DAHLBGMF_03941	COG1388	[M] FOG: LysM repeat   
+DAHLBGMF_03942	COG0178	[L] Excinuclease ATPase subunit   
+DAHLBGMF_03943	COG2606	[S] Uncharacterized conserved protein   
+DAHLBGMF_03944	COG3104	[E] Dipeptide/tripeptide permease    
+DAHLBGMF_03945	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+DAHLBGMF_03946	COG1695	[K] Predicted transcriptional regulators   
+DAHLBGMF_03947	COG1983	[KT] Putative stress-responsive transcriptional regulator  
+DAHLBGMF_03948	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+DAHLBGMF_03949	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_03950	COG0706	[U] Preprotein translocase subunit YidC  
+DAHLBGMF_03951	COG0504	[F] CTP synthase (UTP-ammonia lyase)  
+DAHLBGMF_03952	ROG2050	
+DAHLBGMF_03953	COG0250	[K] Transcription antiterminator    
+DAHLBGMF_03954	COG1596	[M] Periplasmic protein involved in polysaccharide export
+DAHLBGMF_03955	ROG8224	
+DAHLBGMF_03956	COG1213	[M] Predicted sugar nucleotidyltransferases   
+DAHLBGMF_03957	ROG3954	
+DAHLBGMF_03958	ROG0303	
+DAHLBGMF_03959	COG2244	[R] Membrane protein involved in the export
+DAHLBGMF_03960	COG2843	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+DAHLBGMF_03961	COG3475	[M] LPS biosynthesis protein   
+DAHLBGMF_03962	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_03964	COG0438	[M] Glycosyltransferase     
+DAHLBGMF_03966	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03967	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+DAHLBGMF_03968	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03969	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_03970	ROG0197	
+DAHLBGMF_03971	ROG3639	
+DAHLBGMF_03974	COG3415	[L] Transposase and inactivated derivatives  
+DAHLBGMF_03977	ROG7566	
+DAHLBGMF_03978	ROG1384	
+DAHLBGMF_03983	ROG3457	
+DAHLBGMF_03984	ROG3457	
+DAHLBGMF_03985	ROG5959	
+DAHLBGMF_03986	COG2878	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+DAHLBGMF_03987	COG4656	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfC 
+DAHLBGMF_03988	COG4658	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfD 
+DAHLBGMF_03989	COG4659	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfG 
+DAHLBGMF_03990	COG4660	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfE 
+DAHLBGMF_03991	COG4657	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfA 
+DAHLBGMF_03992	COG1087	[M] UDP-glucose 4-epimerase    
+DAHLBGMF_03994	COG1947	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+DAHLBGMF_03995	COG0305	[L] Replicative DNA helicase   
+DAHLBGMF_03996	COG0072	[J] Phenylalanyl-tRNA synthetase beta subunit  
+DAHLBGMF_03997	COG0217	[S] Uncharacterized conserved protein   
+DAHLBGMF_03998	ROG0572	
+DAHLBGMF_03999	COG1914	[P] Mn2+ and Fe2+ transporters of the
+DAHLBGMF_04000	COG0432	[S] Uncharacterized conserved protein   
+DAHLBGMF_04001	ROG0040	
+DAHLBGMF_04004	COG0481	[M] Membrane GTPase LepA   
+DAHLBGMF_04005	COG3004	[P] Na+/H+ antiporter    
+DAHLBGMF_04006	COG1322	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_04007	COG0024	[J] Methionine aminopeptidase    
+DAHLBGMF_04011	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+DAHLBGMF_04013	COG0433	[R] Predicted ATPase    
+DAHLBGMF_04016	COG1583	[L] Uncharacterized protein predicted to be involved
+DAHLBGMF_04017	ROG6597	
+DAHLBGMF_04018	COG3339	[S] Uncharacterized conserved protein   
+DAHLBGMF_04019	ROG4097	
+DAHLBGMF_04020	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+DAHLBGMF_04022	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+DAHLBGMF_04023	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_04024	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+DAHLBGMF_04025	COG0606	[O] Predicted ATPase with chaperone activity 
+DAHLBGMF_04026	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_04030	COG2425	[R] Uncharacterized protein containing a von Willebrand
+DAHLBGMF_04032	COG1032	[C] Fe-S oxidoreductase    
+DAHLBGMF_04037	COG3436	[L] Transposase and inactivated derivatives  
+DAHLBGMF_04038	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+DAHLBGMF_04039	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+DAHLBGMF_04040	COG0574	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+DAHLBGMF_04041	COG4584	[L] Transposase and inactivated derivatives  
+DAHLBGMF_04042	COG1484	[L] DNA replication protein   
+DAHLBGMF_04043	COG0631	[T] Serine/threonine protein phosphatase   
+DAHLBGMF_04044	COG4849	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_04045	COG4861	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_04046	COG0358	[L] DNA primase (bacterial type)  
+DAHLBGMF_04047	COG2452	[L] Predicted site-specific integrase-resolvase   
+DAHLBGMF_04048	ROG5478	
+DAHLBGMF_04050	COG3093	[R] Plasmid maintenance system antidote protein 
+DAHLBGMF_04051	COG4430	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_04052	ROG6808	
+DAHLBGMF_04053	ROG3116	
+DAHLBGMF_04054	COG0352	[H] Thiamine monophosphate synthase   
+DAHLBGMF_04055	COG0476	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+DAHLBGMF_04057	COG0422	[H] Thiamine biosynthesis protein ThiC  
+DAHLBGMF_04058	COG2022	[H] Uncharacterized enzyme of thiazole biosynthesis 
+DAHLBGMF_04060	COG0352	[H] Thiamine monophosphate synthase   
+DAHLBGMF_04061	COG2104	[H] Sulfur transfer protein involved in thiamine
+DAHLBGMF_04062	COG0605	[P] Superoxide dismutase    
+DAHLBGMF_04064	COG0210	[L] Superfamily I DNA and RNA helicases
+DAHLBGMF_04065	ROG1869	
+DAHLBGMF_04066	COG5464	[S] Uncharacterized conserved protein   
+DAHLBGMF_04070	COG5294	[S] Uncharacterized protein conserved in bacteria 
+DAHLBGMF_04072	ROG4334	
+DAHLBGMF_04076	ROG4334	
+DAHLBGMF_04084	COG0681	[U] Signal peptidase I   
+DAHLBGMF_04085	COG3307	[M] Lipid A core - O-antigen ligase
+DAHLBGMF_04090	COG1566	[V] Multidrug resistance efflux pump  
+DAHLBGMF_04091	COG3696	[P] Putative silver efflux pump  
+DAHLBGMF_04092	ROG5590	
+DAHLBGMF_04093	COG0841	[V] Cation/multidrug efflux pump   
+DAHLBGMF_04094	COG2249	[R] Putative NADPH-quinone reductase (modulator of drug
+DAHLBGMF_04102	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+DAHLBGMF_04103	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+DAHLBGMF_04104	COG1022	[I] Long-chain acyl-CoA synthetases (AMP-forming)  
+DAHLBGMF_04105	COG3263	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+DAHLBGMF_04106	COG2233	[F] Xanthine/uracil permeases    
+DAHLBGMF_04107	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+DAHLBGMF_04109	ROG7551	
+DAHLBGMF_04110	COG1409	[R] Predicted phosphohydrolases    
+DAHLBGMF_04111	COG0534	[V] Na+-driven multidrug efflux pump  
+DAHLBGMF_04112	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+DAHLBGMF_04113	COG0413	[H] Ketopantoate hydroxymethyltransferase    
+DAHLBGMF_00917	ROG0004	
+DAHLBGMF_02727	ROG2938	

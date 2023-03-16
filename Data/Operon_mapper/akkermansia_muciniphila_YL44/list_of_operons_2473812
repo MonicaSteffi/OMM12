@@ -1,0 +1,3677 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	FBFCCOII_00001	CDS	COG0006	363	1646	+	[E] Xaa-Pro aminopeptidase    
+2
+	FBFCCOII_00002	CDS	COG0040	1712	2587	+	[E] ATP phosphoribosyltransferase    
+	FBFCCOII_00003	CDS	NA	2630	2734	+	NA
+3
+	FBFCCOII_00004	CDS	NA	2915	3400	+	NA
+	FBFCCOII_00005	CDS	COG2042	3410	4117	+	[S] Uncharacterized conserved protein   
+4
+	FBFCCOII_00006	CDS	NA	4346	6094	+	NA
+5
+	FBFCCOII_00007	CDS	COG0642	6201	7433	-	[T] Signal transduction histidine kinase  
+	FBFCCOII_00008	CDS	COG0745	7446	8150	-	[TK] Response regulators consisting of a CheY-like
+6
+	FBFCCOII_00009	CDS	COG0129	8421	10043	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+7
+	FBFCCOII_00010	CDS	COG4625	10722	14798	-	[S] Uncharacterized protein with a C-terminal OMP
+8
+	FBFCCOII_00011	CDS	COG0582	15111	16196	+	[L] Integrase     
+9
+	FBFCCOII_00012	CDS	COG1573	16255	17160	-	[L] Uracil-DNA glycosylase    
+10
+	FBFCCOII_00013	CDS	COG1060	17361	18497	+	[HR] Thiamine biosynthesis enzyme ThiH and related
+11
+	FBFCCOII_00014	CDS	COG1368	18601	20487	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+12
+	FBFCCOII_00015	CDS	ROG3244	20549	21706	-	NA
+13
+	FBFCCOII_00016	CDS	ROG0301	21899	24289	+	NA
+14
+	FBFCCOII_00017	CDS	ROG2045	24537	25910	-	NA
+	FBFCCOII_00018	CDS	NA	25928	26455	-	NA
+15
+	FBFCCOII_00019	CDS	COG1657	26604	28106	-	[I] Squalene cyclase    
+16
+	FBFCCOII_00020	CDS	ROG2587	28256	29779	-	NA
+17
+	FBFCCOII_00021	CDS	COG1087	30181	31170	-	[M] UDP-glucose 4-epimerase    
+18
+	FBFCCOII_00022	CDS	COG0030	31453	32832	+	[J] Dimethyladenosine transferase (rRNA methylation)  
+	FBFCCOII_00023	CDS	NA	32819	33280	+	NA
+19
+	FBFCCOII_00024	CDS	ROG5570	33472	33735	+	NA
+	FBFCCOII_00025	CDS	NA	33792	34613	+	NA
+20
+	FBFCCOII_00026	CDS	COG0534	34869	36164	-	[V] Na+-driven multidrug efflux pump  
+21
+	FBFCCOII_00027	CDS	COG0168	36344	38098	-	[P] Trk-type K+ transport systems, membrane components
+22
+	FBFCCOII_00028	tRNA	NA	38344	38430	+	NA
+23
+	FBFCCOII_00029	CDS	ROG0432	38540	38878	-	NA
+	FBFCCOII_00030	CDS	ROG4884	38892	39479	-	NA
+	FBFCCOII_00031	CDS	NA	39472	39669	-	NA
+24
+	FBFCCOII_00032	CDS	NA	39950	41203	+	NA
+	FBFCCOII_00033	CDS	NA	41193	42383	+	NA
+25
+	FBFCCOII_00034	CDS	NA	42549	43142	+	NA
+	FBFCCOII_00035	CDS	NA	43164	43967	+	NA
+	FBFCCOII_00036	CDS	COG0438	44001	45044	+	[M] Glycosyltransferase     
+	FBFCCOII_00037	CDS	ROG0280	45041	45826	+	NA
+	FBFCCOII_00038	CDS	NA	45856	47544	+	NA
+26
+	FBFCCOII_00039	CDS	COG3209	47665	53454	+	[M] Rhs family protein   
+27
+	FBFCCOII_00040	CDS	NA	53682	53843	+	NA
+	FBFCCOII_00041	CDS	COG3209	53901	54269	+	[M] Rhs family protein   
+28
+	FBFCCOII_00042	CDS	NA	54354	54524	+	NA
+29
+	FBFCCOII_00043	CDS	NA	55682	56278	+	NA
+30
+	FBFCCOII_00044	CDS	NA	56591	57220	+	NA
+31
+	FBFCCOII_00045	CDS	COG3209	57361	58554	+	[M] Rhs family protein   
+	FBFCCOII_00046	CDS	ROG0339	58551	58976	+	NA
+32
+	FBFCCOII_00047	CDS	COG3209	60433	62178	+	[M] Rhs family protein   
+33
+	FBFCCOII_00048	CDS	NA	62803	63153	+	NA
+34
+	FBFCCOII_00049	CDS	NA	63607	63879	+	NA
+35
+	FBFCCOII_00050	CDS	NA	64033	64611	+	NA
+36
+	FBFCCOII_00051	CDS	NA	64686	64847	+	NA
+37
+	FBFCCOII_00052	CDS	NA	65007	65204	+	NA
+	FBFCCOII_00053	CDS	NA	65201	65362	+	NA
+38
+	FBFCCOII_00054	CDS	NA	66317	66571	-	NA
+39
+	FBFCCOII_00055	CDS	NA	66677	66946	+	NA
+	FBFCCOII_00056	CDS	COG3209	66891	67361	+	[M] Rhs family protein   
+40
+	FBFCCOII_00057	CDS	NA	67661	68314	+	NA
+41
+	FBFCCOII_00058	CDS	COG3209	68497	69126	+	[M] Rhs family protein   
+42
+	FBFCCOII_00059	CDS	NA	69389	70342	+	NA
+43
+	FBFCCOII_00060	CDS	ROG4135	70600	70803	+	NA
+44
+	FBFCCOII_00061	CDS	NA	71383	71922	+	NA
+	FBFCCOII_00062	CDS	NA	71944	72456	+	NA
+45
+	FBFCCOII_00063	CDS	COG2060	72969	74675	+	[P] K+-transporting ATPase, A chain  
+	FBFCCOII_00064	CDS	COG2216	74760	76793	+	[P] High-affinity K+ transport system, ATPase chain
+	FBFCCOII_00065	CDS	COG2156	76813	77397	+	[P] K+-transporting ATPase, c chain  
+	FBFCCOII_00066	CDS	COG2205	77578	78705	+	[T] Osmosensitive K+ channel histidine kinase 
+46
+	FBFCCOII_00067	CDS	NA	78749	79039	-	NA
+47
+	FBFCCOII_00068	CDS	COG1262	79057	80043	+	[S] Uncharacterized conserved protein   
+48
+	FBFCCOII_00069	CDS	ROG5716	80202	80414	+	NA
+49
+	FBFCCOII_00070	CDS	COG1235	80580	81419	+	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+	FBFCCOII_00071	CDS	COG1595	81445	82041	+	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	FBFCCOII_00072	CDS	COG0515	82038	84341	+	[RTKL] Serine/threonine protein kinase   
+50
+	FBFCCOII_00073	CDS	COG0667	84611	85759	+	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+51
+	FBFCCOII_00074	CDS	COG0789	85987	86451	-	[K] Predicted transcriptional regulators   
+52
+	FBFCCOII_00075	CDS	COG2008	86659	87723	+	[E] Threonine aldolase    
+53
+	FBFCCOII_00076	CDS	COG0497	87838	89148	+	[L] ATPase involved in DNA repair 
+54
+	FBFCCOII_00077	CDS	COG2304	89141	91720	-	[R] Uncharacterized protein containing a von Willebrand
+	FBFCCOII_00078	CDS	ROG4007	91717	93444	-	NA
+	FBFCCOII_00079	CDS	COG1721	93473	94342	-	[R] Uncharacterized conserved protein (some members contain
+	FBFCCOII_00080	CDS	NA	94376	95824	-	NA
+	FBFCCOII_00081	CDS	COG4555	95821	96828	-	[CP] ABC-type Na+ transport system, ATPase component
+	FBFCCOII_00082	CDS	ROG5571	96831	98414	-	NA
+	FBFCCOII_00083	CDS	COG0714	98439	99527	-	[R] MoxR-like ATPases    
+55
+	FBFCCOII_00084	CDS	COG2311	99632	100882	+	[S] Predicted membrane protein   
+56
+	FBFCCOII_00085	CDS	NA	101057	101254	+	NA
+	FBFCCOII_00086	CDS	NA	101268	102254	+	NA
+57
+	FBFCCOII_00087	CDS	NA	102381	103016	+	NA
+58
+	FBFCCOII_00088	CDS	NA	103055	104107	-	NA
+59
+	FBFCCOII_00089	CDS	COG1090	104368	105237	+	[R] Predicted nucleoside-diphosphate sugar epimerase  
+	FBFCCOII_00090	CDS	COG3040	105234	105743	+	[M] Bacterial lipocalin    
+60
+	FBFCCOII_00091	CDS	COG0059	106111	107091	+	[EH] Ketol-acid reductoisomerase    
+	FBFCCOII_00092	CDS	COG1119	107191	107988	+	[P] ABC-type molybdenum transport system, ATPase component/photorepair
+	FBFCCOII_00093	CDS	COG2186	107995	108690	+	[K] Transcriptional regulators    
+61
+	FBFCCOII_00094	CDS	ROG5921	108881	109567	+	NA
+62
+	FBFCCOII_00095	CDS	COG3119	109825	111222	+	[P] Arylsulfatase A and related enzymes 
+63
+	FBFCCOII_00096	CDS	ROG1127	111338	111706	-	NA
+	FBFCCOII_00097	CDS	COG0148	111735	113030	-	[G] Enolase     
+64
+	FBFCCOII_00098	CDS	COG0436	113383	114690	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+65
+	FBFCCOII_00099	CDS	COG1477	115135	116079	+	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	FBFCCOII_00100	CDS	ROG1046	116103	117704	+	NA
+66
+	FBFCCOII_00101	CDS	NA	118043	118267	-	NA
+67
+	FBFCCOII_00102	CDS	COG0227	118467	118730	-	[J] Ribosomal protein L28   
+68
+	FBFCCOII_00103	CDS	COG0604	119184	120185	+	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+69
+	FBFCCOII_00104	CDS	COG0816	120528	120953	-	[L] Predicted endonuclease involved in recombination (possible
+	FBFCCOII_00105	CDS	COG0836	120950	122008	-	[M] Mannose-1-phosphate guanylyltransferase    
+	FBFCCOII_00106	CDS	COG0020	122041	122757	-	[I] Undecaprenyl pyrophosphate synthase   
+	FBFCCOII_00107	CDS	COG0187	122780	124621	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+70
+	FBFCCOII_00108	CDS	COG1947	124746	125594	+	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+71
+	FBFCCOII_00109	CDS	ROG7318	125682	126224	+	NA
+	FBFCCOII_00110	CDS	COG1199	126246	128231	+	[KL] Rad3-related DNA helicases   
+72
+	FBFCCOII_00111	CDS	COG1122	128239	129009	-	[P] ABC-type cobalt transport system, ATPase component
+	FBFCCOII_00112	CDS	COG0619	129006	129818	-	[P] ABC-type cobalt transport system, permease component
+	FBFCCOII_00113	CDS	COG0310	129827	130870	-	[P] ABC-type Co2+ transport system, permease component
+73
+	FBFCCOII_00114	CDS	NA	131203	131487	+	NA
+74
+	FBFCCOII_00115	CDS	NA	131504	131869	-	NA
+	FBFCCOII_00116	CDS	COG0548	131882	132775	-	[E] Acetylglutamate kinase    
+	FBFCCOII_00117	CDS	COG0598	132838	133830	-	[P] Mg2+ and Co2+ transporters  
+75
+	FBFCCOII_00118	CDS	COG0359	134000	134455	-	[J] Ribosomal protein L9   
+76
+	FBFCCOII_00119	CDS	COG0138	134701	136248	+	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+	FBFCCOII_00120	CDS	COG0854	136288	137028	+	[H] Pyridoxal phosphate biosynthesis protein  
+	FBFCCOII_00121	CDS	COG0736	137063	137449	+	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+77
+	FBFCCOII_00122	CDS	ROG4985	137505	138254	-	NA
+78
+	FBFCCOII_00123	CDS	COG1274	138537	140447	-	[C] Phosphoenolpyruvate carboxykinase (GTP)   
+79
+	FBFCCOII_00124	CDS	COG5632	140619	141290	+	[M] N-acetylmuramoyl-L-alanine amidase    
+	FBFCCOII_00125	CDS	COG1200	141304	143403	+	[LK] RecG-like helicase    
+80
+	FBFCCOII_00126	CDS	ROG2644	143541	143984	+	NA
+81
+	FBFCCOII_00127	CDS	COG0437	144092	146965	-	[C] Fe-S-cluster-containing hydrogenase components 1  
+82
+	FBFCCOII_00128	CDS	ROG0241	147339	148043	-	NA
+	FBFCCOII_00129	CDS	COG0673	148075	149280	-	[R] Predicted dehydrogenases and related proteins 
+83
+	FBFCCOII_00130	CDS	NA	149650	150066	+	NA
+84
+	FBFCCOII_00131	CDS	COG0337	150283	151395	-	[E] 3-dehydroquinate synthetase    
+85
+	FBFCCOII_00132	CDS	ROG4016	151471	152034	-	NA
+86
+	FBFCCOII_00133	tRNA	NA	154478	154553	+	NA
+	FBFCCOII_00134	tRNA	NA	154578	154654	+	NA
+87
+	FBFCCOII_00135	CDS	ROG4510	158195	160753	+	NA
+88
+	FBFCCOII_00136	CDS	NA	160908	161381	-	NA
+89
+	FBFCCOII_00137	CDS	COG1297	161756	163633	-	[S] Predicted membrane protein   
+90
+	FBFCCOII_00138	CDS	NA	163736	164530	+	NA
+91
+	FBFCCOII_00139	CDS	COG0810	164653	165426	+	[M] Periplasmic protein TonB, links inner and
+	FBFCCOII_00140	CDS	COG1227	165448	167139	+	[C] Inorganic pyrophosphatase/exopolyphosphatase    
+92
+	FBFCCOII_00141	CDS	ROG7852	167218	168258	-	NA
+	FBFCCOII_00142	CDS	COG0718	168271	168585	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_00143	CDS	COG2812	168614	170812	-	[L] DNA polymerase III, gamma/tau subunits 
+93
+	FBFCCOII_00144	CDS	ROG2474	171032	171808	+	NA
+	FBFCCOII_00145	CDS	COG1729	171856	172671	+	[S] Uncharacterized protein conserved in bacteria 
+94
+	FBFCCOII_00146	tRNA	NA	173033	173125	+	NA
+95
+	FBFCCOII_00147	CDS	COG2003	173210	173950	-	[L] DNA repair proteins   
+	FBFCCOII_00148	CDS	COG0063	173952	175442	-	[G] Predicted sugar kinase   
+96
+	FBFCCOII_00149	CDS	COG0361	175536	175694	-	[J] Translation initiation factor 1 (IF-1) 
+97
+	FBFCCOII_00150	CDS	COG0102	176289	176717	+	[J] Ribosomal protein L13   
+	FBFCCOII_00151	CDS	COG0103	176732	177127	+	[J] Ribosomal protein S9   
+98
+	FBFCCOII_00152	CDS	COG1576	177358	177795	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_00153	CDS	COG0322	177802	179298	-	[L] Nuclease subunit of the excinuclease complex
+99
+	FBFCCOII_00154	CDS	COG0811	179482	180273	+	[U] Biopolymer transport proteins   
+	FBFCCOII_00155	CDS	COG0848	180313	180759	+	[U] Biopolymer transport protein   
+	FBFCCOII_00156	CDS	ROG2778	180756	183188	+	NA
+	FBFCCOII_00157	CDS	COG0744	183213	185006	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+	FBFCCOII_00158	CDS	COG0483	185035	185799	+	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+	FBFCCOII_00159	CDS	COG0245	185826	186335	+	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+100
+	FBFCCOII_00160	CDS	COG5632	186583	187314	-	[M] N-acetylmuramoyl-L-alanine amidase    
+101
+	FBFCCOII_00161	CDS	COG1482	187462	188382	-	[G] Phosphomannose isomerase    
+102
+	FBFCCOII_00162	CDS	NA	188484	189728	-	NA
+103
+	FBFCCOII_00163	CDS	COG1757	189839	191164	-	[C] Na+/H+ antiporter    
+	FBFCCOII_00164	CDS	COG0451	191191	192279	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+	FBFCCOII_00165	CDS	COG1089	192281	193348	-	[M] GDP-D-mannose dehydratase    
+	FBFCCOII_00166	CDS	NA	193357	193512	-	NA
+	FBFCCOII_00167	CDS	COG0505	193502	194620	-	[EF] Carbamoylphosphate synthase small subunit  
+	FBFCCOII_00168	CDS	COG0458	194652	197855	-	[EF] Carbamoylphosphate synthase large subunit (split gene
+	FBFCCOII_00169	CDS	COG3968	198108	200243	-	[R] Uncharacterized protein related to glutamine synthetase
+104
+	FBFCCOII_00170	CDS	COG0069	200642	205081	+	[E] Glutamate synthase domain 2  
+105
+	FBFCCOII_00171	CDS	COG0706	205771	207657	-	[U] Preprotein translocase subunit YidC  
+	FBFCCOII_00172	CDS	COG0759	207714	207962	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_00173	CDS	COG0594	207959	208306	-	[J] RNase P protein component  
+	FBFCCOII_00174	CDS	COG0230	208395	208580	-	[J] Ribosomal protein L34   
+106
+	FBFCCOII_00175	CDS	COG3968	208791	210902	-	[R] Uncharacterized protein related to glutamine synthetase
+107
+	FBFCCOII_00176	CDS	COG2755	211312	213489	+	[E] Lysophospholipase L1 and related esterases 
+	FBFCCOII_00177	CDS	ROG3162	213517	215040	+	NA
+108
+	FBFCCOII_00178	CDS	COG0676	215252	216106	-	[G] Uncharacterized enzymes related to aldose 1-epimerase
+	FBFCCOII_00179	CDS	COG0259	216103	216741	-	[H] Pyridoxamine-phosphate oxidase    
+	FBFCCOII_00180	CDS	COG0157	216763	217626	-	[H] Nicotinate-nucleotide pyrophosphorylase    
+	FBFCCOII_00181	CDS	COG0142	217641	218534	-	[H] Geranylgeranyl pyrophosphate synthase   
+	FBFCCOII_00182	CDS	COG0136	218573	219583	-	[E] Aspartate-semialdehyde dehydrogenase    
+109
+	FBFCCOII_00183	CDS	ROG4985	219749	220435	-	NA
+110
+	FBFCCOII_00184	CDS	ROG5491	220924	221613	-	NA
+111
+	FBFCCOII_00185	CDS	COG1760	221715	223094	-	[E] L-serine deaminase    
+112
+	FBFCCOII_00186	CDS	COG0492	223165	224118	-	[O] Thioredoxin reductase    
+113
+	FBFCCOII_00187	CDS	NA	224562	225014	-	NA
+114
+	FBFCCOII_00188	CDS	ROG3447	225295	225903	+	NA
+115
+	FBFCCOII_00189	CDS	NA	226072	226908	-	NA
+116
+	FBFCCOII_00190	CDS	NA	227032	227895	-	NA
+117
+	FBFCCOII_00191	CDS	NA	228048	228959	-	NA
+	FBFCCOII_00192	CDS	ROG7565	228974	230020	-	NA
+	FBFCCOII_00193	CDS	NA	230041	231726	-	NA
+118
+	FBFCCOII_00194	CDS	COG0084	231908	232579	-	[L] Mg-dependent DNase    
+	FBFCCOII_00195	CDS	COG0475	232586	234313	-	[P] Kef-type K+ transport systems, membrane components
+	FBFCCOII_00196	CDS	COG1408	234332	235183	-	[R] Predicted phosphohydrolases    
+	FBFCCOII_00197	CDS	COG2309	235180	236289	-	[E] Leucyl aminopeptidase (aminopeptidase T)  
+119
+	FBFCCOII_00198	CDS	COG0299	236371	236958	+	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+120
+	FBFCCOII_00199	CDS	COG0545	237097	237930	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+121
+	FBFCCOII_00200	CDS	NA	238238	247285	+	NA
+122
+	FBFCCOII_00201	CDS	COG0187	247714	250272	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	FBFCCOII_00202	CDS	COG0188	250296	252917	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	FBFCCOII_00203	CDS	ROG0043	252944	253609	+	NA
+	FBFCCOII_00204	CDS	COG0826	253613	254884	+	[O] Collagenase and related proteases  
+123
+	FBFCCOII_00205	CDS	COG1262	255334	258879	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00206	CDS	COG3391	258894	260756	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00207	CDS	ROG1155	260771	261898	+	NA
+124
+	FBFCCOII_00208	CDS	ROG4687	261978	262361	+	NA
+125
+	FBFCCOII_00209	CDS	COG0704	262382	263056	-	[P] Phosphate uptake regulator   
+	FBFCCOII_00210	CDS	COG1117	263082	263861	-	[P] ABC-type phosphate transport system, ATPase component
+	FBFCCOII_00211	CDS	COG0581	263884	265638	-	[P] ABC-type phosphate transport system, permease component
+	FBFCCOII_00212	CDS	COG4590	265676	268030	-	[R] ABC-type uncharacterized transport system, permease component
+	FBFCCOII_00213	CDS	COG0226	268122	269138	-	[P] ABC-type phosphate transport system, periplasmic component
+126
+	FBFCCOII_00214	CDS	COG1117	269287	270069	+	[P] ABC-type phosphate transport system, ATPase component
+	FBFCCOII_00215	CDS	COG0704	270255	270902	+	[P] Phosphate uptake regulator   
+127
+	FBFCCOII_00216	CDS	COG2017	270987	271946	-	[G] Galactose mutarotase and related enzymes 
+	FBFCCOII_00217	CDS	COG3133	271982	272461	-	[M] Outer membrane lipoprotein   
+128
+	FBFCCOII_00218	CDS	COG1338	272607	272849	-	[NU] Flagellar biosynthesis pathway, component FliP 
+129
+	FBFCCOII_00219	CDS	COG0612	273088	275610	+	[R] Predicted Zn-dependent peptidases   
+130
+	FBFCCOII_00220	CDS	COG1639	275764	276390	+	[T] Predicted signal transduction protein  
+	FBFCCOII_00221	CDS	COG0110	276383	276952	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+131
+	FBFCCOII_00222	CDS	COG0778	276926	277240	-	[C] Nitroreductase     
+	FBFCCOII_00223	CDS	COG0697	277247	278152	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+	FBFCCOII_00224	CDS	COG0778	278163	278792	-	[C] Nitroreductase     
+132
+	FBFCCOII_00225	CDS	COG1533	278901	279836	-	[L] DNA repair photolyase   
+	FBFCCOII_00226	CDS	ROG0233	279833	280747	-	NA
+	FBFCCOII_00227	CDS	NA	280744	281205	-	NA
+133
+	FBFCCOII_00228	CDS	COG1664	281940	282260	-	[M] Integral membrane protein CcmA involved in
+	FBFCCOII_00229	CDS	COG0233	282285	282851	-	[J] Ribosome recycling factor   
+	FBFCCOII_00230	CDS	COG0528	282903	283628	-	[F] Uridylate kinase    
+134
+	FBFCCOII_00231	CDS	COG0668	283695	284588	-	[M] Small-conductance mechanosensitive channel   
+135
+	FBFCCOII_00232	CDS	COG0450	284875	285498	-	[O] Peroxiredoxin     
+136
+	FBFCCOII_00233	CDS	COG0733	285633	287342	+	[R] Na+-dependent transporters of the SNF family
+137
+	FBFCCOII_00234	CDS	ROG3293	287447	289006	+	NA
+	FBFCCOII_00235	CDS	COG0361	289021	289245	+	[J] Translation initiation factor 1 (IF-1) 
+138
+	FBFCCOII_00236	CDS	COG0353	289413	290021	-	[L] Recombinational DNA repair protein (RecF pathway)
+	FBFCCOII_00237	CDS	NA	290014	290463	-	NA
+139
+	FBFCCOII_00238	CDS	COG0304	290551	291798	-	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+140
+	FBFCCOII_00239	CDS	COG0229	292072	292623	-	[O] Conserved domain frequently associated with peptide
+141
+	FBFCCOII_00240	CDS	COG0389	292698	293777	-	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+142
+	FBFCCOII_00241	CDS	ROG5427	293964	295283	+	NA
+143
+	FBFCCOII_00242	CDS	ROG4985	296000	296845	+	NA
+144
+	FBFCCOII_00243	tRNA	NA	297110	297184	-	NA
+145
+	FBFCCOII_00244	CDS	COG0842	297337	298449	-	[V] ABC-type multidrug transport system, permease component
+	FBFCCOII_00245	CDS	COG0842	298454	299560	-	[V] ABC-type multidrug transport system, permease component
+	FBFCCOII_00246	CDS	COG1131	299557	301317	-	[V] ABC-type multidrug transport system, ATPase component
+	FBFCCOII_00247	CDS	COG1566	301314	302336	-	[V] Multidrug resistance efflux pump  
+146
+	FBFCCOII_00248	CDS	COG0013	302470	305298	+	[J] Alanyl-tRNA synthetase    
+	FBFCCOII_00249	CDS	COG1183	305331	306155	+	[I] Phosphatidylserine synthase    
+147
+	FBFCCOII_00250	CDS	NA	306426	306941	-	NA
+148
+	FBFCCOII_00251	CDS	COG0294	307006	307845	+	[H] Dihydropteroate synthase and related enzymes 
+	FBFCCOII_00252	CDS	COG4485	307853	310444	+	[S] Predicted membrane protein   
+149
+	FBFCCOII_00253	CDS	COG0821	310621	312378	+	[I] Enzyme involved in the deoxyxylulose pathway
+	FBFCCOII_00254	CDS	COG1028	312406	313056	+	[IQR] Dehydrogenases with different specificities (related to
+150
+	FBFCCOII_00255	CDS	ROG3882	313357	314544	+	NA
+151
+	FBFCCOII_00256	CDS	COG1073	314600	315883	-	[R] Hydrolases of the alpha/beta superfamily 
+152
+	FBFCCOII_00257	CDS	COG0304	316005	317180	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	FBFCCOII_00258	CDS	COG0156	317204	318367	+	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+153
+	FBFCCOII_00259	CDS	NA	318250	318507	-	NA
+154
+	FBFCCOII_00260	CDS	ROG7883	318620	319075	+	NA
+155
+	FBFCCOII_00261	CDS	NA	319989	320540	+	NA
+156
+	FBFCCOII_00262	CDS	COG0173	320757	322550	-	[J] Aspartyl-tRNA synthetase    
+	FBFCCOII_00263	CDS	COG0124	322585	323859	-	[J] Histidyl-tRNA synthetase    
+157
+	FBFCCOII_00264	CDS	COG0378	324350	325090	+	[OK] Ni2+-binding GTPase involved in regulation of
+	FBFCCOII_00265	CDS	COG0068	325071	327398	+	[O] Hydrogenase maturation factor   
+	FBFCCOII_00266	CDS	COG0298	327402	327644	+	[O] Hydrogenase maturation factor   
+	FBFCCOII_00267	CDS	COG0409	327678	328745	+	[O] Hydrogenase maturation factor   
+	FBFCCOII_00268	CDS	COG0309	328750	329784	+	[O] Hydrogenase maturation factor   
+158
+	FBFCCOII_00269	CDS	COG0790	329942	331063	-	[R] FOG: TPR repeat, SEL1 subfamily 
+159
+	FBFCCOII_00270	CDS	COG2908	331964	333931	+	[S] Uncharacterized protein conserved in bacteria 
+160
+	FBFCCOII_00271	CDS	COG0443	334236	336164	+	[O] Molecular chaperone    
+	FBFCCOII_00272	CDS	COG0234	336260	336550	+	[O] Co-chaperonin GroES (HSP10)   
+	FBFCCOII_00273	CDS	COG0459	336596	338248	+	[O] Chaperonin GroEL (HSP60 family)  
+161
+	FBFCCOII_00274	CDS	ROG7682	338423	338875	+	NA
+162
+	FBFCCOII_00275	CDS	NA	339047	341278	+	NA
+163
+	FBFCCOII_00276	tRNA	NA	341534	341607	-	NA
+164
+	FBFCCOII_00277	tRNA	NA	341751	341824	+	NA
+	FBFCCOII_00278	CDS	NA	341861	342535	+	NA
+	FBFCCOII_00279	CDS	NA	342561	343775	+	NA
+165
+	FBFCCOII_00280	CDS	COG3944	343868	346075	+	[M] Capsular polysaccharide biosynthesis protein  
+	FBFCCOII_00281	CDS	COG1596	346087	346692	+	[M] Periplasmic protein involved in polysaccharide export
+166
+	FBFCCOII_00282	CDS	ROG5764	347279	347812	+	NA
+	FBFCCOII_00283	CDS	COG0632	347809	348471	+	[L] Holliday junction resolvasome, DNA-binding subunit 
+167
+	FBFCCOII_00284	CDS	COG0057	348698	349723	+	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+	FBFCCOII_00285	CDS	COG0126	349891	351102	+	[G] 3-phosphoglycerate kinase    
+168
+	FBFCCOII_00286	CDS	NA	351343	352326	+	NA
+169
+	FBFCCOII_00287	CDS	ROG0442	352452	354602	-	NA
+170
+	FBFCCOII_00288	CDS	COG0515	354740	357355	+	[RTKL] Serine/threonine protein kinase   
+171
+	FBFCCOII_00289	CDS	COG1197	357486	360662	-	[LK] Transcription-repair coupling factor (superfamily II helicase)
+172
+	FBFCCOII_00290	CDS	ROG7569	360790	361995	-	NA
+	FBFCCOII_00291	CDS	COG3055	362010	364562	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_00292	CDS	COG3055	364595	365578	-	[S] Uncharacterized protein conserved in bacteria 
+173
+	FBFCCOII_00293	CDS	ROG0073	365708	366541	+	NA
+174
+	FBFCCOII_00294	CDS	COG1387	366690	367499	-	[ER] Histidinol phosphatase and related hydrolases of
+175
+	FBFCCOII_00295	CDS	COG0280	367644	368735	+	[C] Phosphotransacetylase     
+176
+	FBFCCOII_00296	CDS	COG0037	368689	369693	-	[D] Predicted ATPase of the PP-loop superfamily
+177
+	FBFCCOII_00297	CDS	COG0254	369800	370129	-	[J] Ribosomal protein L31   
+178
+	FBFCCOII_00298	CDS	NA	370227	371102	+	NA
+179
+	FBFCCOII_00299	tRNA	NA	371235	371310	+	NA
+	FBFCCOII_00300	tRNA	NA	371346	371422	+	NA
+180
+	FBFCCOII_00301	CDS	COG3015	371810	372241	-	[MP] Uncharacterized lipoprotein NlpE involved in copper
+	FBFCCOII_00302	CDS	NA	372254	372385	-	NA
+181
+	FBFCCOII_00303	CDS	NA	372619	372900	+	NA
+	FBFCCOII_00304	CDS	NA	372959	373939	+	NA
+182
+	FBFCCOII_00305	CDS	COG1004	374049	375371	-	[M] Predicted UDP-glucose 6-dehydrogenase   
+183
+	FBFCCOII_00306	CDS	COG0039	375556	376545	+	[C] Malate/lactate dehydrogenases    
+184
+	FBFCCOII_00307	CDS	COG3459	376689	378839	+	[G] Cellobiose phosphorylase    
+	FBFCCOII_00308	CDS	COG5074	378849	380768	+	[U] t-SNARE complex subunit, syntaxin  
+185
+	FBFCCOII_00309	CDS	COG1452	380848	383235	+	[M] Organic solvent tolerance protein OstA 
+186
+	FBFCCOII_00310	CDS	COG0778	383580	384227	+	[C] Nitroreductase     
+187
+	FBFCCOII_00311	CDS	COG0564	384240	385016	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+	FBFCCOII_00312	CDS	COG1187	385031	385723	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+188
+	FBFCCOII_00313	CDS	COG0457	385860	387242	+	[R] FOG: TPR repeat   
+189
+	FBFCCOII_00314	CDS	NA	387645	388160	+	NA
+190
+	FBFCCOII_00315	CDS	COG1126	388290	389012	-	[E] ABC-type polar amino acid transport system,
+	FBFCCOII_00316	CDS	COG0765	389032	390516	-	[E] ABC-type amino acid transport system, permease
+191
+	FBFCCOII_00317	tRNA	NA	390966	391042	-	NA
+192
+	FBFCCOII_00318	CDS	COG0002	391145	392188	+	[E] Acetylglutamate semialdehyde dehydrogenase   
+	FBFCCOII_00319	CDS	COG1364	392222	393475	+	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+	FBFCCOII_00320	CDS	ROG4029	393487	393987	+	NA
+193
+	FBFCCOII_00321	CDS	COG0790	394125	395267	-	[R] FOG: TPR repeat, SEL1 subfamily 
+194
+	FBFCCOII_00322	CDS	NA	395398	396093	-	NA
+195
+	FBFCCOII_00323	CDS	NA	396190	396423	-	NA
+196
+	FBFCCOII_00324	CDS	COG0178	396602	399103	-	[L] Excinuclease ATPase subunit   
+	FBFCCOII_00325	CDS	COG1664	399105	399743	-	[M] Integral membrane protein CcmA involved in
+	FBFCCOII_00326	CDS	COG1664	399814	400476	-	[M] Integral membrane protein CcmA involved in
+197
+	FBFCCOII_00327	CDS	NA	400610	401623	+	NA
+198
+	FBFCCOII_00328	CDS	NA	401674	402183	-	NA
+199
+	FBFCCOII_00329	CDS	COG1809	402298	403041	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00330	CDS	COG1872	403038	403328	+	[S] Uncharacterized conserved protein   
+200
+	FBFCCOII_00331	CDS	COG0576	403463	404017	+	[O] Molecular chaperone GrpE (heat shock protein)
+	FBFCCOII_00332	CDS	COG0484	404042	405199	+	[O] DnaJ-class molecular chaperone with C-terminal Zn
+	FBFCCOII_00333	CDS	COG1385	405222	405959	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_00334	CDS	COG0546	405981	406973	+	[R] Predicted phosphatases    
+201
+	FBFCCOII_00335	CDS	ROG0923	406986	408776	-	NA
+202
+	FBFCCOII_00336	CDS	COG1562	408861	409796	-	[I] Phytoene/squalene synthetase    
+	FBFCCOII_00337	CDS	COG0681	409836	411131	-	[U] Signal peptidase I   
+	FBFCCOII_00338	CDS	COG0277	411175	412551	-	[C] FAD/FMN-containing dehydrogenases    
+	FBFCCOII_00339	CDS	ROG0320	412555	413139	-	NA
+203
+	FBFCCOII_00340	CDS	COG2945	413220	413885	+	[R] Predicted hydrolase of the alpha/beta superfamily
+204
+	FBFCCOII_00341	CDS	ROG3473	413901	414623	-	NA
+	FBFCCOII_00342	CDS	ROG0007	414638	415585	-	NA
+205
+	FBFCCOII_00343	CDS	COG0462	415587	416600	+	[FE] Phosphoribosylpyrophosphate synthetase    
+	FBFCCOII_00344	CDS	COG1825	416734	417339	+	[J] Ribosomal protein L25 (general stress protein
+206
+	FBFCCOII_00345	CDS	NA	417481	418707	+	NA
+207
+	FBFCCOII_00346	CDS	COG0131	418994	419584	+	[E] Imidazoleglycerol-phosphate dehydratase    
+	FBFCCOII_00347	CDS	COG0118	419590	420198	+	[E] Glutamine amidotransferase    
+208
+	FBFCCOII_00348	CDS	COG0360	420594	420878	-	[J] Ribosomal protein S6   
+209
+	FBFCCOII_00349	CDS	COG1995	421368	422237	-	[H] Pyridoxal phosphate biosynthesis protein  
+	FBFCCOII_00350	CDS	COG0810	422257	422517	-	[M] Periplasmic protein TonB, links inner and
+210
+	FBFCCOII_00351	CDS	ROG0111	422678	423088	-	NA
+211
+	FBFCCOII_00352	CDS	COG1686	423262	424233	+	[M] D-alanyl-D-alanine carboxypeptidase    
+	FBFCCOII_00353	CDS	COG0205	424278	425357	+	[G] 6-phosphofructokinase     
+212
+	FBFCCOII_00354	CDS	COG3152	425433	426383	-	[S] Predicted membrane protein   
+213
+	FBFCCOII_00355	CDS	COG0428	426653	427465	-	[P] Predicted divalent heavy-metal cations transporter 
+	FBFCCOII_00356	CDS	COG4232	427516	428535	-	[OC] Thiol:disulfide interchange protein   
+	FBFCCOII_00357	CDS	ROG1944	428549	429553	-	NA
+	FBFCCOII_00358	CDS	ROG1946	429574	430035	-	NA
+214
+	FBFCCOII_00359	CDS	COG3977	430144	431418	+	[E] Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase  
+	FBFCCOII_00360	CDS	COG1561	431439	432314	+	[S] Uncharacterized stress-induced protein   
+	FBFCCOII_00361	CDS	COG0194	432311	432913	+	[F] Guanylate kinase    
+215
+	FBFCCOII_00362	CDS	COG0471	433425	435299	-	[P] Di- and tricarboxylate transporters  
+216
+	FBFCCOII_00363	CDS	COG0008	435431	436276	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+217
+	FBFCCOII_00364	CDS	COG0398	436333	436836	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_00365	CDS	NA	436820	437251	-	NA
+	FBFCCOII_00366	CDS	COG1575	437292	438218	-	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+	FBFCCOII_00367	CDS	COG0710	438238	438945	-	[E] 3-dehydroquinate dehydratase    
+218
+	FBFCCOII_00368	CDS	NA	439306	440100	+	NA
+219
+	FBFCCOII_00369	CDS	NA	440306	441355	-	NA
+220
+	FBFCCOII_00370	CDS	COG1496	441452	442141	-	[S] Uncharacterized conserved protein   
+221
+	FBFCCOII_00371	CDS	ROG0030	442288	443019	+	NA
+222
+	FBFCCOII_00372	CDS	COG0726	443166	444128	+	[G] Predicted xylanase/chitin deacetylase   
+223
+	FBFCCOII_00373	CDS	COG0342	444373	446754	+	[U] Preprotein translocase subunit SecD  
+224
+	FBFCCOII_00374	CDS	ROG1350	447047	448183	-	NA
+225
+	FBFCCOII_00375	CDS	COG1989	448464	449579	-	[NOU] Type II secretory pathway, prepilin signal
+	FBFCCOII_00376	CDS	COG1611	449572	450696	-	[R] Predicted Rossmann fold nucleotide-binding protein 
+226
+	FBFCCOII_00377	CDS	COG0202	450906	452030	+	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	FBFCCOII_00378	CDS	COG0203	452067	452477	+	[J] Ribosomal protein L17   
+227
+	FBFCCOII_00379	CDS	COG0331	452622	453548	+	[I] (acyl-carrier-protein) S-malonyltransferase    
+228
+	FBFCCOII_00380	CDS	ROG0992	453615	453812	-	NA
+229
+	FBFCCOII_00381	CDS	COG0637	454013	454708	-	[R] Predicted phosphatase/phosphohexomutase    
+	FBFCCOII_00382	CDS	COG0795	454695	456089	-	[R] Predicted permeases    
+230
+	FBFCCOII_00383	CDS	COG2945	456341	457453	+	[R] Predicted hydrolase of the alpha/beta superfamily
+	FBFCCOII_00384	CDS	COG2885	457450	458856	+	[M] Outer membrane protein and related peptidoglycan-associated
+	FBFCCOII_00385	CDS	COG0561	458856	459722	+	[R] Predicted hydrolases of the HAD superfamily
+231
+	FBFCCOII_00386	CDS	ROG1944	459826	461808	+	NA
+232
+	FBFCCOII_00387	CDS	NA	461892	463142	+	NA
+233
+	FBFCCOII_00388	CDS	COG2208	463300	464937	-	[TK] Serine phosphatase RsbU, regulator of sigma
+	FBFCCOII_00389	CDS	COG1595	465068	465754	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+234
+	FBFCCOII_00390	CDS	ROG0184	465878	466888	+	NA
+235
+	FBFCCOII_00391	CDS	COG0553	467500	470736	+	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+	FBFCCOII_00392	CDS	ROG0374	470739	471341	+	NA
+	FBFCCOII_00393	CDS	COG2189	471342	473240	+	[L] Adenine specific DNA methylase Mod 
+	FBFCCOII_00394	CDS	COG3587	473243	476269	+	[V] Restriction endonuclease    
+236
+	FBFCCOII_00395	CDS	COG4970	476571	477254	+	[NU] Tfp pilus assembly protein FimT 
+	FBFCCOII_00396	CDS	ROG4211	477287	478087	+	NA
+	FBFCCOII_00397	CDS	ROG3801	478118	479188	+	NA
+237
+	FBFCCOII_00398	CDS	COG0095	479280	480020	+	[H] Lipoate-protein ligase A   
+	FBFCCOII_00399	CDS	COG0667	480044	481033	+	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+238
+	FBFCCOII_00400	CDS	COG3808	481164	483392	+	[C] Inorganic pyrophosphatase    
+239
+	FBFCCOII_00401	CDS	NA	483736	484656	+	NA
+	FBFCCOII_00402	CDS	NA	484705	485580	+	NA
+240
+	FBFCCOII_00403	CDS	NA	485461	486045	-	NA
+241
+	FBFCCOII_00404	CDS	COG0147	486145	487536	+	[EH] Anthranilate/para-aminobenzoate synthases component I  
+	FBFCCOII_00405	CDS	COG0547	487520	489112	+	[E] Anthranilate phosphoribosyltransferase    
+	FBFCCOII_00406	CDS	COG0134	489102	489887	+	[E] Indole-3-glycerol phosphate synthase   
+	FBFCCOII_00407	CDS	COG0135	489884	490531	+	[E] Phosphoribosylanthranilate isomerase    
+	FBFCCOII_00408	CDS	COG0133	490528	491700	+	[E] Tryptophan synthase beta chain  
+	FBFCCOII_00409	CDS	COG0159	491714	492502	+	[E] Tryptophan synthase alpha chain  
+242
+	FBFCCOII_00410	CDS	COG4625	492883	502341	+	[S] Uncharacterized protein with a C-terminal OMP
+243
+	FBFCCOII_00411	CDS	ROG0254	502463	502873	-	NA
+244
+	FBFCCOII_00412	CDS	COG2021	503072	504235	-	[E] Homoserine acetyltransferase    
+	FBFCCOII_00413	CDS	COG0257	504322	504624	-	[J] Ribosomal protein L36   
+245
+	FBFCCOII_00414	CDS	COG1560	504774	506699	+	[M] Lauroyl/myristoyl acyltransferase    
+246
+	FBFCCOII_00415	CDS	COG1180	506948	507727	-	[O] Pyruvate-formate lyase-activating enzyme   
+	FBFCCOII_00416	CDS	COG1882	507744	510011	-	[C] Pyruvate-formate lyase    
+247
+	FBFCCOII_00417	CDS	ROG4009	510292	511074	+	NA
+	FBFCCOII_00418	CDS	ROG4009	511297	512085	+	NA
+248
+	FBFCCOII_00419	CDS	COG4409	512170	513957	+	[G] Neuraminidase (sialidase)    
+249
+	FBFCCOII_00420	CDS	COG0666	513971	515332	-	[R] FOG: Ankyrin repeat   
+250
+	FBFCCOII_00421	CDS	COG0561	515811	516710	+	[R] Predicted hydrolases of the HAD superfamily
+	FBFCCOII_00422	CDS	NA	516746	516928	+	NA
+251
+	FBFCCOII_00423	CDS	COG0838	517328	517708	+	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+252
+	FBFCCOII_00424	CDS	NA	517930	519090	+	NA
+253
+	FBFCCOII_00425	tRNA	NA	519122	519206	-	NA
+254
+	FBFCCOII_00426	CDS	NA	519286	519612	+	NA
+255
+	FBFCCOII_00427	CDS	NA	519685	520065	-	NA
+256
+	FBFCCOII_00428	CDS	COG0556	520152	522299	+	[L] Helicase subunit of the DNA excision
+257
+	FBFCCOII_00429	CDS	COG0291	522814	523023	+	[J] Ribosomal protein L35   
+	FBFCCOII_00430	CDS	COG0292	523173	523556	+	[J] Ribosomal protein L20   
+258
+	FBFCCOII_00431	CDS	COG0750	524178	525623	+	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	FBFCCOII_00432	CDS	ROG5446	525657	527042	+	NA
+259
+	FBFCCOII_00433	CDS	COG4704	527296	528084	+	[S] Uncharacterized protein conserved in bacteria 
+260
+	FBFCCOII_00434	CDS	COG1074	528299	531466	-	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+	FBFCCOII_00435	CDS	COG2887	531468	534341	-	[L] RecB family exonuclease   
+261
+	FBFCCOII_00436	CDS	COG0697	534565	535482	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+262
+	FBFCCOII_00437	CDS	COG2373	535818	542195	-	[R] Large extracellular alpha-helical protein  
+263
+	FBFCCOII_00438	CDS	COG1979	542333	543520	-	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+264
+	FBFCCOII_00439	tRNA	NA	544014	544088	+	NA
+265
+	FBFCCOII_00440	CDS	COG0350	544407	544973	+	[L] Methylated DNA-protein cysteine methyltransferase  
+266
+	FBFCCOII_00441	CDS	ROG5789	545134	545586	-	NA
+267
+	FBFCCOII_00442	CDS	ROG6551	545696	546217	-	NA
+268
+	FBFCCOII_00443	CDS	NA	546298	547206	-	NA
+269
+	FBFCCOII_00444	CDS	COG1214	547331	547999	+	[O] Inactive homolog of metal-dependent proteases, putative
+270
+	FBFCCOII_00445	CDS	COG0372	548072	549214	+	[C] Citrate synthase    
+271
+	FBFCCOII_00446	CDS	NA	549163	549354	-	NA
+272
+	FBFCCOII_00447	CDS	COG0219	549638	550102	-	[J] Predicted rRNA methylase (SpoU class) 
+273
+	FBFCCOII_00448	CDS	COG2251	550183	550746	+	[R] Predicted nuclease (RecB family)  
+	FBFCCOII_00449	CDS	NA	550761	550946	+	NA
+274
+	FBFCCOII_00450	CDS	COG0691	550933	551391	-	[O] tmRNA-binding protein    
+275
+	FBFCCOII_00451	CDS	COG1758	551506	551727	-	[K] DNA-directed RNA polymerase, subunit K/omega 
+276
+	FBFCCOII_00452	CDS	COG1187	551802	552368	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+277
+	FBFCCOII_00453	CDS	ROG2528	552390	553250	+	NA
+278
+	FBFCCOII_00454	CDS	COG0105	553354	553809	+	[F] Nucleoside diphosphate kinase   
+279
+	FBFCCOII_00455	CDS	COG1216	553956	554777	-	[R] Predicted glycosyltransferases    
+	FBFCCOII_00456	CDS	COG0463	554786	555730	-	[M] Glycosyltransferases involved in cell wall biogenesis
+280
+	FBFCCOII_00457	CDS	COG2165	555856	556524	-	[NU] Type II secretory pathway, pseudopilin PulG
+	FBFCCOII_00458	CDS	COG1459	556544	557812	-	[NU] Type II secretory pathway, component PulF
+	FBFCCOII_00459	CDS	COG2804	557882	559540	-	[NU] Type II secretory pathway, ATPase PulE/Tfp
+	FBFCCOII_00460	CDS	COG2804	559569	561209	-	[NU] Type II secretory pathway, ATPase PulE/Tfp
+281
+	FBFCCOII_00461	CDS	COG0042	561422	562426	-	[J] tRNA-dihydrouridine synthase    
+282
+	FBFCCOII_00462	CDS	ROG7983	562688	563197	-	NA
+283
+	FBFCCOII_00463	CDS	COG0436	563356	564522	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+284
+	FBFCCOII_00464	CDS	COG0728	564692	566257	-	[R] Uncharacterized membrane protein, putative virulence factor
+	FBFCCOII_00465	CDS	COG0615	566272	567363	-	[MI] Cytidylyltransferase     
+285
+	FBFCCOII_00466	CDS	COG0605	567513	568277	-	[P] Superoxide dismutase    
+286
+	FBFCCOII_00467	CDS	COG1649	568374	569834	-	[S] Uncharacterized protein conserved in bacteria 
+287
+	FBFCCOII_00468	CDS	COG1691	569932	570687	-	[R] NCAIR mutase (PurE)-related proteins  
+	FBFCCOII_00469	CDS	COG1606	570684	571499	-	[R] ATP-utilizing enzymes of the PP-loop superfamily
+	FBFCCOII_00470	CDS	COG1641	571471	572691	-	[S] Uncharacterized conserved protein   
+288
+	FBFCCOII_00471	CDS	COG0142	572894	573904	+	[H] Geranylgeranyl pyrophosphate synthase   
+289
+	FBFCCOII_00472	CDS	COG3104	574077	575432	-	[E] Dipeptide/tripeptide permease    
+290
+	FBFCCOII_00473	CDS	COG0760	575574	577349	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+291
+	FBFCCOII_00474	CDS	COG2151	577681	578226	+	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+	FBFCCOII_00475	CDS	NA	578233	578706	+	NA
+292
+	FBFCCOII_00476	CDS	NA	578939	579091	-	NA
+	FBFCCOII_00477	CDS	NA	579094	579978	-	NA
+293
+	FBFCCOII_00478	CDS	COG1007	580336	581718	-	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+	FBFCCOII_00479	CDS	COG1008	581769	583193	-	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+	FBFCCOII_00480	CDS	COG1009	583216	585048	-	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+	FBFCCOII_00481	CDS	COG0713	585072	585389	-	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+	FBFCCOII_00482	CDS	COG0839	585415	586125	-	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+	FBFCCOII_00483	CDS	COG1143	586154	586717	-	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+	FBFCCOII_00484	CDS	COG1005	586752	588020	-	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+	FBFCCOII_00485	CDS	COG1034	588056	589792	-	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+	FBFCCOII_00486	CDS	COG1894	589845	591245	-	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	FBFCCOII_00487	CDS	COG1905	591279	591860	-	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+	FBFCCOII_00488	CDS	COG0649	591910	593154	-	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+294
+	FBFCCOII_00489	CDS	ROG3309	593576	594931	+	NA
+295
+	FBFCCOII_00490	CDS	COG0726	594942	596408	-	[G] Predicted xylanase/chitin deacetylase   
+296
+	FBFCCOII_00491	CDS	ROG0482	596601	598214	+	NA
+	FBFCCOII_00492	CDS	COG0307	598239	598844	+	[H] Riboflavin synthase alpha chain  
+297
+	FBFCCOII_00493	CDS	COG2264	599036	599896	-	[J] Ribosomal protein L11 methylase  
+298
+	FBFCCOII_00494	CDS	NA	600276	603440	+	NA
+299
+	FBFCCOII_00495	CDS	COG1640	603537	605396	-	[G] 4-alpha-glucanotransferase     
+300
+	FBFCCOII_00496	CDS	NA	605777	606388	+	NA
+301
+	FBFCCOII_00497	CDS	COG0621	606503	607861	-	[J] 2-methylthioadenine synthetase    
+	FBFCCOII_00498	CDS	COG1030	607888	609324	-	[O] Membrane-bound serine protease (ClpP class) 
+302
+	FBFCCOII_00499	CDS	COG0358	609339	611303	+	[L] DNA primase (bacterial type)  
+	FBFCCOII_00500	CDS	COG0568	611363	613429	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+	FBFCCOII_00501	CDS	COG2173	613468	614208	+	[M] D-alanyl-D-alanine dipeptidase    
+303
+	FBFCCOII_00502	CDS	NA	614389	614850	+	NA
+304
+	FBFCCOII_00503	CDS	ROG1743	614926	615441	+	NA
+305
+	FBFCCOII_00504	CDS	COG0112	615641	617341	-	[E] Glycine/serine hydroxymethyltransferase    
+306
+	FBFCCOII_00505	CDS	COG0793	617504	619723	-	[M] Periplasmic protease    
+307
+	FBFCCOII_00506	CDS	COG0575	620246	621211	+	[I] CDP-diglyceride synthetase    
+	FBFCCOII_00507	CDS	COG1643	621248	623833	+	[L] HrpA-like helicases    
+308
+	FBFCCOII_00508	CDS	COG0306	623948	626188	+	[P] Phosphate/sulphate permeases    
+309
+	FBFCCOII_00509	CDS	NA	626692	627990	+	NA
+	FBFCCOII_00510	CDS	COG0617	627987	629381	+	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+310
+	FBFCCOII_00511	CDS	ROG1671	629453	631177	+	NA
+311
+	FBFCCOII_00512	CDS	COG1450	631313	633814	+	[NU] Type II secretory pathway, component PulD
+312
+	FBFCCOII_00513	CDS	ROG4427	633893	635476	+	NA
+	FBFCCOII_00514	CDS	COG2121	635492	636220	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_00515	CDS	COG0190	636193	637068	+	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+	FBFCCOII_00516	CDS	COG0623	637136	637918	+	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+313
+	FBFCCOII_00517	CDS	COG1597	638061	638918	-	[IR] Sphingosine kinase and enzymes related to
+	FBFCCOII_00518	CDS	COG1305	638915	640054	-	[E] Transglutaminase-like enzymes, putative cysteine proteases 
+	FBFCCOII_00519	CDS	COG0042	640067	641113	-	[J] tRNA-dihydrouridine synthase    
+314
+	FBFCCOII_00520	CDS	COG0761	641196	642395	+	[IM] Penicillin tolerance protein   
+315
+	FBFCCOII_00521	CDS	ROG3876	642532	642753	-	NA
+316
+	FBFCCOII_00522	CDS	COG0268	642834	643097	-	[J] Ribosomal protein S20   
+317
+	FBFCCOII_00523	CDS	COG0637	643258	643866	+	[R] Predicted phosphatase/phosphohexomutase    
+318
+	FBFCCOII_00524	CDS	COG0028	644016	645869	+	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+319
+	FBFCCOII_00525	CDS	COG0688	646378	647274	+	[I] Phosphatidylserine decarboxylase    
+320
+	FBFCCOII_00526	CDS	COG0036	647413	648066	-	[G] Pentose-5-phosphate-3-epimerase     
+	FBFCCOII_00527	CDS	COG0495	648091	650835	-	[J] Leucyl-tRNA synthetase    
+321
+	FBFCCOII_00528	CDS	COG3119	650855	652519	+	[P] Arylsulfatase A and related enzymes 
+322
+	FBFCCOII_00529	CDS	NA	652836	653627	-	NA
+323
+	FBFCCOII_00530	CDS	COG1646	653805	655007	+	[R] Predicted phosphate-binding enzymes, TIM-barrel fold 
+	FBFCCOII_00531	CDS	COG1166	655031	656968	+	[E] Arginine decarboxylase (spermidine biosynthesis)  
+324
+	FBFCCOII_00532	CDS	COG0582	657039	658133	-	[L] Integrase     
+325
+	FBFCCOII_00533	CDS	COG3250	658457	660595	+	[G] Beta-galactosidase/beta-glucuronidase     
+	FBFCCOII_00534	CDS	COG3250	660618	664487	+	[G] Beta-galactosidase/beta-glucuronidase     
+	FBFCCOII_00535	CDS	COG3250	664641	667217	+	[G] Beta-galactosidase/beta-glucuronidase     
+326
+	FBFCCOII_00536	CDS	COG2256	667212	668600	-	[L] ATPase related to the helicase subunit
+327
+	FBFCCOII_00537	CDS	COG3525	668764	670407	+	[G] N-acetyl-beta-hexosaminidase     
+328
+	FBFCCOII_00538	CDS	NA	670467	671462	-	NA
+329
+	FBFCCOII_00539	CDS	COG0205	671973	673217	-	[G] 6-phosphofructokinase     
+330
+	FBFCCOII_00540	CDS	ROG0841	673390	674436	-	NA
+	FBFCCOII_00541	CDS	COG2186	674436	675536	-	[K] Transcriptional regulators    
+331
+	FBFCCOII_00542	CDS	NA	675926	676210	+	NA
+332
+	FBFCCOII_00543	tRNA	NA	676469	676551	-	NA
+333
+	FBFCCOII_00544	CDS	COG2087	676995	677543	-	[H] Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase
+	FBFCCOII_00545	CDS	ROG2076	677560	678375	-	NA
+	FBFCCOII_00546	CDS	COG0368	678372	679112	-	[H] Cobalamin-5-phosphate synthase    
+	FBFCCOII_00547	CDS	COG2038	679132	680172	-	[H] NaMN:DMB phosphoribosyltransferase    
+	FBFCCOII_00548	CDS	COG1270	680169	681161	-	[H] Cobalamin biosynthesis protein CobD/CbiB  
+	FBFCCOII_00549	CDS	COG1492	681165	683741	-	[H] Cobyric acid synthase   
+334
+	FBFCCOII_00550	CDS	COG4206	684260	686266	+	[H] Outer membrane cobalamin receptor protein 
+335
+	FBFCCOII_00551	CDS	COG0747	686413	688530	+	[E] ABC-type dipeptide transport system, periplasmic component
+336
+	FBFCCOII_00552	CDS	COG1874	688629	690971	+	[G] Beta-galactosidase     
+337
+	FBFCCOII_00553	CDS	COG3637	691225	691893	-	[M] Opacity protein and related surface antigens
+338
+	FBFCCOII_00554	CDS	COG0402	691974	693296	+	[FR] Cytosine deaminase and related metal-dependent hydrolases
+339
+	FBFCCOII_00555	CDS	COG1249	693443	694831	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	FBFCCOII_00556	CDS	ROG0046	694885	695292	+	NA
+	FBFCCOII_00557	CDS	COG1708	695250	695600	+	[R] Predicted nucleotidyltransferases    
+340
+	FBFCCOII_00558	CDS	COG0508	695976	697067	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	FBFCCOII_00559	CDS	COG0567	697083	699848	-	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	FBFCCOII_00560	CDS	COG1294	699912	700949	-	[C] Cytochrome bd-type quinol oxidase, subunit 2
+	FBFCCOII_00561	CDS	COG1271	700972	702351	-	[C] Cytochrome bd-type quinol oxidase, subunit 1
+341
+	FBFCCOII_00562	CDS	ROG2219	702503	702973	-	NA
+	FBFCCOII_00563	CDS	COG0394	703000	703455	-	[T] Protein-tyrosine-phosphatase     
+	FBFCCOII_00564	CDS	ROG2243	703452	704921	-	NA
+	FBFCCOII_00565	CDS	ROG0938	704940	705878	-	NA
+342
+	FBFCCOII_00566	CDS	COG0133	705977	707200	-	[E] Tryptophan synthase beta chain  
+343
+	FBFCCOII_00567	CDS	COG1846	707361	707795	-	[K] Transcriptional regulators    
+344
+	FBFCCOII_00568	CDS	NA	708682	709185	+	NA
+345
+	FBFCCOII_00569	CDS	COG1528	709163	709672	-	[P] Ferritin-like protein    
+346
+	FBFCCOII_00570	CDS	NA	709775	711418	-	NA
+347
+	FBFCCOII_00571	CDS	COG0251	711563	712033	+	[J] Putative translation initiation inhibitor, yjgF family
+348
+	FBFCCOII_00572	tRNA	NA	712103	712186	+	NA
+349
+	FBFCCOII_00573	CDS	COG0582	712320	713609	+	[L] Integrase     
+350
+	FBFCCOII_00574	CDS	NA	713620	714213	-	NA
+	FBFCCOII_00575	CDS	NA	714215	715162	-	NA
+	FBFCCOII_00576	CDS	COG0790	715187	716005	-	[R] FOG: TPR repeat, SEL1 subfamily 
+	FBFCCOII_00577	CDS	NA	716024	716311	-	NA
+351
+	FBFCCOII_00578	CDS	NA	716479	716649	-	NA
+352
+	FBFCCOII_00579	CDS	NA	716789	717091	+	NA
+353
+	FBFCCOII_00580	CDS	ROG4124	717395	717931	-	NA
+	FBFCCOII_00581	CDS	COG1479	717934	719097	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_00582	CDS	COG0270	719090	720205	-	[L] Site-specific DNA methylase   
+354
+	FBFCCOII_00583	CDS	COG2932	720271	721071	-	[K] Predicted transcriptional regulator   
+355
+	FBFCCOII_00584	CDS	NA	721201	721395	+	NA
+	FBFCCOII_00585	CDS	NA	721392	721655	+	NA
+356
+	FBFCCOII_00586	CDS	ROG0483	721615	721821	-	NA
+357
+	FBFCCOII_00587	CDS	NA	722036	722290	-	NA
+358
+	FBFCCOII_00588	CDS	NA	722557	722754	+	NA
+	FBFCCOII_00589	CDS	NA	722757	723146	+	NA
+	FBFCCOII_00590	CDS	ROG1975	723133	724212	+	NA
+	FBFCCOII_00591	CDS	NA	724209	725372	+	NA
+	FBFCCOII_00592	CDS	NA	725378	725929	+	NA
+	FBFCCOII_00593	CDS	NA	725936	726238	+	NA
+	FBFCCOII_00594	CDS	COG4570	726235	726660	+	[L] Holliday junction resolvase   
+	FBFCCOII_00595	CDS	NA	726657	726908	+	NA
+359
+	FBFCCOII_00596	CDS	NA	727317	727583	+	NA
+	FBFCCOII_00597	CDS	ROG4905	727628	728389	+	NA
+	FBFCCOII_00598	CDS	COG0305	728410	729759	+	[L] Replicative DNA helicase   
+	FBFCCOII_00599	CDS	NA	729756	730046	+	NA
+	FBFCCOII_00600	CDS	NA	730012	731607	+	NA
+360
+	FBFCCOII_00601	CDS	NA	731529	731732	-	NA
+361
+	FBFCCOII_00602	CDS	ROG7895	731768	732259	+	NA
+	FBFCCOII_00603	CDS	NA	732243	733658	+	NA
+362
+	FBFCCOII_00604	CDS	NA	733986	734297	+	NA
+	FBFCCOII_00605	CDS	NA	734303	734737	+	NA
+	FBFCCOII_00606	CDS	NA	734734	735219	+	NA
+	FBFCCOII_00607	CDS	NA	735209	735415	+	NA
+	FBFCCOII_00608	CDS	NA	735421	736002	+	NA
+363
+	FBFCCOII_00609	CDS	NA	736070	736477	+	NA
+	FBFCCOII_00610	CDS	NA	736474	738681	+	NA
+	FBFCCOII_00611	CDS	NA	738678	739451	+	NA
+	FBFCCOII_00612	CDS	COG2979	739433	741949	+	[S] Uncharacterized protein conserved in bacteria 
+364
+	FBFCCOII_00613	CDS	COG1622	741992	742555	-	[C] Heme/copper-type cytochrome/quinol oxidases, subunit 2 
+365
+	FBFCCOII_00614	CDS	NA	742704	743294	-	NA
+366
+	FBFCCOII_00615	CDS	COG2949	743297	743782	+	[S] Uncharacterized membrane protein   
+367
+	FBFCCOII_00616	tRNA	NA	744315	744390	+	NA
+368
+	FBFCCOII_00617	CDS	COG1524	744464	745456	-	[R] Uncharacterized proteins of the AP superfamily
+369
+	FBFCCOII_00618	CDS	ROG2383	746059	746466	+	NA
+370
+	FBFCCOII_00620	tRNA	NA	747342	747418	-	NA
+371
+	FBFCCOII_00621	CDS	COG0514	747632	749782	+	[L] Superfamily II DNA helicase  
+372
+	FBFCCOII_00622	tRNA	NA	750142	750234	+	NA
+373
+	FBFCCOII_00623	CDS	NA	750781	751515	+	NA
+374
+	FBFCCOII_00624	CDS	COG0074	751711	752598	-	[C] Succinyl-CoA synthetase, alpha subunit  
+	FBFCCOII_00625	CDS	COG0045	752620	753801	-	[C] Succinyl-CoA synthetase, beta subunit  
+375
+	FBFCCOII_00626	CDS	COG0141	754003	755301	+	[E] Histidinol dehydrogenase    
+376
+	FBFCCOII_00627	CDS	NA	755566	756462	+	NA
+377
+	FBFCCOII_00628	CDS	COG0457	756680	758347	+	[R] FOG: TPR repeat   
+378
+	FBFCCOII_00629	CDS	COG3063	758425	760017	+	[NU] Tfp pilus assembly protein PilF 
+379
+	FBFCCOII_00630	CDS	NA	760384	760710	-	NA
+380
+	FBFCCOII_00631	CDS	COG1570	760852	762216	-	[L] Exonuclease VII, large subunit  
+	FBFCCOII_00632	CDS	COG0318	762220	764382	-	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+381
+	FBFCCOII_00633	CDS	NA	764621	764881	+	NA
+382
+	FBFCCOII_00634	CDS	NA	765346	770874	+	NA
+383
+	FBFCCOII_00635	CDS	NA	771342	777203	+	NA
+384
+	FBFCCOII_00636	CDS	COG3884	777523	778272	-	[I] Acyl-ACP thioesterase    
+385
+	FBFCCOII_00637	CDS	COG0451	778440	779492	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+386
+	FBFCCOII_00638	CDS	COG2205	779613	781250	-	[T] Osmosensitive K+ channel histidine kinase 
+	FBFCCOII_00639	CDS	COG0745	781254	781958	-	[TK] Response regulators consisting of a CheY-like
+387
+	FBFCCOII_00640	CDS	NA	782057	782503	-	NA
+	FBFCCOII_00641	CDS	COG0113	782485	783480	-	[H] Delta-aminolevulinic acid dehydratase   
+	FBFCCOII_00642	CDS	NA	783535	785157	-	NA
+388
+	FBFCCOII_00643	CDS	COG0441	785418	787310	+	[J] Threonyl-tRNA synthetase    
+	FBFCCOII_00644	CDS	COG0290	787350	787988	+	[J] Translation initiation factor 3 (IF-3) 
+389
+	FBFCCOII_00645	CDS	COG0454	788064	788483	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+390
+	FBFCCOII_00646	CDS	COG2311	788507	789739	-	[S] Predicted membrane protein   
+	FBFCCOII_00647	CDS	COG0743	789744	790919	-	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+391
+	FBFCCOII_00648	CDS	COG0669	791208	791717	+	[H] Phosphopantetheine adenylyltransferase    
+392
+	FBFCCOII_00649	CDS	COG1186	791742	792104	-	[J] Protein chain release factor B 
+	FBFCCOII_00650	CDS	NA	792091	792645	-	NA
+	FBFCCOII_00651	CDS	COG4284	792632	794017	-	[G] UDP-glucose pyrophosphorylase    
+393
+	FBFCCOII_00652	CDS	COG0500	794116	794919	-	[QR] SAM-dependent methyltransferases    
+394
+	FBFCCOII_00653	CDS	NA	795014	795862	+	NA
+395
+	FBFCCOII_00654	CDS	ROG0971	795962	796552	+	NA
+396
+	FBFCCOII_00655	CDS	COG3475	796522	797391	-	[M] LPS biosynthesis protein   
+	FBFCCOII_00656	CDS	COG0615	797388	797777	-	[MI] Cytidylyltransferase     
+397
+	FBFCCOII_00657	CDS	COG3774	797847	798608	-	[M] Mannosyltransferase OCH1 and related enzymes 
+398
+	FBFCCOII_00658	CDS	COG3475	798881	799840	+	[M] LPS biosynthesis protein   
+	FBFCCOII_00659	CDS	COG0673	799837	801192	+	[R] Predicted dehydrogenases and related proteins 
+399
+	FBFCCOII_00660	CDS	COG0240	801290	802339	-	[C] Glycerol-3-phosphate dehydrogenase    
+	FBFCCOII_00661	CDS	COG1213	802339	804231	-	[M] Predicted sugar nucleotidyltransferases   
+400
+	FBFCCOII_00662	CDS	COG3475	804667	805683	+	[M] LPS biosynthesis protein   
+401
+	FBFCCOII_00663	CDS	COG0296	805799	807805	+	[G] 1,4-alpha-glucan branching enzyme   
+402
+	FBFCCOII_00664	CDS	ROG0725	807931	808311	-	NA
+	FBFCCOII_00665	CDS	COG2166	808326	808745	-	[R] SufE protein probably involved in Fe-S
+	FBFCCOII_00666	CDS	COG0078	808778	809734	-	[E] Ornithine carbamoyltransferase    
+403
+	FBFCCOII_00667	CDS	COG3119	809798	811486	-	[P] Arylsulfatase A and related enzymes 
+404
+	FBFCCOII_00668	CDS	COG1080	811615	813393	-	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+	FBFCCOII_00669	CDS	COG1925	813440	813706	-	[G] Phosphotransferase system, HPr-related proteins  
+	FBFCCOII_00670	CDS	COG1493	813791	814753	-	[T] Serine kinase of the HPr protein,
+405
+	FBFCCOII_00671	CDS	COG0624	814852	816249	+	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+	FBFCCOII_00672	CDS	COG1131	816258	817136	+	[V] ABC-type multidrug transport system, ATPase component
+	FBFCCOII_00673	CDS	COG0212	817103	817693	+	[H] 5-formyltetrahydrofolate cyclo-ligase    
+406
+	FBFCCOII_00674	CDS	COG3596	817726	819393	-	[R] Predicted GTPase    
+407
+	FBFCCOII_00675	CDS	COG0325	819480	820175	-	[R] Predicted enzyme with a TIM-barrel fold
+	FBFCCOII_00676	CDS	COG1678	820186	820749	-	[K] Putative transcriptional regulator   
+408
+	FBFCCOII_00677	CDS	ROG2219	820858	821715	-	NA
+	FBFCCOII_00678	CDS	COG1215	821726	823243	-	[M] Glycosyltransferases, probably involved in cell wall
+409
+	FBFCCOII_00679	CDS	NA	823378	824268	+	NA
+	FBFCCOII_00680	CDS	NA	824295	824672	+	NA
+410
+	FBFCCOII_00681	CDS	COG0553	824805	828320	-	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+411
+	FBFCCOII_00682	CDS	COG1522	828623	829108	+	[K] Transcriptional regulators    
+	FBFCCOII_00683	CDS	COG0436	829130	830305	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+	FBFCCOII_00684	CDS	COG1266	830319	831098	+	[R] Predicted metal-dependent membrane protease  
+	FBFCCOII_00685	CDS	COG1434	831143	831805	+	[S] Uncharacterized conserved protein   
+412
+	FBFCCOII_00686	CDS	COG0423	831889	833466	+	[J] Glycyl-tRNA synthetase (class II)  
+413
+	FBFCCOII_00687	CDS	COG0667	833874	834704	+	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+414
+	FBFCCOII_00688	CDS	ROG0028	835062	837476	-	NA
+	FBFCCOII_00689	CDS	COG2304	837532	839748	-	[R] Uncharacterized protein containing a von Willebrand
+	FBFCCOII_00690	CDS	COG2304	839767	840753	-	[R] Uncharacterized protein containing a von Willebrand
+	FBFCCOII_00691	CDS	ROG1930	840760	841374	-	NA
+	FBFCCOII_00692	CDS	COG1721	841393	842283	-	[R] Uncharacterized conserved protein (some members contain
+	FBFCCOII_00693	CDS	COG0714	842382	843365	-	[R] MoxR-like ATPases    
+415
+	FBFCCOII_00694	CDS	COG0154	843420	844832	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	FBFCCOII_00695	CDS	COG0721	844887	845180	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	FBFCCOII_00696	CDS	ROG0222	845220	845552	-	NA
+	FBFCCOII_00697	CDS	ROG0045	845549	846136	-	NA
+416
+	FBFCCOII_00698	CDS	NA	846467	847303	+	NA
+	FBFCCOII_00699	CDS	ROG1225	847300	848511	+	NA
+	FBFCCOII_00700	CDS	COG1262	848527	850050	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00701	CDS	ROG8179	850085	850927	+	NA
+417
+	FBFCCOII_00702	CDS	COG0265	851028	852047	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	FBFCCOII_00703	CDS	COG0265	852044	852808	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	FBFCCOII_00704	CDS	NA	852821	852952	-	NA
+418
+	FBFCCOII_00705	tRNA	NA	853140	853214	+	NA
+419
+	FBFCCOII_00706	CDS	COG1835	853419	854600	-	[I] Predicted acyltransferases    
+420
+	FBFCCOII_00707	CDS	COG2932	855008	855814	-	[K] Predicted transcriptional regulator   
+421
+	FBFCCOII_00708	CDS	NA	855916	856242	+	NA
+422
+	FBFCCOII_00709	CDS	ROG2139	857225	858097	+	NA
+	FBFCCOII_00710	CDS	COG1168	858094	859299	+	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+	FBFCCOII_00711	CDS	COG2768	859339	860346	+	[R] Uncharacterized Fe-S center protein  
+	FBFCCOII_00712	CDS	COG0656	860392	861240	+	[R] Aldo/keto reductases, related to diketogulonate reductase
+	FBFCCOII_00713	CDS	COG1073	861262	862341	+	[R] Hydrolases of the alpha/beta superfamily 
+	FBFCCOII_00714	CDS	COG0667	862384	863502	+	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+423
+	FBFCCOII_00715	CDS	COG1408	863593	864729	+	[R] Predicted phosphohydrolases    
+424
+	FBFCCOII_00716	CDS	COG0716	864931	865494	+	[C] Flavodoxins     
+	FBFCCOII_00717	CDS	COG1359	865502	865963	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00718	CDS	COG1917	866022	866789	+	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+425
+	FBFCCOII_00719	CDS	COG2249	866986	867543	+	[R] Putative NADPH-quinone reductase (modulator of drug
+426
+	FBFCCOII_00720	CDS	COG0789	867705	868190	-	[K] Predicted transcriptional regulators   
+427
+	FBFCCOII_00721	CDS	COG2731	868423	868875	+	[G] Beta-galactosidase, beta subunit   
+428
+	FBFCCOII_00722	CDS	NA	868945	870525	-	NA
+429
+	FBFCCOII_00723	CDS	COG0534	870739	872124	-	[V] Na+-driven multidrug efflux pump  
+430
+	FBFCCOII_00724	CDS	NA	872302	872748	+	NA
+431
+	FBFCCOII_00725	CDS	COG3525	872850	875036	+	[G] N-acetyl-beta-hexosaminidase     
+432
+	FBFCCOII_00726	CDS	COG4948	875291	876241	-	[MR] L-alanine-DL-glutamate epimerase and related enzymes of
+433
+	FBFCCOII_00727	CDS	COG1091	876279	877238	+	[M] dTDP-4-dehydrorhamnose reductase    
+	FBFCCOII_00728	CDS	COG1092	877235	878536	+	[R] Predicted SAM-dependent methyltransferases   
+434
+	FBFCCOII_00729	CDS	ROG4866	878625	881093	+	NA
+435
+	FBFCCOII_00730	CDS	COG1837	881108	881389	-	[R] Predicted RNA-binding protein (contains KH domain)
+436
+	FBFCCOII_00731	CDS	COG1092	881721	882905	-	[R] Predicted SAM-dependent methyltransferases   
+437
+	FBFCCOII_00732	CDS	COG0363	882923	883834	+	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+438
+	FBFCCOII_00733	CDS	NA	884033	884452	+	NA
+	FBFCCOII_00734	CDS	NA	884449	885015	+	NA
+439
+	FBFCCOII_00735	CDS	COG1189	885648	886376	-	[J] Predicted rRNA methylase   
+440
+	FBFCCOII_00736	CDS	NA	886537	887100	+	NA
+441
+	FBFCCOII_00737	CDS	COG1741	887162	887860	-	[R] Pirin-related protein    
+442
+	FBFCCOII_00738	CDS	ROG2234	888068	891229	+	NA
+443
+	FBFCCOII_00739	CDS	NA	891044	891670	-	NA
+444
+	FBFCCOII_00740	CDS	COG0235	891964	892779	-	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+	FBFCCOII_00741	CDS	COG1070	892793	894217	-	[G] Sugar (pentulose and hexulose) kinases 
+	FBFCCOII_00742	CDS	ROG0717	894242	894538	-	NA
+445
+	FBFCCOII_00743	CDS	COG2407	894659	896437	-	[G] L-fucose isomerase and related proteins 
+	FBFCCOII_00744	CDS	COG0738	896465	898399	-	[G] Fucose permease    
+446
+	FBFCCOII_00745	CDS	NA	898588	899100	+	NA
+447
+	FBFCCOII_00746	CDS	COG4409	899271	901295	+	[G] Neuraminidase (sialidase)    
+448
+	FBFCCOII_00747	CDS	COG1595	901504	902154	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+449
+	FBFCCOII_00748	CDS	COG0454	902366	902851	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+450
+	FBFCCOII_00749	CDS	COG1937	903073	903348	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_00750	CDS	COG2217	903479	905356	+	[P] Cation transport ATPase   
+451
+	FBFCCOII_00751	CDS	COG0422	905677	907500	+	[H] Thiamine biosynthesis protein ThiC  
+452
+	FBFCCOII_00752	CDS	COG4646	907600	908544	+	[KL] DNA methylase    
+453
+	FBFCCOII_00753	CDS	COG1595	908640	909254	+	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	FBFCCOII_00754	CDS	NA	909270	909941	+	NA
+454
+	FBFCCOII_00755	CDS	COG0265	910127	911092	+	[O] Trypsin-like serine proteases, typically periplasmic, contain
+455
+	FBFCCOII_00756	CDS	ROG1715	911389	913719	+	NA
+456
+	FBFCCOII_00757	CDS	COG0232	913757	915085	-	[F] dGTP triphosphohydrolase    
+	FBFCCOII_00758	CDS	COG2132	915145	917262	-	[Q] Putative multicopper oxidases   
+457
+	FBFCCOII_00759	CDS	COG0697	917411	918328	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+458
+	FBFCCOII_00760	CDS	COG3586	918375	919307	-	[S] Uncharacterized conserved protein   
+459
+	FBFCCOII_00761	tRNA	NA	919476	919550	-	NA
+460
+	FBFCCOII_00762	CDS	COG0787	919760	920863	+	[M] Alanine racemase    
+461
+	FBFCCOII_00763	CDS	COG4608	920982	921989	-	[E] ABC-type oligopeptide transport system, ATPase component
+	FBFCCOII_00764	CDS	COG0444	922008	922985	-	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+	FBFCCOII_00765	CDS	COG0747	922989	925238	-	[E] ABC-type dipeptide transport system, periplasmic component
+	FBFCCOII_00766	CDS	COG4239	925264	926871	-	[R] ABC-type uncharacterized transport system, permease component
+	FBFCCOII_00767	CDS	COG4174	926877	928265	-	[R] ABC-type uncharacterized transport system, permease component
+462
+	FBFCCOII_00768	CDS	COG0622	928434	929192	-	[R] Predicted phosphoesterase    
+463
+	FBFCCOII_00769	CDS	ROG0971	929296	930171	-	NA
+	FBFCCOII_00770	CDS	COG1893	930191	931108	-	[H] Ketopantoate reductase    
+	FBFCCOII_00771	CDS	COG2759	931136	932803	-	[F] Formyltetrahydrofolate synthetase    
+464
+	FBFCCOII_00772	CDS	COG3738	932946	933545	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_00773	CDS	COG0151	933576	934832	-	[F] Phosphoribosylamine-glycine ligase    
+465
+	FBFCCOII_00774	CDS	COG0629	935062	935562	-	[L] Single-stranded DNA-binding protein   
+466
+	FBFCCOII_00775	CDS	NA	935755	936972	+	NA
+	FBFCCOII_00776	CDS	COG0811	937011	937643	+	[U] Biopolymer transport proteins   
+	FBFCCOII_00777	CDS	COG0848	937651	938079	+	[U] Biopolymer transport protein   
+	FBFCCOII_00778	CDS	COG0242	938111	938659	+	[J] N-formylmethionyl-tRNA deformylase    
+467
+	FBFCCOII_00779	CDS	COG1449	938821	940008	-	[G] Alpha-amylase/alpha-mannosidase     
+	FBFCCOII_00780	CDS	COG0438	940059	941357	-	[M] Glycosyltransferase     
+468
+	FBFCCOII_00781	CDS	COG1501	941578	943974	+	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+469
+	FBFCCOII_00782	CDS	COG1169	944013	945026	-	[HQ] Isochorismate synthase    
+470
+	FBFCCOII_00783	CDS	ROG0433	945412	946698	+	NA
+	FBFCCOII_00784	CDS	ROG0489	946695	947255	+	NA
+	FBFCCOII_00785	CDS	ROG0768	947252	947914	+	NA
+	FBFCCOII_00786	CDS	ROG0433	947911	949143	+	NA
+	FBFCCOII_00787	CDS	COG2010	949140	951467	+	[C] Cytochrome c, mono- and diheme variants
+471
+	FBFCCOII_00788	CDS	NA	951537	952109	-	NA
+	FBFCCOII_00789	CDS	COG0346	952075	952308	-	[E] Lactoylglutathione lyase and related lyases 
+472
+	FBFCCOII_00790	CDS	COG3274	952486	953607	+	[S] Uncharacterized protein conserved in bacteria 
+473
+	FBFCCOII_00791	CDS	COG0538	953691	954938	-	[C] Isocitrate dehydrogenases    
+474
+	FBFCCOII_00792	CDS	NA	955065	955757	-	NA
+	FBFCCOII_00793	CDS	COG3339	955781	956068	-	[S] Uncharacterized conserved protein   
+475
+	FBFCCOII_00794	CDS	COG1236	956610	957980	+	[J] Predicted exonuclease of the beta-lactamase fold
+	FBFCCOII_00795	CDS	COG0125	957977	958597	+	[F] Thymidylate kinase    
+476
+	FBFCCOII_00796	CDS	COG0603	958661	959332	-	[R] Predicted PP-loop superfamily ATPase  
+	FBFCCOII_00797	CDS	COG0780	959341	959751	-	[R] Enzyme related to GTP cyclohydrolase I
+	FBFCCOII_00798	CDS	COG0668	959778	962213	-	[M] Small-conductance mechanosensitive channel   
+477
+	FBFCCOII_00799	CDS	COG0008	962443	963801	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+478
+	FBFCCOII_00800	CDS	COG0805	963896	965044	+	[U] Sec-independent protein secretion pathway component TatC
+	FBFCCOII_00801	CDS	COG1968	965069	965905	+	[V] Uncharacterized bacitracin resistance protein  
+479
+	FBFCCOII_00802	CDS	NA	966095	966901	-	NA
+480
+	FBFCCOII_00803	CDS	NA	967032	967865	+	NA
+	FBFCCOII_00804	CDS	COG0727	967872	968219	+	[R] Predicted Fe-S-cluster oxidoreductase   
+481
+	FBFCCOII_00805	CDS	COG0128	968304	969611	-	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+482
+	FBFCCOII_00806	CDS	COG0766	970541	971818	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+	FBFCCOII_00807	CDS	COG0776	971900	972169	+	[L] Bacterial nucleoid DNA-binding protein  
+483
+	FBFCCOII_00808	CDS	COG0082	972301	973386	+	[E] Chorismate synthase    
+	FBFCCOII_00809	CDS	ROG0871	973419	974312	+	NA
+484
+	FBFCCOII_00810	CDS	COG0369	974522	974956	-	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+485
+	FBFCCOII_00811	CDS	NA	975100	975579	-	NA
+486
+	FBFCCOII_00812	CDS	COG1408	975673	976467	-	[R] Predicted phosphohydrolases    
+487
+	FBFCCOII_00813	CDS	COG0822	976684	977376	+	[C] NifU homolog involved in Fe-S cluster
+	FBFCCOII_00814	CDS	ROG3070	977422	978429	+	NA
+488
+	FBFCCOII_00815	CDS	NA	978570	979160	-	NA
+489
+	FBFCCOII_00816	CDS	COG3392	979214	980467	+	[L] Adenine-specific DNA methylase   
+	FBFCCOII_00817	CDS	COG4974	980492	981379	+	[L] Site-specific recombinase XerD   
+490
+	FBFCCOII_00818	CDS	NA	981604	982656	+	NA
+	FBFCCOII_00819	CDS	NA	982684	983727	+	NA
+491
+	FBFCCOII_00820	CDS	NA	983839	985119	+	NA
+492
+	FBFCCOII_00821	CDS	COG1454	985246	986382	+	[C] Alcohol dehydrogenase, class IV  
+493
+	FBFCCOII_00822	CDS	COG0239	986606	986974	-	[D] Integral membrane protein possibly involved in
+494
+	FBFCCOII_00823	CDS	COG0524	987274	988236	+	[G] Sugar kinases, ribokinase family  
+495
+	FBFCCOII_00824	CDS	COG0774	988419	989735	-	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+496
+	FBFCCOII_00825	CDS	COG1208	989891	990802	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+	FBFCCOII_00826	CDS	ROG0779	990805	991554	+	NA
+497
+	FBFCCOII_00827	CDS	COG0815	991521	993470	-	[M] Apolipoprotein N-acyltransferase    
+498
+	FBFCCOII_00828	CDS	ROG8185	993548	993781	+	NA
+499
+	FBFCCOII_00829	CDS	ROG7132	993853	994296	+	NA
+500
+	FBFCCOII_00830	CDS	COG3525	994379	996373	+	[G] N-acetyl-beta-hexosaminidase     
+501
+	FBFCCOII_00831	CDS	ROG2632	996425	997381	-	NA
+502
+	FBFCCOII_00832	CDS	COG0755	997742	999550	-	[O] ABC-type transport system involved in cytochrome
+	FBFCCOII_00833	CDS	ROG1957	999540	1000223	-	NA
+503
+	FBFCCOII_00834	CDS	COG4607	1000380	1001303	-	[P] ABC-type enterochelin transport system, periplasmic component
+	FBFCCOII_00835	CDS	COG4604	1001346	1002104	-	[P] ABC-type enterochelin transport system, ATPase component
+	FBFCCOII_00836	CDS	COG4605	1002101	1003111	-	[P] ABC-type enterochelin transport system, permease component
+	FBFCCOII_00837	CDS	COG4606	1003104	1004069	-	[P] ABC-type enterochelin transport system, permease component
+	FBFCCOII_00838	CDS	ROG1155	1004074	1005162	-	NA
+	FBFCCOII_00839	CDS	COG3488	1005178	1006830	-	[C] Predicted thiol oxidoreductase   
+	FBFCCOII_00840	CDS	COG3489	1006951	1008057	-	[R] Predicted periplasmic lipoprotein   
+504
+	FBFCCOII_00841	CDS	COG1247	1008312	1008911	-	[M] Sortase and related acyltransferases  
+505
+	FBFCCOII_00842	CDS	NA	1009241	1009672	-	NA
+506
+	FBFCCOII_00843	CDS	COG0634	1009767	1010309	-	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+507
+	FBFCCOII_00844	CDS	NA	1010415	1010960	+	NA
+508
+	FBFCCOII_00845	CDS	ROG2046	1010917	1011507	-	NA
+509
+	FBFCCOII_00846	CDS	COG0749	1011743	1014580	+	[L] DNA polymerase I - 3'-5' exonuclease
+510
+	FBFCCOII_00847	CDS	COG1566	1014779	1015891	-	[V] Multidrug resistance efflux pump  
+	FBFCCOII_00848	CDS	COG5465	1015919	1016374	-	[S] Uncharacterized conserved protein   
+511
+	FBFCCOII_00849	CDS	COG0015	1016605	1018029	-	[F] Adenylosuccinate lyase    
+512
+	FBFCCOII_00850	CDS	COG2195	1018283	1019536	-	[E] Di- and tripeptidases   
+513
+	FBFCCOII_00851	CDS	COG0457	1019653	1022406	+	[R] FOG: TPR repeat   
+	FBFCCOII_00852	CDS	COG2084	1022439	1023272	+	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+	FBFCCOII_00853	CDS	NA	1023285	1024841	+	NA
+514
+	FBFCCOII_00854	CDS	COG0329	1025245	1026162	+	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+	FBFCCOII_00855	CDS	COG2942	1026182	1027363	+	[G] N-acyl-D-glucosamine 2-epimerase    
+515
+	FBFCCOII_00856	CDS	NA	1027487	1028101	-	NA
+	FBFCCOII_00857	CDS	COG1169	1028082	1029098	-	[HQ] Isochorismate synthase    
+516
+	FBFCCOII_00858	CDS	COG0512	1029129	1029746	+	[EH] Anthranilate/para-aminobenzoate synthases component II  
+	FBFCCOII_00859	CDS	COG1902	1029743	1030999	+	[C] NADH:flavin oxidoreductases, Old Yellow Enzyme family
+517
+	FBFCCOII_00860	CDS	COG5522	1031143	1031847	-	[S] Predicted integral membrane protein  
+	FBFCCOII_00861	CDS	COG3467	1031847	1032338	-	[R] Predicted flavin-nucleotide-binding protein   
+	FBFCCOII_00862	CDS	COG0518	1032335	1033051	-	[F] GMP synthase - Glutamine amidotransferase domain
+	FBFCCOII_00863	CDS	NA	1033044	1033154	-	NA
+	FBFCCOII_00864	CDS	COG2606	1033151	1033645	-	[S] Uncharacterized conserved protein   
+518
+	FBFCCOII_00865	CDS	COG2364	1033914	1035335	+	[S] Predicted membrane protein   
+519
+	FBFCCOII_00866	CDS	ROG4416	1035631	1036080	+	NA
+520
+	FBFCCOII_00867	tRNA	NA	1036365	1036440	-	NA
+521
+	FBFCCOII_00868	CDS	ROG1820	1036687	1036917	+	NA
+522
+	FBFCCOII_00869	CDS	NA	1036981	1037667	+	NA
+523
+	FBFCCOII_00870	CDS	NA	1037958	1038185	+	NA
+524
+	FBFCCOII_00871	CDS	COG1410	1038594	1042355	+	[E] Methionine synthase I, cobalamin-binding domain 
+	FBFCCOII_00872	CDS	COG2966	1042372	1043148	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00873	CDS	COG3610	1043145	1043648	+	[S] Uncharacterized conserved protein   
+525
+	FBFCCOII_00874	tRNA	NA	1043743	1043817	+	NA
+526
+	FBFCCOII_00875	CDS	COG0460	1044077	1045405	+	[E] Homoserine dehydrogenase    
+	FBFCCOII_00876	CDS	COG0527	1045426	1046643	+	[E] Aspartokinases     
+527
+	FBFCCOII_00877	CDS	NA	1047069	1047578	-	NA
+528
+	FBFCCOII_00878	CDS	COG5522	1047680	1048399	+	[S] Predicted integral membrane protein  
+529
+	FBFCCOII_00879	CDS	NA	1048493	1049908	-	NA
+530
+	FBFCCOII_00880	CDS	COG0209	1050510	1054109	+	[F] Ribonucleotide reductase, alpha subunit  
+531
+	FBFCCOII_00881	CDS	COG0169	1054376	1055308	+	[E] Shikimate 5-dehydrogenase    
+	FBFCCOII_00882	CDS	COG1194	1055301	1056326	+	[L] A/G-specific DNA glycosylase   
+	FBFCCOII_00883	CDS	COG2360	1056323	1056904	+	[O] Leu/Phe-tRNA-protein transferase    
+532
+	FBFCCOII_00884	CDS	COG0574	1057358	1060102	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+	FBFCCOII_00885	CDS	COG0166	1060474	1062021	-	[G] Glucose-6-phosphate isomerase    
+	FBFCCOII_00886	CDS	COG0790	1062037	1063125	-	[R] FOG: TPR repeat, SEL1 subfamily 
+533
+	FBFCCOII_00887	CDS	COG1092	1063221	1064114	-	[R] Predicted SAM-dependent methyltransferases   
+534
+	FBFCCOII_00888	CDS	NA	1064314	1065021	-	NA
+535
+	FBFCCOII_00889	CDS	NA	1065156	1065248	-	NA
+536
+	FBFCCOII_00890	CDS	COG1884	1065372	1067516	-	[I] Methylmalonyl-CoA mutase, N-terminal domain/subunit  
+	FBFCCOII_00891	CDS	COG1884	1067540	1069594	-	[I] Methylmalonyl-CoA mutase, N-terminal domain/subunit  
+537
+	FBFCCOII_00892	CDS	NA	1069800	1072430	+	NA
+	FBFCCOII_00893	CDS	NA	1072427	1073080	+	NA
+	FBFCCOII_00894	CDS	ROG5388	1073136	1074137	+	NA
+	FBFCCOII_00895	CDS	ROG1193	1074127	1075569	+	NA
+	FBFCCOII_00896	CDS	ROG1193	1075581	1077008	+	NA
+538
+	FBFCCOII_00897	CDS	COG0345	1077076	1077882	-	[E] Pyrroline-5-carboxylate reductase    
+539
+	FBFCCOII_00898	CDS	COG2818	1077953	1078615	-	[L] 3-methyladenine DNA glycosylase   
+	FBFCCOII_00899	CDS	COG1277	1078627	1079553	-	[R] ABC-type transport system involved in multi-copper
+540
+	FBFCCOII_00900	CDS	NA	1079653	1080600	+	NA
+541
+	FBFCCOII_00901	CDS	COG0515	1080680	1081729	+	[RTKL] Serine/threonine protein kinase   
+542
+	FBFCCOII_00902	CDS	COG3033	1081856	1083319	-	[E] Tryptophanase     
+543
+	FBFCCOII_00903	CDS	ROG8003	1083473	1084066	+	NA
+544
+	FBFCCOII_00904	CDS	ROG0843	1084056	1085078	-	NA
+	FBFCCOII_00905	CDS	COG0072	1085139	1087658	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	FBFCCOII_00906	CDS	COG0016	1087679	1088704	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+545
+	FBFCCOII_00907	CDS	COG2807	1088871	1090055	-	[P] Cyanate permease    
+546
+	FBFCCOII_00908	CDS	NA	1090251	1092290	-	NA
+547
+	FBFCCOII_00909	CDS	COG0326	1092299	1094140	+	[O] Molecular chaperone, HSP90 family  
+548
+	FBFCCOII_00910	CDS	COG1226	1094242	1095051	+	[P] Kef-type K+ transport systems, predicted NAD-binding
+549
+	FBFCCOII_00911	CDS	COG0787	1095343	1096449	+	[M] Alanine racemase    
+550
+	FBFCCOII_00912	CDS	COG1959	1096546	1096989	+	[K] Predicted transcriptional regulator   
+551
+	FBFCCOII_00913	CDS	COG2873	1097125	1098411	+	[E] O-acetylhomoserine sulfhydrylase    
+	FBFCCOII_00914	CDS	COG0031	1098448	1099377	+	[E] Cysteine synthase    
+	FBFCCOII_00915	CDS	COG0352	1099396	1100010	+	[H] Thiamine monophosphate synthase   
+	FBFCCOII_00916	CDS	COG2145	1100058	1100873	+	[H] Hydroxyethylthiazole kinase, sugar kinase family 
+552
+	FBFCCOII_00917	CDS	COG3600	1101161	1101646	+	[S] Uncharacterized phage-associated protein   
+553
+	FBFCCOII_00918	tRNA	NA	1101781	1101855	+	NA
+554
+	FBFCCOII_00919	CDS	COG3525	1102008	1103489	+	[G] N-acetyl-beta-hexosaminidase     
+	FBFCCOII_00920	CDS	COG3525	1103524	1105038	+	[G] N-acetyl-beta-hexosaminidase     
+	FBFCCOII_00921	CDS	COG1703	1105057	1106076	+	[E] Putative periplasmic protein kinase ArgK and
+555
+	FBFCCOII_00922	CDS	COG0494	1106051	1106527	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+556
+	FBFCCOII_00923	CDS	COG2015	1106876	1108351	+	[Q] Alkyl sulfatase and related hydrolases 
+557
+	FBFCCOII_00924	CDS	NA	1108588	1109109	+	NA
+558
+	FBFCCOII_00925	CDS	COG0817	1109203	1109706	-	[L] Holliday junction resolvasome, endonuclease subunit 
+	FBFCCOII_00926	CDS	COG0513	1109755	1110957	-	[LKJ] Superfamily II DNA and RNA helicases
+	FBFCCOII_00927	CDS	COG0491	1111019	1111648	-	[R] Zn-dependent hydrolases, including glyoxylases  
+559
+	FBFCCOII_00928	CDS	COG0418	1111740	1112741	-	[F] Dihydroorotase     
+560
+	FBFCCOII_00929	tRNA	NA	1113050	1113127	-	NA
+561
+	FBFCCOII_00930	CDS	COG1846	1113363	1113833	+	[K] Transcriptional regulators    
+	FBFCCOII_00931	CDS	COG0845	1113840	1114976	+	[M] Membrane-fusion protein    
+	FBFCCOII_00932	CDS	COG0841	1114984	1118091	+	[V] Cation/multidrug efflux pump   
+562
+	FBFCCOII_00933	CDS	COG0262	1118195	1118674	-	[H] Dihydrofolate reductase    
+	FBFCCOII_00934	CDS	COG0207	1118697	1119512	-	[F] Thymidylate synthase    
+563
+	FBFCCOII_00935	CDS	COG1502	1119657	1121111	+	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+564
+	FBFCCOII_00936	CDS	COG5016	1121218	1122741	+	[C] Pyruvate/oxaloacetate carboxyltransferase    
+565
+	FBFCCOII_00937	CDS	NA	1122851	1123555	-	NA
+566
+	FBFCCOII_00938	CDS	COG0534	1123759	1125153	-	[V] Na+-driven multidrug efflux pump  
+	FBFCCOII_00939	CDS	COG0489	1125276	1126352	-	[D] ATPases involved in chromosome partitioning 
+567
+	FBFCCOII_00940	CDS	ROG1856	1126606	1126818	-	NA
+	FBFCCOII_00941	CDS	NA	1126828	1127025	-	NA
+568
+	FBFCCOII_00942	CDS	COG0119	1127252	1128886	-	[E] Isopropylmalate/homocitrate/citramalate synthases    
+569
+	FBFCCOII_00943	CDS	COG0339	1128902	1131178	+	[E] Zn-dependent oligopeptidases    
+570
+	FBFCCOII_00944	CDS	COG0845	1131401	1132660	+	[M] Membrane-fusion protein    
+	FBFCCOII_00945	CDS	COG0841	1132722	1135937	+	[V] Cation/multidrug efflux pump   
+	FBFCCOII_00946	CDS	COG1538	1135977	1137410	+	[MU] Outer membrane protein   
+571
+	FBFCCOII_00947	CDS	NA	1138079	1138834	+	NA
+	FBFCCOII_00948	CDS	COG2755	1138873	1141929	+	[E] Lysophospholipase L1 and related esterases 
+572
+	FBFCCOII_00949	CDS	COG4112	1142075	1142695	-	[R] Predicted phosphoesterase (MutT family)  
+573
+	FBFCCOII_00950	CDS	NA	1142795	1143334	-	NA
+574
+	FBFCCOII_00951	CDS	COG1762	1143524	1143997	+	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+	FBFCCOII_00952	CDS	COG0038	1143994	1145784	+	[P] Chloride channel protein EriC  
+575
+	FBFCCOII_00953	CDS	ROG1238	1146231	1147241	+	NA
+576
+	FBFCCOII_00954	CDS	COG0334	1147842	1149197	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+577
+	FBFCCOII_00955	CDS	COG0763	1149577	1150707	-	[M] Lipid A disaccharide synthetase  
+578
+	FBFCCOII_00956	CDS	COG0586	1150806	1151480	+	[S] Uncharacterized membrane-associated protein   
+	FBFCCOII_00957	CDS	ROG0040	1151495	1152010	+	NA
+579
+	FBFCCOII_00958	CDS	COG1633	1152028	1152372	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_00959	CDS	COG1633	1152655	1152999	-	[S] Uncharacterized conserved protein   
+580
+	FBFCCOII_00960	CDS	ROG6068	1153180	1153683	-	NA
+581
+	FBFCCOII_00961	tRNA	NA	1153857	1153931	+	NA
+582
+	FBFCCOII_00962	CDS	NA	1154353	1155234	-	NA
+	FBFCCOII_00963	CDS	NA	1155227	1155508	-	NA
+	FBFCCOII_00964	CDS	ROG6006	1155505	1157139	-	NA
+	FBFCCOII_00965	CDS	ROG2552	1157148	1157363	-	NA
+583
+	FBFCCOII_00966	CDS	ROG7556	1157680	1158300	+	NA
+	FBFCCOII_00967	CDS	COG3177	1158351	1158644	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_00968	CDS	NA	1158641	1158898	+	NA
+584
+	FBFCCOII_00969	CDS	COG1343	1160541	1160831	-	[L] Uncharacterized protein predicted to be involved
+	FBFCCOII_00970	CDS	COG1518	1160846	1161865	-	[L] Uncharacterized protein predicted to be involved
+	FBFCCOII_00971	CDS	COG1468	1161862	1162530	-	[L] RecB family exonuclease   
+585
+	FBFCCOII_00972	CDS	COG1203	1162627	1165098	+	[R] Predicted helicases    
+	FBFCCOII_00973	CDS	ROG0033	1165121	1165816	+	NA
+	FBFCCOII_00974	CDS	ROG2628	1165833	1167824	+	NA
+	FBFCCOII_00975	CDS	COG3649	1167867	1168691	+	[L] Uncharacterized protein predicted to be involved
+586
+	FBFCCOII_00976	CDS	COG3274	1169693	1170847	-	[S] Uncharacterized protein conserved in bacteria 
+587
+	FBFCCOII_00977	CDS	NA	1171339	1171824	-	NA
+588
+	FBFCCOII_00978	CDS	COG0506	1172028	1175585	-	[E] Proline dehydrogenase    
+589
+	FBFCCOII_00979	CDS	ROG2377	1175769	1176764	-	NA
+	FBFCCOII_00980	CDS	COG1847	1176764	1177213	-	[R] Predicted RNA-binding protein   
+590
+	FBFCCOII_00981	CDS	COG0753	1177726	1179993	+	[P] Catalase     
+591
+	FBFCCOII_00982	tRNA	NA	1180219	1180293	-	NA
+592
+	FBFCCOII_00983	CDS	COG0755	1180490	1183141	-	[O] ABC-type transport system involved in cytochrome
+593
+	FBFCCOII_00984	CDS	COG1592	1183232	1183807	-	[C] Rubrerythrin     
+594
+	FBFCCOII_00985	CDS	COG1670	1184113	1184709	+	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+595
+	FBFCCOII_00986	CDS	NA	1184784	1185413	-	NA
+	FBFCCOII_00987	CDS	COG1674	1185433	1187958	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+596
+	FBFCCOII_00988	CDS	COG1596	1188768	1189682	+	[M] Periplasmic protein involved in polysaccharide export
+	FBFCCOII_00989	CDS	COG3206	1189813	1192215	+	[M] Uncharacterized protein involved in exopolysaccharide biosynthesis
+	FBFCCOII_00990	CDS	COG4464	1192279	1192950	+	[GM] Capsular polysaccharide biosynthesis protein  
+	FBFCCOII_00991	CDS	COG2148	1192989	1193837	+	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	FBFCCOII_00992	CDS	COG1216	1193865	1194641	+	[R] Predicted glycosyltransferases    
+	FBFCCOII_00993	CDS	COG0438	1194676	1195830	+	[M] Glycosyltransferase     
+	FBFCCOII_00994	CDS	COG0438	1195827	1197005	+	[M] Glycosyltransferase     
+	FBFCCOII_00995	CDS	COG0438	1197039	1198211	+	[M] Glycosyltransferase     
+	FBFCCOII_00996	CDS	ROG5646	1198208	1199173	+	NA
+	FBFCCOII_00997	CDS	COG3307	1199214	1200353	+	[M] Lipid A core - O-antigen ligase
+	FBFCCOII_00998	CDS	ROG0280	1200343	1201173	+	NA
+	FBFCCOII_00999	CDS	COG0438	1201176	1202219	+	[M] Glycosyltransferase     
+	FBFCCOII_01000	CDS	COG0438	1202219	1203358	+	[M] Glycosyltransferase     
+	FBFCCOII_01001	CDS	COG0438	1203355	1204530	+	[M] Glycosyltransferase     
+	FBFCCOII_01002	CDS	COG3235	1204556	1206130	+	[S] Predicted membrane protein   
+	FBFCCOII_01003	CDS	COG0110	1206164	1206703	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+	FBFCCOII_01004	CDS	COG1216	1206707	1207555	+	[R] Predicted glycosyltransferases    
+	FBFCCOII_01005	CDS	COG0463	1207580	1208584	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_01006	CDS	COG0463	1208639	1209667	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_01007	CDS	ROG1263	1209673	1210833	+	NA
+	FBFCCOII_01008	CDS	COG2244	1210826	1212358	+	[R] Membrane protein involved in the export
+	FBFCCOII_01009	CDS	COG0778	1212395	1213399	+	[C] Nitroreductase     
+597
+	FBFCCOII_01010	CDS	COG1835	1213615	1214466	+	[I] Predicted acyltransferases    
+	FBFCCOII_01011	CDS	COG1835	1214417	1215673	+	[I] Predicted acyltransferases    
+598
+	FBFCCOII_01012	CDS	COG2067	1215904	1216818	+	[I] Long-chain fatty acid transport protein 
+599
+	FBFCCOII_01013	CDS	ROG0325	1216898	1218046	+	NA
+600
+	FBFCCOII_01014	CDS	COG4154	1218117	1218536	+	[G] Fucose dissimilation pathway protein FucU 
+	FBFCCOII_01015	CDS	COG1168	1218562	1219764	+	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+601
+	FBFCCOII_01016	CDS	COG0143	1219992	1221644	+	[J] Methionyl-tRNA synthetase    
+	FBFCCOII_01017	CDS	COG1165	1221650	1223251	+	[H] 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase    
+602
+	FBFCCOII_01018	CDS	ROG4985	1223704	1224528	+	NA
+603
+	FBFCCOII_01019	CDS	COG0281	1225347	1226711	-	[C] Malic enzyme    
+604
+	FBFCCOII_01020	CDS	COG3480	1226833	1231209	+	[T] Predicted secreted protein containing a PDZ
+605
+	FBFCCOII_01021	CDS	COG2273	1231476	1232372	+	[G] Beta-glucanase/Beta-glucan synthetase    
+606
+	FBFCCOII_01022	CDS	COG1472	1232475	1233536	-	[G] Beta-glucosidase-related glycosidases    
+	FBFCCOII_01023	CDS	COG0461	1233550	1234119	-	[F] Orotate phosphoribosyltransferase    
+607
+	FBFCCOII_01024	CDS	COG1376	1234251	1234898	+	[S] Uncharacterized protein conserved in bacteria 
+608
+	FBFCCOII_01025	CDS	ROG3872	1235092	1238001	+	NA
+	FBFCCOII_01026	CDS	COG0635	1238014	1239123	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+609
+	FBFCCOII_01027	CDS	NA	1239237	1240064	+	NA
+	FBFCCOII_01028	CDS	NA	1240126	1241676	+	NA
+	FBFCCOII_01029	CDS	NA	1241688	1242305	+	NA
+	FBFCCOII_01030	CDS	NA	1242363	1243001	+	NA
+610
+	FBFCCOII_01031	CDS	NA	1243099	1243719	+	NA
+	FBFCCOII_01032	CDS	COG0635	1243764	1243907	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+611
+	FBFCCOII_01033	CDS	ROG0210	1244201	1244980	-	NA
+	FBFCCOII_01034	CDS	COG0172	1245017	1246402	-	[J] Seryl-tRNA synthetase    
+612
+	FBFCCOII_01035	CDS	COG1063	1246659	1247765	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+613
+	FBFCCOII_01036	CDS	NA	1247865	1248374	-	NA
+	FBFCCOII_01037	CDS	COG0388	1248397	1249254	-	[R] Predicted amidohydrolase    
+614
+	FBFCCOII_01038	CDS	COG0714	1249358	1250362	+	[R] MoxR-like ATPases    
+	FBFCCOII_01039	CDS	COG1721	1250401	1251303	+	[R] Uncharacterized conserved protein (some members contain
+	FBFCCOII_01040	CDS	COG0193	1251304	1251993	+	[J] Peptidyl-tRNA hydrolase    
+615
+	FBFCCOII_01041	CDS	COG0744	1252293	1254782	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+	FBFCCOII_01042	CDS	ROG3026	1254795	1256348	+	NA
+	FBFCCOII_01043	CDS	ROG1343	1256375	1257763	+	NA
+616
+	FBFCCOII_01044	CDS	COG0104	1257985	1259256	+	[F] Adenylosuccinate synthase    
+	FBFCCOII_01045	CDS	NA	1259304	1259504	+	NA
+617
+	FBFCCOII_01046	CDS	ROG4985	1259672	1260349	-	NA
+618
+	FBFCCOII_01047	CDS	COG3659	1260961	1262445	+	[M] Carbohydrate-selective porin    
+619
+	FBFCCOII_01048	CDS	COG1740	1262531	1263751	+	[C] Ni,Fe-hydrogenase I small subunit  
+	FBFCCOII_01049	CDS	COG0374	1263778	1265535	+	[C] Ni,Fe-hydrogenase I large subunit  
+	FBFCCOII_01050	CDS	COG1969	1265532	1266704	+	[C] Ni,Fe-hydrogenase I cytochrome b subunit 
+	FBFCCOII_01051	CDS	COG0680	1266726	1267271	+	[C] Ni,Fe-hydrogenase maturation factor   
+	FBFCCOII_01052	CDS	COG0375	1267264	1267605	+	[R] Zn finger protein HypA/HybF (possibly regulating
+620
+	FBFCCOII_01053	CDS	NA	1267730	1268677	+	NA
+621
+	FBFCCOII_01054	CDS	COG3296	1268774	1269175	-	[S] Uncharacterized protein conserved in bacteria 
+622
+	FBFCCOII_01055	CDS	COG0791	1269363	1270094	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+623
+	FBFCCOII_01056	CDS	COG3525	1270284	1272554	-	[G] N-acetyl-beta-hexosaminidase     
+624
+	FBFCCOII_01057	CDS	COG0778	1272926	1273573	-	[C] Nitroreductase     
+	FBFCCOII_01058	CDS	COG0079	1273606	1274697	-	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+625
+	FBFCCOII_01059	CDS	NA	1275032	1275169	-	NA
+	FBFCCOII_01060	CDS	ROG5200	1275166	1275378	-	NA
+626
+	FBFCCOII_01061	CDS	ROG4899	1275534	1276022	+	NA
+627
+	FBFCCOII_01062	CDS	COG0342	1276296	1277780	+	[U] Preprotein translocase subunit SecD  
+628
+	FBFCCOII_01063	CDS	ROG2632	1277701	1278741	-	NA
+629
+	FBFCCOII_01064	CDS	COG1951	1279261	1280868	+	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+630
+	FBFCCOII_01065	CDS	NA	1281005	1281541	-	NA
+631
+	FBFCCOII_01066	CDS	COG0720	1281717	1282169	+	[H] 6-pyruvoyl-tetrahydropterin synthase    
+632
+	FBFCCOII_01067	CDS	COG4884	1282267	1283025	-	[S] Uncharacterized protein conserved in bacteria 
+633
+	FBFCCOII_01068	CDS	COG3525	1283146	1284885	-	[G] N-acetyl-beta-hexosaminidase     
+	FBFCCOII_01069	CDS	COG0541	1284924	1286426	-	[U] Signal recognition particle GTPase  
+634
+	FBFCCOII_01070	CDS	COG0379	1286475	1287410	+	[H] Quinolinate synthase    
+	FBFCCOII_01071	CDS	COG1565	1287427	1288449	+	[S] Uncharacterized conserved protein   
+635
+	FBFCCOII_01072	CDS	COG3209	1288822	1294299	+	[M] Rhs family protein   
+636
+	FBFCCOII_01073	CDS	NA	1294593	1295087	+	NA
+637
+	FBFCCOII_01074	CDS	COG3209	1295375	1296253	+	[M] Rhs family protein   
+638
+	FBFCCOII_01075	CDS	NA	1298535	1299041	+	NA
+639
+	FBFCCOII_01076	CDS	COG2331	1299177	1299284	+	[S] Uncharacterized protein conserved in bacteria 
+640
+	FBFCCOII_01077	CDS	COG3061	1299539	1299880	+	[M] Cell envelope opacity-associated protein A 
+641
+	FBFCCOII_01078	CDS	COG0377	1300239	1300820	+	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+	FBFCCOII_01079	CDS	COG0852	1300866	1301450	+	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+	FBFCCOII_01080	CDS	NA	1301486	1302286	+	NA
+	FBFCCOII_01081	CDS	COG1939	1302283	1302594	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01082	CDS	COG0318	1302607	1303737	+	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+642
+	FBFCCOII_01083	CDS	COG0790	1304023	1306794	+	[R] FOG: TPR repeat, SEL1 subfamily 
+643
+	FBFCCOII_01084	CDS	ROG3552	1307092	1310793	-	NA
+644
+	FBFCCOII_01085	CDS	ROG1115	1310944	1311684	-	NA
+645
+	FBFCCOII_01086	CDS	COG0673	1312037	1313359	-	[R] Predicted dehydrogenases and related proteins 
+	FBFCCOII_01087	CDS	COG0339	1313391	1315493	-	[E] Zn-dependent oligopeptidases    
+646
+	FBFCCOII_01088	CDS	NA	1315747	1315851	-	NA
+	FBFCCOII_01089	CDS	ROG0289	1315881	1317494	-	NA
+	FBFCCOII_01090	CDS	COG0018	1317508	1319265	-	[J] Arginyl-tRNA synthetase    
+647
+	FBFCCOII_01091	CDS	NA	1319431	1319574	-	NA
+648
+	FBFCCOII_01092	CDS	COG1594	1319941	1320795	-	[K] DNA-directed RNA polymerase, subunit M/Transcription elongation
+649
+	FBFCCOII_01093	CDS	COG0454	1320981	1321481	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+650
+	FBFCCOII_01094	CDS	ROG1694	1321649	1322659	+	NA
+651
+	FBFCCOII_01095	CDS	COG3070	1322697	1323071	-	[K] Regulator of competence-specific genes  
+652
+	FBFCCOII_01096	CDS	COG3896	1323195	1324052	+	[V] Chloramphenicol 3-O-phosphotransferase    
+653
+	FBFCCOII_01097	tRNA	NA	1324182	1324269	+	NA
+654
+	FBFCCOII_01098	CDS	COG0178	1324394	1329916	-	[L] Excinuclease ATPase subunit   
+655
+	FBFCCOII_01099	CDS	COG0653	1330133	1333486	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+	FBFCCOII_01100	CDS	COG1246	1333561	1334661	+	[E] N-acetylglutamate synthase and related acetyltransferases 
+656
+	FBFCCOII_01101	CDS	NA	1335804	1336385	+	NA
+	FBFCCOII_01102	CDS	COG5525	1336379	1338103	+	[R] Bacteriophage tail assembly protein  
+	FBFCCOII_01103	CDS	COG5200	1338107	1338385	+	[A] U1 snRNP component, mediates U1 snRNP
+	FBFCCOII_01104	CDS	NA	1338387	1339964	+	NA
+	FBFCCOII_01105	CDS	COG0740	1340013	1341125	+	[OU] Protease subunit of ATP-dependent Clp proteases
+657
+	FBFCCOII_01106	CDS	NA	1341192	1341575	+	NA
+	FBFCCOII_01107	CDS	NA	1341615	1342619	+	NA
+658
+	FBFCCOII_01108	CDS	NA	1342710	1343042	+	NA
+	FBFCCOII_01109	CDS	NA	1343039	1343809	+	NA
+	FBFCCOII_01110	CDS	NA	1343831	1345162	+	NA
+	FBFCCOII_01111	CDS	NA	1345222	1345926	+	NA
+	FBFCCOII_01112	CDS	NA	1345931	1346389	+	NA
+	FBFCCOII_01113	CDS	ROG3666	1346419	1346631	+	NA
+	FBFCCOII_01114	CDS	NA	1346621	1347373	+	NA
+	FBFCCOII_01115	CDS	ROG8514	1347377	1347793	+	NA
+	FBFCCOII_01116	CDS	NA	1347809	1348258	+	NA
+	FBFCCOII_01117	CDS	NA	1348271	1350607	+	NA
+	FBFCCOII_01118	CDS	ROG5813	1350638	1352401	+	NA
+	FBFCCOII_01119	CDS	NA	1352404	1352802	+	NA
+	FBFCCOII_01120	CDS	NA	1352804	1353082	+	NA
+	FBFCCOII_01121	CDS	COG5421	1353087	1353365	+	[L] Transposase     
+	FBFCCOII_01122	CDS	ROG8003	1353421	1354113	+	NA
+659
+	FBFCCOII_01123	CDS	COG2944	1354462	1354881	-	[K] Predicted transcriptional regulator   
+	FBFCCOII_01124	CDS	ROG5215	1354927	1355133	-	NA
+660
+	FBFCCOII_01125	CDS	NA	1355342	1356253	-	NA
+	FBFCCOII_01126	CDS	COG5444	1356315	1356965	-	[S] Uncharacterized conserved protein   
+661
+	FBFCCOII_01127	CDS	NA	1357067	1357975	+	NA
+662
+	FBFCCOII_01128	CDS	COG0248	1358044	1358265	-	[FP] Exopolyphosphatase     
+663
+	FBFCCOII_01129	CDS	COG2386	1358550	1358825	+	[O] ABC-type transport system involved in cytochrome
+	FBFCCOII_01130	CDS	NA	1358843	1359106	+	NA
+	FBFCCOII_01131	CDS	NA	1359113	1359385	+	NA
+	FBFCCOII_01132	CDS	NA	1359395	1359802	+	NA
+	FBFCCOII_01133	CDS	COG2411	1359816	1360607	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_01134	CDS	COG5119	1360613	1361377	+	[R] Uncharacterized protein, contains ParB-like nuclease domain
+664
+	FBFCCOII_01135	CDS	COG0338	1361588	1362385	+	[L] Site-specific DNA methylase   
+	FBFCCOII_01136	CDS	COG3598	1362382	1363506	+	[L] RecA-family ATPase    
+	FBFCCOII_01137	CDS	ROG3157	1363503	1365104	+	NA
+665
+	FBFCCOII_01138	CDS	COG0582	1365159	1366535	-	[L] Integrase     
+666
+	FBFCCOII_01139	tRNA	NA	1366602	1366676	-	NA
+667
+	FBFCCOII_01140	CDS	COG0494	1366887	1367447	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+668
+	FBFCCOII_01141	CDS	COG0593	1367976	1369382	+	[L] ATPase involved in DNA replication initiation
+669
+	FBFCCOII_01142	CDS	COG1131	1369532	1370467	+	[V] ABC-type multidrug transport system, ATPase component
+	FBFCCOII_01143	CDS	COG1277	1370524	1371306	+	[R] ABC-type transport system involved in multi-copper
+	FBFCCOII_01144	CDS	COG3225	1371341	1372912	+	[N] ABC-type uncharacterized transport system involved in
+	FBFCCOII_01145	CDS	ROG3361	1372941	1374995	+	NA
+	FBFCCOII_01146	CDS	COG0327	1375009	1375788	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_01147	CDS	COG0564	1375805	1376776	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+670
+	FBFCCOII_01148	CDS	COG0077	1377149	1378306	+	[E] Prephenate dehydratase    
+	FBFCCOII_01149	CDS	COG3669	1378352	1379968	+	[G] Alpha-L-fucosidase     
+	FBFCCOII_01150	CDS	COG0272	1379993	1382377	+	[L] NAD-dependent DNA ligase (contains BRCT domain
+671
+	FBFCCOII_01151	CDS	COG0558	1382555	1383163	+	[I] Phosphatidylglycerophosphate synthase    
+672
+	FBFCCOII_01152	CDS	NA	1383389	1384627	-	NA
+673
+	FBFCCOII_01153	CDS	COG0513	1385168	1386439	+	[LKJ] Superfamily II DNA and RNA helicases
+674
+	FBFCCOII_01154	CDS	NA	1386551	1387159	+	NA
+675
+	FBFCCOII_01155	CDS	COG0673	1387655	1389100	+	[R] Predicted dehydrogenases and related proteins 
+676
+	FBFCCOII_01156	CDS	ROG2738	1389402	1390544	+	NA
+	FBFCCOII_01157	CDS	COG2234	1390549	1391508	+	[R] Predicted aminopeptidases    
+677
+	FBFCCOII_01158	CDS	NA	1391527	1392717	-	NA
+678
+	FBFCCOII_01159	CDS	COG1508	1392831	1394228	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+679
+	FBFCCOII_01160	CDS	ROG4009	1394343	1395053	+	NA
+680
+	FBFCCOII_01161	CDS	NA	1395331	1395432	+	NA
+	FBFCCOII_01162	CDS	COG0384	1395443	1396219	+	[R] Predicted epimerase, PhzC/PhzF homolog  
+681
+	FBFCCOII_01163	CDS	NA	1396359	1396481	+	NA
+682
+	FBFCCOII_01164	CDS	COG1971	1396713	1397312	+	[S] Predicted membrane protein   
+683
+	FBFCCOII_01165	CDS	NA	1397421	1399649	+	NA
+	FBFCCOII_01166	CDS	NA	1399666	1400883	+	NA
+684
+	FBFCCOII_01167	CDS	COG2256	1401114	1402493	-	[L] ATPase related to the helicase subunit
+685
+	FBFCCOII_01168	CDS	NA	1402603	1402998	-	NA
+686
+	FBFCCOII_01169	CDS	COG0451	1403362	1404288	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+	FBFCCOII_01170	CDS	ROG0325	1404315	1405409	-	NA
+	FBFCCOII_01171	CDS	ROG3487	1405422	1406297	-	NA
+687
+	FBFCCOII_01172	CDS	NA	1406406	1407125	-	NA
+688
+	FBFCCOII_01173	CDS	COG1994	1407229	1407921	+	[R] Zn-dependent proteases    
+689
+	FBFCCOII_01174	CDS	COG0442	1407979	1409499	+	[J] Prolyl-tRNA synthetase    
+690
+	FBFCCOII_01175	tRNA	NA	1409783	1409857	+	NA
+691
+	FBFCCOII_01176	CDS	COG2155	1410638	1411051	-	[S] Uncharacterized conserved protein   
+692
+	FBFCCOII_01177	CDS	NA	1411753	1412163	-	NA
+	FBFCCOII_01178	CDS	COG3209	1412191	1418040	-	[M] Rhs family protein   
+693
+	FBFCCOII_01179	CDS	COG0531	1418453	1420021	+	[E] Amino acid transporters   
+	FBFCCOII_01180	CDS	COG2066	1420014	1420955	+	[E] Glutaminase     
+694
+	FBFCCOII_01181	CDS	COG0454	1421184	1421594	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+695
+	FBFCCOII_01182	CDS	COG1115	1422058	1423467	+	[E] Na+/alanine symporter    
+696
+	FBFCCOII_01183	tRNA	NA	1423555	1423630	+	NA
+697
+	FBFCCOII_01184	CDS	COG0216	1423870	1424946	+	[J] Protein chain release factor A 
+	FBFCCOII_01185	CDS	COG2890	1424963	1425868	+	[J] Methylase of polypeptide chain release factors
+	FBFCCOII_01186	CDS	COG1198	1425891	1428107	+	[L] Primosomal protein N' (replication factor Y)
+698
+	FBFCCOII_01187	CDS	COG0253	1428167	1428991	+	[E] Diaminopimelate epimerase    
+699
+	FBFCCOII_01188	CDS	COG0755	1429035	1429814	-	[O] ABC-type transport system involved in cytochrome
+700
+	FBFCCOII_01189	CDS	NA	1429954	1430220	-	NA
+701
+	FBFCCOII_01190	tRNA	NA	1430431	1430505	+	NA
+702
+	FBFCCOII_01191	CDS	COG2226	1430570	1431241	+	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+	FBFCCOII_01192	CDS	COG0534	1431238	1432743	+	[V] Na+-driven multidrug efflux pump  
+703
+	FBFCCOII_01193	tRNA	NA	1432864	1432939	+	NA
+704
+	FBFCCOII_01194	CDS	COG0119	1433167	1434321	-	[E] Isopropylmalate/homocitrate/citramalate synthases    
+705
+	FBFCCOII_01195	CDS	COG0608	1435478	1437217	-	[L] Single-stranded DNA-specific exonuclease   
+706
+	FBFCCOII_01196	CDS	ROG1382	1437407	1440268	-	NA
+707
+	FBFCCOII_01197	CDS	COG0803	1440711	1441652	+	[P] ABC-type metal ion transport system, periplasmic
+	FBFCCOII_01198	CDS	NA	1441649	1442083	+	NA
+	FBFCCOII_01199	CDS	COG1121	1442074	1442880	+	[P] ABC-type Mn/Zn transport systems, ATPase component
+	FBFCCOII_01200	CDS	COG1108	1442877	1443740	+	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+708
+	FBFCCOII_01201	CDS	COG3880	1443808	1444344	+	[S] Uncharacterized protein with conserved CXXC pairs
+	FBFCCOII_01202	CDS	COG3869	1444350	1445405	+	[E] Arginine kinase    
+	FBFCCOII_01203	CDS	COG0542	1445434	1448016	+	[O] ATPases with chaperone activity, ATP-binding subunit
+709
+	FBFCCOII_01204	CDS	ROG4510	1448147	1450693	+	NA
+710
+	FBFCCOII_01205	CDS	COG0607	1450833	1451174	-	[P] Rhodanese-related sulfurtransferase    
+711
+	FBFCCOII_01206	CDS	COG0179	1451413	1452249	-	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+712
+	FBFCCOII_01207	CDS	COG0119	1452459	1454015	+	[E] Isopropylmalate/homocitrate/citramalate synthases    
+713
+	FBFCCOII_01208	CDS	ROG1158	1454137	1455051	+	NA
+714
+	FBFCCOII_01209	CDS	COG1610	1455150	1455626	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_01210	CDS	COG1211	1455623	1456318	+	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+	FBFCCOII_01211	CDS	COG2085	1456315	1457169	+	[R] Predicted dinucleotide-binding enzymes   
+715
+	FBFCCOII_01212	CDS	COG1807	1457308	1459599	+	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+716
+	FBFCCOII_01213	CDS	COG0180	1459723	1460688	+	[J] Tryptophanyl-tRNA synthetase    
+717
+	FBFCCOII_01214	CDS	COG0589	1460777	1461247	+	[T] Universal stress protein UspA and related
+	FBFCCOII_01215	CDS	COG1692	1461280	1462083	+	[S] Uncharacterized protein conserved in bacteria 
+718
+	FBFCCOII_01216	CDS	COG1179	1462384	1463178	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+	FBFCCOII_01217	CDS	COG3490	1463175	1463690	+	[S] Uncharacterized protein conserved in bacteria 
+719
+	FBFCCOII_01218	tRNA	NA	1463794	1463879	+	NA
+720
+	FBFCCOII_01219	CDS	COG0524	1464090	1465052	-	[G] Sugar kinases, ribokinase family  
+721
+	FBFCCOII_01220	CDS	COG1051	1465548	1466051	+	[F] ADP-ribose pyrophosphatase    
+722
+	FBFCCOII_01221	CDS	COG0156	1466897	1468096	+	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+	FBFCCOII_01222	CDS	COG1262	1468132	1470750	+	[S] Uncharacterized conserved protein   
+723
+	FBFCCOII_01223	CDS	COG1192	1470914	1471684	+	[D] ATPases involved in chromosome partitioning 
+724
+	FBFCCOII_01224	CDS	COG0515	1471925	1474678	+	[RTKL] Serine/threonine protein kinase   
+725
+	FBFCCOII_01225	CDS	NA	1474801	1475343	+	NA
+726
+	FBFCCOII_01226	CDS	NA	1475659	1476351	-	NA
+	FBFCCOII_01227	CDS	NA	1476371	1476910	-	NA
+	FBFCCOII_01228	CDS	NA	1476907	1478550	-	NA
+727
+	FBFCCOII_01229	tRNA	NA	1478979	1479053	+	NA
+728
+	FBFCCOII_01230	CDS	NA	1479691	1480650	+	NA
+729
+	FBFCCOII_01231	tRNA	NA	1481167	1481242	-	NA
+730
+	FBFCCOII_01232	CDS	COG2104	1481770	1482027	+	[H] Sulfur transfer protein involved in thiamine
+	FBFCCOII_01233	CDS	COG0323	1482070	1483968	+	[L] DNA mismatch repair enzyme (predicted ATPase)
+731
+	FBFCCOII_01234	CDS	COG3307	1484298	1486250	+	[M] Lipid A core - O-antigen ligase
+732
+	FBFCCOII_01235	CDS	COG3189	1486647	1487003	+	[S] Uncharacterized conserved protein   
+733
+	FBFCCOII_01236	CDS	COG0181	1487340	1488317	-	[H] Porphobilinogen deaminase    
+	FBFCCOII_01237	CDS	COG0373	1488307	1489329	-	[H] Glutamyl-tRNA reductase    
+	FBFCCOII_01238	CDS	COG0755	1489329	1490087	-	[O] ABC-type transport system involved in cytochrome
+	FBFCCOII_01239	CDS	COG1469	1490108	1490902	-	[S] Uncharacterized conserved protein   
+734
+	FBFCCOII_01240	CDS	COG0238	1491010	1491300	-	[J] Ribosomal protein S18   
+	FBFCCOII_01241	CDS	COG0267	1491287	1491460	-	[J] Ribosomal protein L33   
+	FBFCCOII_01242	CDS	COG1734	1491494	1492318	-	[T] DnaK suppressor protein   
+735
+	FBFCCOII_01243	CDS	COG1940	1492554	1493513	+	[KG] Transcriptional regulator/sugar kinase   
+	FBFCCOII_01244	CDS	COG0144	1493518	1494486	+	[J] tRNA and rRNA cytosine-C5-methylases  
+	FBFCCOII_01245	CDS	COG0622	1494493	1495002	+	[R] Predicted phosphoesterase    
+	FBFCCOII_01246	CDS	COG0494	1494999	1495406	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	FBFCCOII_01247	CDS	NA	1495456	1495599	+	NA
+736
+	FBFCCOII_01248	CDS	COG1566	1496115	1497512	+	[V] Multidrug resistance efflux pump  
+	FBFCCOII_01249	CDS	COG1136	1497579	1498283	+	[V] ABC-type antimicrobial peptide transport system, ATPase
+	FBFCCOII_01250	CDS	COG0577	1498280	1499644	+	[V] ABC-type antimicrobial peptide transport system, permease
+	FBFCCOII_01251	CDS	COG1538	1499666	1501039	+	[MU] Outer membrane protein   
+737
+	FBFCCOII_01252	CDS	COG1680	1501242	1502378	-	[V] Beta-lactamase class C and other penicillin
+	FBFCCOII_01253	CDS	COG0841	1502503	1505679	-	[V] Cation/multidrug efflux pump   
+	FBFCCOII_01254	CDS	COG0845	1505683	1507023	-	[M] Membrane-fusion protein    
+738
+	FBFCCOII_01255	CDS	COG5340	1507102	1507527	-	[K] Predicted transcriptional regulator   
+739
+	FBFCCOII_01256	CDS	COG1720	1507647	1508333	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_01257	CDS	COG0044	1508390	1509664	-	[F] Dihydroorotase and related cyclic amidohydrolases 
+	FBFCCOII_01258	CDS	COG0540	1509671	1510600	-	[F] Aspartate carbamoyltransferase, catalytic chain  
+	FBFCCOII_01259	CDS	COG2065	1510629	1511162	-	[F] Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase 
+	FBFCCOII_01260	CDS	COG0041	1511189	1511599	-	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+740
+	FBFCCOII_01261	CDS	ROG1452	1511764	1512378	-	NA
+741
+	FBFCCOII_01262	CDS	COG2509	1512619	1514211	-	[R] Uncharacterized FAD-dependent dehydrogenases   
+	FBFCCOII_01263	CDS	COG2957	1514208	1515263	-	[E] Peptidylarginine deiminase and related enzymes 
+	FBFCCOII_01264	CDS	NA	1515289	1515675	-	NA
+742
+	FBFCCOII_01265	CDS	ROG2995	1516007	1517326	+	NA
+	FBFCCOII_01266	CDS	COG0628	1517362	1518672	+	[R] Predicted permease    
+743
+	FBFCCOII_01267	CDS	COG3119	1518732	1520312	+	[P] Arylsulfatase A and related enzymes 
+	FBFCCOII_01268	CDS	NA	1520332	1520820	+	NA
+744
+	FBFCCOII_01269	CDS	COG0370	1520974	1522224	+	[P] Fe2+ transport system protein B 
+745
+	FBFCCOII_01270	CDS	ROG0841	1522552	1523808	-	NA
+746
+	FBFCCOII_01271	CDS	ROG4009	1523992	1524852	+	NA
+747
+	FBFCCOII_01272	CDS	NA	1525000	1527309	-	NA
+748
+	FBFCCOII_01273	CDS	COG2963	1527681	1528061	+	[L] Transposase and inactivated derivatives  
+749
+	FBFCCOII_01274	CDS	COG0188	1528227	1530320	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+750
+	FBFCCOII_01275	tRNA	NA	1530424	1530498	+	NA
+751
+	FBFCCOII_01276	CDS	COG3926	1530832	1531413	+	[R] Putative secretion activating protein  
+752
+	FBFCCOII_01277	CDS	NA	1531553	1531936	-	NA
+753
+	FBFCCOII_01278	CDS	NA	1532055	1532381	-	NA
+754
+	FBFCCOII_01279	CDS	COG1475	1532723	1533607	+	[K] Predicted transcriptional regulators   
+	FBFCCOII_01280	CDS	COG2234	1533627	1534571	+	[R] Predicted aminopeptidases    
+	FBFCCOII_01281	CDS	ROG1327	1534610	1536592	+	NA
+	FBFCCOII_01282	CDS	ROG0039	1536589	1538787	+	NA
+755
+	FBFCCOII_01283	CDS	NA	1538841	1540211	-	NA
+756
+	FBFCCOII_01284	CDS	COG2322	1540240	1540596	+	[S] Predicted membrane protein   
+757
+	FBFCCOII_01285	CDS	COG0385	1540621	1541601	-	[R] Predicted Na+-dependent transporter   
+	FBFCCOII_01286	CDS	COG0162	1541638	1542789	-	[J] Tyrosyl-tRNA synthetase    
+758
+	FBFCCOII_01287	CDS	COG3169	1543359	1543721	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01288	CDS	COG1173	1543740	1544696	-	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+	FBFCCOII_01289	CDS	COG0601	1544693	1545607	-	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+	FBFCCOII_01290	CDS	COG4166	1545613	1547472	-	[E] ABC-type oligopeptide transport system, periplasmic component
+759
+	FBFCCOII_01291	CDS	COG2143	1547738	1548703	-	[O] Thioredoxin-related protein    
+760
+	FBFCCOII_01292	CDS	COG1748	1548915	1550144	+	[E] Saccharopine dehydrogenase and related proteins 
+761
+	FBFCCOII_01293	CDS	ROG4159	1550375	1551334	+	NA
+762
+	FBFCCOII_01294	CDS	NA	1551461	1552516	-	NA
+	FBFCCOII_01295	CDS	ROG7736	1552567	1553955	-	NA
+	FBFCCOII_01296	CDS	COG0206	1553955	1555412	-	[D] Cell division GTPase   
+	FBFCCOII_01297	CDS	COG0849	1555438	1556649	-	[D] Actin-like ATPase involved in cell division
+763
+	FBFCCOII_01298	CDS	NA	1556765	1557370	-	NA
+	FBFCCOII_01299	CDS	COG1109	1557411	1559366	-	[G] Phosphomannomutase     
+	FBFCCOII_01300	CDS	COG1132	1559472	1561256	-	[V] ABC-type multidrug transport system, ATPase and
+	FBFCCOII_01301	CDS	COG1132	1561250	1563100	-	[V] ABC-type multidrug transport system, ATPase and
+764
+	FBFCCOII_01302	CDS	NA	1563279	1564685	+	NA
+765
+	FBFCCOII_01303	CDS	COG0767	1564782	1565561	+	[Q] ABC-type transport system involved in resistance
+	FBFCCOII_01304	CDS	COG1127	1565577	1566395	+	[Q] ABC-type transport system involved in resistance
+	FBFCCOII_01305	CDS	COG1463	1566414	1567418	+	[Q] ABC-type transport system involved in resistance
+766
+	FBFCCOII_01306	CDS	ROG5738	1567562	1567888	+	NA
+767
+	FBFCCOII_01307	CDS	ROG0221	1567958	1568404	+	NA
+	FBFCCOII_01308	CDS	COG3086	1568404	1568748	+	[T] Positive regulator of sigma E activity
+768
+	FBFCCOII_01309	CDS	COG2805	1569132	1570214	+	[NU] Tfp pilus assembly protein, pilus retraction
+	FBFCCOII_01310	CDS	COG2805	1570240	1571334	+	[NU] Tfp pilus assembly protein, pilus retraction
+	FBFCCOII_01311	CDS	COG0760	1571359	1572432	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+769
+	FBFCCOII_01312	tRNA	NA	1572727	1572802	+	NA
+	FBFCCOII_01313	CDS	NA	1572855	1574402	+	NA
+770
+	FBFCCOII_01314	CDS	COG1212	1574495	1575244	+	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+	FBFCCOII_01315	CDS	COG0504	1575255	1576862	+	[F] CTP synthase (UTP-ammonia lyase)  
+771
+	FBFCCOII_01316	CDS	COG0591	1576929	1578491	+	[ER] Na+/proline symporter    
+772
+	FBFCCOII_01317	CDS	ROG2533	1578723	1582622	-	NA
+773
+	FBFCCOII_01318	CDS	NA	1582872	1585889	+	NA
+774
+	FBFCCOII_01319	CDS	NA	1586219	1587031	+	NA
+775
+	FBFCCOII_01320	CDS	COG0265	1587298	1588470	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	FBFCCOII_01321	CDS	COG0265	1588467	1589471	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+776
+	FBFCCOII_01322	CDS	COG0744	1589632	1592292	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+	FBFCCOII_01323	CDS	COG1322	1592310	1593563	+	[S] Uncharacterized protein conserved in bacteria 
+777
+	FBFCCOII_01324	CDS	COG0546	1593721	1594422	-	[R] Predicted phosphatases    
+	FBFCCOII_01325	CDS	COG1043	1594427	1595206	-	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+778
+	FBFCCOII_01326	CDS	ROG5746	1595273	1596139	-	NA
+	FBFCCOII_01327	CDS	COG4591	1596152	1597777	-	[M] ABC-type transport system, involved in lipoprotein
+779
+	FBFCCOII_01328	CDS	COG2367	1597852	1598736	-	[V] Beta-lactamase class A   
+780
+	FBFCCOII_01329	CDS	COG2839	1598901	1599404	+	[S] Uncharacterized protein conserved in bacteria 
+781
+	FBFCCOII_01330	CDS	ROG8375	1599588	1599878	+	NA
+	FBFCCOII_01331	CDS	ROG0301	1599934	1602300	+	NA
+	FBFCCOII_01332	CDS	COG2234	1602337	1603407	+	[R] Predicted aminopeptidases    
+	FBFCCOII_01333	CDS	COG0657	1603404	1604444	+	[I] Esterase/lipase     
+782
+	FBFCCOII_01334	CDS	COG0060	1604516	1607245	+	[J] Isoleucyl-tRNA synthetase    
+	FBFCCOII_01335	CDS	COG0597	1607276	1608049	+	[MU] Lipoprotein signal peptidase   
+	FBFCCOII_01336	CDS	ROG0618	1608057	1608719	+	NA
+	FBFCCOII_01337	CDS	NA	1608737	1609219	+	NA
+	FBFCCOII_01338	CDS	COG0520	1609222	1610448	+	[E] Selenocysteine lyase    
+	FBFCCOII_01339	CDS	ROG3852	1610486	1612219	+	NA
+783
+	FBFCCOII_01340	CDS	NA	1612692	1614332	+	NA
+	FBFCCOII_01341	CDS	NA	1614379	1614642	+	NA
+784
+	FBFCCOII_01342	CDS	COG0335	1614759	1615106	-	[J] Ribosomal protein L19   
+785
+	FBFCCOII_01343	CDS	ROG6608	1615216	1616754	-	NA
+786
+	FBFCCOII_01344	CDS	ROG0178	1616872	1617342	+	NA
+	FBFCCOII_01345	CDS	COG4799	1617374	1618939	+	[I] Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha
+	FBFCCOII_01346	CDS	NA	1618961	1619413	+	NA
+787
+	FBFCCOII_01347	CDS	COG1038	1619486	1619887	+	[C] Pyruvate carboxylase    
+	FBFCCOII_01348	CDS	COG1883	1619966	1621630	+	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+	FBFCCOII_01349	CDS	COG0340	1621668	1622447	+	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+788
+	FBFCCOII_01350	CDS	COG0427	1622508	1624004	+	[C] Acetyl-CoA hydrolase    
+789
+	FBFCCOII_01351	CDS	NA	1624123	1624824	+	NA
+790
+	FBFCCOII_01352	CDS	COG1209	1625030	1625893	-	[M] dTDP-glucose pyrophosphorylase    
+	FBFCCOII_01353	CDS	COG1088	1625903	1626955	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	FBFCCOII_01354	CDS	COG0205	1627087	1628031	-	[G] 6-phosphofructokinase     
+791
+	FBFCCOII_01355	CDS	ROG7264	1628160	1628891	+	NA
+792
+	FBFCCOII_01356	CDS	COG0064	1629260	1630726	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+793
+	FBFCCOII_01357	CDS	COG3960	1630781	1632511	-	[R] Glyoxylate carboligase    
+794
+	FBFCCOII_01358	CDS	NA	1632676	1633422	-	NA
+795
+	FBFCCOII_01359	CDS	NA	1633958	1634104	+	NA
+796
+	FBFCCOII_01360	CDS	COG1204	1634077	1636377	-	[R] Superfamily II helicase   
+	FBFCCOII_01361	CDS	ROG4354	1636347	1637252	-	NA
+	FBFCCOII_01362	CDS	NA	1637270	1638004	-	NA
+	FBFCCOII_01363	CDS	COG0270	1637991	1639187	-	[L] Site-specific DNA methylase   
+	FBFCCOII_01364	CDS	COG1339	1639200	1639409	-	[KH] Transcriptional regulator of a riboflavin/FAD biosynthetic
+	FBFCCOII_01365	CDS	COG3727	1639460	1639936	-	[L] DNA G:T-mismatch repair endonuclease  
+	FBFCCOII_01366	CDS	COG2932	1639933	1640775	-	[K] Predicted transcriptional regulator   
+797
+	FBFCCOII_01367	CDS	ROG1707	1640921	1641169	+	NA
+798
+	FBFCCOII_01368	CDS	COG3226	1641241	1641522	+	[S] Uncharacterized protein conserved in bacteria 
+799
+	FBFCCOII_01369	CDS	NA	1641657	1644194	+	NA
+800
+	FBFCCOII_01370	CDS	NA	1644305	1644958	-	NA
+801
+	FBFCCOII_01371	CDS	COG0474	1645125	1647881	+	[P] Cation transport ATPase   
+802
+	FBFCCOII_01372	CDS	COG0845	1647980	1649137	+	[M] Membrane-fusion protein    
+	FBFCCOII_01373	CDS	COG0841	1649150	1652320	+	[V] Cation/multidrug efflux pump   
+803
+	FBFCCOII_01374	CDS	COG0471	1652367	1653749	-	[P] Di- and tricarboxylate transporters  
+804
+	FBFCCOII_01375	CDS	ROG0370	1654036	1654308	-	NA
+805
+	FBFCCOII_01376	CDS	COG0351	1654494	1655267	-	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+806
+	FBFCCOII_01377	CDS	NA	1655281	1655862	+	NA
+807
+	FBFCCOII_01378	CDS	COG0790	1655859	1656902	-	[R] FOG: TPR repeat, SEL1 subfamily 
+808
+	FBFCCOII_01379	CDS	NA	1657051	1657788	+	NA
+809
+	FBFCCOII_01380	CDS	NA	1657804	1659069	-	NA
+810
+	FBFCCOII_01381	CDS	COG1002	1659388	1661346	-	[V] Type II restriction enzyme, methylase subunits
+811
+	FBFCCOII_01382	tRNA	NA	1661936	1662011	-	NA
+	FBFCCOII_01383	tRNA	NA	1662048	1662123	-	NA
+	FBFCCOII_01384	tRNA	NA	1662167	1662241	-	NA
+812
+	FBFCCOII_01385	CDS	NA	1662436	1662933	+	NA
+813
+	FBFCCOII_01386	CDS	COG1028	1663112	1663897	-	[IQR] Dehydrogenases with different specificities (related to
+	FBFCCOII_01387	CDS	NA	1663956	1665212	-	NA
+814
+	FBFCCOII_01388	CDS	COG0242	1665389	1666069	+	[J] N-formylmethionyl-tRNA deformylase    
+815
+	FBFCCOII_01389	CDS	COG1063	1666181	1667209	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+816
+	FBFCCOII_01390	CDS	COG0058	1667479	1669143	+	[G] Glucan phosphorylase    
+817
+	FBFCCOII_01391	CDS	COG1226	1669245	1670015	-	[P] Kef-type K+ transport systems, predicted NAD-binding
+	FBFCCOII_01392	CDS	COG1393	1670024	1670383	-	[P] Arsenate reductase and related proteins, glutaredoxin
+818
+	FBFCCOII_01393	CDS	COG1236	1670551	1671957	-	[J] Predicted exonuclease of the beta-lactamase fold
+	FBFCCOII_01394	CDS	NA	1671957	1672238	-	NA
+819
+	FBFCCOII_01395	CDS	COG1826	1672462	1672761	-	[U] Sec-independent protein secretion pathway components 
+820
+	FBFCCOII_01396	CDS	COG0790	1672819	1674246	-	[R] FOG: TPR repeat, SEL1 subfamily 
+	FBFCCOII_01397	CDS	COG1187	1674265	1675764	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+821
+	FBFCCOII_01398	CDS	ROG6769	1675968	1676123	-	NA
+822
+	FBFCCOII_01399	CDS	COG0336	1676245	1676964	-	[J] tRNA-(guanine-N1)-methyltransferase     
+	FBFCCOII_01400	CDS	COG1186	1676977	1677966	-	[J] Protein chain release factor B 
+823
+	FBFCCOII_01401	CDS	COG1321	1678442	1678843	-	[K] Mn-dependent transcriptional regulator   
+824
+	FBFCCOII_01402	CDS	COG0539	1678981	1680669	-	[J] Ribosomal protein S1   
+825
+	FBFCCOII_01403	CDS	COG0778	1680974	1681555	+	[C] Nitroreductase     
+826
+	FBFCCOII_01404	CDS	ROG1541	1681633	1682109	-	NA
+827
+	FBFCCOII_01405	tRNA	NA	1682205	1682281	+	NA
+828
+	FBFCCOII_01406	CDS	NA	1682674	1683252	-	NA
+829
+	FBFCCOII_01407	CDS	NA	1683352	1684257	-	NA
+830
+	FBFCCOII_01408	CDS	ROG5746	1684718	1685563	+	NA
+831
+	FBFCCOII_01409	CDS	COG3476	1685579	1686448	-	[T] Tryptophan-rich sensory protein (mitochondrial benzodiazepine receptor
+	FBFCCOII_01410	CDS	COG1082	1686496	1687431	-	[G] Sugar phosphate isomerases/epimerases   
+	FBFCCOII_01411	CDS	COG0413	1687446	1688234	-	[H] Ketopantoate hydroxymethyltransferase    
+	FBFCCOII_01412	CDS	COG0801	1688257	1688766	-	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+	FBFCCOII_01413	CDS	COG0289	1688824	1689564	-	[E] Dihydrodipicolinate reductase    
+	FBFCCOII_01414	CDS	COG0329	1689577	1690458	-	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+832
+	FBFCCOII_01415	CDS	NA	1690532	1691287	-	NA
+833
+	FBFCCOII_01416	tRNA	NA	1694856	1694932	-	NA
+	FBFCCOII_01417	tRNA	NA	1694957	1695032	-	NA
+834
+	FBFCCOII_01418	CDS	COG3118	1697276	1699468	-	[O] Thioredoxin domain-containing protein   
+	FBFCCOII_01419	CDS	NA	1699462	1699665	-	NA
+835
+	FBFCCOII_01420	CDS	ROG4899	1699734	1700126	+	NA
+836
+	FBFCCOII_01421	CDS	ROG3697	1700228	1700854	+	NA
+837
+	FBFCCOII_01422	tRNA	NA	1701292	1701368	-	NA
+838
+	FBFCCOII_01423	CDS	COG0319	1701436	1701933	-	[R] Predicted metal-dependent hydrolase   
+	FBFCCOII_01424	CDS	COG1480	1701917	1703677	-	[R] Predicted membrane-associated HD superfamily hydrolase 
+	FBFCCOII_01425	CDS	COG0416	1703683	1704732	-	[I] Fatty acid/phospholipid biosynthesis enzyme  
+	FBFCCOII_01426	CDS	COG0333	1704881	1705072	-	[J] Ribosomal protein L32   
+	FBFCCOII_01427	CDS	ROG7309	1705096	1705587	-	NA
+839
+	FBFCCOII_01428	CDS	COG0537	1705698	1706042	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	FBFCCOII_01429	CDS	COG0009	1706098	1707144	-	[J] Putative translation factor (SUA5)  
+840
+	FBFCCOII_01430	CDS	COG0703	1707382	1707936	+	[E] Shikimate kinase    
+841
+	FBFCCOII_01431	CDS	COG0228	1708101	1708343	-	[J] Ribosomal protein S16   
+842
+	FBFCCOII_01432	CDS	NA	1708509	1708787	-	NA
+843
+	FBFCCOII_01433	CDS	COG1280	1708884	1709135	-	[E] Putative threonine efflux protein  
+	FBFCCOII_01434	CDS	COG4974	1709151	1710053	-	[L] Site-specific recombinase XerD   
+	FBFCCOII_01435	CDS	ROG2208	1710064	1710915	-	NA
+844
+	FBFCCOII_01436	CDS	COG1862	1711040	1711372	-	[U] Preprotein translocase subunit YajC  
+	FBFCCOII_01437	CDS	COG0343	1711369	1712502	-	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+	FBFCCOII_01438	CDS	COG0220	1712508	1713104	-	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+845
+	FBFCCOII_01439	CDS	COG1051	1713233	1713955	-	[F] ADP-ribose pyrophosphatase    
+846
+	FBFCCOII_01440	CDS	COG0797	1714172	1714690	+	[M] Lipoproteins     
+847
+	FBFCCOII_01441	CDS	COG1039	1714695	1715579	-	[L] Ribonuclease HIII    
+848
+	FBFCCOII_01442	CDS	COG0776	1715795	1716100	+	[L] Bacterial nucleoid DNA-binding protein  
+849
+	FBFCCOII_01443	CDS	NA	1716207	1716839	+	NA
+850
+	FBFCCOII_01444	CDS	NA	1716919	1717182	+	NA
+	FBFCCOII_01445	CDS	ROG6917	1717130	1717639	+	NA
+851
+	FBFCCOII_01446	CDS	NA	1717903	1718667	-	NA
+	FBFCCOII_01447	CDS	NA	1718687	1719118	-	NA
+	FBFCCOII_01448	CDS	COG0811	1719143	1719793	-	[U] Biopolymer transport proteins   
+	FBFCCOII_01449	CDS	NA	1719849	1720574	-	NA
+852
+	FBFCCOII_01450	CDS	COG0760	1720717	1721871	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+853
+	FBFCCOII_01451	CDS	COG3250	1722168	1725128	+	[G] Beta-galactosidase/beta-glucuronidase     
+854
+	FBFCCOII_01452	CDS	COG0525	1725282	1727954	+	[J] Valyl-tRNA synthetase    
+	FBFCCOII_01453	CDS	ROG0515	1727973	1728815	+	NA
+855
+	FBFCCOII_01454	CDS	COG0093	1729424	1729789	-	[J] Ribosomal protein L14   
+	FBFCCOII_01455	CDS	COG0186	1729827	1730099	-	[J] Ribosomal protein S17   
+	FBFCCOII_01456	CDS	COG0255	1730148	1730351	-	[J] Ribosomal protein L29   
+	FBFCCOII_01457	CDS	COG0197	1730366	1730788	-	[J] Ribosomal protein L16/L10E   
+	FBFCCOII_01458	CDS	COG0092	1730841	1731530	-	[J] Ribosomal protein S3   
+	FBFCCOII_01459	CDS	COG0091	1731570	1731908	-	[J] Ribosomal protein L22   
+	FBFCCOII_01460	CDS	ROG1946	1731947	1732657	-	NA
+	FBFCCOII_01461	CDS	COG0185	1732678	1732947	-	[J] Ribosomal protein S19   
+	FBFCCOII_01462	CDS	COG0090	1732983	1733819	-	[J] Ribosomal protein L2   
+	FBFCCOII_01463	CDS	COG0089	1733846	1734130	-	[J] Ribosomal protein L23   
+	FBFCCOII_01464	CDS	COG0088	1734137	1734745	-	[J] Ribosomal protein L4   
+	FBFCCOII_01465	CDS	COG0087	1734787	1735422	-	[J] Ribosomal protein L3   
+	FBFCCOII_01466	CDS	COG0051	1735468	1735776	-	[J] Ribosomal protein S10   
+	FBFCCOII_01467	CDS	COG0480	1735814	1737961	-	[J] Translation elongation factors (GTPases)  
+	FBFCCOII_01468	CDS	COG0049	1738025	1738498	-	[J] Ribosomal protein S7   
+	FBFCCOII_01469	CDS	COG0048	1738525	1738908	-	[J] Ribosomal protein S12   
+856
+	FBFCCOII_01470	CDS	COG0696	1739483	1741027	-	[G] Phosphoglyceromutase     
+	FBFCCOII_01471	CDS	COG0824	1741033	1741464	-	[R] Predicted thioesterase    
+857
+	FBFCCOII_01472	CDS	COG3290	1741494	1742747	+	[T] Signal transduction histidine kinase regulating citrate/malate
+	FBFCCOII_01473	CDS	COG2204	1742744	1744135	+	[T] Response regulator containing CheY-like receiver, AAA-type
+	FBFCCOII_01474	CDS	COG1807	1744132	1746009	+	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+	FBFCCOII_01475	CDS	COG1722	1746017	1746277	+	[L] Exonuclease VII small subunit  
+	FBFCCOII_01476	CDS	COG1154	1746258	1748144	+	[HI] Deoxyxylulose-5-phosphate synthase    
+	FBFCCOII_01477	CDS	COG0457	1748166	1748939	+	[R] FOG: TPR repeat   
+	FBFCCOII_01478	CDS	COG1381	1748939	1749475	+	[L] Recombinational DNA repair protein (RecF pathway)
+858
+	FBFCCOII_01479	CDS	COG0795	1749627	1750718	+	[R] Predicted permeases    
+	FBFCCOII_01480	CDS	COG1160	1750785	1752188	+	[R] Predicted GTPases    
+	FBFCCOII_01481	CDS	COG0444	1752207	1753175	+	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+859
+	FBFCCOII_01482	CDS	NA	1753143	1753472	-	NA
+	FBFCCOII_01483	CDS	COG4845	1753417	1754052	-	[V] Chloramphenicol O-acetyltransferase    
+	FBFCCOII_01484	CDS	NA	1754057	1754776	-	NA
+860
+	FBFCCOII_01485	CDS	COG4591	1754915	1757740	-	[M] ABC-type transport system, involved in lipoprotein
+	FBFCCOII_01486	CDS	COG1136	1757737	1758483	-	[V] ABC-type antimicrobial peptide transport system, ATPase
+	FBFCCOII_01487	CDS	COG1629	1758499	1760706	-	[P] Outer membrane receptor proteins, mostly Fe
+861
+	FBFCCOII_01488	CDS	COG0287	1760841	1761728	-	[E] Prephenate dehydrogenase    
+862
+	FBFCCOII_01489	CDS	NA	1761809	1762435	-	NA
+863
+	FBFCCOII_01490	CDS	COG0204	1762846	1765512	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	FBFCCOII_01491	CDS	COG2131	1765502	1765969	+	[F] Deoxycytidylate deaminase    
+864
+	FBFCCOII_01492	CDS	NA	1765981	1766442	-	NA
+865
+	FBFCCOII_01493	CDS	ROG0254	1766574	1766981	-	NA
+866
+	FBFCCOII_01494	CDS	COG4232	1767045	1769378	+	[OC] Thiol:disulfide interchange protein   
+867
+	FBFCCOII_01495	CDS	COG2755	1769454	1770185	-	[E] Lysophospholipase L1 and related esterases 
+868
+	FBFCCOII_01496	CDS	COG0847	1770237	1770830	-	[L] DNA polymerase III, epsilon subunit and
+	FBFCCOII_01497	CDS	COG0249	1770832	1773303	-	[L] Mismatch repair ATPase (MutS family) 
+869
+	FBFCCOII_01498	CDS	COG0799	1773649	1773999	-	[S] Uncharacterized homolog of plant Iojap protein
+	FBFCCOII_01499	CDS	COG0465	1774021	1776471	-	[O] ATP-dependent Zn proteases   
+870
+	FBFCCOII_01500	CDS	NA	1776636	1777433	-	NA
+	FBFCCOII_01501	CDS	ROG4307	1777423	1778499	-	NA
+871
+	FBFCCOII_01502	CDS	COG0447	1778711	1779535	+	[H] Dihydroxynaphthoic acid synthase   
+	FBFCCOII_01503	CDS	COG2205	1779555	1780385	+	[T] Osmosensitive K+ channel histidine kinase 
+872
+	FBFCCOII_01504	CDS	NA	1780456	1781484	-	NA
+	FBFCCOII_01505	CDS	NA	1781496	1782785	-	NA
+873
+	FBFCCOII_01506	CDS	NA	1782985	1783500	+	NA
+	FBFCCOII_01507	CDS	COG3521	1783529	1784011	+	[S] Uncharacterized protein conserved in bacteria 
+874
+	FBFCCOII_01508	CDS	NA	1784155	1785300	-	NA
+	FBFCCOII_01509	CDS	COG4555	1785263	1785895	-	[CP] ABC-type Na+ transport system, ATPase component
+	FBFCCOII_01510	CDS	ROG0722	1785892	1786848	-	NA
+875
+	FBFCCOII_01511	CDS	NA	1787010	1787750	-	NA
+	FBFCCOII_01512	CDS	COG4555	1787763	1791347	-	[CP] ABC-type Na+ transport system, ATPase component
+876
+	FBFCCOII_01513	CDS	COG4856	1791491	1791913	+	[S] Uncharacterized protein conserved in bacteria 
+877
+	FBFCCOII_01514	CDS	COG0300	1792149	1792994	+	[R] Short-chain dehydrogenases of various substrate specificities
+	FBFCCOII_01515	CDS	NA	1792991	1794571	+	NA
+878
+	FBFCCOII_01516	CDS	COG1562	1794573	1795472	-	[I] Phytoene/squalene synthetase    
+	FBFCCOII_01517	CDS	COG2204	1795469	1796995	-	[T] Response regulator containing CheY-like receiver, AAA-type
+879
+	FBFCCOII_01518	CDS	COG0038	1797194	1798981	-	[P] Chloride channel protein EriC  
+880
+	FBFCCOII_01519	CDS	NA	1799151	1799945	-	NA
+881
+	FBFCCOII_01520	CDS	COG3525	1800167	1802164	+	[G] N-acetyl-beta-hexosaminidase     
+882
+	FBFCCOII_01521	CDS	NA	1802489	1802995	-	NA
+	FBFCCOII_01522	CDS	COG3292	1803022	1805598	-	[T] Predicted periplasmic ligand-binding sensor domain 
+883
+	FBFCCOII_01523	CDS	COG0076	1806783	1808183	-	[E] Glutamate decarboxylase and related PLP-dependent proteins
+884
+	FBFCCOII_01524	CDS	COG1670	1808836	1809399	-	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	FBFCCOII_01525	CDS	COG0587	1809404	1812928	-	[L] DNA polymerase III, alpha subunit 
+	FBFCCOII_01526	CDS	COG0167	1812961	1813962	-	[F] Dihydroorotate dehydrogenase    
+885
+	FBFCCOII_01527	CDS	COG0352	1814095	1814739	+	[H] Thiamine monophosphate synthase   
+886
+	FBFCCOII_01528	CDS	COG1309	1814765	1815439	-	[K] Transcriptional regulator    
+	FBFCCOII_01529	CDS	ROG0471	1815467	1816159	-	NA
+887
+	FBFCCOII_01530	CDS	ROG1607	1816227	1818530	-	NA
+888
+	FBFCCOII_01531	CDS	COG1253	1818601	1819926	-	[R] Hemolysins and related proteins containing CBS
+	FBFCCOII_01532	CDS	COG1253	1819923	1821257	-	[R] Hemolysins and related proteins containing CBS
+889
+	FBFCCOII_01533	CDS	COG1185	1821541	1823685	-	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+890
+	FBFCCOII_01534	CDS	COG0184	1824567	1824821	-	[J] Ribosomal protein S15P/S13E   
+891
+	FBFCCOII_01535	CDS	COG0110	1824923	1825564	-	[R] Acetyltransferase (isoleucine patch superfamily)  
+	FBFCCOII_01536	CDS	ROG2219	1825542	1826282	-	NA
+892
+	FBFCCOII_01537	CDS	ROG0786	1826522	1828153	-	NA
+	FBFCCOII_01538	CDS	NA	1828140	1833323	-	NA
+	FBFCCOII_01539	CDS	ROG7977	1833323	1834594	-	NA
+893
+	FBFCCOII_01540	CDS	COG0101	1834736	1835533	+	[J] Pseudouridylate synthase    
+894
+	FBFCCOII_01541	CDS	COG1057	1835548	1836129	-	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	FBFCCOII_01542	CDS	COG0739	1836140	1836817	-	[M] Membrane proteins related to metalloendopeptidases 
+895
+	FBFCCOII_01543	CDS	COG3669	1836955	1839084	+	[G] Alpha-L-fucosidase     
+	FBFCCOII_01544	CDS	NA	1839135	1839422	+	NA
+896
+	FBFCCOII_01545	CDS	COG2165	1839674	1840432	-	[NU] Type II secretory pathway, pseudopilin PulG
+897
+	FBFCCOII_01546	CDS	NA	1840485	1840766	+	NA
+898
+	FBFCCOII_01547	CDS	COG0689	1840625	1841437	-	[J] RNase PH    
+899
+	FBFCCOII_01548	CDS	COG1524	1841491	1842870	+	[R] Uncharacterized proteins of the AP superfamily
+900
+	FBFCCOII_01549	CDS	COG3525	1842883	1845051	-	[G] N-acetyl-beta-hexosaminidase     
+901
+	FBFCCOII_01550	CDS	COG0132	1845246	1845887	-	[H] Dethiobiotin synthetase    
+	FBFCCOII_01551	CDS	ROG1045	1845900	1846052	-	NA
+	FBFCCOII_01552	CDS	COG1624	1846030	1846929	-	[S] Uncharacterized conserved protein   
+902
+	FBFCCOII_01553	CDS	NA	1847028	1847624	+	NA
+903
+	FBFCCOII_01554	CDS	NA	1847533	1848006	-	NA
+	FBFCCOII_01555	CDS	COG4181	1848043	1848696	-	[Q] Predicted ABC-type transport system involved in
+	FBFCCOII_01556	CDS	COG0414	1848726	1849571	-	[H] Panthothenate synthetase    
+904
+	FBFCCOII_01557	CDS	COG2825	1849721	1850317	+	[M] Outer membrane protein   
+	FBFCCOII_01558	CDS	COG1044	1850357	1851394	+	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+905
+	FBFCCOII_01559	CDS	COG0600	1851455	1852246	-	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+	FBFCCOII_01560	CDS	COG1116	1852243	1853031	-	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+	FBFCCOII_01561	CDS	COG0715	1853028	1854074	-	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+906
+	FBFCCOII_01562	CDS	NA	1854303	1854962	+	NA
+907
+	FBFCCOII_01563	CDS	ROG1382	1855049	1858042	-	NA
+908
+	FBFCCOII_01564	CDS	COG0241	1858232	1858738	-	[E] Histidinol phosphatase and related phosphatases 
+	FBFCCOII_01565	CDS	COG0279	1858728	1859297	-	[G] Phosphoheptose isomerase    
+	FBFCCOII_01566	CDS	COG2870	1859294	1860784	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+909
+	FBFCCOII_01567	CDS	COG0828	1861013	1861264	+	[J] Ribosomal protein S21   
+	FBFCCOII_01568	CDS	COG0001	1861349	1862629	+	[H] Glutamate-1-semialdehyde aminotransferase    
+	FBFCCOII_01569	CDS	COG0666	1862682	1863740	+	[R] FOG: Ankyrin repeat   
+910
+	FBFCCOII_01570	CDS	COG0477	1863959	1865920	-	[GEPR] Permeases of the major facilitator superfamily
+911
+	FBFCCOII_01571	CDS	COG1413	1866255	1867772	-	[C] FOG: HEAT repeat   
+912
+	FBFCCOII_01572	CDS	COG0008	1868292	1869971	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+	FBFCCOII_01573	CDS	COG0108	1869991	1871193	+	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+	FBFCCOII_01574	CDS	COG0054	1871213	1871701	+	[H] Riboflavin synthase beta-chain   
+	FBFCCOII_01575	CDS	COG0781	1871730	1872614	+	[K] Transcription termination factor   
+	FBFCCOII_01576	CDS	COG0552	1872629	1873477	+	[U] Signal recognition particle GTPase  
+	FBFCCOII_01577	CDS	COG0820	1873496	1874575	+	[R] Predicted Fe-S-cluster redox enzyme  
+913
+	FBFCCOII_01578	CDS	COG0305	1874676	1876130	+	[L] Replicative DNA helicase   
+914
+	FBFCCOII_01579	CDS	ROG4985	1876522	1877349	+	NA
+	FBFCCOII_01580	CDS	COG2020	1877383	1878120	+	[O] Putative protein-S-isoprenylcysteine methyltransferase   
+915
+	FBFCCOII_01581	CDS	COG1058	1878110	1879405	-	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+916
+	FBFCCOII_01582	CDS	COG0469	1879467	1880888	+	[G] Pyruvate kinase    
+	FBFCCOII_01583	CDS	COG0454	1880888	1881403	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+917
+	FBFCCOII_01584	CDS	NA	1881391	1882218	-	NA
+918
+	FBFCCOII_01585	CDS	NA	1882341	1883267	-	NA
+919
+	FBFCCOII_01586	CDS	NA	1883410	1884294	-	NA
+920
+	FBFCCOII_01587	CDS	COG0560	1884420	1885187	-	[E] Phosphoserine phosphatase    
+921
+	FBFCCOII_01588	CDS	COG0522	1885318	1885929	-	[J] Ribosomal protein S4 and related proteins
+	FBFCCOII_01589	CDS	COG0100	1885965	1886516	-	[J] Ribosomal protein S11   
+	FBFCCOII_01590	CDS	COG0099	1886550	1886927	-	[J] Ribosomal protein S13   
+922
+	FBFCCOII_01591	CDS	COG1600	1887046	1888107	-	[C] Uncharacterized Fe-S protein   
+923
+	FBFCCOII_01592	CDS	COG3660	1888117	1889133	+	[M] Predicted nucleoside-diphosphate-sugar epimerase   
+	FBFCCOII_01593	CDS	COG0438	1889130	1890242	+	[M] Glycosyltransferase     
+	FBFCCOII_01594	CDS	COG0758	1890239	1891366	+	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+924
+	FBFCCOII_01595	CDS	COG1686	1891926	1892849	+	[M] D-alanyl-D-alanine carboxypeptidase    
+925
+	FBFCCOII_01596	CDS	COG0012	1892908	1894029	+	[J] Predicted GTPase, probable translation factor 
+	FBFCCOII_01597	CDS	COG0404	1894105	1895190	+	[E] Glycine cleavage system T protein (aminomethyltransferase)
+	FBFCCOII_01598	CDS	COG0509	1895261	1895641	+	[E] Glycine cleavage system H protein (lipoate-binding)
+	FBFCCOII_01599	CDS	COG1003	1895737	1898583	+	[E] Glycine cleavage system protein P (pyridoxal-binding),
+926
+	FBFCCOII_01600	CDS	NA	1898840	1899904	+	NA
+927
+	FBFCCOII_01601	CDS	COG3152	1899935	1900567	-	[S] Predicted membrane protein   
+	FBFCCOII_01602	CDS	COG3119	1900576	1902735	-	[P] Arylsulfatase A and related enzymes 
+928
+	FBFCCOII_01603	CDS	COG0513	1903154	1904968	-	[LKJ] Superfamily II DNA and RNA helicases
+929
+	FBFCCOII_01604	CDS	ROG1987	1905189	1905965	+	NA
+	FBFCCOII_01605	CDS	ROG1040	1905976	1907514	+	NA
+	FBFCCOII_01606	CDS	COG2755	1907536	1908513	+	[E] Lysophospholipase L1 and related esterases 
+930
+	FBFCCOII_01607	CDS	COG2259	1908754	1909215	+	[S] Predicted membrane protein   
+931
+	FBFCCOII_01608	CDS	COG0150	1909319	1910320	+	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+	FBFCCOII_01609	CDS	COG0034	1910384	1912303	+	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	FBFCCOII_01610	CDS	COG1595	1912337	1912936	+	[K] DNA-directed RNA polymerase specialized sigma subunit,
+932
+	FBFCCOII_01611	CDS	ROG5752	1913044	1913565	+	NA
+	FBFCCOII_01612	CDS	COG0750	1913572	1914447	+	[M] Predicted membrane-associated Zn-dependent proteases 1 
+933
+	FBFCCOII_01613	CDS	COG3668	1914559	1914927	+	[R] Plasmid stabilization system protein  
+	FBFCCOII_01614	CDS	COG0452	1914941	1915480	+	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+934
+	FBFCCOII_01615	CDS	NA	1915554	1916129	+	NA
+	FBFCCOII_01616	CDS	COG0739	1916151	1917194	+	[M] Membrane proteins related to metalloendopeptidases 
+	FBFCCOII_01617	CDS	COG0457	1917205	1919856	+	[R] FOG: TPR repeat   
+	FBFCCOII_01618	CDS	COG2326	1919875	1921218	+	[S] Uncharacterized conserved protein   
+935
+	FBFCCOII_01619	CDS	COG1349	1921434	1922183	+	[KG] Transcriptional regulators of sugar metabolism 
+936
+	FBFCCOII_01620	CDS	COG0454	1922243	1922686	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+937
+	FBFCCOII_01621	CDS	COG1104	1922910	1924133	-	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+938
+	FBFCCOII_01622	CDS	COG0452	1924171	1924845	+	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+	FBFCCOII_01623	CDS	COG1162	1924927	1926048	+	[R] Predicted GTPases    
+	FBFCCOII_01624	CDS	ROG2497	1926102	1927070	+	NA
+939
+	FBFCCOII_01625	CDS	COG1519	1927054	1928340	-	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+	FBFCCOII_01626	CDS	COG0742	1928342	1928917	-	[L] N6-adenine-specific methylase    
+	FBFCCOII_01627	CDS	NA	1928954	1929715	-	NA
+940
+	FBFCCOII_01628	CDS	ROG1433	1929780	1930232	+	NA
+941
+	FBFCCOII_01629	CDS	COG2326	1930337	1931263	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_01630	CDS	NA	1931315	1932775	-	NA
+942
+	FBFCCOII_01631	CDS	NA	1932979	1935270	-	NA
+943
+	FBFCCOII_01632	CDS	NA	1935388	1935855	+	NA
+	FBFCCOII_01633	CDS	COG2267	1935852	1936670	+	[I] Lysophospholipase     
+944
+	FBFCCOII_01634	CDS	COG0802	1936679	1937128	-	[R] Predicted ATPase or kinase  
+945
+	FBFCCOII_01635	CDS	COG0261	1937166	1937534	+	[J] Ribosomal protein L21   
+	FBFCCOII_01636	CDS	COG0211	1937561	1937824	+	[J] Ribosomal protein L27   
+946
+	FBFCCOII_01637	CDS	COG0735	1937980	1938420	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	FBFCCOII_01638	CDS	COG0396	1938436	1939194	+	[O] ABC-type transport system involved in Fe-S
+	FBFCCOII_01639	CDS	COG0719	1939218	1940654	+	[O] ABC-type transport system involved in Fe-S
+	FBFCCOII_01640	CDS	COG0719	1940666	1941919	+	[O] ABC-type transport system involved in Fe-S
+947
+	FBFCCOII_01641	CDS	ROG0193	1941961	1944219	-	NA
+948
+	FBFCCOII_01642	CDS	COG3119	1945044	1946546	+	[P] Arylsulfatase A and related enzymes 
+949
+	FBFCCOII_01643	CDS	COG0502	1946631	1947596	+	[H] Biotin synthase and related enzymes 
+	FBFCCOII_01644	CDS	COG0161	1947625	1948974	+	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+	FBFCCOII_01645	CDS	NA	1949022	1950152	+	NA
+950
+	FBFCCOII_01646	CDS	NA	1950218	1952014	-	NA
+951
+	FBFCCOII_01647	CDS	NA	1952143	1952487	-	NA
+	FBFCCOII_01648	CDS	COG0697	1952480	1952818	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+	FBFCCOII_01649	CDS	COG0463	1952845	1953783	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_01650	CDS	COG1247	1953780	1954280	-	[M] Sortase and related acyltransferases  
+	FBFCCOII_01651	CDS	COG0399	1954277	1955461	-	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+952
+	FBFCCOII_01652	CDS	COG4299	1955537	1956658	-	[S] Uncharacterized conserved protein   
+953
+	FBFCCOII_01653	CDS	ROG4576	1956835	1957347	+	NA
+954
+	FBFCCOII_01654	CDS	NA	1957430	1957990	-	NA
+	FBFCCOII_01655	CDS	COG0355	1957990	1958412	-	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+	FBFCCOII_01656	CDS	COG0055	1958436	1959857	-	[C] F0F1-type ATP synthase, beta subunit 
+	FBFCCOII_01657	CDS	COG0224	1959932	1960804	-	[C] F0F1-type ATP synthase, gamma subunit 
+	FBFCCOII_01658	CDS	COG0056	1960826	1962358	-	[C] F0F1-type ATP synthase, alpha subunit 
+	FBFCCOII_01659	CDS	COG0712	1962375	1962782	-	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	FBFCCOII_01660	CDS	COG0711	1962790	1963317	-	[C] F0F1-type ATP synthase, subunit b 
+	FBFCCOII_01661	CDS	COG0636	1963419	1963640	-	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	FBFCCOII_01662	CDS	COG0356	1963723	1964661	-	[C] F0F1-type ATP synthase, subunit a 
+955
+	FBFCCOII_01663	CDS	NA	1964927	1967128	-	NA
+956
+	FBFCCOII_01664	CDS	COG0768	1967421	1969889	-	[M] Cell division protein FtsI/penicillin-binding protein 2
+	FBFCCOII_01665	CDS	COG1376	1969949	1970479	-	[S] Uncharacterized protein conserved in bacteria 
+957
+	FBFCCOII_01666	CDS	COG4299	1970709	1971821	+	[S] Uncharacterized conserved protein   
+958
+	FBFCCOII_01667	CDS	ROG1046	1972081	1974096	+	NA
+	FBFCCOII_01668	CDS	NA	1974136	1974495	+	NA
+959
+	FBFCCOII_01669	CDS	COG3193	1974682	1975149	-	[R] Uncharacterized protein, possibly involved in utilization
+960
+	FBFCCOII_01670	CDS	COG1733	1975298	1975693	+	[K] Predicted transcriptional regulators   
+961
+	FBFCCOII_01671	CDS	NA	1976322	1976534	-	NA
+	FBFCCOII_01672	CDS	COG0657	1976575	1977450	-	[I] Esterase/lipase     
+962
+	FBFCCOII_01673	CDS	NA	1977516	1978448	+	NA
+963
+	FBFCCOII_01674	CDS	COG3247	1978551	1979045	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_01675	CDS	COG0476	1979060	1979839	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+	FBFCCOII_01676	CDS	COG0794	1979876	1980847	+	[M] Predicted sugar phosphate isomerase involved in
+964
+	FBFCCOII_01677	CDS	NA	1980962	1981747	+	NA
+	FBFCCOII_01678	CDS	COG1657	1981754	1982932	+	[I] Squalene cyclase    
+965
+	FBFCCOII_01679	CDS	COG2259	1983048	1983512	+	[S] Predicted membrane protein   
+966
+	FBFCCOII_01680	CDS	COG1045	1983585	1984451	+	[E] Serine acetyltransferase    
+967
+	FBFCCOII_01681	CDS	COG0014	1984660	1985949	-	[E] Gamma-glutamyl phosphate reductase   
+	FBFCCOII_01682	CDS	COG0263	1985927	1986712	-	[E] Glutamate 5-kinase    
+968
+	FBFCCOII_01683	CDS	COG0021	1987152	1989155	+	[G] Transketolase     
+969
+	FBFCCOII_01684	CDS	COG0782	1989647	1991506	-	[K] Transcription elongation factor   
+970
+	FBFCCOII_01685	CDS	COG0152	1991737	1992447	+	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+	FBFCCOII_01686	CDS	NA	1992465	1992968	+	NA
+	FBFCCOII_01687	CDS	COG0046	1992990	1995392	+	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+	FBFCCOII_01688	CDS	COG0047	1995441	1996148	+	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain
+	FBFCCOII_01689	CDS	NA	1996189	1996968	+	NA
+971
+	FBFCCOII_01690	CDS	COG1363	1997096	1998175	+	[G] Cellulase M and related proteins 
+972
+	FBFCCOII_01691	CDS	ROG0107	1998470	1998943	-	NA
+	FBFCCOII_01692	CDS	COG3250	1998957	2001752	-	[G] Beta-galactosidase/beta-glucuronidase     
+973
+	FBFCCOII_01693	CDS	COG1077	2001969	2003000	+	[D] Actin-like ATPase involved in cell morphogenesis
+	FBFCCOII_01694	CDS	COG1530	2003197	2004792	+	[J] Ribonucleases G and E  
+974
+	FBFCCOII_01695	CDS	NA	2004857	2005978	+	NA
+975
+	FBFCCOII_01696	CDS	NA	2006454	2007476	-	NA
+	FBFCCOII_01697	CDS	COG0457	2007524	2010757	-	[R] FOG: TPR repeat   
+976
+	FBFCCOII_01698	CDS	COG0848	2011964	2012422	-	[U] Biopolymer transport protein   
+	FBFCCOII_01699	CDS	ROG1795	2012434	2012940	-	NA
+977
+	FBFCCOII_01700	CDS	COG0811	2013019	2013810	-	[U] Biopolymer transport proteins   
+978
+	FBFCCOII_01701	CDS	COG0177	2013903	2014541	-	[L] Predicted EndoIII-related endonuclease   
+979
+	FBFCCOII_01702	CDS	COG3584	2014629	2015300	-	[S] Uncharacterized protein conserved in bacteria 
+980
+	FBFCCOII_01703	CDS	COG1573	2016203	2017177	+	[L] Uracil-DNA glycosylase    
+	FBFCCOII_01704	CDS	COG0134	2017181	2017966	+	[E] Indole-3-glycerol phosphate synthase   
+	FBFCCOII_01705	CDS	NA	2018012	2018215	+	NA
+981
+	FBFCCOII_01706	CDS	COG0792	2018119	2018475	-	[L] Predicted endonuclease distantly related to archaeal
+	FBFCCOII_01707	CDS	COG0164	2018498	2019142	-	[L] Ribonuclease HII    
+	FBFCCOII_01708	CDS	COG1253	2019147	2020559	-	[R] Hemolysins and related proteins containing CBS
+	FBFCCOII_01709	CDS	ROG0658	2020618	2020878	-	NA
+982
+	FBFCCOII_01710	CDS	COG0199	2020951	2021220	-	[J] Ribosomal protein S14   
+983
+	FBFCCOII_01711	CDS	NA	2021632	2021856	+	NA
+984
+	FBFCCOII_01712	CDS	COG0137	2022156	2023448	+	[E] Argininosuccinate synthase    
+985
+	FBFCCOII_01713	CDS	COG3119	2023550	2025109	+	[P] Arylsulfatase A and related enzymes 
+986
+	FBFCCOII_01714	CDS	COG0144	2025196	2026434	+	[J] tRNA and rRNA cytosine-C5-methylases  
+987
+	FBFCCOII_01715	CDS	COG0149	2026487	2027251	+	[G] Triosephosphate isomerase    
+988
+	FBFCCOII_01716	CDS	COG4795	2027399	2028082	+	[U] Type II secretory pathway, component PulJ
+989
+	FBFCCOII_01717	CDS	NA	2028213	2028824	+	NA
+990
+	FBFCCOII_01718	CDS	COG3119	2029005	2030612	+	[P] Arylsulfatase A and related enzymes 
+991
+	FBFCCOII_01719	CDS	NA	2030689	2030805	-	NA
+992
+	FBFCCOII_01720	CDS	NA	2031194	2032084	+	NA
+993
+	FBFCCOII_01721	tRNA	NA	2032327	2032402	-	NA
+994
+	FBFCCOII_01722	CDS	COG0824	2032488	2032910	-	[R] Predicted thioesterase    
+995
+	FBFCCOII_01723	CDS	COG1040	2032959	2033708	-	[R] Predicted amidophosphoribosyltransferases    
+	FBFCCOII_01724	CDS	NA	2033740	2034042	-	NA
+996
+	FBFCCOII_01725	CDS	COG1694	2034128	2034937	+	[R] Predicted pyrophosphatase    
+997
+	FBFCCOII_01726	CDS	ROG2481	2034950	2035279	-	NA
+998
+	FBFCCOII_01727	CDS	COG0349	2035405	2036463	+	[J] Ribonuclease D    
+999
+	FBFCCOII_01728	CDS	ROG5477	2036729	2037031	+	NA
+	FBFCCOII_01729	CDS	COG1579	2037025	2037744	+	[R] Zn-ribbon protein, possibly nucleic acid-binding 
+	FBFCCOII_01730	CDS	COG1663	2037776	2038993	+	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+1000
+	FBFCCOII_01731	CDS	ROG0946	2039125	2039664	+	NA
+1001
+	FBFCCOII_01732	CDS	COG0612	2039966	2044396	+	[R] Predicted Zn-dependent peptidases   
+1002
+	FBFCCOII_01733	CDS	ROG6060	2044523	2045056	+	NA
+	FBFCCOII_01734	CDS	COG2268	2045090	2046592	+	[S] Uncharacterized protein conserved in bacteria 
+1003
+	FBFCCOII_01735	CDS	COG1636	2046986	2047540	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01736	CDS	COG0583	2047572	2048504	+	[K] Transcriptional regulator    
+1004
+	FBFCCOII_01737	CDS	COG0685	2048501	2049364	-	[E] 5,10-methylenetetrahydrofolate reductase    
+	FBFCCOII_01738	CDS	COG0620	2049361	2051634	-	[E] Methionine synthase II (cobalamin-independent)  
+1005
+	FBFCCOII_01739	CDS	COG5510	2051813	2051959	+	[S] Predicted small secreted protein  
+1006
+	FBFCCOII_01740	CDS	COG5510	2052229	2052372	-	[S] Predicted small secreted protein  
+1007
+	FBFCCOII_01741	CDS	ROG0474	2052574	2053455	+	NA
+1008
+	FBFCCOII_01742	CDS	COG3034	2053550	2054284	-	[S] Uncharacterized protein conserved in bacteria 
+1009
+	FBFCCOII_01743	CDS	COG4430	2054520	2055089	+	[S] Uncharacterized protein conserved in bacteria 
+1010
+	FBFCCOII_01744	CDS	NA	2055229	2062137	-	NA
+1011
+	FBFCCOII_01745	tRNA	NA	2062514	2062591	+	NA
+1012
+	FBFCCOII_01746	CDS	COG1171	2062677	2064293	+	[E] Threonine dehydratase    
+1013
+	FBFCCOII_01747	CDS	COG0424	2064360	2064929	+	[D] Nucleotide-binding protein implicated in inhibition of
+1014
+	FBFCCOII_01748	CDS	COG2262	2065033	2066346	-	[R] GTPases     
+	FBFCCOII_01749	CDS	ROG6377	2066356	2066487	-	NA
+1015
+	FBFCCOII_01750	CDS	COG0515	2066696	2069278	-	[RTKL] Serine/threonine protein kinase   
+1016
+	FBFCCOII_01751	CDS	COG1940	2069412	2070821	-	[KG] Transcriptional regulator/sugar kinase   
+1017
+	FBFCCOII_01752	CDS	COG1266	2070995	2071858	+	[R] Predicted metal-dependent membrane protease  
+	FBFCCOII_01753	CDS	COG0611	2071848	2072744	+	[H] Thiamine monophosphate kinase   
+1018
+	FBFCCOII_01754	CDS	COG3176	2072789	2074630	-	[R] Putative hemolysin    
+1019
+	FBFCCOII_01755	CDS	COG0283	2074769	2075410	+	[F] Cytidylate kinase    
+	FBFCCOII_01756	CDS	COG0204	2075407	2076018	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	FBFCCOII_01757	CDS	COG1195	2076035	2077090	+	[L] Recombinational DNA repair ATPase (RecF pathway)
+1020
+	FBFCCOII_01758	CDS	NA	2077145	2077648	-	NA
+1021
+	FBFCCOII_01759	CDS	COG0571	2077698	2078507	+	[K] dsRNA-specific ribonuclease    
+1022
+	FBFCCOII_01760	CDS	NA	2078651	2079982	+	NA
+1023
+	FBFCCOII_01761	CDS	COG0582	2079979	2081172	-	[L] Integrase     
+1024
+	FBFCCOII_01762	CDS	NA	2081593	2082228	+	NA
+	FBFCCOII_01763	CDS	COG4642	2082241	2083398	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01764	CDS	NA	2083398	2084309	+	NA
+	FBFCCOII_01765	CDS	COG3880	2084349	2085413	+	[S] Uncharacterized protein with conserved CXXC pairs
+1025
+	FBFCCOII_01766	CDS	NA	2085492	2085794	-	NA
+1026
+	FBFCCOII_01767	CDS	COG3568	2085907	2086821	+	[R] Metal-dependent hydrolase    
+1027
+	FBFCCOII_01768	CDS	COG0313	2086840	2087541	-	[R] Predicted methyltransferases    
+	FBFCCOII_01769	CDS	ROG0558	2087571	2088086	-	NA
+	FBFCCOII_01770	CDS	COG4105	2088105	2089055	-	[R] DNA uptake lipoprotein   
+1028
+	FBFCCOII_01771	CDS	COG0139	2089119	2089610	-	[E] Phosphoribosyl-AMP cyclohydrolase    
+1029
+	FBFCCOII_01772	CDS	COG2812	2089697	2090665	+	[L] DNA polymerase III, gamma/tau subunits 
+1030
+	FBFCCOII_01773	CDS	COG3663	2090727	2091242	-	[L] G:T/U mismatch-specific DNA glycosylase  
+	FBFCCOII_01774	CDS	NA	2091255	2092061	-	NA
+1031
+	FBFCCOII_01775	CDS	COG0458	2092316	2095510	+	[EF] Carbamoylphosphate synthase large subunit (split gene
+1032
+	FBFCCOII_01776	CDS	COG0631	2095652	2096452	-	[T] Serine/threonine protein phosphatase   
+1033
+	FBFCCOII_01777	CDS	NA	2096773	2097168	+	NA
+1034
+	FBFCCOII_01778	CDS	COG0500	2097220	2097969	-	[QR] SAM-dependent methyltransferases    
+1035
+	FBFCCOII_01779	CDS	COG0171	2098288	2100222	+	[H] NAD synthase    
+1036
+	FBFCCOII_01780	CDS	COG2076	2100290	2100625	-	[P] Membrane transporters of cations and cationic
+1037
+	FBFCCOII_01781	CDS	ROG4985	2100939	2101652	+	NA
+	FBFCCOII_01782	CDS	ROG0219	2101671	2102981	+	NA
+	FBFCCOII_01783	CDS	COG2188	2102997	2104172	+	[K] Transcriptional regulators    
+1038
+	FBFCCOII_01784	CDS	COG4409	2104295	2105554	-	[G] Neuraminidase (sialidase)    
+1039
+	FBFCCOII_01785	CDS	NA	2105914	2107434	+	NA
+1040
+	FBFCCOII_01786	CDS	COG0515	2108075	2110081	-	[RTKL] Serine/threonine protein kinase   
+	FBFCCOII_01787	CDS	ROG4899	2110106	2110531	-	NA
+1041
+	FBFCCOII_01788	CDS	NA	2110594	2110941	-	NA
+1042
+	FBFCCOII_01789	CDS	NA	2111554	2113743	+	NA
+1043
+	FBFCCOII_01790	CDS	ROG1008	2115369	2117567	-	NA
+1044
+	FBFCCOII_01791	tRNA	NA	2117718	2117808	-	NA
+1045
+	FBFCCOII_01792	CDS	COG2255	2118507	2119526	+	[L] Holliday junction resolvasome, helicase subunit 
+1046
+	FBFCCOII_01793	CDS	COG0332	2119648	2120667	+	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	FBFCCOII_01794	CDS	COG0369	2120696	2121826	+	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+1047
+	FBFCCOII_01795	CDS	COG1215	2122055	2123119	-	[M] Glycosyltransferases, probably involved in cell wall
+1048
+	FBFCCOII_01796	CDS	COG0463	2123676	2124713	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_01797	CDS	COG1442	2124710	2125657	+	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+1049
+	FBFCCOII_01798	CDS	NA	2125886	2127133	+	NA
+1050
+	FBFCCOII_01799	CDS	NA	2127187	2128749	-	NA
+1051
+	FBFCCOII_01800	CDS	COG0438	2129106	2130329	+	[M] Glycosyltransferase     
+	FBFCCOII_01801	CDS	COG0438	2130352	2131497	+	[M] Glycosyltransferase     
+	FBFCCOII_01802	CDS	COG0110	2131497	2132114	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+	FBFCCOII_01803	CDS	ROG2632	2132161	2133264	+	NA
+	FBFCCOII_01804	CDS	ROG4009	2133245	2133985	+	NA
+1052
+	FBFCCOII_01805	CDS	COG0324	2134069	2134974	+	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+	FBFCCOII_01806	CDS	COG0482	2135253	2136326	+	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+	FBFCCOII_01807	CDS	COG0486	2136323	2137672	+	[R] Predicted GTPase    
+	FBFCCOII_01808	CDS	COG1403	2137727	2138275	+	[V] Restriction endonuclease    
+1053
+	FBFCCOII_01809	CDS	COG2860	2138282	2138968	-	[S] Predicted membrane protein   
+	FBFCCOII_01810	CDS	COG1235	2138997	2139776	-	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+1054
+	FBFCCOII_01811	CDS	COG2001	2139933	2140388	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01812	CDS	COG0275	2140398	2141960	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	FBFCCOII_01813	CDS	ROG5406	2141983	2142327	+	NA
+	FBFCCOII_01814	CDS	COG0768	2142344	2144443	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+	FBFCCOII_01815	CDS	COG0769	2144451	2145956	+	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	FBFCCOII_01816	CDS	COG0770	2145979	2147352	+	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	FBFCCOII_01817	CDS	COG0472	2147358	2148461	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+	FBFCCOII_01818	CDS	COG0771	2148474	2149784	+	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	FBFCCOII_01819	CDS	COG1388	2149808	2150608	+	[M] FOG: LysM repeat   
+	FBFCCOII_01820	CDS	COG0772	2150633	2151775	+	[D] Bacterial cell division membrane protein 
+	FBFCCOII_01821	CDS	COG0707	2151772	2152896	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	FBFCCOII_01822	CDS	COG0773	2152877	2155186	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	FBFCCOII_01823	CDS	COG1181	2155209	2156144	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+1055
+	FBFCCOII_01824	CDS	NA	2156243	2157142	+	NA
+1056
+	FBFCCOII_01825	CDS	COG0468	2157369	2158409	+	[L] RecA/RadA recombinase    
+1057
+	FBFCCOII_01826	CDS	COG0860	2158569	2159588	+	[M] N-acetylmuramoyl-L-alanine amidase    
+	FBFCCOII_01827	CDS	COG0321	2159624	2160262	+	[H] Lipoate-protein ligase B   
+1058
+	FBFCCOII_01828	CDS	COG0065	2160465	2161877	+	[E] 3-isopropylmalate dehydratase large subunit  
+	FBFCCOII_01829	CDS	COG0066	2161897	2162505	+	[E] 3-isopropylmalate dehydratase small subunit  
+	FBFCCOII_01830	CDS	NA	2162550	2163671	+	NA
+	FBFCCOII_01831	CDS	COG0265	2163713	2165287	+	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	FBFCCOII_01832	CDS	COG0265	2165293	2166873	+	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	FBFCCOII_01833	CDS	COG0337	2166911	2168074	+	[E] 3-dehydroquinate synthetase    
+1059
+	FBFCCOII_01834	CDS	COG1123	2168605	2169390	-	[R] ATPase components of various ABC-type transport
+1060
+	FBFCCOII_01835	CDS	COG0264	2169924	2170802	-	[J] Translation elongation factor Ts  
+	FBFCCOII_01836	CDS	COG0052	2170832	2171527	-	[J] Ribosomal protein S2   
+1061
+	FBFCCOII_01837	CDS	ROG5014	2171766	2172527	-	NA
+1062
+	FBFCCOII_01838	CDS	COG2877	2172811	2173626	+	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	FBFCCOII_01839	CDS	NA	2173623	2174102	+	NA
+	FBFCCOII_01840	CDS	COG1934	2174115	2175074	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01841	CDS	COG1137	2175071	2175817	+	[R] ABC-type (unclassified) transport system, ATPase component
+	FBFCCOII_01842	CDS	ROG3426	2175838	2176722	+	NA
+	FBFCCOII_01843	CDS	COG0773	2176748	2178130	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	FBFCCOII_01844	CDS	COG2885	2178155	2179474	+	[M] Outer membrane protein and related peptidoglycan-associated
+1063
+	FBFCCOII_01845	CDS	COG0210	2179557	2181566	+	[L] Superfamily I DNA and RNA helicases
+1064
+	FBFCCOII_01846	CDS	COG1733	2182002	2182367	-	[K] Predicted transcriptional regulators   
+1065
+	FBFCCOII_01847	CDS	COG1853	2182513	2183016	+	[R] Conserved protein/domain typically associated with flavoprotein
+1066
+	FBFCCOII_01848	CDS	COG0178	2183136	2185667	+	[L] Excinuclease ATPase subunit   
+1067
+	FBFCCOII_01849	CDS	COG4801	2186182	2189316	+	[R] Predicted acyltransferase    
+1068
+	FBFCCOII_01850	CDS	NA	2189566	2190384	+	NA
+1069
+	FBFCCOII_01851	CDS	COG0017	2190549	2191949	-	[J] Aspartyl/asparaginyl-tRNA synthetases    
+1070
+	FBFCCOII_01852	CDS	ROG5273	2192025	2193305	-	NA
+1071
+	FBFCCOII_01853	CDS	COG0526	2193532	2193849	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+	FBFCCOII_01854	CDS	COG1298	2193888	2194226	-	[NU] Flagellar biosynthesis pathway, component FlhA 
+1072
+	FBFCCOII_01855	CDS	COG0500	2194754	2195434	+	[QR] SAM-dependent methyltransferases    
+	FBFCCOII_01856	CDS	NA	2195450	2196634	+	NA
+	FBFCCOII_01857	CDS	ROG3032	2196654	2197880	+	NA
+	FBFCCOII_01858	CDS	COG1657	2197884	2199137	+	[I] Squalene cyclase    
+	FBFCCOII_01859	CDS	ROG4907	2199134	2200279	+	NA
+	FBFCCOII_01860	CDS	ROG4907	2200300	2201409	+	NA
+	FBFCCOII_01861	CDS	NA	2201429	2201902	+	NA
+1073
+	FBFCCOII_01862	CDS	NA	2201899	2202318	-	NA
+1074
+	FBFCCOII_01863	CDS	COG0583	2202469	2203392	+	[K] Transcriptional regulator    
+	FBFCCOII_01864	CDS	COG2855	2203511	2204533	+	[S] Predicted membrane protein   
+1075
+	FBFCCOII_01865	CDS	COG0075	2204915	2205988	+	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+1076
+	FBFCCOII_01866	CDS	COG4198	2206318	2207571	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_01867	CDS	COG0111	2207591	2209162	+	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+1077
+	FBFCCOII_01868	CDS	ROG8378	2209307	2210356	+	NA
+1078
+	FBFCCOII_01869	CDS	COG0602	2210463	2211146	+	[O] Organic radical activating enzymes  
+1079
+	FBFCCOII_01870	CDS	COG1158	2211238	2213217	-	[K] Transcription termination factor   
+1080
+	FBFCCOII_01871	CDS	COG0217	2213269	2214024	-	[S] Uncharacterized conserved protein   
+1081
+	FBFCCOII_01872	CDS	COG0053	2214561	2215991	+	[P] Predicted Co/Zn/Cd cation transporters  
+1082
+	FBFCCOII_01873	CDS	COG4651	2216098	2217843	-	[P] Kef-type K+ transport system, predicted NAD-binding
+1083
+	FBFCCOII_01874	CDS	NA	2218361	2219035	+	NA
+1084
+	FBFCCOII_01875	CDS	COG0809	2219084	2220073	-	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+1085
+	FBFCCOII_01876	CDS	COG4864	2220156	2221217	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_01877	CDS	COG2319	2221272	2221913	+	[R] FOG: WD40 repeat   
+1086
+	FBFCCOII_01878	CDS	COG2022	2222019	2222801	+	[H] Uncharacterized enzyme of thiazole biosynthesis 
+1087
+	FBFCCOII_01879	CDS	COG0531	2222843	2224147	-	[E] Amino acid transporters   
+1088
+	FBFCCOII_01880	CDS	COG0546	2224300	2224965	+	[R] Predicted phosphatases    
+1089
+	FBFCCOII_01881	CDS	COG0628	2225025	2226137	+	[R] Predicted permease    
+	FBFCCOII_01882	CDS	COG0019	2226141	2227430	+	[E] Diaminopimelate decarboxylase    
+1090
+	FBFCCOII_01883	CDS	COG0191	2227758	2228756	+	[G] Fructose/tagatose bisphosphate aldolase   
+1091
+	FBFCCOII_01884	CDS	COG1217	2229142	2230977	-	[T] Predicted membrane GTPase involved in stress
+1092
+	FBFCCOII_01885	CDS	COG0115	2231185	2232051	+	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+1093
+	FBFCCOII_01886	CDS	COG2273	2232341	2233255	-	[G] Beta-glucanase/Beta-glucan synthetase    
+1094
+	FBFCCOII_01887	CDS	COG0350	2233399	2233947	+	[L] Methylated DNA-protein cysteine methyltransferase  
+1095
+	FBFCCOII_01888	CDS	COG1716	2233972	2234568	-	[T] FOG: FHA domain   
+1096
+	FBFCCOII_01889	CDS	NA	2234876	2234995	+	NA
+1097
+	FBFCCOII_01890	CDS	COG0536	2235454	2236506	+	[R] Predicted GTPase    
+	FBFCCOII_01891	CDS	ROG0325	2236539	2237696	+	NA
+1098
+	FBFCCOII_01892	CDS	COG1181	2237824	2238849	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+1099
+	FBFCCOII_01893	CDS	COG0438	2238898	2239938	-	[M] Glycosyltransferase     
+1100
+	FBFCCOII_01894	CDS	ROG3620	2240243	2240902	-	NA
+1101
+	FBFCCOII_01895	CDS	COG3209	2241138	2241398	-	[M] Rhs family protein   
+1102
+	FBFCCOII_01896	CDS	ROG1043	2241479	2241607	-	NA
+1103
+	FBFCCOII_01897	CDS	NA	2241920	2242435	-	NA
+	FBFCCOII_01898	CDS	COG3209	2242477	2243346	-	[M] Rhs family protein   
+1104
+	FBFCCOII_01899	CDS	NA	2243526	2243999	-	NA
+	FBFCCOII_01900	CDS	NA	2243987	2244526	-	NA
+	FBFCCOII_01901	CDS	ROG4158	2244523	2245347	-	NA
+	FBFCCOII_01902	CDS	COG3209	2245344	2251220	-	[M] Rhs family protein   
+1105
+	FBFCCOII_01903	CDS	COG0394	2251675	2252235	-	[T] Protein-tyrosine-phosphatase     
+1106
+	FBFCCOII_01904	CDS	COG0516	2252358	2253809	+	[F] IMP dehydrogenase/GMP reductase   
+	FBFCCOII_01905	CDS	COG0519	2253822	2255345	+	[F] GMP synthase, PP-ATPase domain/subunit  
+1107
+	FBFCCOII_01906	CDS	COG0110	2255430	2256032	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+	FBFCCOII_01907	CDS	COG0546	2256029	2256667	+	[R] Predicted phosphatases    
+	FBFCCOII_01908	CDS	COG1432	2256700	2257455	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_01909	CDS	COG0679	2257480	2258466	+	[R] Predicted permeases    
+1108
+	FBFCCOII_01910	CDS	NA	2258665	2259198	+	NA
+1109
+	FBFCCOII_01911	CDS	COG0722	2259320	2260387	-	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+1110
+	FBFCCOII_01912	CDS	COG2165	2260546	2261187	-	[NU] Type II secretory pathway, pseudopilin PulG
+	FBFCCOII_01913	CDS	COG1314	2261349	2261804	-	[U] Preprotein translocase subunit SecG  
+	FBFCCOII_01914	CDS	COG0853	2261846	2262145	-	[H] Aspartate 1-decarboxylase    
+	FBFCCOII_01915	CDS	COG0196	2262258	2263193	-	[H] FAD synthase    
+	FBFCCOII_01916	CDS	COG0130	2263197	2263931	-	[J] Pseudouridine synthase    
+	FBFCCOII_01917	CDS	COG0618	2263928	2264941	-	[R] Exopolyphosphatase-related proteins    
+1111
+	FBFCCOII_01918	CDS	ROG8491	2265029	2265247	-	NA
+1112
+	FBFCCOII_01919	CDS	COG1408	2265388	2266239	+	[R] Predicted phosphohydrolases    
+1113
+	FBFCCOII_01920	CDS	COG1442	2266353	2267327	-	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+	FBFCCOII_01921	CDS	COG0463	2267350	2268375	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_01922	CDS	COG0859	2268372	2269346	-	[M] ADP-heptose:LPS heptosyltransferase    
+	FBFCCOII_01923	CDS	COG0451	2269368	2270354	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+1114
+	FBFCCOII_01924	CDS	COG0463	2270657	2271811	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_01925	CDS	NA	2271839	2272645	+	NA
+1115
+	FBFCCOII_01926	CDS	COG0438	2273098	2274372	+	[M] Glycosyltransferase     
+1116
+	FBFCCOII_01927	CDS	ROG2106	2274493	2275491	+	NA
+1117
+	FBFCCOII_01928	CDS	COG1835	2275573	2277645	+	[I] Predicted acyltransferases    
+1118
+	FBFCCOII_01929	CDS	ROG2642	2277805	2278830	+	NA
+1119
+	FBFCCOII_01930	CDS	NA	2278788	2279090	-	NA
+1120
+	FBFCCOII_01931	CDS	ROG2208	2279201	2279434	-	NA
+1121
+	FBFCCOII_01932	CDS	COG0471	2279560	2281425	-	[P] Di- and tricarboxylate transporters  
+1122
+	FBFCCOII_01933	tRNA	NA	2281665	2281750	-	NA
+1123
+	FBFCCOII_01934	CDS	COG1259	2281909	2282394	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_01935	CDS	COG0663	2282414	2282950	-	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+	FBFCCOII_01936	CDS	COG0532	2283071	2285299	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+1124
+	FBFCCOII_01937	CDS	COG0778	2285590	2286243	+	[C] Nitroreductase     
+	FBFCCOII_01938	CDS	NA	2286300	2286776	+	NA
+1125
+	FBFCCOII_01939	CDS	COG1874	2286614	2288545	-	[G] Beta-galactosidase     
+1126
+	FBFCCOII_01940	CDS	COG0588	2288714	2289514	+	[G] Phosphoglycerate mutase 1   
+	FBFCCOII_01941	CDS	COG1052	2289532	2290554	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+1127
+	FBFCCOII_01942	CDS	ROG1162	2290686	2291834	+	NA
+1128
+	FBFCCOII_01943	CDS	COG2211	2291897	2293306	+	[G] Na+/melibiose symporter and related transporters 
+1129
+	FBFCCOII_01944	CDS	COG1607	2293329	2293796	-	[I] Acyl-CoA hydrolase    
+1130
+	FBFCCOII_01945	CDS	NA	2293827	2293949	+	NA
+	FBFCCOII_01946	CDS	NA	2293995	2294285	+	NA
+1131
+	FBFCCOII_01947	CDS	COG1028	2294702	2295748	+	[IQR] Dehydrogenases with different specificities (related to
+1132
+	FBFCCOII_01948	CDS	ROG0677	2295978	2296943	+	NA
+1133
+	FBFCCOII_01949	CDS	COG1525	2297035	2297544	-	[L] Micrococcal nuclease (thermonuclease) homologs  
+1134
+	FBFCCOII_01950	CDS	NA	2297630	2297848	+	NA
+1135
+	FBFCCOII_01951	CDS	COG0585	2297920	2298114	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_01952	CDS	NA	2298131	2298646	-	NA
+	FBFCCOII_01953	CDS	COG3969	2298643	2299938	-	[R] Predicted phosphoadenosine phosphosulfate sulfotransferase  
+	FBFCCOII_01954	CDS	NA	2299935	2300144	-	NA
+1136
+	FBFCCOII_01955	CDS	COG2944	2301039	2301476	-	[K] Predicted transcriptional regulator   
+	FBFCCOII_01956	CDS	ROG0424	2301463	2302365	-	NA
+1137
+	FBFCCOII_01957	CDS	NA	2303087	2305507	-	NA
+1138
+	FBFCCOII_01958	CDS	NA	2305592	2306329	-	NA
+	FBFCCOII_01959	CDS	NA	2306326	2308533	-	NA
+	FBFCCOII_01960	CDS	NA	2308530	2308937	-	NA
+1139
+	FBFCCOII_01961	CDS	ROG6650	2309033	2309614	-	NA
+	FBFCCOII_01962	CDS	NA	2309620	2309826	-	NA
+	FBFCCOII_01963	CDS	NA	2309816	2310301	-	NA
+	FBFCCOII_01964	CDS	NA	2310298	2310732	-	NA
+	FBFCCOII_01965	CDS	NA	2310738	2311136	-	NA
+	FBFCCOII_01966	CDS	NA	2311158	2312189	-	NA
+	FBFCCOII_01967	CDS	ROG3941	2312193	2313281	-	NA
+	FBFCCOII_01968	CDS	NA	2313338	2313940	-	NA
+	FBFCCOII_01969	CDS	NA	2313947	2314147	-	NA
+1140
+	FBFCCOII_01970	CDS	COG4383	2314240	2315610	-	[S] Mu-like prophage protein gp29  
+	FBFCCOII_01971	CDS	COG3926	2315630	2316190	-	[R] Putative secretion activating protein  
+1141
+	FBFCCOII_01972	CDS	NA	2316273	2316500	-	NA
+	FBFCCOII_01973	CDS	NA	2316505	2316789	-	NA
+	FBFCCOII_01974	CDS	NA	2316791	2317198	-	NA
+	FBFCCOII_01975	CDS	NA	2317195	2319453	-	NA
+	FBFCCOII_01976	CDS	NA	2319510	2321039	-	NA
+	FBFCCOII_01977	CDS	ROG7895	2321015	2321512	-	NA
+1142
+	FBFCCOII_01978	CDS	NA	2321673	2323199	-	NA
+	FBFCCOII_01979	CDS	NA	2323234	2323524	-	NA
+	FBFCCOII_01980	CDS	COG0305	2323521	2324870	-	[L] Replicative DNA helicase   
+	FBFCCOII_01981	CDS	ROG4905	2324891	2325661	-	NA
+	FBFCCOII_01982	CDS	COG0500	2325675	2326145	-	[QR] SAM-dependent methyltransferases    
+	FBFCCOII_01983	CDS	COG0270	2326129	2327631	-	[L] Site-specific DNA methylase   
+	FBFCCOII_01984	CDS	ROG3523	2327628	2328047	-	NA
+	FBFCCOII_01985	CDS	COG4570	2328044	2328469	-	[L] Holliday junction resolvase   
+	FBFCCOII_01986	CDS	NA	2328479	2329030	-	NA
+	FBFCCOII_01987	CDS	NA	2329036	2330199	-	NA
+	FBFCCOII_01988	CDS	ROG1975	2330196	2331191	-	NA
+1143
+	FBFCCOII_01989	CDS	NA	2331276	2331509	-	NA
+	FBFCCOII_01990	CDS	NA	2331509	2331706	-	NA
+1144
+	FBFCCOII_01991	CDS	COG5052	2331781	2331963	-	[U] Protein involved in membrane traffic 
+1145
+	FBFCCOII_01992	CDS	COG2932	2332276	2332905	+	[K] Predicted transcriptional regulator   
+1146
+	FBFCCOII_01993	CDS	COG0863	2333025	2334293	+	[L] DNA modification methylase   
+1147
+	FBFCCOII_01994	CDS	ROG1808	2334281	2336131	-	NA
+1148
+	FBFCCOII_01995	CDS	COG0582	2336265	2337443	-	[L] Integrase     
+1149
+	FBFCCOII_01996	tRNA	NA	2337605	2337679	-	NA
+1150
+	FBFCCOII_01997	CDS	COG0473	2337846	2338955	+	[CE] Isocitrate/isopropylmalate dehydrogenase    
+1151
+	FBFCCOII_01998	CDS	COG1232	2339090	2340130	+	[H] Protoporphyrinogen oxidase    
+1152
+	FBFCCOII_01999	CDS	COG0705	2340215	2341090	+	[R] Uncharacterized membrane protein (homolog of Drosophila
+1153
+	FBFCCOII_02000	CDS	COG0606	2341164	2342699	+	[O] Predicted ATPase with chaperone activity 
+1154
+	FBFCCOII_02001	CDS	ROG4985	2342812	2343507	-	NA
+1155
+	FBFCCOII_02002	CDS	COG2873	2343852	2345153	-	[E] O-acetylhomoserine sulfhydrylase    
+1156
+	FBFCCOII_02003	CDS	COG0535	2345402	2346649	-	[R] Predicted Fe-S oxidoreductases   
+	FBFCCOII_02004	CDS	COG0535	2346642	2347703	-	[R] Predicted Fe-S oxidoreductases   
+1157
+	FBFCCOII_02005	CDS	NA	2347775	2348593	-	NA
+1158
+	FBFCCOII_02006	CDS	ROG2223	2348734	2349168	-	NA
+	FBFCCOII_02007	CDS	COG0240	2349226	2350233	-	[C] Glycerol-3-phosphate dehydrogenase    
+	FBFCCOII_02008	CDS	COG0344	2350238	2350882	-	[S] Predicted membrane protein   
+1159
+	FBFCCOII_02009	CDS	COG0631	2351135	2351920	-	[T] Serine/threonine protein phosphatase   
+	FBFCCOII_02010	CDS	COG1190	2351938	2353419	-	[J] Lysyl-tRNA synthetase (class II)  
+1160
+	FBFCCOII_02011	CDS	COG0674	2353765	2357343	+	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+1161
+	FBFCCOII_02012	CDS	COG3837	2357809	2358246	-	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+1162
+	FBFCCOII_02013	CDS	COG1733	2358371	2358691	+	[K] Predicted transcriptional regulators   
+1163
+	FBFCCOII_02014	CDS	ROG5108	2358773	2360911	-	NA
+	FBFCCOII_02015	CDS	COG0107	2360959	2361726	-	[E] Imidazoleglycerol-phosphate synthase    
+1164
+	FBFCCOII_02016	CDS	NA	2361786	2361986	+	NA
+	FBFCCOII_02017	CDS	COG0168	2362040	2363788	+	[P] Trk-type K+ transport systems, membrane components
+	FBFCCOII_02018	CDS	COG0569	2363799	2364503	+	[P] K+ transport systems, NAD-binding component 
+1165
+	FBFCCOII_02019	CDS	COG1643	2364596	2368291	-	[L] HrpA-like helicases    
+1166
+	FBFCCOII_02020	CDS	COG0440	2368360	2368842	-	[E] Acetolactate synthase, small (regulatory) subunit 
+1167
+	FBFCCOII_02021	CDS	COG0265	2368964	2370427	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+1168
+	FBFCCOII_02022	CDS	COG1466	2370621	2371784	+	[L] DNA polymerase III, delta subunit 
+	FBFCCOII_02023	CDS	COG0445	2371784	2373670	+	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+1169
+	FBFCCOII_02024	CDS	NA	2373792	2373977	-	NA
+1170
+	FBFCCOII_02025	CDS	COG0117	2374155	2375225	-	[H] Pyrimidine deaminase    
+1171
+	FBFCCOII_02026	CDS	COG1208	2375744	2376442	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+1172
+	FBFCCOII_02027	CDS	ROG1951	2376534	2377217	-	NA
+1173
+	FBFCCOII_02028	CDS	COG0592	2377713	2378813	+	[L] DNA polymerase sliding clamp subunit (PCNA
+1174
+	FBFCCOII_02029	CDS	NA	2379117	2379557	-	NA
+1175
+	FBFCCOII_02030	CDS	ROG6792	2379660	2380712	-	NA
+1176
+	FBFCCOII_02031	CDS	COG0534	2380913	2382292	-	[V] Na+-driven multidrug efflux pump  
+1177
+	FBFCCOII_02032	CDS	COG1376	2382581	2383312	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_02033	CDS	COG1388	2383342	2383821	-	[M] FOG: LysM repeat   
+1178
+	FBFCCOII_02034	CDS	COG0084	2383891	2384706	-	[L] Mg-dependent DNase    
+1179
+	FBFCCOII_02035	CDS	COG3528	2384831	2385892	+	[S] Uncharacterized protein conserved in bacteria 
+1180
+	FBFCCOII_02036	CDS	COG3250	2386029	2389823	+	[G] Beta-galactosidase/beta-glucuronidase     
+1181
+	FBFCCOII_02037	CDS	NA	2390013	2390696	-	NA
+	FBFCCOII_02038	CDS	NA	2390703	2391713	-	NA
+1182
+	FBFCCOII_02039	CDS	NA	2391799	2392029	+	NA
+1183
+	FBFCCOII_02040	CDS	COG2205	2392155	2394833	+	[T] Osmosensitive K+ channel histidine kinase 
+	FBFCCOII_02041	CDS	COG0745	2394847	2395545	+	[TK] Response regulators consisting of a CheY-like
+1184
+	FBFCCOII_02042	CDS	ROG0870	2395699	2396478	+	NA
+1185
+	FBFCCOII_02043	CDS	COG2060	2396591	2398291	+	[P] K+-transporting ATPase, A chain  
+	FBFCCOII_02044	CDS	COG2216	2398314	2400434	+	[P] High-affinity K+ transport system, ATPase chain
+	FBFCCOII_02045	CDS	COG2156	2400464	2401039	+	[P] K+-transporting ATPase, c chain  
+1186
+	FBFCCOII_02046	CDS	COG1917	2401312	2401665	-	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+	FBFCCOII_02047	CDS	COG0454	2401667	2402623	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+1187
+	FBFCCOII_02048	CDS	COG0542	2403125	2405707	+	[O] ATPases with chaperone activity, ATP-binding subunit
+1188
+	FBFCCOII_02049	tRNA	NA	2408268	2408343	+	NA
+	FBFCCOII_02050	tRNA	NA	2408368	2408444	+	NA
+1189
+	FBFCCOII_02051	CDS	NA	2411997	2412158	-	NA
+1190
+	FBFCCOII_02052	CDS	NA	2412369	2413925	+	NA
+1191
+	FBFCCOII_02053	CDS	NA	2414016	2414129	+	NA
+1192
+	FBFCCOII_02054	CDS	COG1327	2414204	2414695	+	[K] Predicted transcriptional regulator, consists of a
+	FBFCCOII_02055	CDS	NA	2414708	2415235	+	NA
+1193
+	FBFCCOII_02056	CDS	COG0659	2415631	2417310	-	[P] Sulfate permease and related transporters (MFS
+1194
+	FBFCCOII_02057	CDS	COG0165	2417447	2418823	-	[E] Argininosuccinate lyase    
+1195
+	FBFCCOII_02058	CDS	COG4279	2419006	2419695	+	[S] Uncharacterized conserved protein   
+1196
+	FBFCCOII_02059	CDS	NA	2419696	2421195	-	NA
+1197
+	FBFCCOII_02060	CDS	COG0148	2421361	2422650	-	[G] Enolase     
+	FBFCCOII_02061	CDS	COG0648	2422805	2423638	-	[L] Endonuclease IV    
+1198
+	FBFCCOII_02062	CDS	COG3669	2423777	2425891	+	[G] Alpha-L-fucosidase     
+1199
+	FBFCCOII_02063	CDS	COG3481	2425960	2427024	+	[R] Predicted HD-superfamily hydrolase   
+1200
+	FBFCCOII_02064	CDS	COG0658	2427214	2429148	+	[R] Predicted membrane metal-binding protein  
+1201
+	FBFCCOII_02065	CDS	COG0621	2429111	2430487	-	[J] 2-methylthioadenine synthetase    
+	FBFCCOII_02066	CDS	COG2265	2430496	2431719	-	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	FBFCCOII_02067	CDS	ROG1018	2431735	2432058	-	NA
+1202
+	FBFCCOII_02068	CDS	NA	2432204	2432776	+	NA
+1203
+	FBFCCOII_02069	CDS	NA	2432955	2434424	-	NA
+1204
+	FBFCCOII_02070	CDS	COG0776	2434578	2434850	+	[L] Bacterial nucleoid DNA-binding protein  
+1205
+	FBFCCOII_02071	CDS	COG3345	2434980	2437130	+	[G] Alpha-galactosidase     
+1206
+	FBFCCOII_02072	CDS	COG2985	2437455	2439068	-	[R] Predicted permease    
+1207
+	FBFCCOII_02073	CDS	COG3437	2439184	2439663	-	[KT] Response regulator containing a CheY-like receiver
+	FBFCCOII_02074	CDS	COG4191	2439650	2441092	-	[T] Signal transduction histidine kinase regulating C4-dicarboxylate
+1208
+	FBFCCOII_02075	CDS	COG0471	2441160	2442899	-	[P] Di- and tricarboxylate transporters  
+1209
+	FBFCCOII_02076	CDS	COG0535	2442978	2443730	-	[R] Predicted Fe-S oxidoreductases   
+	FBFCCOII_02077	CDS	ROG0567	2443757	2443951	-	NA
+	FBFCCOII_02078	CDS	COG1328	2444003	2446099	-	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+1210
+	FBFCCOII_02079	CDS	COG4225	2446648	2448882	+	[R] Predicted unsaturated glucuronyl hydrolase involved in
+1211
+	FBFCCOII_02080	CDS	COG2194	2448934	2450652	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+1212
+	FBFCCOII_02081	CDS	COG1592	2450881	2451429	-	[C] Rubrerythrin     
+1213
+	FBFCCOII_02082	CDS	NA	2451557	2452132	+	NA
+1214
+	FBFCCOII_02083	CDS	COG1363	2452372	2453520	-	[G] Cellulase M and related proteins 
+1215
+	FBFCCOII_02084	CDS	COG3525	2453611	2455260	-	[G] N-acetyl-beta-hexosaminidase     
+1216
+	FBFCCOII_02085	CDS	NA	2455390	2456580	+	NA
+1217
+	FBFCCOII_02086	CDS	COG1785	2456589	2457734	-	[P] Alkaline phosphatase    
+	FBFCCOII_02087	CDS	COG1970	2457824	2458237	-	[M] Large-conductance mechanosensitive channel   
+1218
+	FBFCCOII_02088	CDS	COG4992	2458426	2459682	+	[E] Ornithine/acetylornithine aminotransferase    
+	FBFCCOII_02089	CDS	COG4747	2459710	2460168	+	[R] ACT domain-containing protein   
+1219
+	FBFCCOII_02090	CDS	NA	2460158	2460274	-	NA
+1220
+	FBFCCOII_02091	CDS	COG0231	2460292	2460858	+	[J] Translation elongation factor P (EF-P)/translation initiation
+1221
+	FBFCCOII_02092	CDS	COG2273	2460964	2461905	-	[G] Beta-glucanase/Beta-glucan synthetase    
+1222
+	FBFCCOII_02093	CDS	COG2217	2462085	2464337	+	[P] Cation transport ATPase   
+1223
+	FBFCCOII_02094	CDS	COG0497	2464368	2466026	-	[L] ATPase involved in DNA repair 
+1224
+	FBFCCOII_02095	CDS	COG1235	2466079	2466864	+	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+	FBFCCOII_02096	CDS	COG1922	2466890	2467684	+	[M] Teichoic acid biosynthesis proteins  
+1225
+	FBFCCOII_02097	CDS	COG2315	2467787	2468536	+	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_02098	CDS	ROG5295	2468584	2468967	+	NA
+1226
+	FBFCCOII_02099	CDS	ROG0452	2469046	2469375	+	NA
+	FBFCCOII_02100	CDS	ROG8265	2469410	2469598	+	NA
+1227
+	FBFCCOII_02101	CDS	COG3494	2469690	2470553	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_02102	CDS	COG0508	2470582	2471856	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	FBFCCOII_02103	CDS	COG0022	2471875	2472849	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	FBFCCOII_02104	CDS	COG1071	2472871	2473809	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+1228
+	FBFCCOII_02105	CDS	COG0789	2474057	2474869	-	[K] Predicted transcriptional regulators   
+1229
+	FBFCCOII_02106	CDS	COG0845	2475192	2476319	+	[M] Membrane-fusion protein    
+	FBFCCOII_02107	CDS	COG0841	2476326	2479430	+	[V] Cation/multidrug efflux pump   
+1230
+	FBFCCOII_02108	CDS	ROG4619	2479860	2482901	+	NA
+	FBFCCOII_02109	CDS	ROG7682	2482949	2483392	+	NA
+1231
+	FBFCCOII_02110	CDS	COG2738	2483626	2484384	-	[R] Predicted Zn-dependent protease   
+1232
+	FBFCCOII_02111	CDS	ROG3664	2484498	2484956	-	NA
+1233
+	FBFCCOII_02112	CDS	COG0007	2485004	2486617	+	[H] Uroporphyrinogen-III methylase    
+1234
+	FBFCCOII_02113	CDS	NA	2486686	2487255	-	NA
+1235
+	FBFCCOII_02114	CDS	COG0550	2487361	2489970	+	[L] Topoisomerase IA    
+1236
+	FBFCCOII_02115	CDS	NA	2490083	2491255	+	NA
+1237
+	FBFCCOII_02116	CDS	NA	2491477	2491908	-	NA
+	FBFCCOII_02117	CDS	NA	2491932	2492336	-	NA
+1238
+	FBFCCOII_02118	CDS	COG5632	2493290	2493955	-	[M] N-acetylmuramoyl-L-alanine amidase    
+1239
+	FBFCCOII_02119	CDS	COG1048	2494145	2497120	-	[C] Aconitase A    
+1240
+	FBFCCOII_02120	CDS	COG1376	2497167	2497730	+	[S] Uncharacterized protein conserved in bacteria 
+1241
+	FBFCCOII_02121	CDS	COG0229	2498103	2499230	-	[O] Conserved domain frequently associated with peptide
+1242
+	FBFCCOII_02122	CDS	ROG6871	2499371	2499886	-	NA
+1243
+	FBFCCOII_02123	CDS	NA	2500026	2502269	+	NA
+1244
+	FBFCCOII_02124	CDS	COG1690	2502342	2503457	-	[S] Uncharacterized conserved protein   
+1245
+	FBFCCOII_02125	CDS	NA	2503588	2504505	+	NA
+1246
+	FBFCCOII_02126	CDS	NA	2504517	2505749	-	NA
+1247
+	FBFCCOII_02127	CDS	NA	2505850	2506599	-	NA
+1248
+	FBFCCOII_02128	CDS	COG2096	2506746	2507303	+	[S] Uncharacterized conserved protein   
+1249
+	FBFCCOII_02129	CDS	ROG2287	2507464	2507802	-	NA
+1250
+	FBFCCOII_02130	CDS	COG0557	2508108	2510417	-	[K] Exoribonuclease R    
+1251
+	FBFCCOII_02131	CDS	NA	2510623	2510796	+	NA
+1252
+	FBFCCOII_02132	CDS	COG0826	2510826	2513333	-	[O] Collagenase and related proteases  
+	FBFCCOII_02133	CDS	COG0285	2513361	2514575	-	[H] Folylpolyglutamate synthase    
+1253
+	FBFCCOII_02134	CDS	ROG3200	2514786	2515802	-	NA
+1254
+	FBFCCOII_02135	CDS	COG0673	2515967	2517388	+	[R] Predicted dehydrogenases and related proteins 
+1255
+	FBFCCOII_02136	CDS	COG0553	2517462	2520149	-	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+	FBFCCOII_02137	CDS	COG0737	2520187	2521644	-	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+	FBFCCOII_02138	CDS	COG0797	2521687	2522208	-	[M] Lipoproteins     
+1256
+	FBFCCOII_02139	CDS	COG0061	2522328	2523212	+	[G] Predicted sugar kinase   
+1257
+	FBFCCOII_02140	CDS	COG0198	2523437	2523664	+	[J] Ribosomal protein L24   
+	FBFCCOII_02141	CDS	COG0094	2523731	2524312	+	[J] Ribosomal protein L5   
+	FBFCCOII_02142	CDS	COG0096	2524325	2524726	+	[J] Ribosomal protein S8   
+	FBFCCOII_02143	CDS	COG0097	2524748	2525287	+	[J] Ribosomal protein L6P/L9E   
+	FBFCCOII_02144	CDS	COG0256	2525323	2525685	+	[J] Ribosomal protein L18   
+	FBFCCOII_02145	CDS	COG0098	2525702	2526364	+	[J] Ribosomal protein S5   
+	FBFCCOII_02146	CDS	COG0200	2526427	2526885	+	[J] Ribosomal protein L15   
+	FBFCCOII_02147	CDS	NA	2526907	2527029	+	NA
+	FBFCCOII_02148	CDS	COG0201	2527050	2528528	+	[U] Preprotein translocase subunit SecY  
+	FBFCCOII_02149	CDS	COG0563	2528559	2529209	+	[F] Adenylate kinase and related kinases 
+	FBFCCOII_02150	CDS	COG0024	2529223	2530020	+	[J] Methionine aminopeptidase    
+	FBFCCOII_02151	CDS	ROG2632	2530039	2531106	+	NA
+1258
+	FBFCCOII_02152	CDS	COG0248	2531272	2532828	+	[FP] Exopolyphosphatase     
+	FBFCCOII_02153	CDS	COG0855	2532864	2534951	+	[P] Polyphosphate kinase    
+1259
+	FBFCCOII_02154	CDS	COG1442	2535065	2536180	-	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+1260
+	FBFCCOII_02155	CDS	NA	2536390	2537739	-	NA
+	FBFCCOII_02156	CDS	COG0463	2537754	2538884	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_02157	CDS	ROG0280	2538908	2539804	-	NA
+	FBFCCOII_02158	CDS	COG0463	2539824	2540879	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	FBFCCOII_02159	CDS	NA	2540876	2542075	-	NA
+1261
+	FBFCCOII_02160	CDS	COG0463	2542481	2543557	+	[M] Glycosyltransferases involved in cell wall biogenesis
+1262
+	FBFCCOII_02161	CDS	COG0693	2543635	2544198	-	[R] Putative intracellular protease/amidase   
+	FBFCCOII_02162	CDS	COG0508	2544262	2545302	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+1263
+	FBFCCOII_02163	CDS	COG1820	2545387	2546535	-	[G] N-acetylglucosamine-6-phosphate deacetylase    
+1264
+	FBFCCOII_02164	CDS	COG0652	2546680	2547273	-	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+1265
+	FBFCCOII_02165	CDS	ROG3141	2547430	2548773	-	NA
+	FBFCCOII_02166	CDS	COG1966	2548778	2550250	-	[T] Carbon starvation protein, predicted membrane protein
+1266
+	FBFCCOII_02167	CDS	ROG4985	2550580	2551338	+	NA
+	FBFCCOII_02168	CDS	ROG4985	2551667	2552377	+	NA
+1267
+	FBFCCOII_02169	CDS	COG3119	2552560	2556804	+	[P] Arylsulfatase A and related enzymes 
+	FBFCCOII_02170	CDS	NA	2556835	2556978	+	NA
+1268
+	FBFCCOII_02171	CDS	COG0858	2556993	2557370	-	[J] Ribosome-binding factor A   
+	FBFCCOII_02172	CDS	COG0532	2557512	2559563	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+	FBFCCOII_02173	CDS	COG0195	2559606	2560901	-	[K] Transcription elongation factor   
+1269
+	FBFCCOII_02174	CDS	COG0708	2561156	2561917	+	[L] Exonuclease III    
+	FBFCCOII_02175	CDS	COG0127	2561962	2562576	+	[F] Xanthosine triphosphate pyrophosphatase   
+1270
+	FBFCCOII_02176	CDS	COG2519	2562608	2563183	-	[J] tRNA(1-methyladenosine) methyltransferase and related methyltransferases 
+1271
+	FBFCCOII_02177	CDS	COG2006	2563341	2564261	+	[S] Uncharacterized conserved protein   
+	FBFCCOII_02178	CDS	COG0348	2564330	2565631	+	[C] Polyferredoxin     
+	FBFCCOII_02179	CDS	COG1145	2565588	2566127	+	[C] Ferredoxin     
+1272
+	FBFCCOII_02180	CDS	COG4555	2566433	2568205	+	[CP] ABC-type Na+ transport system, ATPase component
+	FBFCCOII_02181	CDS	ROG1398	2568259	2568690	+	NA
+	FBFCCOII_02182	CDS	NA	2568708	2570600	+	NA
+1273
+	FBFCCOII_02183	CDS	COG3786	2570684	2571418	+	[S] Uncharacterized protein conserved in bacteria 
+1274
+	FBFCCOII_02184	CDS	COG0724	2571625	2572290	-	[R] RNA-binding proteins (RRM domain)  
+1275
+	FBFCCOII_02185	CDS	COG2148	2572693	2574069	+	[M] Sugar transferases involved in lipopolysaccharide synthesis
+1276
+	FBFCCOII_02186	CDS	COG0153	2574267	2575466	+	[G] Galactokinase     
+	FBFCCOII_02187	CDS	COG4146	2575479	2577773	+	[R] Predicted symporter    
+1277
+	FBFCCOII_02188	CDS	NA	2577695	2577853	-	NA
+1278
+	FBFCCOII_02189	CDS	COG0210	2577983	2579989	-	[L] Superfamily I DNA and RNA helicases
+	FBFCCOII_02190	CDS	COG0223	2579990	2580934	-	[J] Methionyl-tRNA formyltransferase    
+1279
+	FBFCCOII_02191	CDS	COG0707	2581145	2582272	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	FBFCCOII_02192	CDS	COG1521	2582278	2583006	+	[K] Putative transcriptional regulator, homolog of Bvg
+1280
+	FBFCCOII_02193	CDS	COG0236	2583138	2583380	+	[IQ] Acyl carrier protein   
+1281
+	FBFCCOII_02194	CDS	NA	2583449	2584018	+	NA
+	FBFCCOII_02195	CDS	NA	2583975	2584751	+	NA
+	FBFCCOII_02196	CDS	COG1490	2584748	2585200	+	[J] D-Tyr-tRNAtyr deacylase    
+1282
+	FBFCCOII_02197	CDS	COG3209	2585369	2585788	-	[M] Rhs family protein   
+1283
+	FBFCCOII_02198	CDS	NA	2585859	2586449	-	NA
+	FBFCCOII_02199	CDS	COG3209	2586462	2592314	-	[M] Rhs family protein   
+1284
+	FBFCCOII_02200	CDS	COG0479	2592850	2593617	-	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+	FBFCCOII_02201	CDS	COG1053	2593658	2595616	-	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	FBFCCOII_02202	CDS	ROG0018	2595638	2596339	-	NA
+1285
+	FBFCCOII_02203	CDS	NA	2596540	2596812	+	NA
+	FBFCCOII_02204	CDS	COG1099	2596845	2597630	+	[R] Predicted metal-dependent hydrolases with the TIM-barrel
+1286
+	FBFCCOII_02205	CDS	NA	2597664	2597897	-	NA
+1287
+	FBFCCOII_02206	CDS	NA	2598326	2599033	-	NA
+1288
+	FBFCCOII_02207	CDS	ROG4985	2599328	2600068	+	NA
+1289
+	FBFCCOII_02208	CDS	NA	2600286	2600420	-	NA
+1290
+	FBFCCOII_02209	CDS	COG3153	2600532	2600732	-	[R] Predicted acetyltransferase    
+	FBFCCOII_02210	CDS	COG1262	2600746	2601951	-	[S] Uncharacterized conserved protein   
+	FBFCCOII_02211	CDS	COG1028	2601975	2602721	-	[IQR] Dehydrogenases with different specificities (related to
+1291
+	FBFCCOII_02212	CDS	ROG5618	2602850	2603368	-	NA
+1292
+	FBFCCOII_02213	CDS	COG0488	2603432	2605042	-	[R] ATPase components of ABC transporters with
+1293
+	FBFCCOII_02214	CDS	NA	2605165	2605872	+	NA
+1294
+	FBFCCOII_02215	CDS	ROG1065	2606082	2606210	-	NA
+1295
+	FBFCCOII_02216	CDS	COG1544	2606424	2607017	-	[J] Ribosome-associated protein Y (PSrp-1)  
+1296
+	FBFCCOII_02217	tRNA	NA	2607366	2607442	+	NA
+1297
+	FBFCCOII_02218	CDS	COG1253	2607599	2608912	+	[R] Hemolysins and related proteins containing CBS
+1298
+	FBFCCOII_02219	CDS	COG1028	2609166	2610062	-	[IQR] Dehydrogenases with different specificities (related to
+1299
+	FBFCCOII_02220	CDS	COG0599	2610245	2611531	-	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+	FBFCCOII_02221	CDS	COG1073	2611550	2612683	-	[R] Hydrolases of the alpha/beta superfamily 
+1300
+	FBFCCOII_02222	CDS	ROG1360	2612822	2613874	-	NA
+1301
+	FBFCCOII_02223	CDS	COG0667	2613997	2615037	-	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+1302
+	FBFCCOII_02224	CDS	COG2207	2615177	2616073	+	[K] AraC-type DNA-binding domain-containing proteins  
+1303
+	FBFCCOII_02225	CDS	COG1501	2616614	2620525	+	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+1304
+	FBFCCOII_02226	CDS	COG1145	2620809	2622119	+	[C] Ferredoxin     
+1305
+	FBFCCOII_02227	CDS	COG3279	2622381	2622866	+	[KT] Response regulator of the LytR/AlgR family
+1306
+	FBFCCOII_02228	CDS	ROG2992	2623026	2623865	+	NA
+	FBFCCOII_02229	CDS	NA	2623904	2624710	+	NA
+	FBFCCOII_02230	CDS	ROG2992	2624717	2625313	+	NA
+	FBFCCOII_02231	CDS	COG1996	2625328	2625558	+	[K] DNA-directed RNA polymerase, subunit RPC10 (contains
+	FBFCCOII_02232	CDS	NA	2625555	2625908	+	NA
+1307
+	FBFCCOII_02233	CDS	COG3530	2625926	2626246	-	[S] Uncharacterized protein conserved in bacteria 
+	FBFCCOII_02234	CDS	COG0596	2626243	2626947	-	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	FBFCCOII_02235	CDS	COG2095	2626964	2627569	-	[U] Multiple antibiotic transporter   
+1308
+	FBFCCOII_02236	CDS	NA	2627764	2628339	-	NA
+	FBFCCOII_02237	CDS	NA	2628339	2630015	-	NA
+1309
+	FBFCCOII_02238	CDS	ROG1364	2630390	2630797	-	NA
+1310
+	FBFCCOII_02239	CDS	ROG4009	2630865	2631830	-	NA
+	FBFCCOII_02240	CDS	NA	2631827	2632885	-	NA
+	FBFCCOII_02241	CDS	COG1512	2632882	2633502	-	[R] Beta-propeller domains of methanol dehydrogenase type
+1311
+	FBFCCOII_02242	CDS	COG1281	2633569	2634342	-	[O] Disulfide bond chaperones of the HSP33
+1312
+	FBFCCOII_02243	CDS	COG0652	2634545	2635048	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+	FBFCCOII_02244	CDS	COG0488	2635129	2637123	+	[R] ATPase components of ABC transporters with
+1313
+	FBFCCOII_02245	CDS	NA	2637211	2637861	-	NA
+1314
+	FBFCCOII_02246	CDS	COG0697	2638198	2639112	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+	FBFCCOII_02247	CDS	COG0662	2639112	2639450	-	[G] Mannose-6-phosphate isomerase    
+	FBFCCOII_02248	CDS	COG0215	2639455	2640870	-	[J] Cysteinyl-tRNA synthetase    
+1315
+	FBFCCOII_02249	CDS	COG3525	2640992	2642548	-	[G] N-acetyl-beta-hexosaminidase     
+	FBFCCOII_02250	CDS	COG3119	2642658	2644415	-	[P] Arylsulfatase A and related enzymes 
+1316
+	FBFCCOII_02251	CDS	ROG7949	2644634	2645617	-	NA
+1317
+	FBFCCOII_02252	CDS	NA	2645683	2645964	-	NA
+1318
+	FBFCCOII_02253	CDS	COG0481	2646048	2647847	-	[M] Membrane GTPase LepA   
+1319
+	FBFCCOII_02254	CDS	ROG3138	2648095	2648298	+	NA
+	FBFCCOII_02255	CDS	NA	2648298	2648492	+	NA
+1320
+	FBFCCOII_02256	CDS	NA	2648651	2654248	-	NA
+1321
+	FBFCCOII_02257	CDS	COG0086	2654612	2658808	-	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+1322
+	FBFCCOII_02258	tRNA	NA	2661347	2661419	+	NA
+1323
+	FBFCCOII_02259	CDS	COG0222	2663021	2663395	-	[J] Ribosomal protein L7/L12   
+	FBFCCOII_02260	CDS	COG0244	2663554	2664057	-	[J] Ribosomal protein L10   
+	FBFCCOII_02261	CDS	COG0081	2664079	2664780	-	[J] Ribosomal protein L1   
+	FBFCCOII_02262	CDS	COG0080	2664832	2665260	-	[J] Ribosomal protein L11   
+	FBFCCOII_02263	CDS	COG0250	2665328	2665897	-	[K] Transcription antiterminator    
+	FBFCCOII_02264	CDS	COG0690	2665927	2666154	-	[U] Preprotein translocase subunit SecE  
+	FBFCCOII_02265	tRNA	NA	2666188	2666263	-	NA
+1324
+	FBFCCOII_02266	CDS	COG0050	2666358	2667542	-	[J] GTPases - translation elongation factors 
+	FBFCCOII_02267	tRNA	NA	2667587	2667661	-	NA
+1325
+	FBFCCOII_02268	CDS	COG0533	2667868	2668950	-	[O] Metal-dependent proteases with possible chaperone activity
+	FBFCCOII_02269	CDS	COG1219	2668974	2670344	-	[O] ATP-dependent protease Clp, ATPase subunit 
+	FBFCCOII_02270	CDS	COG0740	2670384	2671040	-	[OU] Protease subunit of ATP-dependent Clp proteases
+	FBFCCOII_02271	CDS	COG0544	2671163	2672473	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+1326
+	FBFCCOII_02272	CDS	COG4775	2672736	2675159	+	[M] Outer membrane protein/protective antigen OMA87 
+	FBFCCOII_02273	CDS	COG3745	2675193	2675942	+	[U] Flp pilus assembly protein CpaB 
+	FBFCCOII_02274	CDS	COG0685	2675979	2676914	+	[E] 5,10-methylenetetrahydrofolate reductase    
+	FBFCCOII_02275	CDS	ROG7263	2676967	2677704	+	NA
+1327
+	FBFCCOII_02276	CDS	COG1309	2678325	2678951	-	[K] Transcriptional regulator    
+1328
+	FBFCCOII_02277	CDS	COG3696	2679084	2682242	-	[P] Putative silver efflux pump  
+1329
+	FBFCCOII_02278	CDS	ROG5656	2682333	2683757	-	NA
+	FBFCCOII_02279	CDS	ROG0372	2683784	2685064	-	NA
+1330
+	FBFCCOII_02280	CDS	NA	2685211	2685639	-	NA
+1331
+	FBFCCOII_02281	CDS	COG0666	2685722	2686747	-	[R] FOG: Ankyrin repeat   
+	FBFCCOII_02282	CDS	NA	2686760	2688241	-	NA
+1332
+	FBFCCOII_02283	CDS	ROG1387	2688374	2689018	-	NA
+1333
+	FBFCCOII_02284	CDS	NA	2689300	2689932	+	NA
+1334
+	FBFCCOII_02285	CDS	COG0500	2690041	2690958	-	[QR] SAM-dependent methyltransferases    
+1335
+	FBFCCOII_02286	CDS	COG0192	2690996	2692180	+	[H] S-adenosylmethionine synthetase    
+	FBFCCOII_02287	CDS	COG0499	2692204	2693619	+	[H] S-adenosylhomocysteine hydrolase    
+1336
+	FBFCCOII_02288	CDS	COG1216	2693760	2694773	-	[R] Predicted glycosyltransferases    
+1337
+	FBFCCOII_02289	CDS	NA	2695223	2696206	+	NA
+	FBFCCOII_02290	CDS	COG1232	2696235	2697500	+	[H] Protoporphyrinogen oxidase    
+1338
+	FBFCCOII_02291	CDS	NA	2697784	2698674	+	NA
+1339
+	FBFCCOII_02292	CDS	COG3119	2698806	2700464	-	[P] Arylsulfatase A and related enzymes 
+1340
+	FBFCCOII_02293	CDS	COG0514	2700552	2702450	+	[L] Superfamily II DNA helicase  
+1341
+	FBFCCOII_02294	CDS	NA	2702447	2703643	-	NA
+	FBFCCOII_02295	CDS	COG0438	2703640	2704848	-	[M] Glycosyltransferase     
+	FBFCCOII_02296	CDS	NA	2704869	2705894	-	NA
+	FBFCCOII_02297	CDS	COG0029	2705888	2707492	-	[H] Aspartate oxidase    
+1342
+	FBFCCOII_02298	CDS	COG0566	2707599	2708180	+	[J] rRNA methylases    
+	FBFCCOII_02299	CDS	COG4186	2708214	2709035	+	[R] Predicted phosphoesterase or phosphohydrolase  
+1343
+	FBFCCOII_02300	CDS	COG1321	2709465	2709872	+	[K] Mn-dependent transcriptional regulator   
+1344
+	FBFCCOII_02301	CDS	COG2217	2709935	2712097	-	[P] Cation transport ATPase   
+	FBFCCOII_02302	CDS	NA	2712155	2712385	-	NA
+1345
+	FBFCCOII_02303	CDS	ROG0870	2712961	2714178	+	NA
+1346
+	FBFCCOII_02304	CDS	NA	2714725	2715132	+	NA
+1347
+	FBFCCOII_02305	CDS	ROG3876	2715231	2715416	-	NA
+	FBFCCOII_02306	CDS	COG0370	2715451	2717712	-	[P] Fe2+ transport system protein B 
+	FBFCCOII_02307	CDS	COG1918	2717789	2718019	-	[P] Fe2+ transport system protein A 
+	FBFCCOII_02308	CDS	COG1918	2718051	2718320	-	[P] Fe2+ transport system protein A 
+1348
+	FBFCCOII_02309	CDS	COG1858	2718534	2719913	-	[P] Cytochrome c peroxidase   
+	FBFCCOII_02310	CDS	COG0320	2719980	2720918	-	[H] Lipoate synthase    
+	FBFCCOII_02311	CDS	COG0590	2720981	2721526	-	[FJ] Cytosine/adenosine deaminases    
+1349
+	FBFCCOII_02312	CDS	COG1940	2721671	2722669	+	[KG] Transcriptional regulator/sugar kinase   
+	FBFCCOII_02313	CDS	COG2217	2722728	2724653	+	[P] Cation transport ATPase   
+1350
+	FBFCCOII_02314	CDS	COG1158	2724819	2726246	-	[K] Transcription termination factor   
+	FBFCCOII_02315	CDS	COG0237	2726239	2726844	-	[H] Dephospho-CoA kinase    
+1351
+	FBFCCOII_02316	CDS	COG1450	2726939	2729662	-	[NU] Type II secretory pathway, component PulD
+1352
+	FBFCCOII_02317	CDS	NA	2729734	2730747	-	NA
+	FBFCCOII_02318	CDS	NA	2730783	2731736	-	NA
+	FBFCCOII_02319	CDS	COG4972	2731766	2733604	-	[NU] Tfp pilus assembly protein, ATPase PilM
+	FBFCCOII_02320	CDS	COG2247	2733651	2734367	-	[M] Putative cell wall-binding domain  
+1353
+	FBFCCOII_02321	CDS	COG1363	2734562	2735641	+	[G] Cellulase M and related proteins 
+	FBFCCOII_02322	CDS	COG0682	2735653	2736711	+	[M] Prolipoprotein diacylglyceryltransferase    
+1354
+	FBFCCOII_02323	CDS	NA	2736708	2737106	-	NA
