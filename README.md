@@ -58,6 +58,7 @@ CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combinat
 * cgc_tc_tf: This folder contains outputs from CGC finder tool of type-iii
 * cgc_tc: This folder contains outputs from CGC finder tool of type-ii
 * cgc_tf: This folder contains outputs from CGC finder tool of type-i
+
 ``
 The output prediction for each OMM12 communities stored under separate folders. 
 
@@ -67,7 +68,7 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 
 
 ## Output files:
-``
+
 * out.emapper.annotations: These files provide additional information on the functional annotation for each gene in the search results. They include information on gene ontology (GO) terms, enzyme commission (EC) numbers, and protein domains, among other features.
 * out.emapper.genepred.fasta: A FASTA file with the sequences of the predicted CDS. It is generated when gene prediction is carried out
 * out.emapper.genepred.gff: A GFF file with the sequences of the predicted CDS. It is generated when gene prediction is carried out
@@ -76,7 +77,7 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 * out.emapper.seed_orthologs: A file with the results from parsing the hits. Each row links a query with a seed ortholog. This file has the same format independently of which searcher was used, except that it can be in short format (4 fields), or full.
 * out.emapper.smart.out
 * out.emapper.decorated.gff: 
-``
+
 https://github.com/eggnogdb/eggnog-mapper/wiki/eggNOG-mapper-v2.1.2-to-v2.1.4#user-content-Output_files
 
 ** 3. KOFAMSCAN **
@@ -89,16 +90,15 @@ Version release date: 01-08-2022
 The data behind the analysis is downloaded and kept in the folder from https://www.genome.jp/ftp/tools/kofam_scan/ and https://www.genome.jp/ftp/db/kofam/ (As on August 29,2022)
 
 Some of the commonly generated output files include:
-``
+
 * kegg_annotation.txt: This file contains the KEGG Orthology (KO) annotations for each predicted protein-coding gene in the input sequence dataset.
-``
+
 ** 4. OperonMapper **
 OperonMapper is a bioinformatics tool that is used to predict operons in prokaryotic genomes. An operon is a group of genes that are transcribed together as a single unit and are involved in a common biological pathway or function. The prediction of operons is important for understanding the functional organization of prokaryotic genomes, as well as for identifying potential gene regulatory mechanisms.
 
 OperonMapper uses a comparative genomics approach to predict operons in prokaryotic genomes. It compares the gene order and orientation of the input genome with those of reference genomes that have experimentally verified operons. Based on this comparison, OperonMapper predicts operons in the input genome and assigns them to specific biological functions or pathways.
 
 OperonMapper provides several output files that can be used to analyze and visualize the predicted operons. These output files include:
-``
 * Operonic gene pairs: Predicted operonic gene pairs with their corresponding confidence values of being part of the same operon
 * ORFs coordinates: Predicted ORFs coordinates
 * Predicted protein sequences: Protein sequences of the translated predicted ORFs
@@ -108,7 +108,7 @@ OperonMapper provides several output files that can be used to analyze and visua
 * List of operons: 
 * Predicted COGs:
 * predicted orfs: List of operons with their conforming genes
-``
+
 
 
 
