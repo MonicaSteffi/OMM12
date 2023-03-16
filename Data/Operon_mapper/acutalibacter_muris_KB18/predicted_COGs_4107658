@@ -1,0 +1,3127 @@
+MMKBIGNE_00001	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+MMKBIGNE_00002	COG3041	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00003	COG3077	[L] DNA-damage-inducible protein J   
+MMKBIGNE_00004	COG0582	[L] Integrase     
+MMKBIGNE_00007	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00008	ROG0229	
+MMKBIGNE_00010	COG0730	[R] Predicted permeases    
+MMKBIGNE_00011	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_00012	COG3119	[P] Arylsulfatase A and related enzymes 
+MMKBIGNE_00013	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_00014	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_00015	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_00016	COG3119	[P] Arylsulfatase A and related enzymes 
+MMKBIGNE_00018	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_00019	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00020	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00021	COG1669	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_00022	COG2361	[S] Uncharacterized conserved protein   
+MMKBIGNE_00023	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_00024	ROG2190	
+MMKBIGNE_00026	ROG2997	
+MMKBIGNE_00027	ROG4641	
+MMKBIGNE_00029	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00030	ROG0229	
+MMKBIGNE_00032	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_00033	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00034	ROG0229	
+MMKBIGNE_00036	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_00038	ROG4504	
+MMKBIGNE_00039	COG5555	[N] Cytolysin, a secreted calcineurin-like phosphatase 
+MMKBIGNE_00040	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_00041	COG2250	[S] Uncharacterized conserved protein related to C-terminal
+MMKBIGNE_00042	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_00043	COG0582	[L] Integrase     
+MMKBIGNE_00044	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_00045	COG2963	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00046	ROG6841	
+MMKBIGNE_00049	COG4932	[M] Predicted outer membrane protein  
+MMKBIGNE_00051	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00052	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_00053	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_00055	COG3247	[S] Uncharacterized conserved protein   
+MMKBIGNE_00056	COG4200	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00058	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_00059	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00060	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_00063	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_00064	COG0789	[K] Predicted transcriptional regulators   
+MMKBIGNE_00065	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_00066	COG0842	[V] ABC-type multidrug transport system, permease component
+MMKBIGNE_00067	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_00068	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00069	ROG6780	
+MMKBIGNE_00071	COG1145	[C] Ferredoxin     
+MMKBIGNE_00073	COG3797	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00074	COG3402	[S] Uncharacterized conserved protein   
+MMKBIGNE_00075	ROG2095	
+MMKBIGNE_00076	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_00077	COG1725	[K] Predicted transcriptional regulators   
+MMKBIGNE_00079	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00080	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_00081	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00082	ROG5462	
+MMKBIGNE_00083	ROG6720	
+MMKBIGNE_00085	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00086	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00087	COG3218	[R] ABC-type uncharacterized transport system, auxiliary component
+MMKBIGNE_00088	COG0440	[E] Acetolactate synthase, small (regulatory) subunit 
+MMKBIGNE_00089	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+MMKBIGNE_00090	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_00091	COG3708	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00092	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_00093	ROG0529	
+MMKBIGNE_00094	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_00095	COG1277	[R] ABC-type transport system involved in multi-copper
+MMKBIGNE_00096	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_00097	ROG5718	
+MMKBIGNE_00098	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_00099	ROG4739	
+MMKBIGNE_00100	COG0819	[K] Putative transcription activator   
+MMKBIGNE_00101	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+MMKBIGNE_00102	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+MMKBIGNE_00103	COG0352	[H] Thiamine monophosphate synthase   
+MMKBIGNE_00104	COG2145	[H] Hydroxyethylthiazole kinase, sugar kinase family 
+MMKBIGNE_00106	ROG4168	
+MMKBIGNE_00107	ROG1564	
+MMKBIGNE_00108	COG0701	[R] Predicted permeases    
+MMKBIGNE_00110	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_00111	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00112	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00113	ROG8073	
+MMKBIGNE_00116	ROG3135	
+MMKBIGNE_00119	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+MMKBIGNE_00120	COG0136	[E] Aspartate-semialdehyde dehydrogenase    
+MMKBIGNE_00121	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+MMKBIGNE_00122	COG0289	[E] Dihydrodipicolinate reductase    
+MMKBIGNE_00123	COG0527	[E] Aspartokinases     
+MMKBIGNE_00124	COG4485	[S] Predicted membrane protein   
+MMKBIGNE_00125	COG0162	[J] Tyrosyl-tRNA synthetase    
+MMKBIGNE_00126	COG0456	[R] Acetyltransferases     
+MMKBIGNE_00128	COG0497	[L] ATPase involved in DNA repair 
+MMKBIGNE_00129	COG1438	[K] Arginine repressor    
+MMKBIGNE_00130	COG0061	[G] Predicted sugar kinase   
+MMKBIGNE_00131	COG1189	[J] Predicted rRNA methylase   
+MMKBIGNE_00132	COG1154	[HI] Deoxyxylulose-5-phosphate synthase    
+MMKBIGNE_00133	COG0190	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+MMKBIGNE_00134	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+MMKBIGNE_00135	COG0612	[R] Predicted Zn-dependent peptidases   
+MMKBIGNE_00136	COG0612	[R] Predicted Zn-dependent peptidases   
+MMKBIGNE_00137	COG0035	[F] Uracil phosphoribosyltransferase    
+MMKBIGNE_00138	COG0698	[G] Ribose 5-phosphate isomerase RpiB  
+MMKBIGNE_00139	COG1214	[O] Inactive homolog of metal-dependent proteases, putative
+MMKBIGNE_00140	COG0802	[R] Predicted ATPase or kinase  
+MMKBIGNE_00141	COG2759	[F] Formyltetrahydrofolate synthetase    
+MMKBIGNE_00142	COG0772	[D] Bacterial cell division membrane protein 
+MMKBIGNE_00143	ROG3954	
+MMKBIGNE_00144	ROG0795	
+MMKBIGNE_00145	COG2333	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+MMKBIGNE_00147	COG0582	[L] Integrase     
+MMKBIGNE_00148	COG4099	[R] Predicted peptidase    
+MMKBIGNE_00149	COG1145	[C] Ferredoxin     
+MMKBIGNE_00150	COG0599	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+MMKBIGNE_00151	COG1917	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+MMKBIGNE_00152	COG1979	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+MMKBIGNE_00153	COG0583	[K] Transcriptional regulator    
+MMKBIGNE_00154	COG0582	[L] Integrase     
+MMKBIGNE_00155	ROG1442	
+MMKBIGNE_00156	ROG7417	
+MMKBIGNE_00157	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00158	ROG0229	
+MMKBIGNE_00159	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00160	COG4099	[R] Predicted peptidase    
+MMKBIGNE_00161	COG1145	[C] Ferredoxin     
+MMKBIGNE_00162	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00163	COG0599	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+MMKBIGNE_00164	COG1917	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+MMKBIGNE_00165	COG1979	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+MMKBIGNE_00166	COG0583	[K] Transcriptional regulator    
+MMKBIGNE_00167	COG0582	[L] Integrase     
+MMKBIGNE_00168	ROG8167	
+MMKBIGNE_00170	ROG6819	
+MMKBIGNE_00172	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+MMKBIGNE_00173	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_00176	ROG8234	
+MMKBIGNE_00179	COG3378	[R] Predicted ATPase    
+MMKBIGNE_00180	ROG0531	
+MMKBIGNE_00181	COG0629	[L] Single-stranded DNA-binding protein   
+MMKBIGNE_00183	ROG0235	
+MMKBIGNE_00185	ROG3835	
+MMKBIGNE_00186	ROG1843	
+MMKBIGNE_00188	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00189	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00190	ROG0229	
+MMKBIGNE_00192	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_00193	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_00194	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_00195	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_00196	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_00197	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_00198	ROG2472	
+MMKBIGNE_00199	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_00200	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_00201	COG0582	[L] Integrase     
+MMKBIGNE_00204	ROG6819	
+MMKBIGNE_00206	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+MMKBIGNE_00207	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_00208	ROG4139	
+MMKBIGNE_00210	ROG8234	
+MMKBIGNE_00217	ROG3835	
+MMKBIGNE_00220	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00221	ROG4222	
+MMKBIGNE_00223	COG2184	[D] Protein involved in cell division 
+MMKBIGNE_00224	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00225	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00227	ROG6734	
+MMKBIGNE_00228	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_00229	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_00230	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_00234	ROG5933	
+MMKBIGNE_00235	COG3666	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00236	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+MMKBIGNE_00237	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_00238	ROG0259	
+MMKBIGNE_00240	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00241	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_00242	ROG7316	
+MMKBIGNE_00247	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_00248	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+MMKBIGNE_00249	ROG3066	
+MMKBIGNE_00251	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00252	ROG4084	
+MMKBIGNE_00253	ROG6400	
+MMKBIGNE_00255	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00256	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00257	ROG4837	
+MMKBIGNE_00258	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00259	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_00260	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+MMKBIGNE_00261	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00264	ROG6400	
+MMKBIGNE_00265	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00266	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+MMKBIGNE_00268	COG0582	[L] Integrase     
+MMKBIGNE_00269	COG3771	[S] Predicted membrane protein   
+MMKBIGNE_00270	ROG0077	
+MMKBIGNE_00271	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00272	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_00273	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_00274	COG0582	[L] Integrase     
+MMKBIGNE_00275	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_00277	COG1216	[R] Predicted glycosyltransferases    
+MMKBIGNE_00278	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_00279	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_00280	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_00281	COG1895	[S] Uncharacterized conserved protein related to C-terminal
+MMKBIGNE_00282	COG0582	[L] Integrase     
+MMKBIGNE_00283	COG3682	[K] Predicted transcriptional regulator   
+MMKBIGNE_00284	COG4219	[KT] Antirepressor regulating drug resistance, predicted signal
+MMKBIGNE_00285	COG0582	[L] Integrase     
+MMKBIGNE_00286	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00287	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_00288	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_00290	COG1669	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_00291	COG2361	[S] Uncharacterized conserved protein   
+MMKBIGNE_00292	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00293	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00294	COG4068	[S] Uncharacterized protein containing a Zn-ribbon 
+MMKBIGNE_00296	COG5511	[R] Bacteriophage capsid protein   
+MMKBIGNE_00297	COG1724	[N] Predicted periplasmic or secreted lipoprotein 
+MMKBIGNE_00298	COG1598	[S] Uncharacterized conserved protein   
+MMKBIGNE_00302	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00304	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_00306	ROG3066	
+MMKBIGNE_00308	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00309	ROG4084	
+MMKBIGNE_00310	COG0582	[L] Integrase     
+MMKBIGNE_00313	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00314	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_00315	COG1190	[J] Lysyl-tRNA synthetase (class II)  
+MMKBIGNE_00316	COG0782	[K] Transcription elongation factor   
+MMKBIGNE_00317	COG3773	[M] Cell wall hydrolyses involved in spore
+MMKBIGNE_00318	COG1854	[T] LuxS protein involved in autoinducer AI2
+MMKBIGNE_00319	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_00322	COG0192	[H] S-adenosylmethionine synthetase    
+MMKBIGNE_00323	COG2256	[L] ATPase related to the helicase subunit
+MMKBIGNE_00324	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_00325	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_00326	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_00327	COG0583	[K] Transcriptional regulator    
+MMKBIGNE_00328	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+MMKBIGNE_00329	COG5124	[DR] Protein predicted to be involved in
+MMKBIGNE_00333	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_00334	ROG1113	
+MMKBIGNE_00335	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_00336	COG0116	[L] Predicted N6-adenine-specific DNA methylase  
+MMKBIGNE_00337	COG1544	[J] Ribosome-associated protein Y (PSrp-1)  
+MMKBIGNE_00338	COG1951	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+MMKBIGNE_00339	COG1098	[J] Predicted RNA binding protein (contains ribosomal
+MMKBIGNE_00340	ROG1127	
+MMKBIGNE_00341	ROG1117	
+MMKBIGNE_00342	ROG0097	
+MMKBIGNE_00343	COG1188	[J] Ribosome-associated heat shock protein implicated in
+MMKBIGNE_00344	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+MMKBIGNE_00345	COG2244	[R] Membrane protein involved in the export
+MMKBIGNE_00346	COG3959	[G] Transketolase, N-terminal subunit   
+MMKBIGNE_00347	COG3958	[G] Transketolase, C-terminal subunit   
+MMKBIGNE_00348	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_00349	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_00350	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_00351	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_00352	ROG0918	
+MMKBIGNE_00353	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+MMKBIGNE_00354	COG2309	[E] Leucyl aminopeptidase (aminopeptidase T)  
+MMKBIGNE_00355	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+MMKBIGNE_00356	COG0299	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+MMKBIGNE_00357	COG3363	[F] Archaeal IMP cyclohydrolase   
+MMKBIGNE_00358	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+MMKBIGNE_00359	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_00360	COG0151	[F] Phosphoribosylamine-glycine ligase    
+MMKBIGNE_00361	ROG1688	
+MMKBIGNE_00362	COG3340	[E] Peptidase E    
+MMKBIGNE_00363	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_00364	COG2221	[C] Dissimilatory sulfite reductase (desulfoviridin), alpha and
+MMKBIGNE_00365	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_00366	COG0153	[G] Galactokinase     
+MMKBIGNE_00367	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+MMKBIGNE_00369	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+MMKBIGNE_00370	COG1434	[S] Uncharacterized conserved protein   
+MMKBIGNE_00371	ROG3959	
+MMKBIGNE_00373	COG0140	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+MMKBIGNE_00374	COG0106	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+MMKBIGNE_00375	COG0535	[R] Predicted Fe-S oxidoreductases   
+MMKBIGNE_00376	COG0131	[E] Imidazoleglycerol-phosphate dehydratase    
+MMKBIGNE_00377	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+MMKBIGNE_00379	COG0141	[E] Histidinol dehydrogenase    
+MMKBIGNE_00380	COG0040	[E] ATP phosphoribosyltransferase    
+MMKBIGNE_00381	COG3705	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+MMKBIGNE_00382	COG1619	[V] Uncharacterized proteins, homologs of microcin C7
+MMKBIGNE_00383	COG2176	[L] DNA polymerase III, alpha subunit (gram-positive
+MMKBIGNE_00384	COG0406	[G] Fructose-2,6-bisphosphatase     
+MMKBIGNE_00385	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+MMKBIGNE_00386	COG0821	[I] Enzyme involved in the deoxyxylulose pathway
+MMKBIGNE_00387	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+MMKBIGNE_00388	COG0743	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+MMKBIGNE_00389	ROG1763	
+MMKBIGNE_00390	COG0575	[I] CDP-diglyceride synthetase    
+MMKBIGNE_00391	COG0020	[I] Undecaprenyl pyrophosphate synthase   
+MMKBIGNE_00392	COG0233	[J] Ribosome recycling factor   
+MMKBIGNE_00393	COG0528	[F] Uridylate kinase    
+MMKBIGNE_00394	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+MMKBIGNE_00396	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00397	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00398	ROG2015	
+MMKBIGNE_00401	COG1145	[C] Ferredoxin     
+MMKBIGNE_00402	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00403	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00404	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_00405	COG0864	[K] Predicted transcriptional regulators containing the CopG/Arc/MetJ
+MMKBIGNE_00406	COG0582	[L] Integrase     
+MMKBIGNE_00408	ROG5986	
+MMKBIGNE_00410	ROG0859	
+MMKBIGNE_00411	ROG3362	
+MMKBIGNE_00412	COG0394	[T] Protein-tyrosine-phosphatase     
+MMKBIGNE_00413	ROG3851	
+MMKBIGNE_00414	COG0778	[C] Nitroreductase     
+MMKBIGNE_00416	ROG6000	
+MMKBIGNE_00421	COG0175	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+MMKBIGNE_00422	ROG2359	
+MMKBIGNE_00423	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00425	COG2452	[L] Predicted site-specific integrase-resolvase   
+MMKBIGNE_00426	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00427	COG3533	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00428	ROG3151	
+MMKBIGNE_00429	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_00430	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_00431	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_00432	COG2972	[T] Predicted signal transduction protein with a
+MMKBIGNE_00433	COG4753	[T] Response regulator containing CheY-like receiver domain
+MMKBIGNE_00434	COG3533	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00435	COG2512	[S] Uncharacterized membrane-associated protein/domain   
+MMKBIGNE_00436	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_00437	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_00438	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_00440	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_00441	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_00442	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_00443	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_00444	COG4932	[M] Predicted outer membrane protein  
+MMKBIGNE_00445	ROG6988	
+MMKBIGNE_00446	COG4226	[S] Uncharacterized protein encoded in hypervariable junctions
+MMKBIGNE_00448	ROG7312	
+MMKBIGNE_00449	ROG1442	
+MMKBIGNE_00450	ROG7417	
+MMKBIGNE_00452	COG4646	[KL] DNA methylase    
+MMKBIGNE_00453	ROG8265	
+MMKBIGNE_00454	ROG0937	
+MMKBIGNE_00455	ROG8004	
+MMKBIGNE_00456	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_00457	COG3027	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00460	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_00461	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_00465	COG3981	[R] Predicted acetyltransferase    
+MMKBIGNE_00466	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+MMKBIGNE_00467	COG0864	[K] Predicted transcriptional regulators containing the CopG/Arc/MetJ
+MMKBIGNE_00468	COG0582	[L] Integrase     
+MMKBIGNE_00471	COG1669	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_00472	COG3694	[R] ABC-type uncharacterized transport system, permease component
+MMKBIGNE_00473	COG4587	[R] ABC-type uncharacterized transport system, permease component
+MMKBIGNE_00474	COG4586	[R] ABC-type uncharacterized transport system, ATPase component
+MMKBIGNE_00475	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+MMKBIGNE_00477	ROG0229	
+MMKBIGNE_00478	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00479	COG0864	[K] Predicted transcriptional regulators containing the CopG/Arc/MetJ
+MMKBIGNE_00480	COG0582	[L] Integrase     
+MMKBIGNE_00483	ROG3487	
+MMKBIGNE_00484	COG1316	[K] Transcriptional regulator    
+MMKBIGNE_00485	COG1316	[K] Transcriptional regulator    
+MMKBIGNE_00486	COG2246	[S] Predicted membrane protein   
+MMKBIGNE_00488	ROG2661	
+MMKBIGNE_00489	COG1957	[F] Inosine-uridine nucleoside N-ribohydrolase   
+MMKBIGNE_00490	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_00491	COG2239	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+MMKBIGNE_00492	COG1387	[ER] Histidinol phosphatase and related hydrolases of
+MMKBIGNE_00493	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_00494	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_00495	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_00496	ROG3723	
+MMKBIGNE_00497	COG1285	[S] Uncharacterized membrane protein   
+MMKBIGNE_00498	ROG1162	
+MMKBIGNE_00499	COG2002	[K] Regulators of stationary/sporulation gene expression 
+MMKBIGNE_00500	COG2730	[G] Endoglucanase     
+MMKBIGNE_00501	COG0006	[E] Xaa-Pro aminopeptidase    
+MMKBIGNE_00502	COG3192	[E] Ethanolamine utilization protein   
+MMKBIGNE_00503	COG2211	[G] Na+/melibiose symporter and related transporters 
+MMKBIGNE_00504	COG4713	[S] Predicted membrane protein   
+MMKBIGNE_00505	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+MMKBIGNE_00506	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_00507	COG0813	[F] Purine-nucleoside phosphorylase    
+MMKBIGNE_00508	COG1015	[G] Phosphopentomutase     
+MMKBIGNE_00509	COG1486	[G] Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases
+MMKBIGNE_00510	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_00511	ROG7825	
+MMKBIGNE_00512	ROG8042	
+MMKBIGNE_00513	ROG6060	
+MMKBIGNE_00514	COG4988	[CO] ABC-type transport system involved in cytochrome
+MMKBIGNE_00515	COG4987	[CO] ABC-type transport system involved in cytochrome
+MMKBIGNE_00516	COG2508	[TQ] Regulator of polyketide synthase expression 
+MMKBIGNE_00517	COG2884	[D] Predicted ATPase involved in cell division
+MMKBIGNE_00518	COG2177	[D] Cell division protein   
+MMKBIGNE_00521	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00522	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00523	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00524	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_00525	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_00529	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00530	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+MMKBIGNE_00531	ROG3963	
+MMKBIGNE_00532	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00533	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_00534	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_00535	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_00536	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00537	COG0704	[P] Phosphate uptake regulator   
+MMKBIGNE_00538	COG1117	[P] ABC-type phosphate transport system, ATPase component
+MMKBIGNE_00539	COG0581	[P] ABC-type phosphate transport system, permease component
+MMKBIGNE_00540	COG0573	[P] ABC-type phosphate transport system, permease component
+MMKBIGNE_00541	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+MMKBIGNE_00543	ROG0229	
+MMKBIGNE_00544	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00545	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_00546	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_00547	ROG5220	
+MMKBIGNE_00548	COG3622	[G] Hydroxypyruvate isomerase    
+MMKBIGNE_00550	COG3655	[K] Predicted transcriptional regulator   
+MMKBIGNE_00551	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+MMKBIGNE_00553	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+MMKBIGNE_00554	COG0514	[L] Superfamily II DNA helicase  
+MMKBIGNE_00556	ROG3209	
+MMKBIGNE_00559	ROG5256	
+MMKBIGNE_00560	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+MMKBIGNE_00561	ROG3891	
+MMKBIGNE_00562	COG0419	[L] ATPase involved in DNA repair 
+MMKBIGNE_00564	ROG4132	
+MMKBIGNE_00565	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00566	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00567	ROG2997	
+MMKBIGNE_00569	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+MMKBIGNE_00571	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00572	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00573	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+MMKBIGNE_00574	ROG3052	
+MMKBIGNE_00575	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_00577	ROG4360	
+MMKBIGNE_00579	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_00582	ROG0603	
+MMKBIGNE_00583	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_00584	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_00585	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00586	ROG6819	
+MMKBIGNE_00587	ROG3851	
+MMKBIGNE_00588	ROG0603	
+MMKBIGNE_00590	ROG6000	
+MMKBIGNE_00594	ROG8535	
+MMKBIGNE_00595	COG0175	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+MMKBIGNE_00598	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00599	ROG2359	
+MMKBIGNE_00600	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00603	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00604	COG4474	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00605	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00606	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_00609	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+MMKBIGNE_00611	COG1432	[S] Uncharacterized conserved protein   
+MMKBIGNE_00612	ROG0934	
+MMKBIGNE_00613	ROG5354	
+MMKBIGNE_00614	ROG5354	
+MMKBIGNE_00615	ROG3945	
+MMKBIGNE_00616	COG1766	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+MMKBIGNE_00618	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_00619	COG0515	[RTKL] Serine/threonine protein kinase   
+MMKBIGNE_00620	COG0631	[T] Serine/threonine protein phosphatase   
+MMKBIGNE_00621	COG4808	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00623	ROG3963	
+MMKBIGNE_00624	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00625	ROG0531	
+MMKBIGNE_00626	COG2771	[K] DNA-binding HTH domain-containing proteins  
+MMKBIGNE_00629	COG2512	[S] Uncharacterized membrane-associated protein/domain   
+MMKBIGNE_00630	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_00631	COG3254	[S] Uncharacterized conserved protein   
+MMKBIGNE_00632	ROG8234	
+MMKBIGNE_00633	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+MMKBIGNE_00634	ROG0603	
+MMKBIGNE_00636	COG3177	[S] Uncharacterized conserved protein   
+MMKBIGNE_00639	ROG3170	
+MMKBIGNE_00645	ROG0058	
+MMKBIGNE_00647	ROG3447	
+MMKBIGNE_00648	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_00649	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_00650	COG3451	[U] Type IV secretory pathway, VirB4 components
+MMKBIGNE_00651	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00653	ROG6004	
+MMKBIGNE_00657	ROG2634	
+MMKBIGNE_00658	ROG0654	
+MMKBIGNE_00659	ROG6988	
+MMKBIGNE_00660	COG2088	[M] Uncharacterized protein, involved in the regulation
+MMKBIGNE_00661	COG2002	[K] Regulators of stationary/sporulation gene expression 
+MMKBIGNE_00662	COG0338	[L] Site-specific DNA methylase   
+MMKBIGNE_00663	COG1328	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+MMKBIGNE_00664	ROG2544	
+MMKBIGNE_00666	ROG3806	
+MMKBIGNE_00669	ROG3620	
+MMKBIGNE_00670	COG1172	[G] Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease components
+MMKBIGNE_00671	COG1129	[G] ABC-type sugar transport system, ATPase component
+MMKBIGNE_00672	COG1879	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_00673	ROG6822	
+MMKBIGNE_00674	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+MMKBIGNE_00675	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+MMKBIGNE_00676	COG0004	[P] Ammonia permease    
+MMKBIGNE_00677	COG3968	[R] Uncharacterized protein related to glutamine synthetase
+MMKBIGNE_00678	COG0067	[E] Glutamate synthase domain 1  
+MMKBIGNE_00679	COG0069	[E] Glutamate synthase domain 2  
+MMKBIGNE_00680	COG2218	[C] Formylmethanofuran dehydrogenase subunit C  
+MMKBIGNE_00681	COG0174	[E] Glutamine synthetase    
+MMKBIGNE_00682	COG3707	[T] Response regulator with putative antiterminator output
+MMKBIGNE_00683	COG3681	[S] Uncharacterized conserved protein   
+MMKBIGNE_00684	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_00685	COG0535	[R] Predicted Fe-S oxidoreductases   
+MMKBIGNE_00686	COG1033	[R] Predicted exporters of the RND superfamily
+MMKBIGNE_00687	COG1511	[S] Predicted membrane protein   
+MMKBIGNE_00688	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_00689	ROG1862	
+MMKBIGNE_00690	COG0840	[NT] Methyl-accepting chemotaxis protein   
+MMKBIGNE_00691	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_00692	COG0312	[R] Predicted Zn-dependent proteases and their inactivated
+MMKBIGNE_00694	COG0554	[C] Glycerol kinase    
+MMKBIGNE_00695	COG0295	[F] Cytidine deaminase    
+MMKBIGNE_00696	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+MMKBIGNE_00697	COG2320	[S] Uncharacterized conserved protein   
+MMKBIGNE_00698	COG0504	[F] CTP synthase (UTP-ammonia lyase)  
+MMKBIGNE_00699	COG0253	[E] Diaminopimelate epimerase    
+MMKBIGNE_00700	COG4894	[S] Uncharacterized conserved protein   
+MMKBIGNE_00702	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+MMKBIGNE_00703	COG0505	[EF] Carbamoylphosphate synthase small subunit  
+MMKBIGNE_00704	COG0213	[F] Thymidine phosphorylase    
+MMKBIGNE_00705	COG3968	[R] Uncharacterized protein related to glutamine synthetase
+MMKBIGNE_00706	COG3706	[T] Response regulator containing a CheY-like receiver
+MMKBIGNE_00707	COG3601	[S] Predicted membrane protein   
+MMKBIGNE_00708	COG0063	[G] Predicted sugar kinase   
+MMKBIGNE_00709	COG4905	[S] Predicted membrane protein   
+MMKBIGNE_00710	COG1523	[G] Type II secretory pathway, pullulanase PulA
+MMKBIGNE_00711	COG3434	[T] Predicted signal transduction protein containing EAL
+MMKBIGNE_00712	COG0835	[NT] Chemotaxis signal transduction protein  
+MMKBIGNE_00713	COG1871	[NT] Chemotaxis protein; stimulates methylation of MCP
+MMKBIGNE_00714	COG1776	[NT] Chemotaxis protein CheC, inhibitor of MCP
+MMKBIGNE_00715	COG4786	[N] Flagellar basal body rod protein 
+MMKBIGNE_00716	COG4786	[N] Flagellar basal body rod protein 
+MMKBIGNE_00717	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_00718	COG1298	[NU] Flagellar biosynthesis pathway, component FlhA 
+MMKBIGNE_00719	COG1377	[NU] Flagellar biosynthesis pathway, component FlhB 
+MMKBIGNE_00720	COG1684	[NU] Flagellar biosynthesis pathway, component FliR 
+MMKBIGNE_00721	COG1987	[NU] Flagellar biosynthesis pathway, component FliQ 
+MMKBIGNE_00722	COG1338	[NU] Flagellar biosynthesis pathway, component FliP 
+MMKBIGNE_00723	COG3190	[N] Flagellar biogenesis protein   
+MMKBIGNE_00724	COG0784	[T] FOG: CheY-like receiver   
+MMKBIGNE_00725	COG1776	[NT] Chemotaxis protein CheC, inhibitor of MCP
+MMKBIGNE_00726	COG1868	[N] Flagellar motor switch protein  
+MMKBIGNE_00727	COG1360	[N] Flagellar motor protein   
+MMKBIGNE_00728	COG1291	[N] Flagellar motor component   
+MMKBIGNE_00729	COG1582	[N] Uncharacterized protein, possibly involved in motility
+MMKBIGNE_00730	COG1749	[N] Flagellar hook protein FlgE  
+MMKBIGNE_00731	ROG0116	
+MMKBIGNE_00732	COG1843	[N] Flagellar hook capping protein  
+MMKBIGNE_00733	COG3144	[N] Flagellar hook-length control protein  
+MMKBIGNE_00734	ROG4487	
+MMKBIGNE_00735	COG1157	[NU] Flagellar biosynthesis/type III secretory pathway ATPase
+MMKBIGNE_00736	COG1317	[NU] Flagellar biosynthesis/type III secretory pathway protein
+MMKBIGNE_00737	COG1536	[N] Flagellar motor switch protein  
+MMKBIGNE_00738	COG1766	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+MMKBIGNE_00739	COG1677	[NU] Flagellar hook-basal body protein  
+MMKBIGNE_00740	COG1558	[N] Flagellar basal body rod protein 
+MMKBIGNE_00741	COG1815	[N] Flagellar basal body protein  
+MMKBIGNE_00742	ROG2944	
+MMKBIGNE_00743	COG0849	[D] Actin-like ATPase involved in cell division
+MMKBIGNE_00744	COG0840	[NT] Methyl-accepting chemotaxis protein   
+MMKBIGNE_00745	COG2884	[D] Predicted ATPase involved in cell division
+MMKBIGNE_00746	ROG3860	
+MMKBIGNE_00748	COG1516	[NUO] Flagellin-specific chaperone FliS   
+MMKBIGNE_00749	COG1345	[N] Flagellar capping protein   
+MMKBIGNE_00750	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_00751	ROG0632	
+MMKBIGNE_00752	COG1551	[T] Carbon storage regulator (could also regulate
+MMKBIGNE_00753	COG1699	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00754	ROG1587	
+MMKBIGNE_00755	ROG2760	
+MMKBIGNE_00756	COG1256	[N] Flagellar hook-associated protein   
+MMKBIGNE_00757	ROG1512	
+MMKBIGNE_00758	COG2747	[KNU] Negative regulator of flagellin synthesis (anti-sigma28
+MMKBIGNE_00759	COG2201	[NT] Chemotaxis response regulator containing a CheY-like
+MMKBIGNE_00760	COG1352	[NT] Methylase of chemotaxis methyl-accepting proteins 
+MMKBIGNE_00761	COG0835	[NT] Chemotaxis signal transduction protein  
+MMKBIGNE_00762	COG0643	[NT] Chemotaxis protein histidine kinase and related
+MMKBIGNE_00764	COG2257	[S] Uncharacterized homolog of the cytoplasmic domain
+MMKBIGNE_00765	COG5581	[M] Predicted glycosyltransferase    
+MMKBIGNE_00766	ROG3345	
+MMKBIGNE_00767	COG0480	[J] Translation elongation factors (GTPases)  
+MMKBIGNE_00768	COG2217	[P] Cation transport ATPase   
+MMKBIGNE_00769	COG0566	[J] rRNA methylases    
+MMKBIGNE_00770	ROG0072	
+MMKBIGNE_00771	ROG3647	
+MMKBIGNE_00772	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+MMKBIGNE_00773	COG0718	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00774	COG0353	[L] Recombinational DNA repair protein (RecF pathway)
+MMKBIGNE_00775	COG0691	[O] tmRNA-binding protein    
+MMKBIGNE_00776	COG1164	[E] Oligoendopeptidase F    
+MMKBIGNE_00777	COG0394	[T] Protein-tyrosine-phosphatase     
+MMKBIGNE_00778	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_00779	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+MMKBIGNE_00780	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+MMKBIGNE_00781	COG2337	[T] Growth inhibitor    
+MMKBIGNE_00782	COG0710	[E] 3-dehydroquinate dehydratase    
+MMKBIGNE_00783	COG0464	[O] ATPases of the AAA+ class 
+MMKBIGNE_00784	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+MMKBIGNE_00785	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+MMKBIGNE_00786	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+MMKBIGNE_00787	COG1720	[S] Uncharacterized conserved protein   
+MMKBIGNE_00788	COG3655	[K] Predicted transcriptional regulator   
+MMKBIGNE_00789	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00790	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00791	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00792	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_00793	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_00794	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_00796	COG0789	[K] Predicted transcriptional regulators   
+MMKBIGNE_00797	COG1669	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_00799	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+MMKBIGNE_00800	COG2385	[D] Sporulation protein and related proteins 
+MMKBIGNE_00801	COG0372	[C] Citrate synthase    
+MMKBIGNE_00803	COG0053	[P] Predicted Co/Zn/Cd cation transporters  
+MMKBIGNE_00804	COG1838	[C] Tartrate dehydratase beta subunit/Fumarate hydratase class
+MMKBIGNE_00805	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_00806	COG3324	[R] Predicted enzyme related to lactoylglutathione lyase
+MMKBIGNE_00807	COG0206	[D] Cell division GTPase   
+MMKBIGNE_00808	COG1589	[M] Cell division septal protein  
+MMKBIGNE_00809	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+MMKBIGNE_00810	COG3393	[R] Predicted acetyltransferase    
+MMKBIGNE_00811	COG0707	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+MMKBIGNE_00812	COG0772	[D] Bacterial cell division membrane protein 
+MMKBIGNE_00813	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+MMKBIGNE_00814	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+MMKBIGNE_00815	ROG6379	
+MMKBIGNE_00816	COG0275	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+MMKBIGNE_00817	COG2001	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00818	ROG3441	
+MMKBIGNE_00819	COG0669	[H] Phosphopantetheine adenylyltransferase    
+MMKBIGNE_00820	COG0742	[L] N6-adenine-specific methylase    
+MMKBIGNE_00821	COG0322	[L] Nuclease subunit of the excinuclease complex
+MMKBIGNE_00822	COG1925	[G] Phosphotransferase system, HPr-related proteins  
+MMKBIGNE_00823	COG0336	[J] tRNA-(guanine-N1)-methyltransferase     
+MMKBIGNE_00824	COG0806	[J] RimM protein, required for 16S rRNA
+MMKBIGNE_00825	COG1837	[R] Predicted RNA-binding protein (contains KH domain)
+MMKBIGNE_00826	COG0228	[J] Ribosomal protein S16   
+MMKBIGNE_00827	COG0541	[U] Signal recognition particle GTPase  
+MMKBIGNE_00828	COG2739	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00829	ROG3523	
+MMKBIGNE_00830	COG0039	[C] Malate/lactate dehydrogenases    
+MMKBIGNE_00831	COG0816	[L] Predicted endonuclease involved in recombination (possible
+MMKBIGNE_00832	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00833	COG0406	[G] Fructose-2,6-bisphosphatase     
+MMKBIGNE_00834	COG0167	[F] Dihydroorotate dehydrogenase    
+MMKBIGNE_00835	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+MMKBIGNE_00836	COG2764	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00837	ROG3032	
+MMKBIGNE_00838	COG2378	[K] Predicted transcriptional regulator   
+MMKBIGNE_00840	COG1126	[E] ABC-type polar amino acid transport system,
+MMKBIGNE_00841	COG0765	[E] ABC-type amino acid transport system, permease
+MMKBIGNE_00842	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+MMKBIGNE_00843	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_00844	ROG7002	
+MMKBIGNE_00846	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_00847	COG1982	[E] Arginine/lysine/ornithine decarboxylases    
+MMKBIGNE_00848	COG1501	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+MMKBIGNE_00849	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+MMKBIGNE_00850	COG0459	[O] Chaperonin GroEL (HSP60 family)  
+MMKBIGNE_00851	COG0234	[O] Co-chaperonin GroES (HSP10)   
+MMKBIGNE_00852	COG0268	[J] Ribosomal protein S20   
+MMKBIGNE_00854	COG4989	[R] Predicted oxidoreductase    
+MMKBIGNE_00855	ROG0020	
+MMKBIGNE_00856	COG0647	[G] Predicted sugar phosphatases of the HAD
+MMKBIGNE_00857	COG0449	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+MMKBIGNE_00858	COG0104	[F] Adenylosuccinate synthase    
+MMKBIGNE_00859	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_00860	COG0015	[F] Adenylosuccinate lyase    
+MMKBIGNE_00861	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+MMKBIGNE_00863	COG3641	[R] Predicted membrane protein, putative toxin regulator
+MMKBIGNE_00864	ROG3173	
+MMKBIGNE_00865	ROG0869	
+MMKBIGNE_00866	COG3859	[S] Predicted membrane protein   
+MMKBIGNE_00868	COG1609	[K] Transcriptional regulators    
+MMKBIGNE_00869	COG5567	[N] Predicted small periplasmic lipoprotein  
+MMKBIGNE_00870	ROG4412	
+MMKBIGNE_00871	COG0018	[J] Arginyl-tRNA synthetase    
+MMKBIGNE_00872	COG4506	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00873	COG0796	[M] Glutamate racemase    
+MMKBIGNE_00874	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+MMKBIGNE_00875	COG4624	[R] Iron only hydrogenase large subunit, C-terminal
+MMKBIGNE_00876	COG1894	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+MMKBIGNE_00877	COG1894	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+MMKBIGNE_00878	ROG1298	
+MMKBIGNE_00879	COG1905	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+MMKBIGNE_00880	ROG0131	
+MMKBIGNE_00881	ROG2204	
+MMKBIGNE_00882	COG4624	[R] Iron only hydrogenase large subunit, C-terminal
+MMKBIGNE_00883	COG2172	[T] Anti-sigma regulatory factor (Ser/Thr protein kinase)
+MMKBIGNE_00884	ROG2148	
+MMKBIGNE_00885	COG1932	[HE] Phosphoserine aminotransferase    
+MMKBIGNE_00887	COG0111	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+MMKBIGNE_00888	COG1387	[ER] Histidinol phosphatase and related hydrolases of
+MMKBIGNE_00891	COG1937	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00892	COG2217	[P] Cation transport ATPase   
+MMKBIGNE_00896	ROG2923	
+MMKBIGNE_00897	COG1846	[K] Transcriptional regulators    
+MMKBIGNE_00898	ROG1569	
+MMKBIGNE_00899	COG0561	[R] Predicted hydrolases of the HAD superfamily
+MMKBIGNE_00900	ROG0955	
+MMKBIGNE_00901	COG1490	[J] D-Tyr-tRNAtyr deacylase    
+MMKBIGNE_00903	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+MMKBIGNE_00904	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+MMKBIGNE_00905	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+MMKBIGNE_00906	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+MMKBIGNE_00908	COG0222	[J] Ribosomal protein L7/L12   
+MMKBIGNE_00909	COG0244	[J] Ribosomal protein L10   
+MMKBIGNE_00911	COG0081	[J] Ribosomal protein L1   
+MMKBIGNE_00912	COG0080	[J] Ribosomal protein L11   
+MMKBIGNE_00913	COG0250	[K] Transcription antiterminator    
+MMKBIGNE_00914	COG0690	[U] Preprotein translocase subunit SecE  
+MMKBIGNE_00915	COG0267	[J] Ribosomal protein L33   
+MMKBIGNE_00918	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00919	COG5635	[T] Predicted NTPase (NACHT family)  
+MMKBIGNE_00921	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00922	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00923	ROG0531	
+MMKBIGNE_00924	COG2182	[G] Maltose-binding periplasmic proteins/domains   
+MMKBIGNE_00925	COG0840	[NT] Methyl-accepting chemotaxis protein   
+MMKBIGNE_00926	ROG0531	
+MMKBIGNE_00927	ROG3512	
+MMKBIGNE_00928	COG3509	[Q] Poly(3-hydroxybutyrate) depolymerase    
+MMKBIGNE_00929	COG2271	[G] Sugar phosphate permease   
+MMKBIGNE_00930	COG1524	[R] Uncharacterized proteins of the AP superfamily
+MMKBIGNE_00931	ROG1387	
+MMKBIGNE_00932	COG3600	[S] Uncharacterized phage-associated protein   
+MMKBIGNE_00933	COG4259	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00935	COG5632	[M] N-acetylmuramoyl-L-alanine amidase    
+MMKBIGNE_00937	ROG0937	
+MMKBIGNE_00939	COG0366	[G] Glycosidases     
+MMKBIGNE_00940	COG0058	[G] Glucan phosphorylase    
+MMKBIGNE_00941	ROG8070	
+MMKBIGNE_00942	COG0826	[O] Collagenase and related proteases  
+MMKBIGNE_00943	COG0756	[F] dUTPase     
+MMKBIGNE_00944	COG1077	[D] Actin-like ATPase involved in cell morphogenesis
+MMKBIGNE_00945	COG1792	[M] Cell shape-determining protein   
+MMKBIGNE_00946	ROG0238	
+MMKBIGNE_00947	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+MMKBIGNE_00948	COG2894	[D] Septum formation inhibitor-activating ATPase  
+MMKBIGNE_00949	COG1803	[G] Methylglyoxal synthase    
+MMKBIGNE_00951	COG0124	[J] Histidyl-tRNA synthetase    
+MMKBIGNE_00952	COG0173	[J] Aspartyl-tRNA synthetase    
+MMKBIGNE_00953	COG1328	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+MMKBIGNE_00954	COG1328	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+MMKBIGNE_00955	COG0496	[R] Predicted acid phosphatase   
+MMKBIGNE_00956	COG0602	[O] Organic radical activating enzymes  
+MMKBIGNE_00957	COG1274	[C] Phosphoenolpyruvate carboxykinase (GTP)   
+MMKBIGNE_00958	COG3619	[S] Predicted membrane protein   
+MMKBIGNE_00959	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+MMKBIGNE_00960	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00961	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_00962	COG2337	[T] Growth inhibitor    
+MMKBIGNE_00963	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_00964	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00965	COG2015	[Q] Alkyl sulfatase and related hydrolases 
+MMKBIGNE_00966	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_00967	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_00968	ROG1118	
+MMKBIGNE_00970	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_00971	ROG1694	
+MMKBIGNE_00972	COG0348	[C] Polyferredoxin     
+MMKBIGNE_00973	COG3069	[C] C4-dicarboxylate transporter    
+MMKBIGNE_00974	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00975	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_00977	ROG6046	
+MMKBIGNE_00978	ROG3031	
+MMKBIGNE_00979	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_00980	ROG4033	
+MMKBIGNE_00981	ROG5797	
+MMKBIGNE_00983	ROG4513	
+MMKBIGNE_00986	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_00987	ROG8149	
+MMKBIGNE_00989	ROG8234	
+MMKBIGNE_00990	ROG3051	
+MMKBIGNE_00993	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_00995	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_00996	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_00998	ROG2410	
+MMKBIGNE_00999	ROG1644	
+MMKBIGNE_01000	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_01001	COG0827	[L] Adenine-specific DNA methylase   
+MMKBIGNE_01004	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_01005	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_01006	ROG0356	
+MMKBIGNE_01007	ROG1218	
+MMKBIGNE_01008	COG1106	[R] Predicted ATPases    
+MMKBIGNE_01009	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+MMKBIGNE_01010	COG1040	[R] Predicted amidophosphoribosyltransferases    
+MMKBIGNE_01011	COG1106	[R] Predicted ATPases    
+MMKBIGNE_01012	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01013	COG3546	[P] Mn-containing catalase    
+MMKBIGNE_01014	COG1649	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01015	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_01016	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_01017	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_01018	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_01021	COG0495	[J] Leucyl-tRNA synthetase    
+MMKBIGNE_01022	COG0799	[S] Uncharacterized homolog of plant Iojap protein
+MMKBIGNE_01023	COG1713	[H] Predicted HD superfamily hydrolase involved in
+MMKBIGNE_01024	COG1057	[H] Nicotinic acid mononucleotide adenylyltransferase  
+MMKBIGNE_01025	COG1534	[J] Predicted RNA-binding protein containing KH domain,
+MMKBIGNE_01026	COG0127	[F] Xanthosine triphosphate pyrophosphatase   
+MMKBIGNE_01027	COG0552	[U] Signal recognition particle GTPase  
+MMKBIGNE_01028	COG1196	[D] Chromosome segregation ATPases   
+MMKBIGNE_01029	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_01030	ROG8414	
+MMKBIGNE_01031	COG1243	[KB] Histone acetyltransferase    
+MMKBIGNE_01032	COG0571	[K] dsRNA-specific ribonuclease    
+MMKBIGNE_01033	COG0416	[I] Fatty acid/phospholipid biosynthesis enzyme  
+MMKBIGNE_01034	COG1206	[J] NAD(FAD)-utilizing enzyme possibly involved in translation
+MMKBIGNE_01035	COG0550	[L] Topoisomerase IA    
+MMKBIGNE_01036	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+MMKBIGNE_01037	COG0566	[J] rRNA methylases    
+MMKBIGNE_01038	COG0292	[J] Ribosomal protein L20   
+MMKBIGNE_01039	COG0291	[J] Ribosomal protein L35   
+MMKBIGNE_01040	COG0290	[J] Translation initiation factor 3 (IF-3) 
+MMKBIGNE_01041	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+MMKBIGNE_01042	COG4485	[S] Predicted membrane protein   
+MMKBIGNE_01043	COG1896	[R] Predicted hydrolases of HD superfamily 
+MMKBIGNE_01045	COG0042	[J] tRNA-dihydrouridine synthase    
+MMKBIGNE_01046	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+MMKBIGNE_01047	COG0615	[MI] Cytidylyltransferase     
+MMKBIGNE_01048	COG1432	[S] Uncharacterized conserved protein   
+MMKBIGNE_01049	COG2316	[R] Predicted hydrolase (HD superfamily)  
+MMKBIGNE_01050	ROG3959	
+MMKBIGNE_01051	COG2152	[G] Predicted glycosylase    
+MMKBIGNE_01054	COG1362	[E] Aspartyl aminopeptidase    
+MMKBIGNE_01055	COG2233	[F] Xanthine/uracil permeases    
+MMKBIGNE_01056	COG3546	[P] Mn-containing catalase    
+MMKBIGNE_01057	ROG0459	
+MMKBIGNE_01059	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_01062	COG1783	[R] Phage terminase large subunit  
+MMKBIGNE_01063	COG4824	[R] Phage-related holin (Lysis protein)  
+MMKBIGNE_01064	COG5632	[M] N-acetylmuramoyl-L-alanine amidase    
+MMKBIGNE_01065	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+MMKBIGNE_01067	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01069	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_01071	ROG4584	
+MMKBIGNE_01072	ROG3260	
+MMKBIGNE_01073	ROG5647	
+MMKBIGNE_01075	ROG4178	
+MMKBIGNE_01076	ROG0844	
+MMKBIGNE_01077	ROG0924	
+MMKBIGNE_01078	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+MMKBIGNE_01080	ROG7158	
+MMKBIGNE_01081	COG5545	[R] Predicted P-loop ATPase and inactivated derivatives
+MMKBIGNE_01082	ROG0512	
+MMKBIGNE_01083	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+MMKBIGNE_01085	ROG5022	
+MMKBIGNE_01086	COG0863	[L] DNA modification methylase   
+MMKBIGNE_01087	COG5484	[S] Uncharacterized conserved protein   
+MMKBIGNE_01088	COG1783	[R] Phage terminase large subunit  
+MMKBIGNE_01090	ROG2932	
+MMKBIGNE_01092	COG2868	[J] Predicted ribosomal protein   
+MMKBIGNE_01094	ROG3784	
+MMKBIGNE_01096	ROG2022	
+MMKBIGNE_01102	COG5412	[S] Phage-related protein    
+MMKBIGNE_01103	ROG5239	
+MMKBIGNE_01104	ROG5265	
+MMKBIGNE_01105	ROG4200	
+MMKBIGNE_01106	ROG7893	
+MMKBIGNE_01108	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_01110	COG3979	[R] Uncharacterized protein contain chitin-binding domain type
+MMKBIGNE_01111	COG4824	[R] Phage-related holin (Lysis protein)  
+MMKBIGNE_01113	ROG2015	
+MMKBIGNE_01114	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01115	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01118	ROG0849	
+MMKBIGNE_01124	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01125	COG3451	[U] Type IV secretory pathway, VirB4 components
+MMKBIGNE_01126	ROG0662	
+MMKBIGNE_01127	ROG6152	
+MMKBIGNE_01128	COG0175	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+MMKBIGNE_01130	ROG1099	
+MMKBIGNE_01131	ROG3170	
+MMKBIGNE_01135	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_01136	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_01137	COG3355	[K] Predicted transcriptional regulator   
+MMKBIGNE_01138	COG3385	[L] FOG: Transposase and inactivated derivatives 
+MMKBIGNE_01140	ROG0682	
+MMKBIGNE_01141	ROG0682	
+MMKBIGNE_01142	COG2232	[R] Predicted ATP-dependent carboligase related to biotin
+MMKBIGNE_01143	COG1044	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+MMKBIGNE_01144	COG2120	[S] Uncharacterized proteins, LmbE homologs  
+MMKBIGNE_01146	COG3328	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01147	COG3328	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01148	COG3328	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01150	COG4639	[R] Predicted kinase    
+MMKBIGNE_01151	COG2229	[R] Predicted GTPase    
+MMKBIGNE_01153	COG1409	[R] Predicted phosphohydrolases    
+MMKBIGNE_01154	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_01155	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_01156	COG2112	[T] Predicted Ser/Thr protein kinase  
+MMKBIGNE_01157	ROG2549	
+MMKBIGNE_01158	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01159	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_01160	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_01161	COG2337	[T] Growth inhibitor    
+MMKBIGNE_01163	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01164	ROG2359	
+MMKBIGNE_01165	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01166	ROG0531	
+MMKBIGNE_01167	COG1874	[G] Beta-galactosidase     
+MMKBIGNE_01168	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01169	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_01170	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_01171	COG0231	[J] Translation elongation factor P (EF-P)/translation initiation
+MMKBIGNE_01172	ROG0525	
+MMKBIGNE_01174	COG3857	[L] ATP-dependent nuclease, subunit B  
+MMKBIGNE_01175	ROG0078	
+MMKBIGNE_01176	ROG3704	
+MMKBIGNE_01177	COG1947	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+MMKBIGNE_01178	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+MMKBIGNE_01179	COG1522	[K] Transcriptional regulators    
+MMKBIGNE_01180	COG1387	[ER] Histidinol phosphatase and related hydrolases of
+MMKBIGNE_01181	COG1193	[L] Mismatch repair ATPase (MutS family) 
+MMKBIGNE_01182	COG3393	[R] Predicted acetyltransferase    
+MMKBIGNE_01183	COG1381	[L] Recombinational DNA repair protein (RecF pathway)
+MMKBIGNE_01184	ROG2658	
+MMKBIGNE_01185	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_01186	COG1283	[P] Na+/phosphate symporter    
+MMKBIGNE_01187	COG0245	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+MMKBIGNE_01188	COG3669	[G] Alpha-L-fucosidase     
+MMKBIGNE_01190	COG0778	[C] Nitroreductase     
+MMKBIGNE_01191	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01192	COG1351	[F] Predicted alternative thymidylate synthase  
+MMKBIGNE_01193	COG0698	[G] Ribose 5-phosphate isomerase RpiB  
+MMKBIGNE_01194	COG0125	[F] Thymidylate kinase    
+MMKBIGNE_01195	COG0693	[R] Putative intracellular protease/amidase   
+MMKBIGNE_01196	COG1559	[R] Predicted periplasmic solute-binding protein  
+MMKBIGNE_01197	COG0826	[O] Collagenase and related proteases  
+MMKBIGNE_01198	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_01201	ROG1780	
+MMKBIGNE_01204	ROG1388	
+MMKBIGNE_01205	COG0582	[L] Integrase     
+MMKBIGNE_01206	COG0582	[L] Integrase     
+MMKBIGNE_01207	ROG2745	
+MMKBIGNE_01208	ROG8149	
+MMKBIGNE_01210	ROG2689	
+MMKBIGNE_01213	COG2272	[I] Carboxylesterase type B   
+MMKBIGNE_01214	COG2936	[R] Predicted acyl esterases   
+MMKBIGNE_01215	COG2851	[C] H+/citrate symporter    
+MMKBIGNE_01216	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+MMKBIGNE_01217	COG4753	[T] Response regulator containing CheY-like receiver domain
+MMKBIGNE_01218	COG0627	[R] Predicted esterase    
+MMKBIGNE_01219	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_01220	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_01221	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01222	COG2972	[T] Predicted signal transduction protein with a
+MMKBIGNE_01223	COG4917	[E] Ethanolamine utilization protein   
+MMKBIGNE_01225	ROG1388	
+MMKBIGNE_01226	COG0582	[L] Integrase     
+MMKBIGNE_01227	COG0582	[L] Integrase     
+MMKBIGNE_01228	ROG5625	
+MMKBIGNE_01229	ROG8149	
+MMKBIGNE_01230	ROG5267	
+MMKBIGNE_01231	COG1672	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_01232	COG1672	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_01235	COG2189	[L] Adenine specific DNA methylase Mod 
+MMKBIGNE_01236	ROG2599	
+MMKBIGNE_01237	ROG4112	
+MMKBIGNE_01240	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_01241	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_01242	ROG8504	
+MMKBIGNE_01243	COG3654	[R] Prophage maintenance system killer protein 
+MMKBIGNE_01244	ROG6845	
+MMKBIGNE_01248	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+MMKBIGNE_01249	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_01251	COG1527	[C] Archaeal/vacuolar-type H+-ATPase subunit C  
+MMKBIGNE_01252	COG0582	[L] Integrase     
+MMKBIGNE_01253	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_01257	COG0679	[R] Predicted permeases    
+MMKBIGNE_01258	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01259	COG3695	[L] Predicted methylated DNA-protein cysteine methyltransferase 
+MMKBIGNE_01260	COG0644	[C] Dehydrogenases (flavoproteins)    
+MMKBIGNE_01261	COG2017	[G] Galactose mutarotase and related enzymes 
+MMKBIGNE_01263	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01264	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_01265	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_01266	COG2407	[G] L-fucose isomerase and related proteins 
+MMKBIGNE_01267	COG1482	[G] Phosphomannose isomerase    
+MMKBIGNE_01268	COG1940	[KG] Transcriptional regulator/sugar kinase   
+MMKBIGNE_01269	COG1737	[K] Transcriptional regulators    
+MMKBIGNE_01271	COG1680	[V] Beta-lactamase class C and other penicillin
+MMKBIGNE_01272	COG0627	[R] Predicted esterase    
+MMKBIGNE_01274	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_01275	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_01276	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01277	COG1609	[K] Transcriptional regulators    
+MMKBIGNE_01278	COG2382	[P] Enterochelin esterase and related enzymes 
+MMKBIGNE_01279	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+MMKBIGNE_01280	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01281	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01282	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01284	COG0370	[P] Fe2+ transport system protein B 
+MMKBIGNE_01285	COG1918	[P] Fe2+ transport system protein A 
+MMKBIGNE_01286	COG2234	[R] Predicted aminopeptidases    
+MMKBIGNE_01287	COG0215	[J] Cysteinyl-tRNA synthetase    
+MMKBIGNE_01288	COG1045	[E] Serine acetyltransferase    
+MMKBIGNE_01289	COG0856	[F] Orotate phosphoribosyltransferase homologs   
+MMKBIGNE_01290	COG1874	[G] Beta-galactosidase     
+MMKBIGNE_01291	COG0655	[R] Multimeric flavodoxin WrbA   
+MMKBIGNE_01292	COG3708	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01293	ROG5606	
+MMKBIGNE_01294	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+MMKBIGNE_01297	COG2217	[P] Cation transport ATPase   
+MMKBIGNE_01298	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+MMKBIGNE_01299	COG1773	[C] Rubredoxin     
+MMKBIGNE_01300	COG1592	[C] Rubrerythrin     
+MMKBIGNE_01301	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01302	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+MMKBIGNE_01303	ROG6819	
+MMKBIGNE_01304	COG0569	[P] K+ transport systems, NAD-binding component 
+MMKBIGNE_01305	COG0569	[P] K+ transport systems, NAD-binding component 
+MMKBIGNE_01306	COG3103	[T] SH3 domain protein   
+MMKBIGNE_01307	COG0052	[J] Ribosomal protein S2   
+MMKBIGNE_01308	COG0264	[J] Translation elongation factor Ts  
+MMKBIGNE_01309	COG0456	[R] Acetyltransferases     
+MMKBIGNE_01310	COG1159	[R] GTPase     
+MMKBIGNE_01311	ROG0259	
+MMKBIGNE_01314	COG0818	[M] Diacylglycerol kinase    
+MMKBIGNE_01315	COG0319	[R] Predicted metal-dependent hydrolase   
+MMKBIGNE_01316	COG1702	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+MMKBIGNE_01317	ROG0075	
+MMKBIGNE_01318	ROG0112	
+MMKBIGNE_01319	COG3314	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01321	ROG0531	
+MMKBIGNE_01323	COG5633	[R] Predicted periplasmic lipoprotein   
+MMKBIGNE_01325	COG0488	[R] ATPase components of ABC transporters with
+MMKBIGNE_01326	COG5416	[S] Uncharacterized integral membrane protein  
+MMKBIGNE_01327	COG0312	[R] Predicted Zn-dependent proteases and their inactivated
+MMKBIGNE_01328	COG0312	[R] Predicted Zn-dependent proteases and their inactivated
+MMKBIGNE_01329	COG0566	[J] rRNA methylases    
+MMKBIGNE_01330	COG2378	[K] Predicted transcriptional regulator   
+MMKBIGNE_01332	COG3467	[R] Predicted flavin-nucleotide-binding protein   
+MMKBIGNE_01334	COG1363	[G] Cellulase M and related proteins 
+MMKBIGNE_01336	COG0065	[E] 3-isopropylmalate dehydratase large subunit  
+MMKBIGNE_01337	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_01338	ROG6605	
+MMKBIGNE_01339	ROG3119	
+MMKBIGNE_01340	COG0066	[E] 3-isopropylmalate dehydratase small subunit  
+MMKBIGNE_01342	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_01343	COG1123	[R] ATPase components of various ABC-type transport
+MMKBIGNE_01344	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+MMKBIGNE_01345	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+MMKBIGNE_01346	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+MMKBIGNE_01347	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+MMKBIGNE_01348	COG4099	[R] Predicted peptidase    
+MMKBIGNE_01349	COG0657	[I] Esterase/lipase     
+MMKBIGNE_01350	COG3274	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01352	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_01353	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01354	ROG4699	
+MMKBIGNE_01355	ROG0131	
+MMKBIGNE_01356	COG1403	[V] Restriction endonuclease    
+MMKBIGNE_01357	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01358	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01359	ROG5282	
+MMKBIGNE_01360	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_01361	COG3378	[R] Predicted ATPase    
+MMKBIGNE_01362	ROG8149	
+MMKBIGNE_01364	COG4185	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01365	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+MMKBIGNE_01366	COG3668	[R] Plasmid stabilization system protein  
+MMKBIGNE_01367	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_01368	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_01369	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+MMKBIGNE_01370	COG3201	[H] Nicotinamide mononucleotide transporter   
+MMKBIGNE_01371	COG0473	[CE] Isocitrate/isopropylmalate dehydrogenase    
+MMKBIGNE_01372	COG4377	[S] Predicted membrane protein   
+MMKBIGNE_01373	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_01374	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+MMKBIGNE_01375	COG2502	[E] Asparagine synthetase A   
+MMKBIGNE_01376	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_01377	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+MMKBIGNE_01378	ROG6571	
+MMKBIGNE_01380	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_01381	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01384	ROG6514	
+MMKBIGNE_01387	COG3666	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01388	ROG5797	
+MMKBIGNE_01389	COG3451	[U] Type IV secretory pathway, VirB4 components
+MMKBIGNE_01390	COG3666	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01391	ROG8404	
+MMKBIGNE_01393	ROG7417	
+MMKBIGNE_01394	ROG4047	
+MMKBIGNE_01395	ROG1442	
+MMKBIGNE_01396	ROG3861	
+MMKBIGNE_01397	COG5504	[O] Predicted Zn-dependent protease   
+MMKBIGNE_01398	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+MMKBIGNE_01401	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_01402	COG4636	[S] Uncharacterized protein conserved in cyanobacteria 
+MMKBIGNE_01403	ROG2164	
+MMKBIGNE_01405	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_01406	COG0464	[O] ATPases of the AAA+ class 
+MMKBIGNE_01408	ROG4721	
+MMKBIGNE_01412	ROG1712	
+MMKBIGNE_01413	ROG2069	
+MMKBIGNE_01414	COG5464	[S] Uncharacterized conserved protein   
+MMKBIGNE_01416	ROG3902	
+MMKBIGNE_01417	ROG1528	
+MMKBIGNE_01418	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+MMKBIGNE_01420	COG2801	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01421	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+MMKBIGNE_01422	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+MMKBIGNE_01425	COG3177	[S] Uncharacterized conserved protein   
+MMKBIGNE_01426	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01427	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01428	COG3041	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01429	COG3077	[L] DNA-damage-inducible protein J   
+MMKBIGNE_01432	ROG1305	
+MMKBIGNE_01434	ROG3928	
+MMKBIGNE_01435	COG4226	[S] Uncharacterized protein encoded in hypervariable junctions
+MMKBIGNE_01436	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01437	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_01439	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_01440	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_01441	ROG1781	
+MMKBIGNE_01442	ROG1218	
+MMKBIGNE_01443	COG1106	[R] Predicted ATPases    
+MMKBIGNE_01445	ROG6318	
+MMKBIGNE_01446	COG1106	[R] Predicted ATPases    
+MMKBIGNE_01447	ROG1089	
+MMKBIGNE_01451	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_01456	ROG1837	
+MMKBIGNE_01457	ROG5714	
+MMKBIGNE_01458	ROG3130	
+MMKBIGNE_01459	ROG1442	
+MMKBIGNE_01460	ROG6842	
+MMKBIGNE_01461	ROG5267	
+MMKBIGNE_01462	ROG7233	
+MMKBIGNE_01465	ROG2362	
+MMKBIGNE_01466	ROG2015	
+MMKBIGNE_01467	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01468	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01470	COG1413	[C] FOG: HEAT repeat   
+MMKBIGNE_01471	COG2110	[R] Predicted phosphatase homologous to the C-terminal
+MMKBIGNE_01472	COG1225	[O] Peroxiredoxin     
+MMKBIGNE_01473	COG3022	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01475	ROG4117	
+MMKBIGNE_01476	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_01477	COG1479	[S] Uncharacterized conserved protein   
+MMKBIGNE_01478	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_01479	ROG0046	
+MMKBIGNE_01480	ROG0476	
+MMKBIGNE_01482	COG0327	[S] Uncharacterized conserved protein   
+MMKBIGNE_01483	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01484	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01486	COG0326	[O] Molecular chaperone, HSP90 family  
+MMKBIGNE_01487	COG2730	[G] Endoglucanase     
+MMKBIGNE_01489	COG3947	[T] Response regulator containing CheY-like receiver and
+MMKBIGNE_01490	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_01492	ROG7825	
+MMKBIGNE_01493	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+MMKBIGNE_01495	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01499	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_01500	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_01501	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01502	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01503	COG1893	[H] Ketopantoate reductase    
+MMKBIGNE_01504	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01505	COG1321	[K] Mn-dependent transcriptional regulator   
+MMKBIGNE_01507	ROG0531	
+MMKBIGNE_01508	COG1680	[V] Beta-lactamase class C and other penicillin
+MMKBIGNE_01509	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01510	COG0077	[E] Prephenate dehydratase    
+MMKBIGNE_01511	COG0082	[E] Chorismate synthase    
+MMKBIGNE_01512	COG0128	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+MMKBIGNE_01513	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+MMKBIGNE_01514	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_01515	COG3909	[C] Cytochrome c556    
+MMKBIGNE_01516	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01517	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01518	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01519	COG1846	[K] Transcriptional regulators    
+MMKBIGNE_01520	ROG2351	
+MMKBIGNE_01521	ROG1103	
+MMKBIGNE_01522	COG0313	[R] Predicted methyltransferases    
+MMKBIGNE_01523	COG4123	[R] Predicted O-methyltransferase    
+MMKBIGNE_01524	COG1145	[C] Ferredoxin     
+MMKBIGNE_01525	COG1321	[K] Mn-dependent transcriptional regulator   
+MMKBIGNE_01526	COG1041	[L] Predicted DNA modification methylase  
+MMKBIGNE_01527	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+MMKBIGNE_01528	COG3870	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01529	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+MMKBIGNE_01530	COG1774	[S] Uncharacterized homolog of PSP1  
+MMKBIGNE_01532	COG1479	[S] Uncharacterized conserved protein   
+MMKBIGNE_01533	ROG0110	
+MMKBIGNE_01534	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_01535	ROG2190	
+MMKBIGNE_01537	ROG2997	
+MMKBIGNE_01538	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01539	COG1484	[L] DNA replication protein   
+MMKBIGNE_01541	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01543	COG0550	[L] Topoisomerase IA    
+MMKBIGNE_01544	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+MMKBIGNE_01548	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01549	COG3280	[G] Maltooligosyl trehalose synthase   
+MMKBIGNE_01550	COG1362	[E] Aspartyl aminopeptidase    
+MMKBIGNE_01551	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01553	COG1313	[R] Uncharacterized Fe-S protein PflX, homolog of
+MMKBIGNE_01554	COG1496	[S] Uncharacterized conserved protein   
+MMKBIGNE_01555	COG1217	[T] Predicted membrane GTPase involved in stress
+MMKBIGNE_01556	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01557	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+MMKBIGNE_01558	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01559	ROG5555	
+MMKBIGNE_01560	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+MMKBIGNE_01561	COG2407	[G] L-fucose isomerase and related proteins 
+MMKBIGNE_01562	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+MMKBIGNE_01563	COG1454	[C] Alcohol dehydrogenase, class IV  
+MMKBIGNE_01564	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01565	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+MMKBIGNE_01567	COG0558	[I] Phosphatidylglycerophosphate synthase    
+MMKBIGNE_01568	COG1286	[R] Uncharacterized membrane protein, required for colicin
+MMKBIGNE_01570	COG0101	[J] Pseudouridylate synthase    
+MMKBIGNE_01571	COG0619	[P] ABC-type cobalt transport system, permease component
+MMKBIGNE_01572	COG1122	[P] ABC-type cobalt transport system, ATPase component
+MMKBIGNE_01573	COG1090	[R] Predicted nucleoside-diphosphate sugar epimerase  
+MMKBIGNE_01574	ROG0740	
+MMKBIGNE_01575	COG2315	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01577	COG1122	[P] ABC-type cobalt transport system, ATPase component
+MMKBIGNE_01579	COG1092	[R] Predicted SAM-dependent methyltransferases   
+MMKBIGNE_01580	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_01581	COG1109	[G] Phosphomannomutase     
+MMKBIGNE_01584	COG2255	[L] Holliday junction resolvasome, helicase subunit 
+MMKBIGNE_01585	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_01587	COG0632	[L] Holliday junction resolvasome, DNA-binding subunit 
+MMKBIGNE_01588	COG0817	[L] Holliday junction resolvasome, endonuclease subunit 
+MMKBIGNE_01589	ROG0168	
+MMKBIGNE_01590	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+MMKBIGNE_01591	COG4430	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01592	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_01593	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+MMKBIGNE_01594	COG0465	[O] ATP-dependent Zn proteases   
+MMKBIGNE_01595	COG0634	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+MMKBIGNE_01596	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+MMKBIGNE_01597	COG0305	[L] Replicative DNA helicase   
+MMKBIGNE_01598	COG0359	[J] Ribosomal protein L9   
+MMKBIGNE_01599	COG2820	[F] Uridine phosphorylase    
+MMKBIGNE_01600	COG3887	[T] Predicted signaling protein consisting of a
+MMKBIGNE_01601	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+MMKBIGNE_01602	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+MMKBIGNE_01603	COG0822	[C] NifU homolog involved in Fe-S cluster
+MMKBIGNE_01604	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+MMKBIGNE_01605	COG0420	[L] DNA repair exonuclease   
+MMKBIGNE_01606	COG0419	[L] ATPase involved in DNA repair 
+MMKBIGNE_01608	COG2244	[R] Membrane protein involved in the export
+MMKBIGNE_01609	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+MMKBIGNE_01610	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_01611	COG4826	[O] Serine protease inhibitor   
+MMKBIGNE_01612	COG4826	[O] Serine protease inhibitor   
+MMKBIGNE_01613	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_01614	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_01615	COG3877	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01617	COG3595	[S] Uncharacterized conserved protein   
+MMKBIGNE_01618	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_01619	COG1305	[E] Transglutaminase-like enzymes, putative cysteine proteases 
+MMKBIGNE_01620	COG1721	[R] Uncharacterized conserved protein (some members contain
+MMKBIGNE_01621	COG0714	[R] MoxR-like ATPases    
+MMKBIGNE_01623	COG1278	[K] Cold shock proteins   
+MMKBIGNE_01624	COG0406	[G] Fructose-2,6-bisphosphatase     
+MMKBIGNE_01626	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01628	COG2252	[R] Permeases     
+MMKBIGNE_01629	COG3393	[R] Predicted acetyltransferase    
+MMKBIGNE_01630	ROG1106	
+MMKBIGNE_01631	COG4472	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01632	COG0072	[J] Phenylalanyl-tRNA synthetase beta subunit  
+MMKBIGNE_01633	COG0016	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+MMKBIGNE_01634	COG3882	[Q] Predicted enzyme involved in methoxymalonyl-ACP biosynthesis
+MMKBIGNE_01635	ROG3357	
+MMKBIGNE_01636	COG0221	[C] Inorganic pyrophosphatase    
+MMKBIGNE_01637	COG1873	[S] Uncharacterized conserved protein   
+MMKBIGNE_01638	COG4667	[R] Predicted esterase of the alpha-beta hydrolase
+MMKBIGNE_01639	COG0220	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+MMKBIGNE_01640	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+MMKBIGNE_01641	COG0456	[R] Acetyltransferases     
+MMKBIGNE_01642	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_01643	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_01644	COG3025	[S] Uncharacterized conserved protein   
+MMKBIGNE_01646	COG3027	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01647	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_01649	COG2865	[K] Predicted transcriptional regulator containing an HTH
+MMKBIGNE_01651	COG0546	[R] Predicted phosphatases    
+MMKBIGNE_01652	COG2217	[P] Cation transport ATPase   
+MMKBIGNE_01653	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_01654	COG2217	[P] Cation transport ATPase   
+MMKBIGNE_01655	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01656	COG0640	[K] Predicted transcriptional regulators   
+MMKBIGNE_01658	COG4645	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01659	COG2131	[F] Deoxycytidylate deaminase    
+MMKBIGNE_01661	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+MMKBIGNE_01663	ROG1960	
+MMKBIGNE_01664	COG0227	[J] Ribosomal protein L28   
+MMKBIGNE_01669	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01670	ROG1452	
+MMKBIGNE_01671	COG4928	[R] Predicted P-loop ATPase   
+MMKBIGNE_01672	ROG7427	
+MMKBIGNE_01673	ROG1831	
+MMKBIGNE_01674	COG0084	[L] Mg-dependent DNase    
+MMKBIGNE_01675	COG2801	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01676	COG0326	[O] Molecular chaperone, HSP90 family  
+MMKBIGNE_01677	ROG0651	
+MMKBIGNE_01678	COG2314	[S] Predicted membrane protein   
+MMKBIGNE_01679	COG2272	[I] Carboxylesterase type B   
+MMKBIGNE_01681	COG3437	[KT] Response regulator containing a CheY-like receiver
+MMKBIGNE_01682	COG2198	[T] FOG: HPt domain   
+MMKBIGNE_01683	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_01684	COG1314	[U] Preprotein translocase subunit SecG  
+MMKBIGNE_01685	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01686	COG4100	[P] Cystathionine beta-lyase family protein involved in
+MMKBIGNE_01687	COG0412	[Q] Dienelactone hydrolase and related enzymes 
+MMKBIGNE_01688	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_01689	COG0561	[R] Predicted hydrolases of the HAD superfamily
+MMKBIGNE_01690	COG1512	[R] Beta-propeller domains of methanol dehydrogenase type
+MMKBIGNE_01691	ROG0187	
+MMKBIGNE_01692	COG3853	[P] Uncharacterized protein involved in tellurite resistance
+MMKBIGNE_01693	ROG5954	
+MMKBIGNE_01694	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+MMKBIGNE_01695	COG3488	[C] Predicted thiol oxidoreductase   
+MMKBIGNE_01696	COG3325	[G] Chitinase     
+MMKBIGNE_01697	COG3669	[G] Alpha-L-fucosidase     
+MMKBIGNE_01698	COG2059	[P] Chromate transport protein ChrA  
+MMKBIGNE_01699	COG2059	[P] Chromate transport protein ChrA  
+MMKBIGNE_01700	COG3757	[M] Lyzozyme M1 (1,4-beta-N-acetylmuramidase)   
+MMKBIGNE_01701	COG3757	[M] Lyzozyme M1 (1,4-beta-N-acetylmuramidase)   
+MMKBIGNE_01702	ROG3447	
+MMKBIGNE_01703	COG0546	[R] Predicted phosphatases    
+MMKBIGNE_01704	COG1658	[L] Small primase-like proteins (Toprim domain) 
+MMKBIGNE_01705	COG1466	[L] DNA polymerase III, delta subunit 
+MMKBIGNE_01706	COG2878	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+MMKBIGNE_01707	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01708	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_01709	COG4657	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfA 
+MMKBIGNE_01710	COG4660	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfE 
+MMKBIGNE_01711	COG4659	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfG 
+MMKBIGNE_01712	COG4658	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfD 
+MMKBIGNE_01713	COG4656	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfC 
+MMKBIGNE_01714	COG4851	[R] Protein involved in sex pheromone biosynthesis
+MMKBIGNE_01716	ROG1068	
+MMKBIGNE_01717	ROG3170	
+MMKBIGNE_01718	COG1757	[C] Na+/H+ antiporter    
+MMKBIGNE_01719	COG0801	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+MMKBIGNE_01720	COG1539	[H] Dihydroneopterin aldolase    
+MMKBIGNE_01721	COG0294	[H] Dihydropteroate synthase and related enzymes 
+MMKBIGNE_01722	COG0302	[H] GTP cyclohydrolase I   
+MMKBIGNE_01723	COG1040	[R] Predicted amidophosphoribosyltransferases    
+MMKBIGNE_01724	COG4468	[G] Galactose-1-phosphate uridyltransferase    
+MMKBIGNE_01726	COG0203	[J] Ribosomal protein L17   
+MMKBIGNE_01727	COG0202	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+MMKBIGNE_01728	COG0522	[J] Ribosomal protein S4 and related proteins
+MMKBIGNE_01729	COG0100	[J] Ribosomal protein S11   
+MMKBIGNE_01730	COG0099	[J] Ribosomal protein S13   
+MMKBIGNE_01731	COG0361	[J] Translation initiation factor 1 (IF-1) 
+MMKBIGNE_01733	COG0024	[J] Methionine aminopeptidase    
+MMKBIGNE_01734	COG0563	[F] Adenylate kinase and related kinases 
+MMKBIGNE_01735	COG0201	[U] Preprotein translocase subunit SecY  
+MMKBIGNE_01736	COG0200	[J] Ribosomal protein L15   
+MMKBIGNE_01737	COG1841	[J] Ribosomal protein L30/L7E   
+MMKBIGNE_01738	COG0098	[J] Ribosomal protein S5   
+MMKBIGNE_01739	COG0256	[J] Ribosomal protein L18   
+MMKBIGNE_01740	COG0097	[J] Ribosomal protein L6P/L9E   
+MMKBIGNE_01741	COG0096	[J] Ribosomal protein S8   
+MMKBIGNE_01742	COG0199	[J] Ribosomal protein S14   
+MMKBIGNE_01743	COG0094	[J] Ribosomal protein L5   
+MMKBIGNE_01744	COG0198	[J] Ribosomal protein L24   
+MMKBIGNE_01745	COG0093	[J] Ribosomal protein L14   
+MMKBIGNE_01746	COG0186	[J] Ribosomal protein S17   
+MMKBIGNE_01747	COG0255	[J] Ribosomal protein L29   
+MMKBIGNE_01748	COG0197	[J] Ribosomal protein L16/L10E   
+MMKBIGNE_01749	COG0092	[J] Ribosomal protein S3   
+MMKBIGNE_01750	COG0091	[J] Ribosomal protein L22   
+MMKBIGNE_01751	COG0185	[J] Ribosomal protein S19   
+MMKBIGNE_01752	COG0090	[J] Ribosomal protein L2   
+MMKBIGNE_01753	COG0089	[J] Ribosomal protein L23   
+MMKBIGNE_01754	COG0088	[J] Ribosomal protein L4   
+MMKBIGNE_01755	COG0087	[J] Ribosomal protein L3   
+MMKBIGNE_01756	COG0051	[J] Ribosomal protein S10   
+MMKBIGNE_01758	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_01759	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+MMKBIGNE_01760	COG3442	[R] Predicted glutamine amidotransferase   
+MMKBIGNE_01761	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+MMKBIGNE_01762	COG2407	[G] L-fucose isomerase and related proteins 
+MMKBIGNE_01763	COG0468	[L] RecA/RadA recombinase    
+MMKBIGNE_01764	COG2137	[R] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01765	COG2890	[J] Methylase of polypeptide chain release factors
+MMKBIGNE_01766	COG3872	[R] Predicted metal-dependent enzyme   
+MMKBIGNE_01767	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_01768	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_01769	ROG7786	
+MMKBIGNE_01770	COG3581	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01771	COG1924	[I] Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase
+MMKBIGNE_01772	COG0824	[R] Predicted thioesterase    
+MMKBIGNE_01773	COG0645	[R] Predicted kinase    
+MMKBIGNE_01774	COG0196	[H] FAD synthase    
+MMKBIGNE_01775	COG0130	[J] Pseudouridine synthase    
+MMKBIGNE_01776	COG0618	[R] Exopolyphosphatase-related proteins    
+MMKBIGNE_01777	COG0858	[J] Ribosome-binding factor A   
+MMKBIGNE_01778	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+MMKBIGNE_01779	COG1358	[J] Ribosomal protein HS6-type (S12/L30/L7a)  
+MMKBIGNE_01780	COG2740	[K] Predicted nucleic-acid-binding protein implicated in transcription
+MMKBIGNE_01781	COG0195	[K] Transcription elongation factor   
+MMKBIGNE_01782	COG0779	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01783	COG2002	[K] Regulators of stationary/sporulation gene expression 
+MMKBIGNE_01784	COG2768	[R] Uncharacterized Fe-S center protein  
+MMKBIGNE_01785	COG2208	[TK] Serine phosphatase RsbU, regulator of sigma
+MMKBIGNE_01786	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+MMKBIGNE_01787	COG0180	[J] Tryptophanyl-tRNA synthetase    
+MMKBIGNE_01788	COG1859	[J] RNA:NAD 2'-phosphotransferase    
+MMKBIGNE_01789	COG1760	[E] L-serine deaminase    
+MMKBIGNE_01790	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_01792	COG1200	[LK] RecG-like helicase    
+MMKBIGNE_01793	COG1461	[R] Predicted kinase related to dihydroxyacetone kinase
+MMKBIGNE_01794	COG1692	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01795	COG1418	[R] Predicted HD superfamily hydrolase  
+MMKBIGNE_01796	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_01797	ROG0948	
+MMKBIGNE_01798	COG0441	[J] Threonyl-tRNA synthetase    
+MMKBIGNE_01799	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01800	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_01803	COG4720	[S] Predicted membrane protein   
+MMKBIGNE_01804	COG0281	[C] Malic enzyme    
+MMKBIGNE_01805	ROG1686	
+MMKBIGNE_01806	COG0546	[R] Predicted phosphatases    
+MMKBIGNE_01808	COG3655	[K] Predicted transcriptional regulator   
+MMKBIGNE_01809	COG2764	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01810	COG0168	[P] Trk-type K+ transport systems, membrane components
+MMKBIGNE_01811	COG4708	[S] Predicted membrane protein   
+MMKBIGNE_01815	ROG2544	
+MMKBIGNE_01816	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_01819	COG0338	[L] Site-specific DNA methylase   
+MMKBIGNE_01821	COG2002	[K] Regulators of stationary/sporulation gene expression 
+MMKBIGNE_01822	ROG0073	
+MMKBIGNE_01823	COG4932	[M] Predicted outer membrane protein  
+MMKBIGNE_01824	ROG0849	
+MMKBIGNE_01826	COG0778	[C] Nitroreductase     
+MMKBIGNE_01827	COG1145	[C] Ferredoxin     
+MMKBIGNE_01828	COG0535	[R] Predicted Fe-S oxidoreductases   
+MMKBIGNE_01830	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_01831	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_01833	COG2771	[K] DNA-binding HTH domain-containing proteins  
+MMKBIGNE_01834	ROG0531	
+MMKBIGNE_01835	ROG2997	
+MMKBIGNE_01836	ROG8149	
+MMKBIGNE_01837	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01838	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_01840	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01841	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_01842	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_01845	COG3027	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01848	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01849	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01850	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_01851	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_01854	ROG4934	
+MMKBIGNE_01856	ROG2997	
+MMKBIGNE_01857	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+MMKBIGNE_01858	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+MMKBIGNE_01859	COG0655	[R] Multimeric flavodoxin WrbA   
+MMKBIGNE_01860	COG2263	[J] Predicted RNA methylase   
+MMKBIGNE_01861	COG1985	[H] Pyrimidine reductase, riboflavin biosynthesis  
+MMKBIGNE_01862	COG0716	[C] Flavodoxins     
+MMKBIGNE_01863	COG0716	[C] Flavodoxins     
+MMKBIGNE_01865	COG1979	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+MMKBIGNE_01866	ROG6988	
+MMKBIGNE_01867	COG1266	[R] Predicted metal-dependent membrane protease  
+MMKBIGNE_01868	COG0583	[K] Transcriptional regulator    
+MMKBIGNE_01869	ROG2334	
+MMKBIGNE_01871	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_01872	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_01873	ROG0879	
+MMKBIGNE_01875	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_01876	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_01877	COG0778	[C] Nitroreductase     
+MMKBIGNE_01878	COG0640	[K] Predicted transcriptional regulators   
+MMKBIGNE_01879	COG0640	[K] Predicted transcriptional regulators   
+MMKBIGNE_01880	COG2217	[P] Cation transport ATPase   
+MMKBIGNE_01881	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_01882	ROG1819	
+MMKBIGNE_01884	COG2856	[E] Predicted Zn peptidase   
+MMKBIGNE_01885	ROG3216	
+MMKBIGNE_01887	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_01888	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+MMKBIGNE_01889	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+MMKBIGNE_01891	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_01892	ROG6438	
+MMKBIGNE_01893	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_01894	COG0622	[R] Predicted phosphoesterase    
+MMKBIGNE_01895	COG0219	[J] Predicted rRNA methylase (SpoU class) 
+MMKBIGNE_01896	ROG1409	
+MMKBIGNE_01897	COG0561	[R] Predicted hydrolases of the HAD superfamily
+MMKBIGNE_01898	COG0726	[G] Predicted xylanase/chitin deacetylase   
+MMKBIGNE_01900	COG1115	[E] Na+/alanine symporter    
+MMKBIGNE_01902	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+MMKBIGNE_01903	COG0730	[R] Predicted permeases    
+MMKBIGNE_01904	COG0730	[R] Predicted permeases    
+MMKBIGNE_01905	COG3247	[S] Uncharacterized conserved protein   
+MMKBIGNE_01906	COG4652	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01907	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01908	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+MMKBIGNE_01909	COG1162	[R] Predicted GTPases    
+MMKBIGNE_01910	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_01911	COG0722	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+MMKBIGNE_01912	COG0046	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+MMKBIGNE_01913	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_01914	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_01915	ROG1353	
+MMKBIGNE_01918	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_01919	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+MMKBIGNE_01920	COG0658	[R] Predicted membrane metal-binding protein  
+MMKBIGNE_01921	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+MMKBIGNE_01922	ROG0531	
+MMKBIGNE_01925	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+MMKBIGNE_01926	COG0679	[R] Predicted permeases    
+MMKBIGNE_01927	ROG6274	
+MMKBIGNE_01928	COG3583	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01929	COG0103	[J] Ribosomal protein S9   
+MMKBIGNE_01930	COG0102	[J] Ribosomal protein L13   
+MMKBIGNE_01932	COG0392	[S] Predicted integral membrane protein  
+MMKBIGNE_01933	ROG0869	
+MMKBIGNE_01934	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_01935	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01936	ROG0450	
+MMKBIGNE_01940	COG3773	[M] Cell wall hydrolyses involved in spore
+MMKBIGNE_01941	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_01942	COG0477	[GEPR] Permeases of the major facilitator superfamily
+MMKBIGNE_01944	ROG1576	
+MMKBIGNE_01945	COG0516	[F] IMP dehydrogenase/GMP reductase   
+MMKBIGNE_01948	COG2182	[G] Maltose-binding periplasmic proteins/domains   
+MMKBIGNE_01949	ROG5755	
+MMKBIGNE_01950	COG0172	[J] Seryl-tRNA synthetase    
+MMKBIGNE_01951	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_01952	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_01953	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_01954	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01955	COG0357	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+MMKBIGNE_01956	COG0445	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+MMKBIGNE_01957	COG0486	[R] Predicted GTPase    
+MMKBIGNE_01958	COG1847	[R] Predicted RNA-binding protein   
+MMKBIGNE_01959	COG0706	[U] Preprotein translocase subunit YidC  
+MMKBIGNE_01960	COG0594	[J] RNase P protein component  
+MMKBIGNE_01961	COG0230	[J] Ribosomal protein L34   
+MMKBIGNE_01962	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_01963	ROG5263	
+MMKBIGNE_01964	COG0593	[L] ATPase involved in DNA replication initiation
+MMKBIGNE_01965	COG0592	[L] DNA polymerase sliding clamp subunit (PCNA
+MMKBIGNE_01966	COG2501	[S] Uncharacterized conserved protein   
+MMKBIGNE_01967	COG1195	[L] Recombinational DNA repair ATPase (RecF pathway)
+MMKBIGNE_01968	ROG0244	
+MMKBIGNE_01970	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+MMKBIGNE_01971	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+MMKBIGNE_01972	ROG0155	
+MMKBIGNE_01973	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+MMKBIGNE_01974	COG4198	[S] Uncharacterized conserved protein   
+MMKBIGNE_01976	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_01977	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_01978	COG1277	[R] ABC-type transport system involved in multi-copper
+MMKBIGNE_01979	COG3225	[N] ABC-type uncharacterized transport system involved in
+MMKBIGNE_01980	ROG3361	
+MMKBIGNE_01981	COG2984	[R] ABC-type uncharacterized transport system, periplasmic component
+MMKBIGNE_01982	COG0582	[L] Integrase     
+MMKBIGNE_01983	ROG0531	
+MMKBIGNE_01984	COG1874	[G] Beta-galactosidase     
+MMKBIGNE_01986	COG3534	[G] Alpha-L-arabinofuranosidase     
+MMKBIGNE_01988	COG3533	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_01989	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+MMKBIGNE_01991	ROG6988	
+MMKBIGNE_01993	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+MMKBIGNE_01994	ROG8414	
+MMKBIGNE_01995	COG0013	[J] Alanyl-tRNA synthetase    
+MMKBIGNE_01996	ROG4259	
+MMKBIGNE_01997	COG0825	[I] Acetyl-CoA carboxylase alpha subunit  
+MMKBIGNE_01998	COG0777	[I] Acetyl-CoA carboxylase beta subunit  
+MMKBIGNE_01999	COG0439	[I] Biotin carboxylase    
+MMKBIGNE_02000	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+MMKBIGNE_02001	COG0511	[I] Biotin carboxyl carrier protein  
+MMKBIGNE_02002	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+MMKBIGNE_02003	COG1028	[IQR] Dehydrogenases with different specificities (related to
+MMKBIGNE_02004	COG0331	[I] (acyl-carrier-protein) S-malonyltransferase    
+MMKBIGNE_02005	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+MMKBIGNE_02006	COG0332	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+MMKBIGNE_02008	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02009	COG0622	[R] Predicted phosphoesterase    
+MMKBIGNE_02010	COG4668	[G] Mannitol/fructose-specific phosphotransferase system, IIA domain 
+MMKBIGNE_02011	COG3516	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02012	ROG2222	
+MMKBIGNE_02013	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+MMKBIGNE_02014	COG1109	[G] Phosphomannomutase     
+MMKBIGNE_02015	COG1295	[S] Predicted membrane protein   
+MMKBIGNE_02016	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+MMKBIGNE_02017	COG0621	[J] 2-methylthioadenine synthetase    
+MMKBIGNE_02018	COG0558	[I] Phosphatidylglycerophosphate synthase    
+MMKBIGNE_02020	COG0122	[L] 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase 
+MMKBIGNE_02021	COG1185	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+MMKBIGNE_02022	COG0184	[J] Ribosomal protein S15P/S13E   
+MMKBIGNE_02024	COG4832	[S] Uncharacterized conserved protein   
+MMKBIGNE_02025	COG1166	[E] Arginine decarboxylase (spermidine biosynthesis)  
+MMKBIGNE_02026	COG0178	[L] Excinuclease ATPase subunit   
+MMKBIGNE_02027	ROG3271	
+MMKBIGNE_02028	COG0778	[C] Nitroreductase     
+MMKBIGNE_02029	COG2320	[S] Uncharacterized conserved protein   
+MMKBIGNE_02031	COG0556	[L] Helicase subunit of the DNA excision
+MMKBIGNE_02032	COG2003	[L] DNA repair proteins   
+MMKBIGNE_02033	ROG0531	
+MMKBIGNE_02034	COG2746	[V] Aminoglycoside N3'-acetyltransferase    
+MMKBIGNE_02035	COG2333	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+MMKBIGNE_02036	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_02037	COG0461	[F] Orotate phosphoribosyltransferase    
+MMKBIGNE_02038	COG1385	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02039	COG1028	[IQR] Dehydrogenases with different specificities (related to
+MMKBIGNE_02040	COG1109	[G] Phosphomannomutase     
+MMKBIGNE_02041	COG3905	[K] Predicted transcriptional regulator   
+MMKBIGNE_02043	COG3745	[U] Flp pilus assembly protein CpaB 
+MMKBIGNE_02044	ROG1840	
+MMKBIGNE_02046	COG2364	[S] Predicted membrane protein   
+MMKBIGNE_02047	COG1307	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02048	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+MMKBIGNE_02049	COG0579	[R] Predicted dehydrogenase    
+MMKBIGNE_02050	COG0492	[O] Thioredoxin reductase    
+MMKBIGNE_02051	COG3862	[S] Uncharacterized protein with conserved CXXC pairs
+MMKBIGNE_02052	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_02053	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+MMKBIGNE_02054	COG0492	[O] Thioredoxin reductase    
+MMKBIGNE_02055	ROG7176	
+MMKBIGNE_02056	COG3773	[M] Cell wall hydrolyses involved in spore
+MMKBIGNE_02057	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_02058	COG1597	[IR] Sphingosine kinase and enzymes related to
+MMKBIGNE_02059	ROG1427	
+MMKBIGNE_02060	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+MMKBIGNE_02061	ROG2817	
+MMKBIGNE_02062	COG1737	[K] Transcriptional regulators    
+MMKBIGNE_02063	COG2081	[R] Predicted flavoproteins    
+MMKBIGNE_02064	ROG5129	
+MMKBIGNE_02066	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02067	COG0283	[F] Cytidylate kinase    
+MMKBIGNE_02068	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+MMKBIGNE_02069	COG0539	[J] Ribosomal protein S1   
+MMKBIGNE_02070	COG0342	[U] Preprotein translocase subunit SecD  
+MMKBIGNE_02071	COG2155	[S] Uncharacterized conserved protein   
+MMKBIGNE_02072	COG2267	[I] Lysophospholipase     
+MMKBIGNE_02073	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+MMKBIGNE_02074	COG0012	[J] Predicted GTPase, probable translation factor 
+MMKBIGNE_02076	ROG8378	
+MMKBIGNE_02077	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02078	COG0300	[R] Short-chain dehydrogenases of various substrate specificities
+MMKBIGNE_02079	ROG7288	
+MMKBIGNE_02081	COG0775	[F] Nucleoside phosphorylase    
+MMKBIGNE_02083	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_02084	ROG2255	
+MMKBIGNE_02085	COG1974	[KT] SOS-response transcriptional repressors (RecA-mediated autopeptidases) 
+MMKBIGNE_02086	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+MMKBIGNE_02087	COG3706	[T] Response regulator containing a CheY-like receiver
+MMKBIGNE_02088	COG1963	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02089	COG1636	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02090	COG2159	[R] Predicted metal-dependent hydrolase of the TIM-barrel
+MMKBIGNE_02092	COG3858	[R] Predicted glycosyl hydrolase   
+MMKBIGNE_02095	ROG0325	
+MMKBIGNE_02097	COG0031	[E] Cysteine synthase    
+MMKBIGNE_02098	COG2272	[I] Carboxylesterase type B   
+MMKBIGNE_02099	ROG0137	
+MMKBIGNE_02100	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02101	COG3830	[T] ACT domain-containing protein   
+MMKBIGNE_02102	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02103	COG2848	[S] Uncharacterized conserved protein   
+MMKBIGNE_02104	COG0152	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+MMKBIGNE_02105	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02106	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_02107	COG1619	[V] Uncharacterized proteins, homologs of microcin C7
+MMKBIGNE_02109	COG0489	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_02112	COG0469	[G] Pyruvate kinase    
+MMKBIGNE_02113	ROG0983	
+MMKBIGNE_02114	COG3345	[G] Alpha-galactosidase     
+MMKBIGNE_02115	ROG0822	
+MMKBIGNE_02116	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+MMKBIGNE_02117	COG5341	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02118	COG4769	[S] Predicted membrane protein   
+MMKBIGNE_02119	COG0810	[M] Periplasmic protein TonB, links inner and
+MMKBIGNE_02120	COG0423	[J] Glycyl-tRNA synthetase (class II)  
+MMKBIGNE_02121	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+MMKBIGNE_02122	COG0481	[M] Membrane GTPase LepA   
+MMKBIGNE_02123	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+MMKBIGNE_02124	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_02125	COG1266	[R] Predicted metal-dependent membrane protease  
+MMKBIGNE_02126	COG0524	[G] Sugar kinases, ribokinase family  
+MMKBIGNE_02127	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+MMKBIGNE_02128	ROG0805	
+MMKBIGNE_02129	COG0622	[R] Predicted phosphoesterase    
+MMKBIGNE_02130	COG0350	[L] Methylated DNA-protein cysteine methyltransferase  
+MMKBIGNE_02131	COG0787	[M] Alanine racemase    
+MMKBIGNE_02133	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02134	COG2361	[S] Uncharacterized conserved protein   
+MMKBIGNE_02135	COG1669	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_02137	ROG5267	
+MMKBIGNE_02141	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02142	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_02143	ROG0101	
+MMKBIGNE_02144	COG1344	[N] Flagellin and related hook-associated proteins 
+MMKBIGNE_02145	ROG2311	
+MMKBIGNE_02146	COG0613	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+MMKBIGNE_02147	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_02148	COG0840	[NT] Methyl-accepting chemotaxis protein   
+MMKBIGNE_02149	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_02150	COG1225	[O] Peroxiredoxin     
+MMKBIGNE_02151	COG3022	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02152	COG1489	[R] DNA-binding protein, stimulates sugar fermentation 
+MMKBIGNE_02153	COG1002	[V] Type II restriction enzyme, methylase subunits
+MMKBIGNE_02154	COG0863	[L] DNA modification methylase   
+MMKBIGNE_02159	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02160	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02161	ROG2150	
+MMKBIGNE_02162	COG3950	[R] Predicted ATP-binding protein involved in virulence
+MMKBIGNE_02163	ROG8234	
+MMKBIGNE_02164	COG3619	[S] Predicted membrane protein   
+MMKBIGNE_02165	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_02166	ROG3252	
+MMKBIGNE_02167	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_02168	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_02169	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+MMKBIGNE_02170	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_02171	COG3344	[L] Retron-type reverse transcriptase   
+MMKBIGNE_02172	ROG3851	
+MMKBIGNE_02173	ROG6819	
+MMKBIGNE_02174	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_02175	ROG0844	
+MMKBIGNE_02176	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02177	COG5002	[T] Signal transduction histidine kinase  
+MMKBIGNE_02178	COG1876	[M] D-alanyl-D-alanine carboxypeptidase    
+MMKBIGNE_02179	COG0428	[P] Predicted divalent heavy-metal cations transporter 
+MMKBIGNE_02180	COG2832	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02181	ROG0422	
+MMKBIGNE_02182	COG4987	[CO] ABC-type transport system involved in cytochrome
+MMKBIGNE_02183	COG4988	[CO] ABC-type transport system involved in cytochrome
+MMKBIGNE_02184	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_02185	COG1846	[K] Transcriptional regulators    
+MMKBIGNE_02186	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02187	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02188	ROG4412	
+MMKBIGNE_02189	COG3976	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02190	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+MMKBIGNE_02191	COG5341	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02192	COG4769	[S] Predicted membrane protein   
+MMKBIGNE_02193	COG1340	[S] Uncharacterized archaeal coiled-coil protein  
+MMKBIGNE_02194	COG3757	[M] Lyzozyme M1 (1,4-beta-N-acetylmuramidase)   
+MMKBIGNE_02195	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+MMKBIGNE_02196	ROG0067	
+MMKBIGNE_02199	COG3507	[G] Beta-xylosidase     
+MMKBIGNE_02200	COG3534	[G] Alpha-L-arabinofuranosidase     
+MMKBIGNE_02201	COG0789	[K] Predicted transcriptional regulators   
+MMKBIGNE_02202	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02203	COG3307	[M] Lipid A core - O-antigen ligase
+MMKBIGNE_02204	ROG6988	
+MMKBIGNE_02206	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02207	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02208	COG4779	[P] ABC-type enterobactin transport system, permease component
+MMKBIGNE_02209	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+MMKBIGNE_02210	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+MMKBIGNE_02211	COG0716	[C] Flavodoxins     
+MMKBIGNE_02212	ROG0118	
+MMKBIGNE_02214	ROG7233	
+MMKBIGNE_02215	ROG5267	
+MMKBIGNE_02216	ROG6842	
+MMKBIGNE_02217	ROG1442	
+MMKBIGNE_02219	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02220	ROG0649	
+MMKBIGNE_02221	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02222	COG1122	[P] ABC-type cobalt transport system, ATPase component
+MMKBIGNE_02223	ROG0546	
+MMKBIGNE_02224	ROG4740	
+MMKBIGNE_02226	ROG3051	
+MMKBIGNE_02227	ROG8234	
+MMKBIGNE_02229	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02230	COG1730	[O] Predicted prefoldin, molecular chaperone implicated in
+MMKBIGNE_02231	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_02232	ROG0849	
+MMKBIGNE_02233	COG2606	[S] Uncharacterized conserved protein   
+MMKBIGNE_02234	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02235	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_02236	ROG2878	
+MMKBIGNE_02238	ROG6143	
+MMKBIGNE_02239	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_02240	ROG3688	
+MMKBIGNE_02241	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_02242	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02243	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02244	COG2337	[T] Growth inhibitor    
+MMKBIGNE_02246	COG0574	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+MMKBIGNE_02248	COG0193	[J] Peptidyl-tRNA hydrolase    
+MMKBIGNE_02249	COG1197	[LK] Transcription-repair coupling factor (superfamily II helicase)
+MMKBIGNE_02252	COG1269	[C] Archaeal/vacuolar-type H+-ATPase subunit I  
+MMKBIGNE_02253	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+MMKBIGNE_02254	COG1390	[C] Archaeal/vacuolar-type H+-ATPase subunit E  
+MMKBIGNE_02255	COG1527	[C] Archaeal/vacuolar-type H+-ATPase subunit C  
+MMKBIGNE_02256	COG1436	[C] Archaeal/vacuolar-type H+-ATPase subunit F  
+MMKBIGNE_02257	COG1155	[C] Archaeal/vacuolar-type H+-ATPase subunit A  
+MMKBIGNE_02258	COG1156	[C] Archaeal/vacuolar-type H+-ATPase subunit B  
+MMKBIGNE_02259	COG1394	[C] Archaeal/vacuolar-type H+-ATPase subunit D  
+MMKBIGNE_02260	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+MMKBIGNE_02261	COG1058	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+MMKBIGNE_02262	COG3393	[R] Predicted acetyltransferase    
+MMKBIGNE_02263	COG0301	[H] Thiamine biosynthesis ATP pyrophosphatase  
+MMKBIGNE_02264	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_02265	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+MMKBIGNE_02266	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+MMKBIGNE_02267	COG0171	[H] NAD synthase    
+MMKBIGNE_02268	COG2720	[V] Uncharacterized vancomycin resistance protein  
+MMKBIGNE_02269	ROG0217	
+MMKBIGNE_02270	COG4912	[L] Predicted DNA alkylation repair enzyme 
+MMKBIGNE_02272	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02273	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+MMKBIGNE_02276	ROG0070	
+MMKBIGNE_02277	COG0372	[C] Citrate synthase    
+MMKBIGNE_02279	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+MMKBIGNE_02282	COG0119	[E] Isopropylmalate/homocitrate/citramalate synthases    
+MMKBIGNE_02283	COG0591	[ER] Na+/proline symporter    
+MMKBIGNE_02284	COG2270	[R] Permeases of the major facilitator superfamily
+MMKBIGNE_02285	ROG2222	
+MMKBIGNE_02286	COG1329	[K] Transcriptional regulators, similar to M. xanthus
+MMKBIGNE_02287	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+MMKBIGNE_02288	COG0566	[J] rRNA methylases    
+MMKBIGNE_02289	COG3688	[R] Predicted RNA-binding protein containing a PIN
+MMKBIGNE_02290	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+MMKBIGNE_02291	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+MMKBIGNE_02292	COG1781	[F] Aspartate carbamoyltransferase, regulatory subunit  
+MMKBIGNE_02293	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_02294	COG0540	[F] Aspartate carbamoyltransferase, catalytic chain  
+MMKBIGNE_02296	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_02297	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+MMKBIGNE_02298	COG0055	[C] F0F1-type ATP synthase, beta subunit 
+MMKBIGNE_02299	COG0224	[C] F0F1-type ATP synthase, gamma subunit 
+MMKBIGNE_02300	COG0056	[C] F0F1-type ATP synthase, alpha subunit 
+MMKBIGNE_02301	COG0711	[C] F0F1-type ATP synthase, subunit b 
+MMKBIGNE_02302	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+MMKBIGNE_02303	COG0356	[C] F0F1-type ATP synthase, subunit a 
+MMKBIGNE_02304	ROG2788	
+MMKBIGNE_02305	COG0254	[J] Ribosomal protein L31   
+MMKBIGNE_02306	COG3860	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02307	COG1739	[S] Uncharacterized conserved protein   
+MMKBIGNE_02308	COG0232	[F] dGTP triphosphohydrolase    
+MMKBIGNE_02309	COG0358	[L] DNA primase (bacterial type)  
+MMKBIGNE_02310	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+MMKBIGNE_02311	COG3212	[S] Predicted membrane protein   
+MMKBIGNE_02312	COG1959	[K] Predicted transcriptional regulator   
+MMKBIGNE_02313	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02314	COG0085	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+MMKBIGNE_02315	COG0086	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+MMKBIGNE_02316	COG0048	[J] Ribosomal protein S12   
+MMKBIGNE_02317	COG0049	[J] Ribosomal protein S7   
+MMKBIGNE_02318	COG0480	[J] Translation elongation factors (GTPases)  
+MMKBIGNE_02319	COG0050	[J] GTPases - translation elongation factors 
+MMKBIGNE_02320	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02321	COG0561	[R] Predicted hydrolases of the HAD superfamily
+MMKBIGNE_02322	COG0060	[J] Isoleucyl-tRNA synthetase    
+MMKBIGNE_02323	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_02324	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+MMKBIGNE_02325	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02327	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02328	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_02329	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+MMKBIGNE_02332	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+MMKBIGNE_02333	COG3579	[E] Aminopeptidase C    
+MMKBIGNE_02334	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+MMKBIGNE_02336	ROG1214	
+MMKBIGNE_02337	COG1210	[M] UDP-glucose pyrophosphorylase    
+MMKBIGNE_02338	COG1327	[K] Predicted transcriptional regulator, consists of a
+MMKBIGNE_02339	COG0488	[R] ATPase components of ABC transporters with
+MMKBIGNE_02340	COG0621	[J] 2-methylthioadenine synthetase    
+MMKBIGNE_02341	COG2326	[S] Uncharacterized conserved protein   
+MMKBIGNE_02342	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+MMKBIGNE_02343	ROG5104	
+MMKBIGNE_02344	COG0557	[K] Exoribonuclease R    
+MMKBIGNE_02345	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+MMKBIGNE_02346	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02347	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+MMKBIGNE_02348	COG0708	[L] Exonuclease III    
+MMKBIGNE_02349	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+MMKBIGNE_02350	COG0213	[F] Thymidine phosphorylase    
+MMKBIGNE_02351	COG0295	[F] Cytidine deaminase    
+MMKBIGNE_02352	COG0524	[G] Sugar kinases, ribokinase family  
+MMKBIGNE_02353	COG1482	[G] Phosphomannose isomerase    
+MMKBIGNE_02354	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+MMKBIGNE_02355	COG0160	[E] 4-aminobutyrate aminotransferase and related aminotransferases 
+MMKBIGNE_02356	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02357	COG5628	[R] Predicted acetyltransferase    
+MMKBIGNE_02358	COG1186	[J] Protein chain release factor B 
+MMKBIGNE_02359	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+MMKBIGNE_02360	COG1272	[R] Predicted membrane protein, hemolysin III homolog
+MMKBIGNE_02361	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02362	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02363	ROG0923	
+MMKBIGNE_02364	ROG2703	
+MMKBIGNE_02365	ROG6032	
+MMKBIGNE_02367	ROG3205	
+MMKBIGNE_02370	ROG6138	
+MMKBIGNE_02371	COG3717	[G] 5-keto 4-deoxyuronate isomerase   
+MMKBIGNE_02372	COG1028	[IQR] Dehydrogenases with different specificities (related to
+MMKBIGNE_02373	ROG0265	
+MMKBIGNE_02374	ROG0265	
+MMKBIGNE_02375	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02376	COG1956	[T] GAF domain-containing protein   
+MMKBIGNE_02377	COG4990	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02378	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+MMKBIGNE_02379	COG0800	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+MMKBIGNE_02380	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_02381	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02382	ROG3067	
+MMKBIGNE_02383	COG0530	[P] Ca2+/Na+ antiporter    
+MMKBIGNE_02385	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02386	ROG1474	
+MMKBIGNE_02387	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_02388	COG2159	[R] Predicted metal-dependent hydrolase of the TIM-barrel
+MMKBIGNE_02389	COG3049	[M] Penicillin V acylase and related amidases
+MMKBIGNE_02390	COG5587	[S] Uncharacterized conserved protein   
+MMKBIGNE_02391	ROG1046	
+MMKBIGNE_02392	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02393	COG1641	[S] Uncharacterized conserved protein   
+MMKBIGNE_02394	ROG0170	
+MMKBIGNE_02396	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_02397	COG2189	[L] Adenine specific DNA methylase Mod 
+MMKBIGNE_02398	COG1080	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+MMKBIGNE_02399	ROG7077	
+MMKBIGNE_02400	COG3307	[M] Lipid A core - O-antigen ligase
+MMKBIGNE_02401	COG5016	[C] Pyruvate/oxaloacetate carboxyltransferase    
+MMKBIGNE_02402	COG1883	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+MMKBIGNE_02403	COG4770	[I] Acetyl/propionyl-CoA carboxylase, alpha subunit  
+MMKBIGNE_02404	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+MMKBIGNE_02405	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02406	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+MMKBIGNE_02407	COG0381	[M] UDP-N-acetylglucosamine 2-epimerase    
+MMKBIGNE_02408	COG1922	[M] Teichoic acid biosynthesis proteins  
+MMKBIGNE_02409	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+MMKBIGNE_02410	COG1887	[M] Putative glycosyl/glycerophosphate transferases involved in teichoic
+MMKBIGNE_02411	COG2244	[R] Membrane protein involved in the export
+MMKBIGNE_02412	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+MMKBIGNE_02413	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02414	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02415	ROG3963	
+MMKBIGNE_02416	COG0572	[F] Uridine kinase    
+MMKBIGNE_02417	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+MMKBIGNE_02418	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+MMKBIGNE_02419	COG0608	[L] Single-stranded DNA-specific exonuclease   
+MMKBIGNE_02420	COG0657	[I] Esterase/lipase     
+MMKBIGNE_02421	COG2509	[R] Uncharacterized FAD-dependent dehydrogenases   
+MMKBIGNE_02422	COG2081	[R] Predicted flavoproteins    
+MMKBIGNE_02423	COG2426	[S] Predicted membrane protein   
+MMKBIGNE_02424	COG0726	[G] Predicted xylanase/chitin deacetylase   
+MMKBIGNE_02425	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02426	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_02427	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_02428	COG0493	[ER] NADPH-dependent glutamate synthase beta chain and
+MMKBIGNE_02429	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+MMKBIGNE_02430	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_02431	ROG0082	
+MMKBIGNE_02432	COG1708	[R] Predicted nucleotidyltransferases    
+MMKBIGNE_02433	COG0563	[F] Adenylate kinase and related kinases 
+MMKBIGNE_02434	ROG0261	
+MMKBIGNE_02435	COG2315	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02436	COG0360	[J] Ribosomal protein S6   
+MMKBIGNE_02437	COG0629	[L] Single-stranded DNA-binding protein   
+MMKBIGNE_02438	COG0238	[J] Ribosomal protein S18   
+MMKBIGNE_02439	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+MMKBIGNE_02440	COG1312	[G] D-mannonate dehydratase    
+MMKBIGNE_02441	COG1904	[G] Glucuronate isomerase    
+MMKBIGNE_02442	COG1028	[IQR] Dehydrogenases with different specificities (related to
+MMKBIGNE_02443	COG0789	[K] Predicted transcriptional regulators   
+MMKBIGNE_02444	COG3981	[R] Predicted acetyltransferase    
+MMKBIGNE_02445	COG2706	[G] 3-carboxymuconate cyclase    
+MMKBIGNE_02447	COG4109	[K] Predicted transcriptional regulator containing CBS domains
+MMKBIGNE_02448	COG3287	[S] Uncharacterized conserved protein   
+MMKBIGNE_02449	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_02450	ROG4798	
+MMKBIGNE_02451	ROG0231	
+MMKBIGNE_02452	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+MMKBIGNE_02453	COG4877	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02454	COG0426	[C] Uncharacterized flavoproteins    
+MMKBIGNE_02455	COG3595	[S] Uncharacterized conserved protein   
+MMKBIGNE_02456	ROG2422	
+MMKBIGNE_02457	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_02458	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_02459	COG0406	[G] Fructose-2,6-bisphosphatase     
+MMKBIGNE_02461	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_02462	COG2183	[K] Transcriptional accessory protein   
+MMKBIGNE_02463	COG1408	[R] Predicted phosphohydrolases    
+MMKBIGNE_02464	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02465	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_02466	COG1520	[S] FOG: WD40-like repeat   
+MMKBIGNE_02467	ROG4758	
+MMKBIGNE_02468	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+MMKBIGNE_02469	COG1928	[O] Dolichyl-phosphate-mannose--protein O-mannosyl transferase   
+MMKBIGNE_02470	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+MMKBIGNE_02472	COG1208	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+MMKBIGNE_02473	COG0772	[D] Bacterial cell division membrane protein 
+MMKBIGNE_02474	ROG5077	
+MMKBIGNE_02475	COG0058	[G] Glucan phosphorylase    
+MMKBIGNE_02476	COG1640	[G] 4-alpha-glucanotransferase     
+MMKBIGNE_02478	COG3910	[R] Predicted ATPase    
+MMKBIGNE_02479	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+MMKBIGNE_02480	COG1971	[S] Predicted membrane protein   
+MMKBIGNE_02481	COG4119	[LR] Predicted NTP pyrophosphohydrolase   
+MMKBIGNE_02482	COG0655	[R] Multimeric flavodoxin WrbA   
+MMKBIGNE_02483	COG0217	[S] Uncharacterized conserved protein   
+MMKBIGNE_02484	ROG0412	
+MMKBIGNE_02485	ROG1688	
+MMKBIGNE_02486	ROG3356	
+MMKBIGNE_02487	ROG1435	
+MMKBIGNE_02489	ROG5108	
+MMKBIGNE_02491	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_02492	COG0261	[J] Ribosomal protein L21   
+MMKBIGNE_02493	COG2868	[J] Predicted ribosomal protein   
+MMKBIGNE_02494	COG0211	[J] Ribosomal protein L27   
+MMKBIGNE_02495	COG3506	[S] Uncharacterized conserved protein   
+MMKBIGNE_02496	COG4088	[F] Predicted nucleotide kinase   
+MMKBIGNE_02497	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+MMKBIGNE_02498	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02499	COG0536	[R] Predicted GTPase    
+MMKBIGNE_02500	COG1939	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02501	COG1284	[S] Uncharacterized conserved protein   
+MMKBIGNE_02503	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02504	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+MMKBIGNE_02505	COG1323	[R] Predicted nucleotidyltransferase    
+MMKBIGNE_02506	COG0282	[C] Acetate kinase    
+MMKBIGNE_02509	COG0741	[M] Soluble lytic murein transglycosylase and related
+MMKBIGNE_02510	COG0009	[J] Putative translation factor (SUA5)  
+MMKBIGNE_02511	COG0216	[J] Protein chain release factor A 
+MMKBIGNE_02512	COG1359	[S] Uncharacterized conserved protein   
+MMKBIGNE_02513	COG4481	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02514	ROG1045	
+MMKBIGNE_02515	COG1624	[S] Uncharacterized conserved protein   
+MMKBIGNE_02516	COG0520	[E] Selenocysteine lyase    
+MMKBIGNE_02517	ROG3462	
+MMKBIGNE_02518	ROG0531	
+MMKBIGNE_02519	COG3153	[R] Predicted acetyltransferase    
+MMKBIGNE_02520	COG1350	[R] Predicted alternative tryptophan synthase beta-subunit (paralog
+MMKBIGNE_02522	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+MMKBIGNE_02523	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+MMKBIGNE_02524	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_02525	COG3409	[M] Putative peptidoglycan-binding domain-containing protein  
+MMKBIGNE_02526	COG5294	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02527	COG1253	[R] Hemolysins and related proteins containing CBS
+MMKBIGNE_02528	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+MMKBIGNE_02529	COG1874	[G] Beta-galactosidase     
+MMKBIGNE_02530	ROG4219	
+MMKBIGNE_02531	ROG3055	
+MMKBIGNE_02532	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02533	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_02534	COG1145	[C] Ferredoxin     
+MMKBIGNE_02535	COG1897	[E] Homoserine trans-succinylase    
+MMKBIGNE_02542	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02543	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_02545	COG1721	[R] Uncharacterized conserved protein (some members contain
+MMKBIGNE_02546	COG0714	[R] MoxR-like ATPases    
+MMKBIGNE_02547	COG0438	[M] Glycosyltransferase     
+MMKBIGNE_02548	COG2153	[R] Predicted acyltransferase    
+MMKBIGNE_02549	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+MMKBIGNE_02550	COG3610	[S] Uncharacterized conserved protein   
+MMKBIGNE_02551	COG2966	[S] Uncharacterized conserved protein   
+MMKBIGNE_02552	COG2206	[T] HD-GYP domain    
+MMKBIGNE_02553	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_02554	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+MMKBIGNE_02555	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+MMKBIGNE_02556	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+MMKBIGNE_02557	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+MMKBIGNE_02558	COG4608	[E] ABC-type oligopeptide transport system, ATPase component
+MMKBIGNE_02560	ROG6988	
+MMKBIGNE_02561	ROG0531	
+MMKBIGNE_02562	COG0525	[J] Valyl-tRNA synthetase    
+MMKBIGNE_02563	COG0627	[R] Predicted esterase    
+MMKBIGNE_02564	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+MMKBIGNE_02565	ROG3650	
+MMKBIGNE_02566	COG0554	[C] Glycerol kinase    
+MMKBIGNE_02567	COG3958	[G] Transketolase, C-terminal subunit   
+MMKBIGNE_02568	COG3959	[G] Transketolase, N-terminal subunit   
+MMKBIGNE_02569	COG2407	[G] L-fucose isomerase and related proteins 
+MMKBIGNE_02570	COG1609	[K] Transcriptional regulators    
+MMKBIGNE_02571	COG3696	[P] Putative silver efflux pump  
+MMKBIGNE_02572	COG0118	[E] Glutamine amidotransferase    
+MMKBIGNE_02573	COG0107	[E] Imidazoleglycerol-phosphate synthase    
+MMKBIGNE_02574	COG1876	[M] D-alanyl-D-alanine carboxypeptidase    
+MMKBIGNE_02577	COG2801	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02578	ROG2133	
+MMKBIGNE_02581	ROG2544	
+MMKBIGNE_02583	COG0645	[R] Predicted kinase    
+MMKBIGNE_02584	ROG3687	
+MMKBIGNE_02587	COG4710	[R] Predicted DNA-binding protein with an HTH
+MMKBIGNE_02588	ROG6819	
+MMKBIGNE_02589	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02591	COG1196	[D] Chromosome segregation ATPases   
+MMKBIGNE_02592	ROG1442	
+MMKBIGNE_02593	ROG6842	
+MMKBIGNE_02595	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02596	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02597	ROG4457	
+MMKBIGNE_02600	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_02601	ROG7137	
+MMKBIGNE_02603	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02607	ROG2544	
+MMKBIGNE_02608	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_02611	COG0338	[L] Site-specific DNA methylase   
+MMKBIGNE_02613	COG2002	[K] Regulators of stationary/sporulation gene expression 
+MMKBIGNE_02614	ROG0073	
+MMKBIGNE_02615	COG4932	[M] Predicted outer membrane protein  
+MMKBIGNE_02616	ROG0849	
+MMKBIGNE_02619	ROG8234	
+MMKBIGNE_02621	ROG4588	
+MMKBIGNE_02622	COG1273	[S] Uncharacterized conserved protein   
+MMKBIGNE_02623	COG0370	[P] Fe2+ transport system protein B 
+MMKBIGNE_02625	COG0738	[G] Fucose permease    
+MMKBIGNE_02627	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02631	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_02632	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_02633	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+MMKBIGNE_02634	COG2606	[S] Uncharacterized conserved protein   
+MMKBIGNE_02635	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_02636	COG1881	[R] Phospholipid-binding protein    
+MMKBIGNE_02637	COG4129	[S] Predicted membrane protein   
+MMKBIGNE_02638	ROG0842	
+MMKBIGNE_02639	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_02640	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_02641	COG0778	[C] Nitroreductase     
+MMKBIGNE_02642	ROG3119	
+MMKBIGNE_02643	COG0406	[G] Fructose-2,6-bisphosphatase     
+MMKBIGNE_02644	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_02645	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_02646	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_02647	COG2066	[E] Glutaminase     
+MMKBIGNE_02649	COG2755	[E] Lysophospholipase L1 and related esterases 
+MMKBIGNE_02650	COG2272	[I] Carboxylesterase type B   
+MMKBIGNE_02651	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_02653	ROG2997	
+MMKBIGNE_02654	ROG2997	
+MMKBIGNE_02656	ROG4934	
+MMKBIGNE_02657	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_02659	ROG4513	
+MMKBIGNE_02660	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02661	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02662	ROG4395	
+MMKBIGNE_02663	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_02664	ROG5797	
+MMKBIGNE_02665	ROG4033	
+MMKBIGNE_02666	ROG0945	
+MMKBIGNE_02669	COG0515	[RTKL] Serine/threonine protein kinase   
+MMKBIGNE_02670	COG1110	[L] Reverse gyrase    
+MMKBIGNE_02671	ROG1442	
+MMKBIGNE_02672	ROG7417	
+MMKBIGNE_02673	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_02674	ROG0849	
+MMKBIGNE_02675	ROG0603	
+MMKBIGNE_02676	ROG4934	
+MMKBIGNE_02677	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_02679	COG3655	[K] Predicted transcriptional regulator   
+MMKBIGNE_02682	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_02683	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02684	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_02685	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02688	ROG2757	
+MMKBIGNE_02689	COG2378	[K] Predicted transcriptional regulator   
+MMKBIGNE_02690	ROG5321	
+MMKBIGNE_02691	ROG0937	
+MMKBIGNE_02693	ROG8421	
+MMKBIGNE_02694	COG1484	[L] DNA replication protein   
+MMKBIGNE_02696	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02697	ROG4513	
+MMKBIGNE_02698	COG2088	[M] Uncharacterized protein, involved in the regulation
+MMKBIGNE_02699	COG0863	[L] DNA modification methylase   
+MMKBIGNE_02700	COG4725	[TK] Transcriptional activator, adenine-specific DNA methyltransferase 
+MMKBIGNE_02701	ROG5797	
+MMKBIGNE_02702	ROG4033	
+MMKBIGNE_02703	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+MMKBIGNE_02704	COG0172	[J] Seryl-tRNA synthetase    
+MMKBIGNE_02705	ROG5933	
+MMKBIGNE_02707	COG4068	[S] Uncharacterized protein containing a Zn-ribbon 
+MMKBIGNE_02709	ROG7417	
+MMKBIGNE_02710	ROG1442	
+MMKBIGNE_02711	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_02712	COG3682	[K] Predicted transcriptional regulator   
+MMKBIGNE_02713	COG4219	[KT] Antirepressor regulating drug resistance, predicted signal
+MMKBIGNE_02714	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_02716	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02717	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_02718	ROG3365	
+MMKBIGNE_02719	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02720	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_02721	COG4200	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02722	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_02723	ROG2410	
+MMKBIGNE_02724	COG4200	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02725	ROG6704	
+MMKBIGNE_02728	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_02730	COG1881	[R] Phospholipid-binding protein    
+MMKBIGNE_02731	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_02732	ROG7825	
+MMKBIGNE_02733	ROG0367	
+MMKBIGNE_02734	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+MMKBIGNE_02735	COG0006	[E] Xaa-Pro aminopeptidase    
+MMKBIGNE_02736	COG2179	[R] Predicted hydrolase of the HAD superfamily
+MMKBIGNE_02737	COG0828	[J] Ribosomal protein S21   
+MMKBIGNE_02738	COG3619	[S] Predicted membrane protein   
+MMKBIGNE_02739	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_02741	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02742	COG2972	[T] Predicted signal transduction protein with a
+MMKBIGNE_02743	COG0590	[FJ] Cytosine/adenosine deaminases    
+MMKBIGNE_02744	COG1266	[R] Predicted metal-dependent membrane protease  
+MMKBIGNE_02745	COG0326	[O] Molecular chaperone, HSP90 family  
+MMKBIGNE_02748	COG1361	[M] S-layer domain    
+MMKBIGNE_02749	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_02750	ROG0586	
+MMKBIGNE_02751	ROG4504	
+MMKBIGNE_02752	ROG2541	
+MMKBIGNE_02753	ROG0237	
+MMKBIGNE_02754	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+MMKBIGNE_02756	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+MMKBIGNE_02757	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_02758	COG3655	[K] Predicted transcriptional regulator   
+MMKBIGNE_02759	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_02761	COG1598	[S] Uncharacterized conserved protein   
+MMKBIGNE_02762	COG0488	[R] ATPase components of ABC transporters with
+MMKBIGNE_02763	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_02765	COG2510	[S] Predicted membrane protein   
+MMKBIGNE_02766	ROG0531	
+MMKBIGNE_02767	COG0671	[I] Membrane-associated phospholipid phosphatase   
+MMKBIGNE_02768	COG0474	[P] Cation transport ATPase   
+MMKBIGNE_02769	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+MMKBIGNE_02770	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_02771	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+MMKBIGNE_02772	ROG0005	
+MMKBIGNE_02773	COG4231	[C] Indolepyruvate ferredoxin oxidoreductase, alpha and beta
+MMKBIGNE_02774	COG1014	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+MMKBIGNE_02775	COG1541	[H] Coenzyme F390 synthetase   
+MMKBIGNE_02776	COG4747	[R] ACT domain-containing protein   
+MMKBIGNE_02778	ROG2962	
+MMKBIGNE_02779	ROG0869	
+MMKBIGNE_02780	COG1696	[M] Predicted membrane protein involved in D-alanine
+MMKBIGNE_02781	ROG1389	
+MMKBIGNE_02782	COG3221	[P] ABC-type phosphate/phosphonate transport system, periplasmic component
+MMKBIGNE_02783	ROG7558	
+MMKBIGNE_02784	COG0084	[L] Mg-dependent DNase    
+MMKBIGNE_02785	COG0143	[J] Methionyl-tRNA synthetase    
+MMKBIGNE_02786	COG4779	[P] ABC-type enterobactin transport system, permease component
+MMKBIGNE_02787	ROG8376	
+MMKBIGNE_02788	COG2314	[S] Predicted membrane protein   
+MMKBIGNE_02789	COG2314	[S] Predicted membrane protein   
+MMKBIGNE_02790	ROG3196	
+MMKBIGNE_02798	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+MMKBIGNE_02799	ROG2952	
+MMKBIGNE_02801	COG3794	[C] Plastocyanin     
+MMKBIGNE_02803	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+MMKBIGNE_02804	COG0166	[G] Glucose-6-phosphate isomerase    
+MMKBIGNE_02805	ROG3533	
+MMKBIGNE_02806	COG1399	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+MMKBIGNE_02807	COG0333	[J] Ribosomal protein L32   
+MMKBIGNE_02809	COG1625	[C] Fe-S oxidoreductase, related to NifB/MoaA family
+MMKBIGNE_02810	COG1160	[R] Predicted GTPases    
+MMKBIGNE_02811	COG0344	[S] Predicted membrane protein   
+MMKBIGNE_02812	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_02813	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+MMKBIGNE_02814	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+MMKBIGNE_02815	COG1576	[S] Uncharacterized conserved protein   
+MMKBIGNE_02816	COG1397	[O] ADP-ribosylglycohydrolase     
+MMKBIGNE_02819	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+MMKBIGNE_02820	COG5581	[M] Predicted glycosyltransferase    
+MMKBIGNE_02821	ROG0233	
+MMKBIGNE_02822	COG0789	[K] Predicted transcriptional regulators   
+MMKBIGNE_02823	COG2116	[P] Formate/nitrite family of transporters  
+MMKBIGNE_02824	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+MMKBIGNE_02825	COG1164	[E] Oligoendopeptidase F    
+MMKBIGNE_02826	ROG8375	
+MMKBIGNE_02827	COG0696	[G] Phosphoglyceromutase     
+MMKBIGNE_02829	COG0149	[G] Triosephosphate isomerase    
+MMKBIGNE_02830	COG0126	[G] 3-phosphoglycerate kinase    
+MMKBIGNE_02831	COG3981	[R] Predicted acetyltransferase    
+MMKBIGNE_02832	COG0645	[R] Predicted kinase    
+MMKBIGNE_02833	COG1196	[D] Chromosome segregation ATPases   
+MMKBIGNE_02834	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_02836	ROG3733	
+MMKBIGNE_02837	COG0219	[J] Predicted rRNA methylase (SpoU class) 
+MMKBIGNE_02838	COG1740	[C] Ni,Fe-hydrogenase I small subunit  
+MMKBIGNE_02839	COG2849	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02841	COG0668	[M] Small-conductance mechanosensitive channel   
+MMKBIGNE_02843	COG0227	[J] Ribosomal protein L28   
+MMKBIGNE_02844	COG1994	[R] Zn-dependent proteases    
+MMKBIGNE_02845	COG1354	[S] Uncharacterized conserved protein   
+MMKBIGNE_02846	COG1386	[K] Predicted transcriptional regulator containing the HTH
+MMKBIGNE_02847	ROG1000	
+MMKBIGNE_02848	COG3874	[S] Uncharacterized conserved protein   
+MMKBIGNE_02849	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+MMKBIGNE_02850	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+MMKBIGNE_02851	COG1555	[L] DNA uptake protein and related DNA-binding
+MMKBIGNE_02852	COG0370	[P] Fe2+ transport system protein B 
+MMKBIGNE_02853	COG1918	[P] Fe2+ transport system protein A 
+MMKBIGNE_02854	COG0569	[P] K+ transport systems, NAD-binding component 
+MMKBIGNE_02855	COG0168	[P] Trk-type K+ transport systems, membrane components
+MMKBIGNE_02856	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_02857	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+MMKBIGNE_02858	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_02859	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02860	COG0442	[J] Prolyl-tRNA synthetase    
+MMKBIGNE_02861	COG0236	[IQ] Acyl carrier protein   
+MMKBIGNE_02862	COG0169	[E] Shikimate 5-dehydrogenase    
+MMKBIGNE_02863	COG0703	[E] Shikimate kinase    
+MMKBIGNE_02864	COG2876	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+MMKBIGNE_02865	COG0287	[E] Prephenate dehydrogenase    
+MMKBIGNE_02866	COG0337	[E] 3-dehydroquinate synthetase    
+MMKBIGNE_02867	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_02868	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_02869	ROG2410	
+MMKBIGNE_02871	ROG3932	
+MMKBIGNE_02872	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_02873	ROG0531	
+MMKBIGNE_02874	COG2607	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_02875	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+MMKBIGNE_02877	ROG6487	
+MMKBIGNE_02878	COG0059	[EH] Ketol-acid reductoisomerase    
+MMKBIGNE_02879	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_02880	COG0440	[E] Acetolactate synthase, small (regulatory) subunit 
+MMKBIGNE_02881	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+MMKBIGNE_02882	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02883	COG1171	[E] Threonine dehydratase    
+MMKBIGNE_02885	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+MMKBIGNE_02886	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+MMKBIGNE_02887	COG1722	[L] Exonuclease VII small subunit  
+MMKBIGNE_02888	COG1570	[L] Exonuclease VII, large subunit  
+MMKBIGNE_02889	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+MMKBIGNE_02890	COG0781	[K] Transcription termination factor   
+MMKBIGNE_02892	COG1521	[K] Putative transcriptional regulator, homolog of Bvg
+MMKBIGNE_02893	COG4684	[S] Predicted membrane protein   
+MMKBIGNE_02894	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+MMKBIGNE_02896	COG0112	[E] Glycine/serine hydroxymethyltransferase    
+MMKBIGNE_02897	COG1773	[C] Rubredoxin     
+MMKBIGNE_02898	COG1179	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+MMKBIGNE_02899	COG1959	[K] Predicted transcriptional regulator   
+MMKBIGNE_02900	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_02901	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_02902	COG2344	[R] AT-rich DNA-binding protein   
+MMKBIGNE_02903	COG1454	[C] Alcohol dehydrogenase, class IV  
+MMKBIGNE_02904	ROG1388	
+MMKBIGNE_02905	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+MMKBIGNE_02906	COG4474	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02907	COG0700	[S] Uncharacterized membrane protein   
+MMKBIGNE_02908	COG2715	[R] Uncharacterized membrane protein, required for spore
+MMKBIGNE_02909	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+MMKBIGNE_02910	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_02911	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+MMKBIGNE_02912	COG2407	[G] L-fucose isomerase and related proteins 
+MMKBIGNE_02914	COG3655	[K] Predicted transcriptional regulator   
+MMKBIGNE_02915	COG2407	[G] L-fucose isomerase and related proteins 
+MMKBIGNE_02916	ROG0301	
+MMKBIGNE_02917	COG1737	[K] Transcriptional regulators    
+MMKBIGNE_02918	ROG0651	
+MMKBIGNE_02919	COG1307	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_02920	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_02921	ROG2810	
+MMKBIGNE_02923	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_02924	COG0038	[P] Chloride channel protein EriC  
+MMKBIGNE_02926	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02927	COG2972	[T] Predicted signal transduction protein with a
+MMKBIGNE_02928	COG4753	[T] Response regulator containing CheY-like receiver domain
+MMKBIGNE_02929	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_02930	COG1175	[G] ABC-type sugar transport systems, permease components
+MMKBIGNE_02931	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_02932	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02933	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02934	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_02935	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_02936	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+MMKBIGNE_02937	COG1882	[C] Pyruvate-formate lyase    
+MMKBIGNE_02938	COG1284	[S] Uncharacterized conserved protein   
+MMKBIGNE_02939	COG3481	[R] Predicted HD-superfamily hydrolase   
+MMKBIGNE_02940	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_02942	ROG0572	
+MMKBIGNE_02944	COG4463	[K] Transcriptional repressor of class III stress
+MMKBIGNE_02946	COG3880	[S] Uncharacterized protein with conserved CXXC pairs
+MMKBIGNE_02947	COG3869	[E] Arginine kinase    
+MMKBIGNE_02948	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+MMKBIGNE_02949	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_02950	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+MMKBIGNE_02951	COG0539	[J] Ribosomal protein S1   
+MMKBIGNE_02952	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+MMKBIGNE_02953	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_02954	ROG5317	
+MMKBIGNE_02955	COG0538	[C] Isocitrate dehydrogenases    
+MMKBIGNE_02956	COG1048	[C] Aconitase A    
+MMKBIGNE_02957	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_02958	COG0679	[R] Predicted permeases    
+MMKBIGNE_02959	COG1641	[S] Uncharacterized conserved protein   
+MMKBIGNE_02960	COG0655	[R] Multimeric flavodoxin WrbA   
+MMKBIGNE_02961	COG0840	[NT] Methyl-accepting chemotaxis protein   
+MMKBIGNE_02962	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02963	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02964	COG1757	[C] Na+/H+ antiporter    
+MMKBIGNE_02965	COG4586	[R] ABC-type uncharacterized transport system, ATPase component
+MMKBIGNE_02966	COG4587	[R] ABC-type uncharacterized transport system, permease component
+MMKBIGNE_02967	COG3694	[R] ABC-type uncharacterized transport system, permease component
+MMKBIGNE_02968	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_02969	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+MMKBIGNE_02970	COG1566	[V] Multidrug resistance efflux pump  
+MMKBIGNE_02971	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_02972	ROG0722	
+MMKBIGNE_02973	COG3341	[R] Predicted double-stranded RNA/RNA-DNA hybrid binding protein
+MMKBIGNE_02974	COG1168	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+MMKBIGNE_02975	COG0613	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+MMKBIGNE_02976	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_02977	COG0177	[L] Predicted EndoIII-related endonuclease   
+MMKBIGNE_02978	ROG1688	
+MMKBIGNE_02979	ROG5768	
+MMKBIGNE_02980	COG1286	[R] Uncharacterized membrane protein, required for colicin
+MMKBIGNE_02981	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+MMKBIGNE_02982	COG2703	[P] Hemerythrin     
+MMKBIGNE_02983	ROG3151	
+MMKBIGNE_02984	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_02985	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_02986	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_02987	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_02988	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02989	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_02990	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_02993	COG0434	[R] Predicted TIM-barrel enzyme   
+MMKBIGNE_02994	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_02995	ROG7825	
+MMKBIGNE_02997	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_02998	ROG0077	
+MMKBIGNE_02999	COG1175	[G] ABC-type sugar transport systems, permease components
+MMKBIGNE_03000	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03002	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_03003	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03004	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_03005	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_03006	COG5002	[T] Signal transduction histidine kinase  
+MMKBIGNE_03007	ROG4087	
+MMKBIGNE_03008	ROG7333	
+MMKBIGNE_03009	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_03011	ROG8376	
+MMKBIGNE_03012	COG3706	[T] Response regulator containing a CheY-like receiver
+MMKBIGNE_03015	ROG0937	
+MMKBIGNE_03017	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03018	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03019	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_03022	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_03023	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_03024	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+MMKBIGNE_03025	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+MMKBIGNE_03027	COG0822	[C] NifU homolog involved in Fe-S cluster
+MMKBIGNE_03028	ROG3070	
+MMKBIGNE_03029	COG0640	[K] Predicted transcriptional regulators   
+MMKBIGNE_03030	COG5658	[S] Predicted integral membrane protein  
+MMKBIGNE_03033	COG1484	[L] DNA replication protein   
+MMKBIGNE_03035	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_03036	ROG0909	
+MMKBIGNE_03037	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_03038	ROG6816	
+MMKBIGNE_03039	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+MMKBIGNE_03040	COG3668	[R] Plasmid stabilization system protein  
+MMKBIGNE_03041	COG4093	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03043	ROG4033	
+MMKBIGNE_03048	ROG1911	
+MMKBIGNE_03049	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+MMKBIGNE_03050	COG1609	[K] Transcriptional regulators    
+MMKBIGNE_03051	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03052	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03053	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03054	COG3534	[G] Alpha-L-arabinofuranosidase     
+MMKBIGNE_03055	COG1882	[C] Pyruvate-formate lyase    
+MMKBIGNE_03056	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+MMKBIGNE_03057	ROG7795	
+MMKBIGNE_03058	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+MMKBIGNE_03059	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+MMKBIGNE_03060	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+MMKBIGNE_03061	COG1979	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+MMKBIGNE_03062	COG0622	[R] Predicted phosphoesterase    
+MMKBIGNE_03063	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_03064	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03065	ROG3551	
+MMKBIGNE_03067	COG2002	[K] Regulators of stationary/sporulation gene expression 
+MMKBIGNE_03068	ROG6148	
+MMKBIGNE_03069	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+MMKBIGNE_03070	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+MMKBIGNE_03074	ROG3902	
+MMKBIGNE_03077	ROG5354	
+MMKBIGNE_03079	ROG7543	
+MMKBIGNE_03080	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03081	ROG5354	
+MMKBIGNE_03082	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_03083	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03084	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03086	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_03087	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_03090	COG3757	[M] Lyzozyme M1 (1,4-beta-N-acetylmuramidase)   
+MMKBIGNE_03093	ROG5386	
+MMKBIGNE_03096	COG0629	[L] Single-stranded DNA-binding protein   
+MMKBIGNE_03099	COG0589	[T] Universal stress protein UspA and related
+MMKBIGNE_03101	ROG7417	
+MMKBIGNE_03102	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_03103	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_03104	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_03105	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_03106	ROG3052	
+MMKBIGNE_03107	ROG0863	
+MMKBIGNE_03108	ROG6195	
+MMKBIGNE_03109	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_03110	ROG8265	
+MMKBIGNE_03111	ROG0937	
+MMKBIGNE_03112	ROG8004	
+MMKBIGNE_03113	COG3027	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03116	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_03117	COG1192	[D] ATPases involved in chromosome partitioning 
+MMKBIGNE_03118	ROG2164	
+MMKBIGNE_03120	COG3077	[L] DNA-damage-inducible protein J   
+MMKBIGNE_03121	COG1569	[R] Predicted nucleic acid-binding protein, contains PIN
+MMKBIGNE_03124	COG5377	[L] Phage-related protein, predicted endonuclease  
+MMKBIGNE_03125	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+MMKBIGNE_03128	ROG6899	
+MMKBIGNE_03129	ROG6880	
+MMKBIGNE_03130	ROG1451	
+MMKBIGNE_03131	ROG4473	
+MMKBIGNE_03133	ROG6704	
+MMKBIGNE_03136	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03137	ROG0084	
+MMKBIGNE_03138	COG4118	[D] Antitoxin of toxin-antitoxin stability system 
+MMKBIGNE_03139	COG3744	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03140	ROG6816	
+MMKBIGNE_03141	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+MMKBIGNE_03142	COG3668	[R] Plasmid stabilization system protein  
+MMKBIGNE_03143	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03145	ROG0476	
+MMKBIGNE_03147	COG2944	[K] Predicted transcriptional regulator   
+MMKBIGNE_03149	ROG6816	
+MMKBIGNE_03150	COG3300	[T] MHYT domain (predicted integral membrane sensor
+MMKBIGNE_03151	COG4854	[S] Predicted membrane protein   
+MMKBIGNE_03152	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+MMKBIGNE_03153	ROG4033	
+MMKBIGNE_03157	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_03158	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+MMKBIGNE_03159	COG0539	[J] Ribosomal protein S1   
+MMKBIGNE_03160	COG0551	[L] Zn-finger domain associated with topoisomerase type
+MMKBIGNE_03161	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_03162	COG0681	[U] Signal peptidase I   
+MMKBIGNE_03163	COG3682	[K] Predicted transcriptional regulator   
+MMKBIGNE_03164	COG4219	[KT] Antirepressor regulating drug resistance, predicted signal
+MMKBIGNE_03165	ROG1163	
+MMKBIGNE_03167	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03168	COG1175	[G] ABC-type sugar transport systems, permease components
+MMKBIGNE_03169	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03171	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+MMKBIGNE_03172	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_03174	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03176	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03177	ROG5618	
+MMKBIGNE_03178	COG0338	[L] Site-specific DNA methylase   
+MMKBIGNE_03179	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_03180	COG1110	[L] Reverse gyrase    
+MMKBIGNE_03181	ROG0937	
+MMKBIGNE_03182	ROG1707	
+MMKBIGNE_03183	COG5399	[S] Uncharacterized protein conserved in archaea 
+MMKBIGNE_03184	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03186	COG1175	[G] ABC-type sugar transport systems, permease components
+MMKBIGNE_03187	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03190	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_03191	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03192	ROG6117	
+MMKBIGNE_03193	COG3668	[R] Plasmid stabilization system protein  
+MMKBIGNE_03196	ROG2403	
+MMKBIGNE_03197	COG1996	[K] DNA-directed RNA polymerase, subunit RPC10 (contains
+MMKBIGNE_03198	COG3077	[L] DNA-damage-inducible protein J   
+MMKBIGNE_03199	COG3041	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03201	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+MMKBIGNE_03206	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+MMKBIGNE_03207	ROG3902	
+MMKBIGNE_03210	ROG5354	
+MMKBIGNE_03213	ROG4721	
+MMKBIGNE_03215	COG0464	[O] ATPases of the AAA+ class 
+MMKBIGNE_03217	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_03218	ROG4536	
+MMKBIGNE_03219	ROG5849	
+MMKBIGNE_03220	ROG2164	
+MMKBIGNE_03221	COG4636	[S] Uncharacterized protein conserved in cyanobacteria 
+MMKBIGNE_03222	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_03224	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+MMKBIGNE_03227	ROG6899	
+MMKBIGNE_03228	ROG4473	
+MMKBIGNE_03230	ROG6514	
+MMKBIGNE_03232	COG2445	[S] Uncharacterized conserved protein   
+MMKBIGNE_03233	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03234	ROG6247	
+MMKBIGNE_03235	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+MMKBIGNE_03236	COG0460	[E] Homoserine dehydrogenase    
+MMKBIGNE_03237	COG0083	[E] Homoserine kinase    
+MMKBIGNE_03238	COG0527	[E] Aspartokinases     
+MMKBIGNE_03240	COG3682	[K] Predicted transcriptional regulator   
+MMKBIGNE_03241	COG1489	[R] DNA-binding protein, stimulates sugar fermentation 
+MMKBIGNE_03242	COG0606	[O] Predicted ATPase with chaperone activity 
+MMKBIGNE_03244	COG0156	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+MMKBIGNE_03245	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+MMKBIGNE_03246	COG2309	[E] Leucyl aminopeptidase (aminopeptidase T)  
+MMKBIGNE_03247	COG2240	[H] Pyridoxal/pyridoxine/pyridoxamine kinase    
+MMKBIGNE_03248	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+MMKBIGNE_03249	COG1315	[L] Predicted polymerase, most proteins contain PALM
+MMKBIGNE_03250	COG0823	[U] Periplasmic component of the Tol biopolymer
+MMKBIGNE_03251	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+MMKBIGNE_03252	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_03253	COG1472	[G] Beta-glucosidase-related glycosidases    
+MMKBIGNE_03255	COG0345	[E] Pyrroline-5-carboxylate reductase    
+MMKBIGNE_03256	COG0014	[E] Gamma-glutamyl phosphate reductase   
+MMKBIGNE_03257	COG0263	[E] Glutamate 5-kinase    
+MMKBIGNE_03259	COG1160	[R] Predicted GTPases    
+MMKBIGNE_03261	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_03262	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_03263	COG1060	[HR] Thiamine biosynthesis enzyme ThiH and related
+MMKBIGNE_03264	ROG0142	
+MMKBIGNE_03265	COG0621	[J] 2-methylthioadenine synthetase    
+MMKBIGNE_03268	ROG7983	
+MMKBIGNE_03269	COG0249	[L] Mismatch repair ATPase (MutS family) 
+MMKBIGNE_03270	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_03272	COG0323	[L] DNA mismatch repair enzyme (predicted ATPase)
+MMKBIGNE_03273	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+MMKBIGNE_03274	ROG2269	
+MMKBIGNE_03275	COG0325	[R] Predicted enzyme with a TIM-barrel fold
+MMKBIGNE_03276	COG1799	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03277	COG2302	[S] Uncharacterized conserved protein, contains S4-like domain
+MMKBIGNE_03278	COG3599	[D] Cell division initiation protein  
+MMKBIGNE_03279	COG0597	[MU] Lipoprotein signal peptidase   
+MMKBIGNE_03280	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+MMKBIGNE_03282	COG1561	[S] Uncharacterized stress-induced protein   
+MMKBIGNE_03283	COG2052	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03284	COG0194	[F] Guanylate kinase    
+MMKBIGNE_03285	COG1758	[K] DNA-directed RNA polymerase, subunit K/omega 
+MMKBIGNE_03286	COG1198	[L] Primosomal protein N' (replication factor Y)
+MMKBIGNE_03287	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+MMKBIGNE_03288	COG0223	[J] Methionyl-tRNA formyltransferase    
+MMKBIGNE_03289	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+MMKBIGNE_03290	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+MMKBIGNE_03291	COG0631	[T] Serine/threonine protein phosphatase   
+MMKBIGNE_03292	COG0515	[RTKL] Serine/threonine protein kinase   
+MMKBIGNE_03293	COG1162	[R] Predicted GTPases    
+MMKBIGNE_03294	COG1564	[H] Thiamine pyrophosphokinase    
+MMKBIGNE_03297	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+MMKBIGNE_03298	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_03299	ROG0437	
+MMKBIGNE_03300	COG1146	[C] Ferredoxin     
+MMKBIGNE_03301	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+MMKBIGNE_03302	COG1013	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+MMKBIGNE_03303	COG1014	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+MMKBIGNE_03304	COG0148	[G] Enolase     
+MMKBIGNE_03305	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_03306	COG1680	[V] Beta-lactamase class C and other penicillin
+MMKBIGNE_03307	COG1592	[C] Rubrerythrin     
+MMKBIGNE_03308	ROG2729	
+MMKBIGNE_03309	COG0628	[R] Predicted permease    
+MMKBIGNE_03311	COG4277	[R] Predicted DNA-binding protein with the Helix-hairpin-helix
+MMKBIGNE_03312	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+MMKBIGNE_03313	COG3839	[G] ABC-type sugar transport systems, ATPase components
+MMKBIGNE_03315	COG2091	[H] Phosphopantetheinyl transferase    
+MMKBIGNE_03316	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03317	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+MMKBIGNE_03318	ROG3861	
+MMKBIGNE_03320	COG0582	[L] Integrase     
+MMKBIGNE_03321	ROG0937	
+MMKBIGNE_03323	ROG8421	
+MMKBIGNE_03324	COG1484	[L] DNA replication protein   
+MMKBIGNE_03326	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_03327	ROG0483	
+MMKBIGNE_03328	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_03329	ROG5407	
+MMKBIGNE_03330	COG3547	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03331	ROG2967	
+MMKBIGNE_03333	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03334	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03335	COG1124	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+MMKBIGNE_03338	ROG6842	
+MMKBIGNE_03339	ROG5267	
+MMKBIGNE_03340	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03341	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03342	ROG6988	
+MMKBIGNE_03344	ROG6988	
+MMKBIGNE_03345	ROG0531	
+MMKBIGNE_03346	ROG0531	
+MMKBIGNE_03347	COG4226	[S] Uncharacterized protein encoded in hypervariable junctions
+MMKBIGNE_03348	COG3451	[U] Type IV secretory pathway, VirB4 components
+MMKBIGNE_03349	ROG6704	
+MMKBIGNE_03351	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_03352	COG1266	[R] Predicted metal-dependent membrane protease  
+MMKBIGNE_03353	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03354	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03355	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_03357	COG4646	[KL] DNA methylase    
+MMKBIGNE_03359	COG4926	[S] Phage-related protein    
+MMKBIGNE_03360	COG4722	[S] Phage-related protein    
+MMKBIGNE_03363	COG5412	[S] Phage-related protein    
+MMKBIGNE_03364	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+MMKBIGNE_03365	ROG5079	
+MMKBIGNE_03366	ROG1947	
+MMKBIGNE_03367	COG3682	[K] Predicted transcriptional regulator   
+MMKBIGNE_03368	COG4219	[KT] Antirepressor regulating drug resistance, predicted signal
+MMKBIGNE_03369	COG1457	[F] Purine-cytosine permease and related proteins 
+MMKBIGNE_03370	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_03371	COG0289	[E] Dihydrodipicolinate reductase    
+MMKBIGNE_03375	ROG1838	
+MMKBIGNE_03376	COG1404	[O] Subtilisin-like serine proteases   
+MMKBIGNE_03377	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+MMKBIGNE_03379	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_03387	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_03388	ROG0849	
+MMKBIGNE_03389	ROG0603	
+MMKBIGNE_03390	ROG4934	
+MMKBIGNE_03392	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+MMKBIGNE_03394	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03395	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_03396	ROG2519	
+MMKBIGNE_03398	COG1309	[K] Transcriptional regulator    
+MMKBIGNE_03399	ROG6704	
+MMKBIGNE_03400	ROG1061	
+MMKBIGNE_03401	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_03402	COG4591	[M] ABC-type transport system, involved in lipoprotein
+MMKBIGNE_03403	COG3976	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03404	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_03405	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03406	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03408	COG3505	[U] Type IV secretory pathway, VirD4 components
+MMKBIGNE_03410	ROG8234	
+MMKBIGNE_03411	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_03412	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+MMKBIGNE_03414	COG4767	[V] Glycopeptide antibiotics resistance protein  
+MMKBIGNE_03416	COG1506	[E] Dipeptidyl aminopeptidases/acylaminoacyl-peptidases    
+MMKBIGNE_03417	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_03418	ROG5479	
+MMKBIGNE_03419	ROG5479	
+MMKBIGNE_03420	COG0529	[P] Adenylylsulfate kinase and related kinases 
+MMKBIGNE_03421	COG1211	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+MMKBIGNE_03422	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+MMKBIGNE_03423	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+MMKBIGNE_03424	COG1209	[M] dTDP-glucose pyrophosphorylase    
+MMKBIGNE_03425	ROG0071	
+MMKBIGNE_03427	COG1088	[M] dTDP-D-glucose 4,6-dehydratase    
+MMKBIGNE_03428	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+MMKBIGNE_03429	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+MMKBIGNE_03430	COG0535	[R] Predicted Fe-S oxidoreductases   
+MMKBIGNE_03431	ROG0280	
+MMKBIGNE_03432	COG3958	[G] Transketolase, C-terminal subunit   
+MMKBIGNE_03433	COG3959	[G] Transketolase, N-terminal subunit   
+MMKBIGNE_03434	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+MMKBIGNE_03435	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+MMKBIGNE_03436	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+MMKBIGNE_03437	COG2605	[R] Predicted kinase related to galactokinase and
+MMKBIGNE_03438	COG0279	[G] Phosphoheptose isomerase    
+MMKBIGNE_03439	COG0241	[E] Histidinol phosphatase and related phosphatases 
+MMKBIGNE_03440	COG3763	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03442	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_03443	COG0296	[G] 1,4-alpha-glucan branching enzyme   
+MMKBIGNE_03444	COG0448	[G] ADP-glucose pyrophosphorylase    
+MMKBIGNE_03445	COG0448	[G] ADP-glucose pyrophosphorylase    
+MMKBIGNE_03446	COG0297	[G] Glycogen synthase    
+MMKBIGNE_03447	COG2348	[V] Uncharacterized protein involved in methicillin resistance
+MMKBIGNE_03448	COG0641	[R] Arylsulfatase regulator (Fe-S oxidoreductase)  
+MMKBIGNE_03449	COG3119	[P] Arylsulfatase A and related enzymes 
+MMKBIGNE_03450	COG1725	[K] Predicted transcriptional regulators   
+MMKBIGNE_03451	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_03452	ROG3682	
+MMKBIGNE_03453	COG4108	[J] Peptide chain release factor RF-3 
+MMKBIGNE_03456	COG3854	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03457	ROG0106	
+MMKBIGNE_03458	ROG0171	
+MMKBIGNE_03459	ROG0096	
+MMKBIGNE_03460	ROG0085	
+MMKBIGNE_03461	ROG6080	
+MMKBIGNE_03462	ROG0088	
+MMKBIGNE_03463	ROG0155	
+MMKBIGNE_03465	COG1968	[V] Uncharacterized bacitracin resistance protein  
+MMKBIGNE_03466	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+MMKBIGNE_03467	ROG3252	
+MMKBIGNE_03468	COG3335	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03469	COG3415	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03470	COG0583	[K] Transcriptional regulator    
+MMKBIGNE_03471	COG1979	[C] Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family
+MMKBIGNE_03472	COG4753	[T] Response regulator containing CheY-like receiver domain
+MMKBIGNE_03473	COG2972	[T] Predicted signal transduction protein with a
+MMKBIGNE_03474	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03475	ROG4412	
+MMKBIGNE_03476	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+MMKBIGNE_03477	ROG2997	
+MMKBIGNE_03479	ROG3723	
+MMKBIGNE_03481	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+MMKBIGNE_03482	COG1541	[H] Coenzyme F390 synthetase   
+MMKBIGNE_03483	COG4927	[R] Predicted choloylglycine hydrolase   
+MMKBIGNE_03484	ROG6988	
+MMKBIGNE_03485	COG0785	[O] Cytochrome c biogenesis protein  
+MMKBIGNE_03486	ROG2139	
+MMKBIGNE_03487	ROG4986	
+MMKBIGNE_03488	COG0583	[K] Transcriptional regulator    
+MMKBIGNE_03489	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+MMKBIGNE_03490	COG0655	[R] Multimeric flavodoxin WrbA   
+MMKBIGNE_03491	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_03492	COG1453	[R] Predicted oxidoreductases of the aldo/keto reductase
+MMKBIGNE_03493	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03494	COG2211	[G] Na+/melibiose symporter and related transporters 
+MMKBIGNE_03495	ROG2379	
+MMKBIGNE_03496	COG2159	[R] Predicted metal-dependent hydrolase of the TIM-barrel
+MMKBIGNE_03498	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_03499	ROG2544	
+MMKBIGNE_03500	ROG5764	
+MMKBIGNE_03501	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03502	COG3436	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03505	COG1733	[K] Predicted transcriptional regulators   
+MMKBIGNE_03506	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_03507	COG2112	[T] Predicted Ser/Thr protein kinase  
+MMKBIGNE_03508	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_03509	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_03511	COG4591	[M] ABC-type transport system, involved in lipoprotein
+MMKBIGNE_03512	COG4181	[Q] Predicted ABC-type transport system involved in
+MMKBIGNE_03513	ROG1118	
+MMKBIGNE_03514	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_03515	ROG5396	
+MMKBIGNE_03516	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03517	ROG2359	
+MMKBIGNE_03518	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03519	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03520	COG3293	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03522	ROG3079	
+MMKBIGNE_03523	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03524	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03525	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03526	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+MMKBIGNE_03527	COG2972	[T] Predicted signal transduction protein with a
+MMKBIGNE_03528	COG4753	[T] Response regulator containing CheY-like receiver domain
+MMKBIGNE_03529	COG1475	[K] Predicted transcriptional regulators   
+MMKBIGNE_03530	COG3666	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03531	ROG0937	
+MMKBIGNE_03533	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+MMKBIGNE_03534	ROG6819	
+MMKBIGNE_03536	ROG6704	
+MMKBIGNE_03537	ROG6988	
+MMKBIGNE_03539	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_03541	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+MMKBIGNE_03543	COG0270	[L] Site-specific DNA methylase   
+MMKBIGNE_03544	ROG4033	
+MMKBIGNE_03546	COG3385	[L] FOG: Transposase and inactivated derivatives 
+MMKBIGNE_03547	ROG6988	
+MMKBIGNE_03548	ROG0682	
+MMKBIGNE_03549	ROG0849	
+MMKBIGNE_03551	ROG0937	
+MMKBIGNE_03553	COG0340	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+MMKBIGNE_03554	COG1268	[R] Uncharacterized conserved protein   
+MMKBIGNE_03555	COG3543	[S] Uncharacterized conserved protein   
+MMKBIGNE_03559	COG3594	[G] Fucose 4-O-acetylase and related acetyltransferases 
+MMKBIGNE_03560	COG1696	[M] Predicted membrane protein involved in D-alanine
+MMKBIGNE_03562	COG1020	[Q] Non-ribosomal peptide synthetase modules and related
+MMKBIGNE_03563	ROG6101	
+MMKBIGNE_03564	COG3829	[KT] Transcriptional regulator containing PAS, AAA-type ATPase,
+MMKBIGNE_03565	COG2084	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+MMKBIGNE_03566	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+MMKBIGNE_03567	COG2379	[G] Putative glycerate kinase   
+MMKBIGNE_03568	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+MMKBIGNE_03569	COG1882	[C] Pyruvate-formate lyase    
+MMKBIGNE_03570	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+MMKBIGNE_03571	COG4753	[T] Response regulator containing CheY-like receiver domain
+MMKBIGNE_03572	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03573	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03574	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03575	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_03578	COG2182	[G] Maltose-binding periplasmic proteins/domains   
+MMKBIGNE_03579	COG0502	[H] Biotin synthase and related enzymes 
+MMKBIGNE_03580	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03581	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03582	COG1387	[ER] Histidinol phosphatase and related hydrolases of
+MMKBIGNE_03583	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_03584	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03585	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03586	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03587	ROG4126	
+MMKBIGNE_03588	ROG4126	
+MMKBIGNE_03589	ROG4126	
+MMKBIGNE_03590	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_03591	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+MMKBIGNE_03592	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+MMKBIGNE_03593	COG1237	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+MMKBIGNE_03594	COG1918	[P] Fe2+ transport system protein A 
+MMKBIGNE_03595	COG1918	[P] Fe2+ transport system protein A 
+MMKBIGNE_03596	COG0370	[P] Fe2+ transport system protein B 
+MMKBIGNE_03597	COG4214	[G] ABC-type xylose transport system, permease component
+MMKBIGNE_03598	COG2815	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03599	COG1077	[D] Actin-like ATPase involved in cell morphogenesis
+MMKBIGNE_03600	COG0392	[S] Predicted integral membrane protein  
+MMKBIGNE_03601	COG0406	[G] Fructose-2,6-bisphosphatase     
+MMKBIGNE_03602	COG1573	[L] Uracil-DNA glycosylase    
+MMKBIGNE_03603	COG4869	[Q] Propanediol utilization protein   
+MMKBIGNE_03604	COG0480	[J] Translation elongation factors (GTPases)  
+MMKBIGNE_03605	COG5337	[M] Spore coat assembly protein  
+MMKBIGNE_03606	ROG0533	
+MMKBIGNE_03607	ROG0694	
+MMKBIGNE_03608	COG5002	[T] Signal transduction histidine kinase  
+MMKBIGNE_03609	COG0745	[TK] Response regulators consisting of a CheY-like
+MMKBIGNE_03610	COG0343	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+MMKBIGNE_03611	COG1862	[U] Preprotein translocase subunit YajC  
+MMKBIGNE_03612	ROG1493	
+MMKBIGNE_03613	ROG0077	
+MMKBIGNE_03614	ROG2139	
+MMKBIGNE_03615	COG5522	[S] Predicted integral membrane protein  
+MMKBIGNE_03616	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_03617	COG1757	[C] Na+/H+ antiporter    
+MMKBIGNE_03618	COG4988	[CO] ABC-type transport system involved in cytochrome
+MMKBIGNE_03619	COG1585	[OU] Membrane protein implicated in regulation of
+MMKBIGNE_03620	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+MMKBIGNE_03621	COG3804	[S] Uncharacterized conserved protein related to dihydrodipicolinate
+MMKBIGNE_03623	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_03624	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_03627	ROG5813	
+MMKBIGNE_03628	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+MMKBIGNE_03629	COG0274	[F] Deoxyribose-phosphate aldolase    
+MMKBIGNE_03631	COG0673	[R] Predicted dehydrogenases and related proteins 
+MMKBIGNE_03633	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_03635	COG0205	[G] 6-phosphofructokinase     
+MMKBIGNE_03636	COG0855	[P] Polyphosphate kinase    
+MMKBIGNE_03637	COG0248	[FP] Exopolyphosphatase     
+MMKBIGNE_03638	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_03640	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_03641	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_03642	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_03643	COG0017	[J] Aspartyl/asparaginyl-tRNA synthetases    
+MMKBIGNE_03644	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+MMKBIGNE_03645	ROG6988	
+MMKBIGNE_03646	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03647	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+MMKBIGNE_03648	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_03649	COG1253	[R] Hemolysins and related proteins containing CBS
+MMKBIGNE_03650	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03651	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03652	COG1131	[V] ABC-type multidrug transport system, ATPase component
+MMKBIGNE_03654	COG2262	[R] GTPases     
+MMKBIGNE_03656	COG0137	[E] Argininosuccinate synthase    
+MMKBIGNE_03657	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_03658	COG0165	[E] Argininosuccinate lyase    
+MMKBIGNE_03659	COG0002	[E] Acetylglutamate semialdehyde dehydrogenase   
+MMKBIGNE_03660	COG1364	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+MMKBIGNE_03661	COG1807	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+MMKBIGNE_03662	COG0548	[E] Acetylglutamate kinase    
+MMKBIGNE_03663	COG4992	[E] Ornithine/acetylornithine aminotransferase    
+MMKBIGNE_03664	COG0078	[E] Ornithine carbamoyltransferase    
+MMKBIGNE_03665	ROG4566	
+MMKBIGNE_03666	ROG3370	
+MMKBIGNE_03667	COG1488	[H] Nicotinic acid phosphoribosyltransferase   
+MMKBIGNE_03668	COG0514	[L] Superfamily II DNA helicase  
+MMKBIGNE_03669	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03671	COG1940	[KG] Transcriptional regulator/sugar kinase   
+MMKBIGNE_03672	COG2017	[G] Galactose mutarotase and related enzymes 
+MMKBIGNE_03673	COG1051	[F] ADP-ribose pyrophosphatase    
+MMKBIGNE_03674	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+MMKBIGNE_03675	COG0524	[G] Sugar kinases, ribokinase family  
+MMKBIGNE_03676	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+MMKBIGNE_03677	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+MMKBIGNE_03678	COG1876	[M] D-alanyl-D-alanine carboxypeptidase    
+MMKBIGNE_03679	COG2071	[R] Predicted glutamine amidotransferases   
+MMKBIGNE_03681	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03684	ROG1694	
+MMKBIGNE_03685	COG0348	[C] Polyferredoxin     
+MMKBIGNE_03686	COG0642	[T] Signal transduction histidine kinase  
+MMKBIGNE_03687	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03688	COG0285	[H] Folylpolyglutamate synthase    
+MMKBIGNE_03689	COG1366	[T] Anti-anti-sigma regulatory factor (antagonist of anti-sigma
+MMKBIGNE_03690	COG2172	[T] Anti-sigma regulatory factor (Ser/Thr protein kinase)
+MMKBIGNE_03691	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_03692	ROG0053	
+MMKBIGNE_03693	COG2384	[R] Predicted SAM-dependent methyltransferase   
+MMKBIGNE_03694	COG0327	[S] Uncharacterized conserved protein   
+MMKBIGNE_03695	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_03696	COG1293	[K] Predicted RNA-binding protein homologous to eukaryotic
+MMKBIGNE_03697	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_03698	COG1882	[C] Pyruvate-formate lyase    
+MMKBIGNE_03699	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+MMKBIGNE_03701	COG5434	[M] Endopolygalacturonase     
+MMKBIGNE_03702	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03703	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03704	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03705	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_03706	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03707	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_03708	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+MMKBIGNE_03709	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+MMKBIGNE_03711	COG4209	[G] ABC-type polysaccharide transport system, permease component
+MMKBIGNE_03712	COG0395	[G] ABC-type sugar transport system, permease component
+MMKBIGNE_03713	ROG0077	
+MMKBIGNE_03715	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_03716	ROG4138	
+MMKBIGNE_03717	COG2264	[J] Ribosomal protein L11 methylase  
+MMKBIGNE_03718	COG2244	[R] Membrane protein involved in the export
+MMKBIGNE_03719	COG1420	[K] Transcriptional regulator of heat shock gene
+MMKBIGNE_03720	COG0576	[O] Molecular chaperone GrpE (heat shock protein)
+MMKBIGNE_03721	COG0443	[O] Molecular chaperone    
+MMKBIGNE_03722	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+MMKBIGNE_03723	COG4106	[R] Trans-aconitate methyltransferase    
+MMKBIGNE_03724	COG0534	[V] Na+-driven multidrug efflux pump  
+MMKBIGNE_03725	COG1894	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+MMKBIGNE_03726	COG4624	[R] Iron only hydrogenase large subunit, C-terminal
+MMKBIGNE_03727	ROG1782	
+MMKBIGNE_03728	COG4624	[R] Iron only hydrogenase large subunit, C-terminal
+MMKBIGNE_03729	ROG2208	
+MMKBIGNE_03731	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_03732	ROG5412	
+MMKBIGNE_03733	COG4974	[L] Site-specific recombinase XerD   
+MMKBIGNE_03734	ROG1537	
+MMKBIGNE_03735	COG1066	[O] Predicted ATP-dependent serine protease  
+MMKBIGNE_03736	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+MMKBIGNE_03737	COG0685	[E] 5,10-methylenetetrahydrofolate reductase    
+MMKBIGNE_03738	ROG0657	
+MMKBIGNE_03739	COG0646	[E] Methionine synthase I (cobalamin-dependent), methyltransferase domain
+MMKBIGNE_03740	COG1082	[G] Sugar phosphate isomerases/epimerases   
+MMKBIGNE_03741	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+MMKBIGNE_03747	COG1281	[O] Disulfide bond chaperones of the HSP33
+MMKBIGNE_03748	COG0500	[QR] SAM-dependent methyltransferases    
+MMKBIGNE_03749	COG4496	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03750	COG0019	[E] Diaminopimelate decarboxylase    
+MMKBIGNE_03751	COG0218	[R] Predicted GTPase    
+MMKBIGNE_03752	COG0466	[O] ATP-dependent Lon protease, bacterial type 
+MMKBIGNE_03753	COG1219	[O] ATP-dependent protease Clp, ATPase subunit 
+MMKBIGNE_03754	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+MMKBIGNE_03755	COG0544	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+MMKBIGNE_03756	COG1768	[R] Predicted phosphohydrolase    
+MMKBIGNE_03757	COG0498	[E] Threonine synthase    
+MMKBIGNE_03758	COG2355	[E] Zn-dependent dipeptidase, microsomal dipeptidase homolog 
+MMKBIGNE_03759	COG0792	[L] Predicted endonuclease distantly related to archaeal
+MMKBIGNE_03760	COG0164	[L] Ribonuclease HII    
+MMKBIGNE_03761	COG1161	[R] Predicted GTPases    
+MMKBIGNE_03762	COG0681	[U] Signal peptidase I   
+MMKBIGNE_03763	COG0335	[J] Ribosomal protein L19   
+MMKBIGNE_03764	COG5011	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03765	COG1032	[C] Fe-S oxidoreductase    
+MMKBIGNE_03766	COG1994	[R] Zn-dependent proteases    
+MMKBIGNE_03768	ROG0086	
+MMKBIGNE_03770	COG1653	[G] ABC-type sugar transport system, periplasmic component
+MMKBIGNE_03772	COG2805	[NU] Tfp pilus assembly protein, pilus retraction
+MMKBIGNE_03774	ROG4211	
+MMKBIGNE_03777	COG1459	[NU] Type II secretory pathway, component PulF
+MMKBIGNE_03778	COG1305	[E] Transglutaminase-like enzymes, putative cysteine proteases 
+MMKBIGNE_03779	COG4509	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03780	ROG6576	
+MMKBIGNE_03785	ROG4342	
+MMKBIGNE_03786	COG3764	[M] Sortase (surface protein transpeptidase)  
+MMKBIGNE_03787	ROG1862	
+MMKBIGNE_03788	COG0681	[U] Signal peptidase I   
+MMKBIGNE_03789	COG1196	[D] Chromosome segregation ATPases   
+MMKBIGNE_03791	COG0681	[U] Signal peptidase I   
+MMKBIGNE_03792	COG1883	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+MMKBIGNE_03794	COG0163	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+MMKBIGNE_03795	ROG0469	
+MMKBIGNE_03796	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_03797	COG1132	[V] ABC-type multidrug transport system, ATPase and
+MMKBIGNE_03798	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+MMKBIGNE_03799	COG0388	[R] Predicted amidohydrolase    
+MMKBIGNE_03800	COG0210	[L] Superfamily I DNA and RNA helicases
+MMKBIGNE_03801	COG1396	[K] Predicted transcriptional regulators   
+MMKBIGNE_03802	COG1476	[K] Predicted transcriptional regulators   
+MMKBIGNE_03803	ROG7728	
+MMKBIGNE_03804	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+MMKBIGNE_03805	ROG0143	
+MMKBIGNE_03806	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+MMKBIGNE_03807	ROG0172	
+MMKBIGNE_03808	ROG0243	
+MMKBIGNE_03809	ROG0098	
+MMKBIGNE_03810	COG2323	[S] Predicted membrane protein   
+MMKBIGNE_03811	ROG4576	
+MMKBIGNE_03812	COG5189	[KD] Putative transcriptional repressor regulating G2/M transition
+MMKBIGNE_03813	ROG0134	
+MMKBIGNE_03814	COG0424	[D] Nucleotide-binding protein implicated in inhibition of
+MMKBIGNE_03815	COG1087	[M] UDP-glucose 4-epimerase    
+MMKBIGNE_03816	COG4905	[S] Predicted membrane protein   
+MMKBIGNE_03817	COG0205	[G] 6-phosphofructokinase     
+MMKBIGNE_03818	COG0587	[L] DNA polymerase III, alpha subunit 
+MMKBIGNE_03819	COG1481	[S] Uncharacterized protein conserved in bacteria 
+MMKBIGNE_03820	COG0645	[R] Predicted kinase    
+MMKBIGNE_03821	COG1660	[R] Predicted P-loop-containing kinase   
+MMKBIGNE_03822	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+MMKBIGNE_03823	COG1493	[T] Serine kinase of the HPr protein,
+MMKBIGNE_03824	ROG3899	
+MMKBIGNE_03826	COG0582	[L] Integrase     
+MMKBIGNE_03830	COG2378	[K] Predicted transcriptional regulator   
+MMKBIGNE_03831	ROG1118	
+MMKBIGNE_03832	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+MMKBIGNE_03833	ROG1076	
+MMKBIGNE_03837	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03838	ROG0229	
+MMKBIGNE_03840	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+MMKBIGNE_03842	ROG4504	
+MMKBIGNE_03844	COG1695	[K] Predicted transcriptional regulators   
+MMKBIGNE_03846	COG0582	[L] Integrase     
+MMKBIGNE_03849	COG4584	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03850	ROG0229	
+MMKBIGNE_03852	COG3279	[KT] Response regulator of the LytR/AlgR family
+MMKBIGNE_03854	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+MMKBIGNE_03855	COG2274	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+MMKBIGNE_03856	ROG1668	
+MMKBIGNE_03857	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+MMKBIGNE_03859	COG0492	[O] Thioredoxin reductase    
+MMKBIGNE_03860	COG1026	[R] Predicted Zn-dependent peptidases, insulinase-like  
+MMKBIGNE_03861	COG1284	[S] Uncharacterized conserved protein   
+MMKBIGNE_03862	COG3681	[S] Uncharacterized conserved protein   
+MMKBIGNE_03863	COG0582	[L] Integrase     
+MMKBIGNE_03865	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_03866	COG2963	[L] Transposase and inactivated derivatives  
+MMKBIGNE_03867	ROG6841	
+MMKBIGNE_03870	ROG6516	
+MMKBIGNE_03871	COG1266	[R] Predicted metal-dependent membrane protease  
+MMKBIGNE_03872	COG3378	[R] Predicted ATPase    
+MMKBIGNE_03873	ROG8149	
+MMKBIGNE_03874	COG2932	[K] Predicted transcriptional regulator   
+MMKBIGNE_00982	ROG0603	
+MMKBIGNE_00591	ROG0603	
+MMKBIGNE_00417	ROG0603	
+MMKBIGNE_01070	ROG0603	
