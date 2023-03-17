@@ -4,9 +4,11 @@ The Oligo-Mouse-Microbiota (OMM12) synthetic bacterial community is a laboratory
 
 Accurate annotation for the OMM12 is important as it provides a framework for understanding the genetic information encoded in a genome. This information can be used to identify genes and their associated functions, as well as to predict the effect of genetic mutations on gene expression and protein function. 
 
-We created this reposiroty to provide proper annotations in order to maintain uniformity among OMM12 researchers. We tried different annotation tools like dbCan2, kofam_scan and eggNOG tools and combined them to give an overview. Genomic and protein sequences are provided for all single organism genome assemblies that are included in NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). This includes submissions to databases of the International Nucleotide Sequence Database Collaboration, which are available in NCBI's GenBank database, as well as the subset of those submissions that are included in NCBI's RefSeq Genomes project. 
+We created this reposiroty to provide proper annotations in order to maintain uniformity among OMM12 researchers. We tried different annotation tools like dbCan2, kofam_scan and eggNOG tools and combined them to give an overview. 
 
-## Genome and Protin sequences of OMM12 communities
+Genomic and protein sequences are provided for all single organism genome assemblies that are included in NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). This includes submissions to databases of the International Nucleotide Sequence Database Collaboration, which are available in NCBI's GenBank database, as well as the subset of those submissions that are included in NCBI's RefSeq Genomes project. 
+
+## Genome and Protein sequences of OMM12 communities
 
 Collection of genomic and proteomic data from Genbank and Refseq database for OMM12 communities can be downloaded from NCBI website as follows:
 
