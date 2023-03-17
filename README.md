@@ -41,7 +41,6 @@ Upload the genomes to the dbCAN2 web page (https://bcb.unl.edu/dbCAN2/blast.php)
 CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combination of CAZyme + Transcription Factors (type-i), CAZyme + Transporter Classification (type-II), CAZyme + Transporter Classification + Transcription Factors (type-iii).
 
 ## Output files:
-``
 * signalp.out: Output of the signalp tool
 * uniInput: Prodigal predictions
 * overview.txt: Contains overview of the results
@@ -52,14 +51,11 @@ CGC finder tool predicts CAZyme gene clusters. The gene clusters can be combinat
 * cgc_tc_tf: This folder contains outputs from CGC finder tool of type-iii
 * cgc_tc: This folder contains outputs from CGC finder tool of type-ii
 * cgc_tf: This folder contains outputs from CGC finder tool of type-i
-
-``
 The output prediction for each OMM12 communities stored under separate folders. 
 
 **2. eggNOGDB**
 
 eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (https://eggnogdb.embl.de/) is a database of non-supervised orthologous groups and functional annotation. It provides a comprehensive annotation of orthologous groups across a wide range of organisms. The main purpose of eggNOG v5 is to provide a functional annotation for genes and proteins based on orthology. It classifies genes and proteins into orthologous groups based on their evolutionary relationships, and Furthermore, eggNOG v5 integrates data from other databases, such as UniProt, Ensembl, and RefSeq, to provide more comprehensive functional annotations for the genes. It also includes pre-calculated multiple sequence alignments for each orthologous group, which can be used for phylogenetic analysis and other comparative genomics studies.
-
 
 ## Output files:
 
@@ -69,10 +65,6 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 * out.emapper.hits: A file with the results from the search phase, from HMMER, Diamond or MMseqs2.
 * out.emapper.orthologs: A file with the list of orthologs found for each query. This file is created only if using the --report_orthologs option.
 * out.emapper.seed_orthologs: A file with the results from parsing the hits. Each row links a query with a seed ortholog. This file has the same format independently of which searcher was used, except that it can be in short format (4 fields), or full.
-* out.emapper.smart.out
-* out.emapper.decorated.gff: 
-
-https://github.com/eggnogdb/eggnog-mapper/wiki/eggNOG-mapper-v2.1.2-to-v2.1.4#user-content-Output_files
 
 ** 3. KOFAMSCAN **
 KOFAMSCAN generates several output files after performing functional annotation of protein-coding genes in a metagenome or metatranscriptome dataset.
@@ -103,7 +95,9 @@ OperonMapper provides several output files that can be used to analyze and visua
 * Predicted COGs:
 * predicted orfs: List of operons with their conforming genes
 
+## Geneius analysis input
 
+This folder contains suitable gff formats derived from different annotation tools such as dbCAN2, KOFAMSCAN, eggNOG and Operon mapper for Geneius visulaization purposes.  
 
 
 
