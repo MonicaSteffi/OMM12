@@ -20,7 +20,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt
 ``
 ## Step-2:
 
-Use the Download_NCBI.R script to download the required NCBI files for the oligoMM latest genome version
+Use the scripts/R_files/Download_NCBI.R script to download the required NCBI files for the oligoMM latest genome version
 # Data Folder
 
 It contains the genome, protein sequences for OligoMM bacterial community as well as the annotations derived from different tools. All the sequences were downloaded from the respective databases using inhouse scripts which are availbale in the script folder.
