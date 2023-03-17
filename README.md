@@ -6,7 +6,7 @@ Accurate annotation for the OMM12 is important as it provides a framework for un
 
 We created this reposiroty to provide proper annotations in order to maintain uniformity among OMM12 researchers. We tried different annotation tools like dbCan2, kofam_scan and eggNOG tools and combined them to give an overview. Genomic and protein sequences are provided for all single organism genome assemblies that are included in NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). This includes submissions to databases of the International Nucleotide Sequence Database Collaboration, which are available in NCBI's GenBank database, as well as the subset of those submissions that are included in NCBI's RefSeq Genomes project. 
 
-## Genome and Poteome Sequences of OMM12 communities
+## Genome and Protin sequences of OMM12 communities
 
 Collection of genomic and proteomic data from Genbank and Refseq database for OMM12 communities can be downloaded from NCBI website as follows:
 
@@ -30,7 +30,7 @@ It contains the genome, protein sequences for OligoMM bacterial community as wel
 
 ### Annotation results
 
-We used different softwares such as OperonMapper, KOFAMSCAN, dbCAN2, and eggNOG to get proper annotations for integrated proteins
+We used different softwares such as dbCAN2, eggNOG, OperonMapper and KOFAMSCAN  and  to get proper annotations for integrated proteins
 
 **1. dbCAN2**
 
