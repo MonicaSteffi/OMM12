@@ -30,7 +30,7 @@ It contains the genome, protein sequences for OligoMM bacterial community as wel
 
 ### Annotation results
 
-We used different softwares such as OperonMapper, KOFAMSCAN, dbCAN2, PULs, RGI and eggNOG to get proper annotations for integrated proteins
+We used different softwares such as OperonMapper, KOFAMSCAN, dbCAN2, and eggNOG to get proper annotations for integrated proteins
 
 **1. dbCAN2**
 
