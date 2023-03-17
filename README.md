@@ -32,8 +32,6 @@ It contains the genome, protein sequences for OligoMM bacterial community as wel
 
 We used different softwares such as OperonMapper, KOFAMSCAN, dbCAN2, PULs, RGI and eggNOG to get proper annotations for integrated proteins
 
-## Sub Folders:
-
 **1. dbCAN2**
 
 dbCAN2 is a database of Carbohydrate-Active Enzymes (CAZymes) that provides a comprehensive set of tools for automated CAZyme annotation in genomic and metagenomic datasets. 
