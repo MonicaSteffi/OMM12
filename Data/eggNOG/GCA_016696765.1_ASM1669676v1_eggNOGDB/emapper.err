@@ -1,0 +1,8 @@
+[1;32mFunctional annotation of hits...[0m
+0 4.76837158203125e-06 0.00 q/s (% mem usage: 23.40, % mem avail: 76.55)
+[1;32mDecorating gff file /emapper_web_jobs/emapper_jobs/user_data/MM_nmhk_oko/emappertmp_prod_bk4gikv_/output.gff...[0m
+500 11.126290559768677 44.94 q/s (% mem usage: 23.80, % mem avail: 76.24)
+1000 23.966116428375244 41.73 q/s (% mem usage: 23.80, % mem avail: 76.23)
+1500 42.86412692070007 34.99 q/s (% mem usage: 23.80, % mem avail: 76.23)
+2000 47.51088047027588 42.10 q/s (% mem usage: 23.80, % mem avail: 76.23)
+2200 52.479487895965576 41.92 q/s (% mem usage: 23.60, % mem avail: 76.40)
