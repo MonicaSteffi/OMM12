@@ -1,0 +1,35 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM1669678v1
+#!genome-build-accession NCBI_Assembly:GCA_016696785.1
+#!annotation-date 11/30/2020 20:27:51
+#!annotation-source NCBI 
+##sequence-region CP065314.1 1 7157610
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1531
+CP065314.1	NovelFamDB	NovelFamDB	1665545	1665778	.	+	.	Name=CP065314.1_1629;KO=;KO_Desc=;novel_fam=NOV002W6
+CP065314.1	NovelFamDB	NovelFamDB	6092115	6092285	.	+	.	Name=CP065314.1_6010;KO=;KO_Desc=;novel_fam=NOV00924
+CP065314.1	NovelFamDB	NovelFamDB	4411363	4411554	.	+	.	Name=CP065314.1_4369;KO=;KO_Desc=;novel_fam=NOV2BEKD
+CP065314.1	NovelFamDB	NovelFamDB	3410634	3411110	.	+	.	Name=CP065314.1_3360;KO=;KO_Desc=;novel_fam=NOV3FQKW
+CP065314.1	NovelFamDB	NovelFamDB	1433432	1433599	.	-	.	Name=CP065314.1_1408;KO=;KO_Desc=;novel_fam=NOV3L5O1
+CP065314.1	NovelFamDB	NovelFamDB	1433432	1433599	.	-	.	Name=CP065314.1_1408;KO=;KO_Desc=;novel_fam=NOV3L5O1
+CP065314.1	NovelFamDB	NovelFamDB	1664572	1664739	.	-	.	Name=CP065314.1_1625;KO=;KO_Desc=;novel_fam=NOV3L5O1
+CP065314.1	NovelFamDB	NovelFamDB	1664572	1664739	.	-	.	Name=CP065314.1_1625;KO=;KO_Desc=;novel_fam=NOV3L5O1
+CP065314.1	NovelFamDB	NovelFamDB	3494158	3494319	.	-	.	Name=CP065314.1_3452;KO=;KO_Desc=;novel_fam=NOV5MMFE
+CP065314.1	NovelFamDB	NovelFamDB	6665471	6665704	.	-	.	Name=CP065314.1_6546;KO=;KO_Desc=;novel_fam=NOV6V1E4
+CP065314.1	NovelFamDB	NovelFamDB	1301225	1301476	.	-	.	Name=CP065314.1_1273;KO=;KO_Desc=;novel_fam=NOVAZPGT
+CP065314.1	NovelFamDB	NovelFamDB	1301225	1301476	.	-	.	Name=CP065314.1_1273;KO=;KO_Desc=;novel_fam=NOVAZPGT
+CP065314.1	NovelFamDB	NovelFamDB	1651913	1652053	.	-	.	Name=CP065314.1_1608;KO=;KO_Desc=;novel_fam=NOVAZPGT
+CP065314.1	NovelFamDB	NovelFamDB	1651913	1652053	.	-	.	Name=CP065314.1_1608;KO=;KO_Desc=;novel_fam=NOVAZPGT
+CP065314.1	NovelFamDB	NovelFamDB	4396445	4396594	.	+	.	Name=CP065314.1_4352;KO=;KO_Desc=;novel_fam=NOVBUFGA
+CP065314.1	NovelFamDB	NovelFamDB	6323599	6324132	.	+	.	Name=CP065314.1_6231;KO=;KO_Desc=;novel_fam=NOVCT2DH
+CP065314.1	NovelFamDB	NovelFamDB	2261185	2261514	.	+	.	Name=CP065314.1_2224;KO=;KO_Desc=;novel_fam=NOVECRK1
+CP065314.1	NovelFamDB	NovelFamDB	4412150	4413016	.	+	.	Name=CP065314.1_4370;KO=;KO_Desc=;novel_fam=NOVGMSZD
+CP065314.1	NovelFamDB	NovelFamDB	4413994	4414620	.	-	.	Name=CP065314.1_4373;KO=;KO_Desc=;novel_fam=NOVH06P3
+CP065314.1	NovelFamDB	NovelFamDB	2834465	2834602	.	+	.	Name=CP065314.1_2769;KO=;KO_Desc=;novel_fam=NOVKZS92
+CP065314.1	NovelFamDB	NovelFamDB	6099690	6100004	.	-	.	Name=CP065314.1_6022;KO=;KO_Desc=;novel_fam=NOVOT177
+CP065314.1	NovelFamDB	NovelFamDB	1370169	1370330	.	-	.	Name=CP065314.1_1344;KO=;KO_Desc=;novel_fam=NOVSDF1D
+CP065314.1	NovelFamDB	NovelFamDB	3423731	3424090	.	+	.	Name=CP065314.1_3373;KO=;KO_Desc=;novel_fam=NOVTQE5I
+CP065314.1	NovelFamDB	NovelFamDB	3423270	3423602	.	+	.	Name=CP065314.1_3372;KO=;KO_Desc=;novel_fam=NOVU2QEE
+CP065314.1	NovelFamDB	NovelFamDB	6569212	6569544	.	+	.	Name=CP065314.1_6447;KO=;KO_Desc=;novel_fam=NOVVVFYS
+CP065314.1	NovelFamDB	NovelFamDB	3404304	3404594	.	-	.	Name=CP065314.1_3348;KO=;KO_Desc=;novel_fam=NOVY77R4
