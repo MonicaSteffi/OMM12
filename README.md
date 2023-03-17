@@ -66,7 +66,8 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 * out.emapper.orthologs: A file with the list of orthologs found for each query. This file is created only if using the --report_orthologs option.
 * out.emapper.seed_orthologs: A file with the results from parsing the hits. Each row links a query with a seed ortholog. This file has the same format independently of which searcher was used, except that it can be in short format (4 fields), or full.
 
-** 3. KOFAMSCAN **
+**3. KOFAMSCAN**
+
 KOFAMSCAN generates several output files after performing functional annotation of protein-coding genes in a metagenome or metatranscriptome dataset.
 
 Uploaded the integrated proteins from  folder to https://www.genome.jp/tools/kofamkoala/. Downloaded the result file and renamed as ‘_proteins_kofam_results.txt’ and saved the files in the present folder. Since the new version of kofamscan code (exec_annotation ) didn’t finish within the allotted time of 48 hours, the online version of analysis is preferred.
@@ -79,7 +80,8 @@ Some of the commonly generated output files include:
 
 * kegg_annotation.txt: This file contains the KEGG Orthology (KO) annotations for each predicted protein-coding gene in the input sequence dataset.
 
-** 4. OperonMapper **
+**4. OperonMapper**
+
 OperonMapper is a bioinformatics tool that is used to predict operons in prokaryotic genomes. An operon is a group of genes that are transcribed together as a single unit and are involved in a common biological pathway or function. The prediction of operons is important for understanding the functional organization of prokaryotic genomes, as well as for identifying potential gene regulatory mechanisms.
 
 OperonMapper uses a comparative genomics approach to predict operons in prokaryotic genomes. It compares the gene order and orientation of the input genome with those of reference genomes that have experimentally verified operons. Based on this comparison, OperonMapper predicts operons in the input genome and assigns them to specific biological functions or pathways.
@@ -95,9 +97,14 @@ OperonMapper provides several output files that can be used to analyze and visua
 * Predicted COGs:
 * predicted orfs: List of operons with their conforming genes
 
-## Geneius analysis input
+### Geneius analysis input
 
 This folder contains suitable gff formats derived from different annotation tools such as dbCAN2, KOFAMSCAN, eggNOG and Operon mapper for Geneius visulaization purposes.  
+
+### newJointAnnotation
+
+This folder suitable gff formats derived from different annotation tools such as dbCAN2, KOFAMSCAN, eggNOG and Operon mapper for Geneius visulaization purposes. 
+
 
 
 
