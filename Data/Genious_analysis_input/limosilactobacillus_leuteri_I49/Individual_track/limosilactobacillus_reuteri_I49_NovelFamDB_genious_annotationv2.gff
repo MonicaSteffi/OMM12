@@ -1,0 +1,11 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM1669704v1
+#!genome-build-accession NCBI_Assembly:GCA_016697045.1
+#!annotation-date 11/30/2020 16:29:07
+#!annotation-source NCBI 
+##sequence-region CP065318.1 1 2063624
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1598
+CP065318.1	NovelFamDB	NovelFamDB	33488	34000	.	+	.	Name=CP065318.1_41;KO=;KO_Desc=;novel_fam=NOV8E5H2
+CP065318.1	NovelFamDB	NovelFamDB	1041364	1041645	.	-	.	Name=CP065318.1_968;KO=;KO_Desc=;novel_fam=NOVD8CP6

@@ -1,0 +1,20 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM1669682v1
+#!genome-build-accession NCBI_Assembly:GCA_016696825.1
+#!annotation-date 11/30/2020 17:00:35
+#!annotation-source NCBI 
+##sequence-region CP065317.1 1 3025655
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1351
+CP065317.1	NovelFamDB	NovelFamDB	2016792	2017079	.	-	.	Name=CP065317.1_1879;KO=;KO_Desc=;novel_fam=NOV64QWU
+CP065317.1	NovelFamDB	NovelFamDB	1746886	1747524	.	-	.	Name=CP065317.1_1583;KO=;KO_Desc=;novel_fam=NOVAVJC2
+CP065317.1	NovelFamDB	NovelFamDB	1096483	1096734	.	-	.	Name=CP065317.1_1025;KO=;KO_Desc=;novel_fam=NOVAWHG1
+CP065317.1	NovelFamDB	NovelFamDB	1092022	1092300	.	-	.	Name=CP065317.1_1016;KO=;KO_Desc=;novel_fam=NOVNRZET
+CP065317.1	NovelFamDB	NovelFamDB	765077	765256	.	-	.	Name=CP065317.1_710;KO=;KO_Desc=;novel_fam=NOVPC1I4
+CP065317.1	NovelFamDB	NovelFamDB	2625300	2625509	.	+	.	Name=CP065317.1_2453;KO=;KO_Desc=;novel_fam=NOVRF4VJ
+CP065317.1	NovelFamDB	NovelFamDB	1979541	1979831	.	+	.	Name=CP065317.1_1830;KO=;KO_Desc=;novel_fam=NOVWNO0P
+CP065317.1	NovelFamDB	NovelFamDB	1725677	1725892	.	-	.	Name=CP065317.1_1560;KO=;KO_Desc=;novel_fam=NOVXOYUU
+CP065317.1	NovelFamDB	NovelFamDB	1725677	1725892	.	-	.	Name=CP065317.1_1560;KO=;KO_Desc=;novel_fam=NOVXOYUU
+CP065317.1	NovelFamDB	NovelFamDB	1725889	1727226	.	-	.	Name=CP065317.1_1561;KO=;KO_Desc=;novel_fam=NOVXOYUU
+CP065317.1	NovelFamDB	NovelFamDB	1725889	1727226	.	-	.	Name=CP065317.1_1561;KO=;KO_Desc=;novel_fam=NOVXOYUU

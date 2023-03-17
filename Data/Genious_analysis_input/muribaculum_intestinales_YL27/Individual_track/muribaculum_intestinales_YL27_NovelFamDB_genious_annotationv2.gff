@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM1669684v1
+#!genome-build-accession NCBI_Assembly:GCA_016696845.1
+#!annotation-date 11/30/2020 17:27:46
+#!annotation-source NCBI 
+##sequence-region CP065316.1 1 3307069
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1796646
+CP065316.1	NovelFamDB	NovelFamDB	1548337	1548894	.	+	.	Name=CP065316.1_1403;KO=;KO_Desc=;novel_fam=NOV0X2XD
+CP065316.1	NovelFamDB	NovelFamDB	2337229	2337756	.	+	.	Name=CP065316.1_2020;KO=;KO_Desc=;novel_fam=NOV38GRW
+CP065316.1	NovelFamDB	NovelFamDB	3111399	3111680	.	-	.	Name=CP065316.1_2629;KO=;KO_Desc=;novel_fam=NOVE3WA7
+CP065316.1	NovelFamDB	NovelFamDB	3208054	3208299	.	-	.	Name=CP065316.1_2707;KO=;KO_Desc=;novel_fam=NOVL9TNN
+CP065316.1	NovelFamDB	NovelFamDB	990371	990583	.	+	.	Name=CP065316.1_937;KO=;KO_Desc=;novel_fam=NOVMJSCU
+CP065316.1	NovelFamDB	NovelFamDB	1032625	1032960	.	-	.	Name=CP065316.1_976;KO=;KO_Desc=;novel_fam=NOVPA7VL
+CP065316.1	NovelFamDB	NovelFamDB	273851	274357	.	+	.	Name=CP065316.1_252;KO=;KO_Desc=;novel_fam=NOVRN9A1
+CP065316.1	NovelFamDB	NovelFamDB	1079586	1080584	.	-	.	Name=CP065316.1_1019;KO=;KO_Desc=;novel_fam=NOVX0XGF
