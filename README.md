@@ -15,6 +15,8 @@ Collection of genomic and protein sequences from Genbank and Refseq database for
 ## Download the assembly summary genbank NCBI text file from ncbi using wget
 ``
 wget https://ftp.ncbi.nlm.nih.gov/genomes/genbank/assembly_summary_genbank.txt
+``
+``
 wget https://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt
 ``
 ## Step-2:
