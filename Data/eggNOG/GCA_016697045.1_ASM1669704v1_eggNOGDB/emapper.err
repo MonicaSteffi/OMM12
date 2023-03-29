@@ -1,7 +1,0 @@
-[1;32mFunctional annotation of hits...[0m
-0 4.76837158203125e-06 0.00 q/s (% mem usage: 23.50, % mem avail: 76.55)
-[1;32mDecorating gff file /emapper_web_jobs/emapper_jobs/user_data/MM_dwp3388b/emappertmp_prod_wl4t86k0/output.gff...[0m
-500 51.501542806625366 9.71 q/s (% mem usage: 23.80, % mem avail: 76.22)
-1000 87.36140537261963 11.45 q/s (% mem usage: 23.80, % mem avail: 76.22)
-1500 108.96338224411011 13.77 q/s (% mem usage: 23.80, % mem avail: 76.22)
-1804 129.2718586921692 13.96 q/s (% mem usage: 23.60, % mem avail: 76.38)
