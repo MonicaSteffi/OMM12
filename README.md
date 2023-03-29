@@ -6,6 +6,8 @@ Accurate annotation for the OMM12 is important as it provides a framework for un
 
 We created this reposiroty to provide proper annotations in order to maintain uniformity among OMM12 researchers. We tried different annotation tools like dbCan2, KOFAMSCAN, OperonMapper and eggNOG tools and combined them to give an overview. 
 
+In 2020, Marbouty et al (https://doi.org/10.1128/MRA.01396-20) used a combination of long-read sequencing, Illumina sequencing, and manual curation to generate high-quality genome assemblies for each of the 12 bacterial strains. The same genome and proetin sequences were used to generate the following annotations. Description and accession numbers of the OMM12 genomes can be found in the **Marbouty_accession.txt** file. 
+
 ## Genome and Protein sequences of OMM12 communities
 
 Genomic and protein sequences for all single organism genome assemblies which are used for annotation are retreived from NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). 
@@ -107,9 +109,17 @@ OperonMapper provides several output files that can be used to analyze and visua
 
 This folder contains excel sheets for each memeber of OligoMM community with all the annotation derived from different annotation tools.
 
-### Geneius analysis input
+### Geneious: visualization tool for annotation
 
-This folder contains suitable gff formats derived from different annotation tools such as dbCAN2, KOFAMSCAN, eggNOG and Operon mapper for Geneius visulaization purposes.
+Geneious, a popular platform for molecular and bioinformatics, provides many useful tools to analyze DNA sequences. It also offers visualization tools that can be used for annotation. These tools make it easy to visualize and annotation transcriptomic or genomic sequences in a graphic format. This makes it easier to understand how genes work and what their functions are.. 
+
+One of the most commonly used visualization tools in Geneious is the Sequence Viewer, which displays the nucleotide or amino acid sequence of a gene or protein along with various annotations and features. This folder contains suitable gff formats derived from different annotation tools such as dbCAN2, KOFAMSCAN, eggNOG and Operon mapper for Geneius visulaization purposes. 
+
+### GFF_files
+
+* For_RNAseq_count.zip: This folder contains gff formats with joint annotations from different tools which can be used for RNA-seq analysis
+* For_genious.zip: This folder contains gff formats with joint annotations from different tools which can be used for Geneius
+
 
 
 
