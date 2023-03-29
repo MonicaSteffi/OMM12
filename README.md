@@ -25,14 +25,16 @@ Use the scripts/R_files/Download_NCBI.R script to download the required NCBI fil
 
 # Data Folder
 
-It contains annotations derived from different tools for each member of OligoMM communities from different tools. 
+It contains annotations derived from different tools for each member of OligoMM communities. 
 
 ## Sub Folders:
 
-1. **Marbouty_genbank_and_refseq_proteins_integrated.zip:** All the unique proteins from RefSeq and Genbank are stored in this folder. For example,
+### 1. Marbouty_genbank_and_refseq_proteins_integrated
+
+All the unique proteins from RefSeq and Genbank are stored in this folder. For example,
 “escherichia_coli_strain_Mt1B1_proteins_integrated.faa” file has all unique proteins from Ecoli, in faa format. The corresponding R script named **Genbank_RefSeq_proteins_integrate_based_on_coordinates.R** can be found in scripts/R_files/ folder. 
 
-### Annotation results
+### 2. Annotation results
 
 We used different softwares such as dbCAN2, eggNOG, OperonMapper and KOFAMSCAN  to get proper annotations for integrated proteins.
 
@@ -103,17 +105,17 @@ OperonMapper provides several output files that can be used to analyze and visua
 * Predicted COGs:
 * predicted orfs: List of operons with their conforming genes
 
-### newJointAnnotation
+### 3. newJointAnnotation
 
 This folder contains excel sheets for each memeber of OligoMM community with all the annotation derived from different annotation tools.
 
-### Geneious: visualization tool for annotation
+### 4. Geneious: visualization tool for annotation
 
 Geneious, a popular platform for molecular and bioinformatics, provides many useful tools to analyze DNA sequences. It also offers visualization tools that can be used for annotation. These tools make it easy to visualize and annotation transcriptomic or genomic sequences in a graphic format. This makes it easier to understand how genes work and what their functions are.. 
 
 One of the most commonly used visualization tools in Geneious is the Sequence Viewer, which displays the nucleotide or amino acid sequence of a gene or protein along with various annotations and features. This folder contains suitable gff formats derived from different annotation tools such as dbCAN2, KOFAMSCAN, eggNOG and Operon mapper for Geneius visulaization purposes. 
 
-### GFF_files
+### 5. GFF_files
 
 * For_RNAseq_count.zip: This folder contains gff formats with joint annotations from different tools which can be used for RNA-seq analysis
 * For_genious.zip: This folder contains gff formats with joint annotations from different tools which can be used for Geneius
