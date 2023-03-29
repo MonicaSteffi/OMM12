@@ -10,17 +10,15 @@ In 2020, Marbouty et al (https://doi.org/10.1128/MRA.01396-20) used a combinatio
 
 ## Genome and Protein sequences of OMM12 communities
 
-Genomic and protein sequences for all single organism genome assemblies which are used for annotation are retreived from NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/). 
-Collection of genomic and protein sequences from Genbank and Refseq database for OMM12 communities can be downloaded from NCBI website as follows:
+Genomic and protein sequences for OMM12 communities are retreived from NCBI's Assembly resource (www.ncbi.nlm.nih.gov/assembly/) and used in further annotation pipelines. These sequences from genbank and refseq database can be downloaded from NCBI website as follows:
 
 ## Step-1:
 ## Download the assembly summary genbank NCBI text file from ncbi using wget
-``
+
 wget https://ftp.ncbi.nlm.nih.gov/genomes/genbank/assembly_summary_genbank.txt
-``
-``
+
 wget https://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt
-``
+
 ## Step-2:
 
 Use the scripts/R_files/Download_NCBI.R script to download the required NCBI files for the OligoMM latest genome version (updated version: September 2022)
