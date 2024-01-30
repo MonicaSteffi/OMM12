@@ -78,7 +78,7 @@ eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) v5 (
 
 KOFAMSCAN generates several output files after performing functional annotation of protein-coding genes in a metagenome or metatranscriptome dataset.
 
-Uploaded the integrated proteins from  folder to https://www.genome.jp/tools/kofamkoala/. Downloaded the result file and renamed as ‘_proteins_kofam_results.txt’ and saved the files in the present folder. Since the new version of kofamscan code (exec_annotation ) didn’t finish within the allotted time of 48 hours, the online version of analysis is preferred.
+Uploaded the integrated proteins from  folder to https://www.genome.jp/tools/kofamkoala/. Downloaded the result file and renamed as ‘_proteins_kofam_results.txt’ and saved the files in the present folder. Since the new version of kofamscan code (exec_annotation ) didn’t finish within the allotted time of 48 hours, the online version of the analysis is preferred. (last update on 2019/4/9)
 
 KEGG Version: 103.0
 Version release date: 01-08-2022
