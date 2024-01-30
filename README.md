@@ -90,7 +90,7 @@ Some of the commonly generated output files include:
 
 **4. OperonMapper**
 
-OperonMapper is a bioinformatics tool that is used to predict operons in prokaryotic genomes. An operon is a group of genes that are transcribed together as a single unit and are involved in a common biological pathway or function. The prediction of operons is important for understanding the functional organization of prokaryotic genomes, as well as for identifying potential gene regulatory mechanisms.
+OperonMapper (2018) is a bioinformatics tool that is used to predict operons in prokaryotic genomes. An operon is a group of genes that are transcribed together as a single unit and are involved in a common biological pathway or function. The prediction of operons is important for understanding the functional organization of prokaryotic genomes, as well as for identifying potential gene regulatory mechanisms.
 
 OperonMapper uses a comparative genomics approach to predict operons in prokaryotic genomes. It compares the gene order and orientation of the input genome with those of reference genomes that have experimentally verified operons. Based on this comparison, OperonMapper predicts operons in the input genome and assigns them to specific biological functions or pathways.
 
