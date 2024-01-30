@@ -1,0 +1,13 @@
+Strain	Genome size (bp)	Previous no. of contigs	No. of genes	DSM no.	Accession no.	Reads (%)
+Akkermansia muciniphila YL44	2,737,357	1	2,717	26127	CP065322	2.8
+Acutalibacter muris KB18	3,802,913	1	4,271	26090	CP065321	0.002
+Bifidobacterium animalis YL2	2,021,936	2	1,740	26074	CP065311	0.0007
+Bacteroides caecimuris I48	4,800,606	19	4,322	26085	CP065319	55.8
+Blautia coccoides YL58	5,128,582	1	5,351	26115	CP065312	20.5
+Enterocloster clostridioformis YL32	7,157,610	16	7,955	26114	CP065314	4.9
+Clostridium innocuum I46	4,452,146	1	4,966	26113	CP065320	5.6
+Enterococcus faecalis KB1	3,025,655	1	2,919	32036	CP065317	0.1
+Flavonifractor plautii YL31	3,813,715	5	4,049	26117	CP065315	0.38
+Limosilactobacillus reuteri I49	2,063,624	3	1,958	32035	CP065318	0.99
+Muribaculum intestinale YL27	3,307,069	1	2,957	28989	CP065316	4.5
+Turicimonas muris YL45	2,887,949	20	2,753	26109	CP065313	0.089
