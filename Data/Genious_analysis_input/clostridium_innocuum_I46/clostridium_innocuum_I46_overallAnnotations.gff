@@ -1,13 +1,12 @@
 ##gff-version 3
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
-!genome-build ASM1669732v1
+#!genome-build ASM1669732v1
 #!genome-build-accession NCBI_Assembly:GCA_016697325.1
 #!annotation-date 11/30/2020 18:03:19
 #!annotation-source NCBI 
 ##sequence-region CP065320.1 1 4452146
 ##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1522
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	dbCAN2	dbCAN2	213907	214512	.	-	.	Name=CGC_TC_CGC1;GeneType=TC;dbCAN2_GeneID=CP065320.1_225
 CP065320.1	dbCAN2	dbCAN2	214481	215425	.	-	.	Name=CGC_TC_CGC1;GeneType=TF;dbCAN2_GeneID=CP065320.1_226
 CP065320.1	dbCAN2	dbCAN2	216093	216416	.	-	.	Name=CGC_TC_CGC1;GeneType=TF;dbCAN2_GeneID=CP065320.1_227
@@ -992,7 +991,6 @@ CP065320.1	dbCAN2	dbCAN2	1329957	1331258	.	-	.	Name=CGC_TF_CGC8;GeneType=STP;dbC
 CP065320.1	dbCAN2	dbCAN2	1331255	1331932	.	-	.	Name=CGC_TF_CGC8;GeneType=TF;dbCAN2_GeneID=CP065320.1_1289
 CP065320.1	dbCAN2	dbCAN2	1784115	1784543	.	-	.	Name=CGC_TF_CGC9;GeneType=TF;dbCAN2_GeneID=CP065320.1_1714
 CP065320.1	dbCAN2	dbCAN2	1784757	1785827	.	-	.	Name=CGC_TF_CGC9;dbCAN2_EC=-;dbCAN2_substrate=-;GeneType=CAZyme;dbCAN2_GeneID=CP065320.1_1715
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	eggNOGDB	eggNOGDB	8244	9005	.	+	.	Name=Part of the ABC transporter complex PstSACB involved in phosphate import. Responsible for energy coupling to the transport system;eggNOG_query=CP065320.1_10;Preferred_name=pstB;COG=COG1117;COG_category=P;ko4eggNOG_KO=K02036;ko4eggNOG_KO_definition=phosphate transport system ATP-binding protein [EC:7.3.2.1]
 CP065320.1	eggNOGDB	eggNOGDB	94175	94417	.	-	.	Name=-;eggNOG_query=CP065320.1_100;Preferred_name=-;COG=2FHP4;COG_category=-
 CP065320.1	eggNOGDB	eggNOGDB	1018112	1018939	.	-	.	Name=Transketolase;eggNOG_query=CP065320.1_1000;Preferred_name=-;COG=COG3959;COG_category=G;ko4eggNOG_KO=K00615;ko4eggNOG_KO_definition=transketolase [EC:2.2.1.1]
@@ -4974,7 +4972,6 @@ CP065320.1	eggNOGDB	eggNOGDB	460664	461566	.	+	.	eggNOG_query=CP065320.1_466;ko4
 CP065320.1	eggNOGDB	eggNOGDB	4395354	4396112	.	+	.	eggNOG_query=CP065320.1_4303;ko4eggNOG_KO=K07074;ko4eggNOG_KO_definition=uncharacterized protein
 CP065320.1	eggNOGDB	eggNOGDB	2077324	2077719	.	-	.	eggNOG_query=CP065320.1_2020;ko4eggNOG_KO=K02466;ko4eggNOG_KO_definition=glucitol operon activator protein
 CP065320.1	eggNOGDB	eggNOGDB	458268	458984	.	+	.	eggNOG_query=CP065320.1_463;ko4eggNOG_KO=K00390;ko4eggNOG_KO_definition=phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	kofam	kofam	1256	2473	.	-	.	Name=integrase;GeneID=I5Q87_00015;KO=K14059;F_score=;evalue=1.8e-27
 CP065320.1	kofam	kofam	5014	5964	.	+	.	Name=phosphate transport system substrate-binding protein;GeneID=I5Q87_00035;KO=K02040;F_score=*;evalue=8.4e-26
 CP065320.1	kofam	kofam	6043	6984	.	+	.	Name=phosphate transport system permease protein;GeneID=I5Q87_00040;KO=K02037;F_score=*;evalue=5e-79
@@ -8250,7 +8247,6 @@ CP065320.1	kofam	kofam	4436325	4436921	.	+	.	Name=ECM component-binding autotran
 CP065320.1	kofam	kofam	4437350	4438357	.	+	.	Name=osmotically inducible lipoprotein OsmB;GeneID=I5Q87_21600;KO=K04062;F_score=;evalue=1.8e-06
 CP065320.1	kofam	kofam	4438438	4443222	.	+	.	Name=CAP-Gly domain-containing linker protein 1;GeneID=I5Q87_21605;KO=K10421;F_score=;evalue=1.3e-11
 CP065320.1	kofam	kofam	4444283	4448458	.	+	.	Name=structural maintenance of chromosomes protein 6;GeneID=I5Q87_21625;KO=K22804;F_score=;evalue=1.1e-05
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	NCBI	NCBI	1	4452146	.	+	.	Name=;locus_tag_refseq=CP065320.1:1..4452146;locus_tag_genbank=CP065320.1:1..4452146;Note=;ProteinID=CP065320.1:1..4452146;gbkey=Src
 CP065320.1	NCBI	NCBI	477	788	.	+	.	Name=;locus_tag_refseq=QQR26382.1;locus_tag_genbank=QQR26382.1;Note=;ProteinID=QQR26382.1;gbkey=CDS
 CP065320.1	NCBI	NCBI	1256	2473	.	-	.	Name=;locus_tag_refseq=QQR26383.1;locus_tag_genbank=QQR26383.1;Note=;ProteinID=QQR26383.1;gbkey=CDS
@@ -12617,7 +12613,6 @@ CP065320.1	NCBI	NCBI	4450136	4450399	.	+	.	Name=;locus_tag_refseq=QQR26378.1;loc
 CP065320.1	NCBI	NCBI	4450411	4450977	.	+	.	Name=;locus_tag_refseq=QQR26379.1;locus_tag_genbank=QQR26379.1;Note=;ProteinID=QQR26379.1;gbkey=CDS
 CP065320.1	NCBI	NCBI	4451727	4451990	.	-	.	Name=;locus_tag_refseq=QQR26380.1;locus_tag_genbank=QQR26380.1;Note=;ProteinID=QQR26380.1;gbkey=CDS
 CP065320.1	NCBI	NCBI	4452121	4452636	.	+	.	Name=;locus_tag_refseq=QQR26381.1;locus_tag_genbank=QQR26381.1;Note=;ProteinID=QQR26381.1;gbkey=CDS
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	NovelFamDB	NovelFamDB	456876	457244	.	+	.	Name=CP065320.1_461;KO=;KO_Desc=;novel_fam=NOV1TEW1
 CP065320.1	NovelFamDB	NovelFamDB	3772016	3772477	.	+	.	Name=CP065320.1_3658;KO=;KO_Desc=;novel_fam=NOV25UEV
 CP065320.1	NovelFamDB	NovelFamDB	4433301	4433639	.	+	.	Name=CP065320.1_4359;KO=;KO_Desc=;novel_fam=NOV2IAGW
@@ -12670,7 +12665,6 @@ CP065320.1	NovelFamDB	NovelFamDB	4280921	4281142	.	+	.	Name=CP065320.1_4143;KO=;
 CP065320.1	NovelFamDB	NovelFamDB	3783311	3783433	.	+	.	Name=CP065320.1_3673;KO=;KO_Desc=;novel_fam=NOVUCDQU
 CP065320.1	NovelFamDB	NovelFamDB	2617649	2617780	.	-	.	Name=CP065320.1_2559;KO=;KO_Desc=;novel_fam=NOVUIDHC
 CP065320.1	NovelFamDB	NovelFamDB	3761607	3761759	.	+	.	Name=CP065320.1_3643;KO=;KO_Desc=;novel_fam=NOVUK8KQ
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	operonMapper	operonMapper	35	490	.	+	.	Name=clostridium_innocuum_I46_1;GeneID=KMIBMKNK_00001
 CP065320.1	operonMapper	operonMapper	1044	1223	.	+	.	Name=clostridium_innocuum_I46_2;GeneID=KMIBMKNK_00002
 CP065320.1	operonMapper	operonMapper	1256	2473	.	-	.	Name=clostridium_innocuum_I46_3;GeneID=KMIBMKNK_00003
@@ -17098,7 +17092,6 @@ CP065320.1	operonMapper	operonMapper	4449200	4450027	.	+	.	Name=clostridium_inno
 CP065320.1	operonMapper	operonMapper	4450136	4450399	.	+	.	Name=clostridium_innocuum_I46_2174;COGgene=COG0843;Function=[C] Heme/copper-type cytochrome/quinol oxidases, subunit 1 ;GeneID=KMIBMKNK_04426
 CP065320.1	operonMapper	operonMapper	4450411	4450977	.	+	.	Name=clostridium_innocuum_I46_2174;GeneID=KMIBMKNK_04427
 CP065320.1	operonMapper	operonMapper	4451727	4451990	.	-	.	Name=clostridium_innocuum_I46_2175;GeneID=KMIBMKNK_04428
-!genome-build ASM1669732v1			NA	NA				
 CP065320.1	RGI	RGI	8244	9005	.	+	.	Name=nitroimidazole antibiotic;Contig=CP065320.1_10 ;Best_Hit_ARO=msbA;Cut_Off=Loose;Best_Identities=31.03;Resistance.Mechanism=antibiotic efflux;AMR.Gene.Family=ATP-binding cassette (ABC) antibiotic efflux pump;Percentage.Length.of.Reference.Sequence=43.47
 CP065320.1	RGI	RGI	24402	24932	.	+	.	Name=nucleoside antibiotic;Contig=CP065320.1_26 ;Best_Hit_ARO=sta;Cut_Off=Loose;Best_Identities=32.17;Resistance.Mechanism=antibiotic inactivation;AMR.Gene.Family=streptothricin acetyltransferase (SAT);Percentage.Length.of.Reference.Sequence=93.12
 CP065320.1	RGI	RGI	26417	28489	.	+	.	Name=penam;Contig=CP065320.1_28 ;Best_Hit_ARO=mecB;Cut_Off=Loose;Best_Identities=23.86;Resistance.Mechanism=antibiotic target replacement;AMR.Gene.Family=methicillin resistant PBP2;Percentage.Length.of.Reference.Sequence=102.37
